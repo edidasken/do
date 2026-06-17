@@ -13,3 +13,15 @@ https://raw.githubusercontent.com/edidasken/do/main/app-bible/v1/
 ```
 
 The app can override this at runtime with `window.FLOCK_BIBLE_DATA_BASE_URL` before loading `app.bible/bible.js`.
+
+## shared-data/v1
+
+`shared-data/v1/` contains static reference datasets used across FlockOS apps.
+
+Default runtime base URL:
+
+```text
+https://raw.githubusercontent.com/edidasken/do/main/shared-data/v1/
+```
+
+`shared-data/v1/genealogy/` stores the biblical genealogy corpus as a manifest plus alphabet chunks.

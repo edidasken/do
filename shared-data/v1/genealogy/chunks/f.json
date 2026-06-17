@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fortunatus the Apostle",
+    "reference": "Brockhaus and Efron Encyclopedic Dictionary",
+    "importedFrom": "FlockOS Truth DB",
+    "lifespan": "d. AD 100",
+    "bio": "One of the 70 apostles of jesus.",
+    "personId": "fortunatus_the_apostle",
+    "importedAt": "2026-04-29T06:59:38.074132+00:00",
+    "_source": "FlockOS Truth DB",
+    "meaning": "",
+    "children": "",
+    "title": "",
+    "_docId": "fortunatus_the_apostle"
+  }
+]

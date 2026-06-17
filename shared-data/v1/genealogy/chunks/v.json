@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Vaizatha",
+    "reference": "",
+    "importedFrom": "FlockOS Truth DB",
+    "lifespan": "",
+    "bio": "Biblical human figure, son of haman. Parents: Haman, Zeresh.",
+    "personId": "vaizatha",
+    "importedAt": "2026-04-29T06:59:38.074132+00:00",
+    "_source": "FlockOS Truth DB",
+    "meaning": "",
+    "children": "",
+    "title": "",
+    "_docId": "vaizatha"
+  },
+  {
+    "name": "Vaniah",
+    "reference": "",
+    "importedFrom": "FlockOS Truth DB",
+    "lifespan": "",
+    "bio": "Biblical figure (book of ezra).",
+    "personId": "vaniah",
+    "importedAt": "2026-04-29T06:59:38.074132+00:00",
+    "_source": "FlockOS Truth DB",
+    "meaning": "",
+    "children": "",
+    "title": "",
+    "_docId": "vaniah"
+  },
+  {
+    "name": "Vashti",
+    "reference": "Brockhaus and Efron Encyclopedic Dictionary",
+    "importedFrom": "FlockOS Truth DB",
+    "lifespan": "",
+    "bio": "Character in the book of esther; queen of persia (book of esther). Parents: Belshazzar.",
+    "personId": "vashti",
+    "importedAt": "2026-04-29T06:59:38.074132+00:00",
+    "_source": "FlockOS Truth DB",
+    "meaning": "",
+    "children": "",
+    "title": "",
+    "_docId": "vashti"
+  },
+  {
+    "name": "Vophsi",
+    "reference": "",
+    "importedFrom": "FlockOS Truth DB",
+    "lifespan": "",
+    "bio": "In numbers 13:14, father of nahbi, from the tribe of naphtali.",
+    "personId": "vophsi",
+    "importedAt": "2026-04-29T06:59:38.074132+00:00",
+    "_source": "FlockOS Truth DB",
+    "meaning": "",
+    "children": "Nahbi",
+    "title": "",
+    "_docId": "vophsi"
+  }
+]
