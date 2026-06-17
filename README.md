@@ -25,6 +25,17 @@ app-bible/v1/original-languages/jburson-bible-data/esv/static/manifest.json
 
 Large non-runtime source archives are stored as `.parts/` folders with a `manifest.json` that includes the original SHA-256 and a `cat .../part-*` reassembly command.
 
+`app-bible/v1/offline-assets.json` is priority ordered for offline warmup. Lower `priority` values download first:
+
+- `10`: critical manifests and dataset indexes
+- `20`: Scripture core data
+- `30`: cross-reference indexes and buckets
+- `40`: study tools
+- `50`: original-language/alignment chunks
+- `60`: commentary indexes
+- `70`: commentary chapter chunks
+- `90`: reconstructable source archive parts
+
 ## shared-data/v1
 
 `shared-data/v1/` contains static reference datasets used across FlockOS apps.
