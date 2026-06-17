@@ -1,0 +1,1702 @@
+{
+  "1:0": [
+    {
+      "o": 25709,
+      "r": "esvi:Malachi:1:0",
+      "h": 1,
+      "t": "Malachi 1",
+      "p": []
+    }
+  ],
+  "1:1": [
+    {
+      "o": 25710,
+      "r": "esvi:Malachi:1:1",
+      "p": [
+        "0|h4854|heb-esvri-Mal-t-gw|@ncmsc|oracle|מַשָּׂ֥א|maś•śāʾ|מַשָּׂא|maś•śāʾ|oracle of",
+        "1|h1697|heb-esvri-Mal-t-8y|@ncmsc|word|דְבַר־|ḏə•ḇar-|דָּבָר|dā•ḇār|word of",
+        "2||heb-esvri-Mal-t-gray|@np|Lord|יְהוָ֖ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "3||heb-esvri-Mal-t-gr3o|@Pp|to|אֶל־|ʾel-|אֶל|ʾel|to",
+        "4|h3479|heb-esvri-Mal-t-gr4o|@np|Israel|יִשְׂרָאֵ֑ל|yiś•rā•ʾēl|יִשְׂרָאֵל|yiś•rā•ʾēl|Israel",
+        "5|h3027|heb-esvri-Mal-t-grhy|@Pp|by|בְּ|bə|בְּ|bə|by",
+        "6|h3027|heb-esvri-Mal-t-grho|@ncfsc|by|יַ֖ד|yaḏ|יָד|yāḏ|hand of",
+        "7|h4401|heb-esvri-Mal-t-ge3y|@np|Malachi|מַלְאָכִֽי׃|mal•ʾā•ḵiy|מַלְאָכִי|mal•ʾā•ḵiy|Malachi"
+      ]
+    },
+    {
+      "o": 25711,
+      "r": "esvi:Malachi:1:1",
+      "h": 2,
+      "t": "The Lord’s Love for Israel",
+      "p": []
+    }
+  ],
+  "1:2": [
+    {
+      "o": 25712,
+      "r": "esvi:Malachi:1:2",
+      "p": [
+        "0||heb-esvri-Mal-t-ge5y|@vqp1cs|loved|אָהַ֤בְתִּי|ʾā•haḇ•tiy|אהב|ʾhb|I have loved",
+        "1|h854|heb-esvri-Mal-t-geho|@PoX2mp|•|אֶתְכֶם֙|ʾeṯ•ḵem|אֵת|ʾēṯ|",
+        "3||heb-esvri-Mal-t-gc3o|@vqp3ms|says|אָמַ֣ר|ʾā•mar|אמר|ʾmr|he says",
+        "4||heb-esvri-Mal-t-gc5y|@np|Lord|יְהוָ֔ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "5||heb-esvri-Mal-t-gcho|@Pc|But|וַ|wa|וְ|wə|but",
+        "6||heb-esvri-Mal-t-goay|@vqp2mp{2}|say|אֲמַרְתֶּ֖ם|ʾă•mar•tem|אמר|ʾmr|you say",
+        "7|h4100|heb-esvri-Mal-t-go3o|@Pp|How|בַּ|ba|בְּ|bə|in",
+        "8|h4100|heb-esvri-Mal-t-go4y|@pii|How|מָּ֣ה|m•māh|מָה|māh|what",
+        "9||heb-esvri-Mal-t-go5o|@vqp2msX1cp|loved|אֲהַבְתָּ֑נוּ|ʾă•haḇ•tā•nuw|אהב|ʾhb|you have loved",
+        "11|g25|heb-esvri-Mal-t-gwao|@Pg||הֲ|hă|הֲ|hă|?",
+        "12|h3808|heb-esvri-Mal-t-gw3y|@Pn|not|לֹוא־|lōwʾ-|לֹא|lōʾ|not",
+        "13|h251|heb-esvri-Mal-t-gw4y|@ncmsa|brother|אָ֨ח|ʾāḥ|אָח|ʾāḥ|brother",
+        "14|h6215|heb-esvri-Mal-t-gw5o|@np|Esau|עֵשָׂ֤ו|ʿē•śāw|עֵשָׂו|ʿē•śāw|Esau",
+        "15|h3290|heb-esvri-Mal-t-gaay|@Pp|Jacob's|לְ|lə|לְ|lə|to",
+        "16|h3290|heb-esvri-Mal-t-gaao|@np|Jacob's|יַֽעֲקֹב֙|ya•ʿă•qōḇ|יַעֲקֹב|ya•ʿă•qōḇ|Jacob",
+        "17|h5002|heb-esvri-Mal-t-ga4y|@ncmsc|declares|נְאֻם־|nə•ʾum-|נְאֻם|nə•ʾum|declaration of",
+        "18||heb-esvri-Mal-t-ga5y|@np|Lord|יְהוָ֔ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "19||heb-esvri-Mal-t-gaho|@Pc|Yet|וָ|wā|וְ|wə|yet",
+        "20||heb-esvri-Mal-t-ghay|@vqw1cs|loved|אֹהַ֖ב|ʾō•haḇ|אהב|ʾhb|I have loved",
+        "21|h854|heb-esvri-Mal-t-gh3o|@Po|•|אֶֽת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "22|h3290|heb-esvri-Mal-t-gh4o|@np|Jacob|יַעֲקֹֽב׃|ya•ʿă•qōḇ|יַעֲקֹב|ya•ʿă•qōḇ|Jacob"
+      ]
+    }
+  ],
+  "1:3": [
+    {
+      "o": 25713,
+      "r": "esvi:Malachi:1:3",
+      "p": [
+        "0||heb-esvri-Mal-t-ghho|@Pc|but|וְ|wə|וְ|wə|but",
+        "1|h854|heb-esvri-Mal-t-8yay|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "2|h6215|heb-esvri-Mal-t-8y3y|@np|Esau|עֵשָׂ֖ו|ʿē•śāw|עֵשָׂו|ʿē•śāw|Esau",
+        "3||heb-esvri-Mal-t-8y4o|@vqp1cs|hated|שָׂנֵ֑אתִי|śā•nē(ʾ)•ṯiy|שׂנא|śnʾ|I have hated",
+        "4||heb-esvri-Mal-t-8yhy|@Pc|•|וָ|wā|וְ|wə|and",
+        "5||heb-esvri-Mal-t-8yho|@vqw1cs|laid|אָשִׂ֤ים|ʾā•śiym|שׂים|śym|I have laid",
+        "6|h854|heb-esvri-Mal-t-8r3y|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "7|h2022|heb-esvri-Mal-t-8r4y|@ncmpcX3ms|hill|הָרָיו֙|hā•rāyw|הַר|har|hills of",
+        "9|h8077|heb-esvri-Mal-t-8rhy|@ncfsa|waste|שְׁמָמָ֔ה|šə•mā•māh|שְׁמָמָה|šə•mā•māh|waste",
+        "10||heb-esvri-Mal-t-gradn|@Pc|and|וְ|wə|וְ|wə|and",
+        "11|h854|heb-esvri-Mal-t-gradr|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "12|h5159|heb-esvri-Mal-t-grade|@ncfscX3ms|heritage|נַחֲלָתֹ֖ו|na•ḥă•lā•ṯōw|נַחֲלָה|na•ḥă•lāh|heritage of",
+        "14||heb-esvri-Mal-t-grado|@Pp|to|לְ|lə|לְ|lə|to",
+        "15|h8565|heb-esvri-Mal-t-grad1|@ncbpa|jackals|תַנֹּ֥ות|ṯan•nōwṯ|תַּן|tan|jackals",
+        "16|h4057|heb-esvri-Mal-t-graur|@ncmsa|desert|מִדְבָּֽר׃|miḏ•bār|מִדְבָּר|miḏ•bār|desert"
+      ]
+    }
+  ],
+  "1:4": [
+    {
+      "o": 25714,
+      "r": "esvi:Malachi:1:4",
+      "p": [
+        "0|h3588|heb-esvri-Mal-t-grauc|@Pc|If|כִּֽי־|kiy-|כִּי|kiy|if",
+        "1|h559|heb-esvri-Mal-t-grauo|@vqi3fs|says|תֹאמַ֨ר|ṯō(ʾ)•mar|אמר|ʾmr|she says",
+        "2|h123|heb-esvri-Mal-t-gr3dn|@np|Edom|אֱדֹ֜ום|ʾĕ•ḏōwm|אֱדֹום|ʾĕ•ḏōwm|Edom",
+        "3||heb-esvri-Mal-t-gr3de|@vPp1cp|shattered|רֻשַּׁ֗שְׁנוּ|ruš•šaš•nuw|רשׁשׁ|ršš|we are shattered",
+        "4||heb-esvri-Mal-t-gr3dq|@Pc|but|וְ|wə|וְ|wə|but",
+        "5||heb-esvri-Mal-t-gr3do|@vqi1cp|rebuild|נָשׁוּב֙|nā•šuwḇ|שׁוב|šwb|we will do again",
+        "6||heb-esvri-Mal-t-gr3un|@Pc|rebuild|וְ|wə|וְ|wə|and",
+        "7||heb-esvri-Mal-t-gr3ur|@vqi1cp|rebuild|נִבְנֶ֣ה|niḇ•neh|בנה|bnh|we will build",
+        "8||heb-esvri-Mal-t-gr3uk|@ncfpa|ruins|חֳרָבֹ֔ות|ḥŏ•rā•ḇōwṯ|חָרְבָּה|ḥor•bāh|ruins",
+        "9|h3541|heb-esvri-Mal-t-gr3uo|@Pd|•|כֹּ֤ה|kōh|כֹּה|kōh|thus",
+        "10|h559|heb-esvri-Mal-t-gr4dn|@vqp3ms|says|אָמַר֙|ʾā•mar|אמר|ʾmr|he says",
+        "11||heb-esvri-Mal-t-gr4de|@np|Lord|יְהוָ֣ה|yəh•wāh|יהוה|yhwh|Yahweh of",
+        "12|h6635|heb-esvri-Mal-t-gr4dq|@ncbpa|hosts|צְבָאֹ֔ות|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts",
+        "13|h1992|heb-esvri-Mal-t-gr4uy|@pi3mp|They|הֵ֥מָּה|hēm•māh|הֵם|hēm|they",
+        "14||heb-esvri-Mal-t-gr4ug|@vqi3mp|build|יִבְנ֖וּ|yiḇ•nuw|בנה|bnh|they build",
+        "15||heb-esvri-Mal-t-gr4uc|@Pc|but|וַ|wa|וְ|wə|but",
+        "16|h589|heb-esvri-Mal-t-gr4uq|@pi1cs|I|אֲנִ֣י|ʾă•niy|אֲנִי|ʾă•niy|I",
+        "17||heb-esvri-Mal-t-gr5dy|@vqi1cs|tear|אֶהֱרֹ֑וס|ʾe•hĕ•rōws|הרס|hrs|I will tear down",
+        "18||heb-esvri-Mal-t-gr5dg|@Pc|and|וְ|wə|וְ|wə|and",
+        "19||heb-esvri-Mal-t-gr5de|@vqp3cp{2}|called|קָרְא֤וּ|qā•rə•ʾuw|קרא|qrʾ|they will call",
+        "20||heb-esvri-Mal-t-gr5dq|@PpX3mp|•|לָהֶם֙|lā•hem|לְ|lə|",
+        "22|h1366|heb-esvri-Mal-t-gr5un|@ncmsc|country'|גְּב֣וּל|gə•ḇuwl|גְּבוּל|gə•ḇuwl|country of",
+        "23||heb-esvri-Mal-t-gr5ue|@ncfsa|wicked|רִשְׁעָ֔ה|riš•ʿāh|רִשְׁעָה|riš•ʿāh|wickedness",
+        "24||heb-esvri-Mal-t-gr5uq|@Pc|and|וְ|wə|וְ|wə|and",
+        "25||heb-esvri-Mal-t-gr5uo|@Pa|the|הָ|hā|הַ|ha|the",
+        "26|h5972|heb-esvri-Mal-t-gr5u1|@ncmsa|people|עָ֛ם|ʿām|עַם|ʿam|people",
+        "27|h834|heb-esvri-Mal-t-grhdr|@Pr|whom|אֲשֶׁר־|ʾă•šer-|אֲשֶׁר|ʾă•šer|whom",
+        "28||heb-esvri-Mal-t-grhde|@vqp3ms|angry|זָעַ֥ם|zā•ʿam|זעם|zʿm|he is angry",
+        "29||heb-esvri-Mal-t-grhdq|@np|Lord|יְהוָ֖ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "30|h5705|heb-esvri-Mal-t-grhuy|@Pp|forever'|עַד־|ʿaḏ-|עַד|ʿaḏ|unto",
+        "31||heb-esvri-Mal-t-grhur|@ncmsa|forever'|עֹולָֽם׃|ʿōw•lām|עֹולָם|ʿōw•lām|eternity"
+      ]
+    }
+  ],
+  "1:5": [
+    {
+      "o": 25715,
+      "r": "esvi:Malachi:1:5",
+      "p": [
+        "0||heb-esvri-Mal-t-grhuc|@Pc|•|וְ|wə|וְ|wə|and",
+        "1|h5871|heb-esvri-Mal-t-grhuq|@ncbdcX2mp|eyes|עֵינֵיכֶ֖ם|ʿēy•nēy•ḵem|עַיִן|ʿa•yin|eyes of",
+        "3||heb-esvri-Mal-t-geadn|@vqi3fp|see|תִּרְאֶ֑ינָה|tir•ʾey•nāh|ראה|rʾh|they shall see",
+        "4||heb-esvri-Mal-t-geade|@Pc|and|וְ|wə|וְ|wə|and",
+        "5||heb-esvri-Mal-t-geadk|@pi2mp|you|אַתֶּ֤ם|ʾat•tem|אַתֶּם|ʾat•tem|you",
+        "6||heb-esvri-Mal-t-geado|@vqi2mp|say|תֹּֽאמְרוּ֙|tō(ʾ)•mə•ruw|אמר|ʾmr|you shall say",
+        "7||heb-esvri-Mal-t-geaun|@vqi3ms{1}Jm|Great|יִגְדַּ֣ל|yiḡ•dal|גדל|gdl|he is great",
+        "8||heb-esvri-Mal-t-geaue|@np|Lord|יְהוָ֔ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "9|h4480|heb-esvri-Mal-t-geauq|@Pp|beyond|מֵ|mē|מִן|min|beyond",
+        "10|h4480|heb-esvri-Mal-t-geauo|@Pp|beyond|עַ֖ל|ʿal|עַל|ʿal|by",
+        "11|h4480|heb-esvri-Mal-t-ge3dn|@Pp|beyond|לִ|li|לְ|lə|to",
+        "12|h1366|heb-esvri-Mal-t-ge3dr|@ncmsc|border|גְב֥וּל|ḡ•ḇuwl|גְּבוּל|gə•ḇuwl|border of",
+        "13|h3479|heb-esvri-Mal-t-ge3dk|@np|Israel|יִשְׂרָאֵֽל׃|yiś•rā•ʾēl|יִשְׂרָאֵל|yiś•rā•ʾēl|Israel"
+      ]
+    },
+    {
+      "o": 25716,
+      "r": "esvi:Malachi:1:5",
+      "h": 2,
+      "t": "The Priests’ Polluted Offerings",
+      "p": []
+    }
+  ],
+  "1:6": [
+    {
+      "o": 25717,
+      "r": "esvi:Malachi:1:6",
+      "p": [
+        "0|h1121|heb-esvri-Mal-t-ge3d1|@ncmsa|son|בֵּ֛ן|bēn|בֵּן|bēn|son",
+        "1|h3513|heb-esvri-Mal-t-ge3ur|@vpi3ms|honors|יְכַבֵּ֥ד|yə•ḵab•bēḏ|כבד|kbd|he honors",
+        "2|h1|heb-esvri-Mal-t-ge3uk|@ncmsa|father|אָ֖ב|ʾāḇ|אָב|ʾāḇ|father",
+        "3||heb-esvri-Mal-t-ge3uo|@Pc|and|וְ|wə|וְ|wə|and",
+        "4|h5651|heb-esvri-Mal-t-ge3u1|@ncmsa|servant|עֶ֣בֶד|ʿe•ḇeḏ|עֶבֶד|ʿe•ḇeḏ|servant",
+        "5||heb-esvri-Mal-t-ge4dr|@ncmpcX3ms|master|אֲדֹנָ֑יו|ʾă•ḏō•nāyw|אָדֹון|ʾā•ḏōwn|master of",
+        "7||heb-esvri-Mal-t-ge4dc|@Pc|then|וְ|wə|וְ|wə|then",
+        "8|h518|heb-esvri-Mal-t-ge4dq|@Pc|If|אִם־|ʾim-|אִם|ʾim|if",
+        "9|h1|heb-esvri-Mal-t-ge4d1|@ncmsa|father|אָ֣ב|ʾāḇ|אָב|ʾāḇ|father",
+        "10|h589|heb-esvri-Mal-t-ge4ur|@pi1cs|I|אָ֣נִי|ʾā•niy|אֲנִי|ʾă•niy|I",
+        "11|h346|heb-esvri-Mal-t-ge4uk|@Pg|where|אַיֵּ֣ה|ʾay•yēh|אַיֵּה|ʾay•yēh|where",
+        "12||heb-esvri-Mal-t-ge4uo|@ncmscX1cs|honor|כְבֹודִ֡י|ḵə•ḇōw•ḏiy|כָּבֹוד|kā•ḇōwḏ|honor of",
+        "14||heb-esvri-Mal-t-ge5dr|@Pc|And|וְ|wə|וְ|wə|and",
+        "15|h518|heb-esvri-Mal-t-ge5dg|@Pc|if|אִם־|ʾim-|אִם|ʾim|if",
+        "16||heb-esvri-Mal-t-ge5dk|@ncmpa|master|אֲדֹונִ֣ים|ʾă•ḏōw•niym|אָדֹון|ʾā•ḏōwn|master",
+        "17|h589|heb-esvri-Mal-t-ge5do|@pi1cs|I|אָנִי֩|ʾā•niy|אֲנִי|ʾă•niy|I",
+        "18|h346|heb-esvri-Mal-t-ge5un|@Pg|where|אַיֵּ֨ה|ʾay•yēh|אַיֵּה|ʾay•yēh|where",
+        "19||heb-esvri-Mal-t-ge5ue|@ncmscX1cs|fear|מֹורָאִ֜י|mōw•rā•ʾiy|מֹורָא|mōw•rāʾ|fear of",
+        "21|h559|heb-esvri-Mal-t-ge5uo|@vqp3ms|says|אָמַ֣ר׀|ʾā•mar|אמר|ʾmr|he says",
+        "22||heb-esvri-Mal-t-gehdn|@np|Lord|יְהוָ֣ה|yəh•wāh|יהוה|yhwh|Yahweh of",
+        "23|h6635|heb-esvri-Mal-t-gehde|@ncbpa|hosts|צְבָאֹ֗ות|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts",
+        "24||heb-esvri-Mal-t-gehdq|@PpX2mp|to|לָכֶם֙|lā•ḵem|לְ|lə|to",
+        "26||heb-esvri-Mal-t-gehun|@Pa|O|הַ|ha|הַ|ha|the",
+        "27|h3548|heb-esvri-Mal-t-gehur|@ncmpa|priests|כֹּֽהֲנִים֙|k•kō•hă•niym|כֹּהֵן|kō•hēn|priests",
+        "28||heb-esvri-Mal-t-gehuk|@vqPmpc|despise|בֹּוזֵ֣י|bōw•zēy|בזה|bzh|ones despising of",
+        "29|h8035|heb-esvri-Mal-t-gehuo|@ncmscX1cs|name|שְׁמִ֔י|šə•miy|שֵׁם|šēm|name of",
+        "31||heb-esvri-Mal-t-gcadr|@Pc|But|וַ|wa|וְ|wə|but",
+        "32||heb-esvri-Mal-t-gcadg|@vqp2mp{2}|say|אֲמַרְתֶּ֕ם|ʾă•mar•tem|אמר|ʾmr|you say",
+        "33|h4100|heb-esvri-Mal-t-gcadc|@Pp|How|בַּ|ba|בְּ|bə|in",
+        "34|h4100|heb-esvri-Mal-t-gcadq|@pii|How|מֶּ֥ה|m•meh|מָה|māh|what",
+        "35||heb-esvri-Mal-t-gcauy|@vqp1cp|despised|בָזִ֖ינוּ|ḇā•ziy•nuw|בזה|bzh|we have despised",
+        "36|h854|heb-esvri-Mal-t-gcaug|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "37|h8035|heb-esvri-Mal-t-gcauk|@ncmscX2ms|name'|שְׁמֶֽךָ׃|šə•me•ḵā|שֵׁם|šēm|name of"
+      ]
+    }
+  ],
+  "1:7": [
+    {
+      "o": 25718,
+      "r": "esvi:Malachi:1:7",
+      "p": [
+        "0||heb-esvri-Mal-t-gc3dy|@vhPmpa|offering|מַגִּישִׁ֤ים|mag•giy•šiym|נגשׁ|ngš|bringing near",
+        "1|h5922|heb-esvri-Mal-t-gc3dg|@Pp|upon|עַֽל־|ʿal-|עַל|ʿal|upon",
+        "2|h4196|heb-esvri-Mal-t-gc3dk|@ncmscX1cs|altar|מִזְבְּחִי֙|miz•bə•ḥiy|מִזְבֵּחַ|miz•bēaḥ|altar of",
+        "4|h3899|heb-esvri-Mal-t-gc3d1|@ncmsa|food|לֶ֣חֶם|le•ḥem|לֶחֶם|le•ḥem|food",
+        "5|h1351|heb-esvri-Mal-t-gc3ur|@vPPmsa|polluted|מְגֹאָ֔ל|mə•ḡō•ʾāl|גאל|gʾl|being defiled",
+        "6||heb-esvri-Mal-t-gc3uk|@Pc|But|וַ|wa|וְ|wə|but",
+        "7||heb-esvri-Mal-t-gc3uc|@vqp2mp{2}|say|אֲמַרְתֶּ֖ם|ʾă•mar•tem|אמר|ʾmr|you say",
+        "8|h4100|heb-esvri-Mal-t-gc3u1|@Pp|How|בַּ|ba|בְּ|bə|in",
+        "9|h4100|heb-esvri-Mal-t-gc4dy|@pii|How|מֶּ֣ה|m•meh|מָה|māh|what",
+        "10|h1351|heb-esvri-Mal-t-gc4dg|@vpp1cpX2ms|polluted|גֵֽאַלְנ֑וּךָ|ḡē•ʾal•nuw•ḵā|גאל|gʾl|we have defiled",
+        "12||heb-esvri-Mal-t-gc4dq|@Pp|By|בֶּ|be|בְּ|bə|by",
+        "13||heb-esvri-Mal-t-gc4do|@vqcX2mp|saying|אֱמָרְכֶ֕ם|ʾĕ•mor•ḵem|אמר|ʾmr|to say",
+        "15|h7979|heb-esvri-Mal-t-gc4ur|@ncmsc|table|שֻׁלְחַ֥ן|šul•ḥan|שֻׁלְחָן|šul•ḥān|table of",
+        "16||heb-esvri-Mal-t-gc4uk|@np|Lord's|יְהוָ֖ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "17||heb-esvri-Mal-t-gc4uo|@vnPmsa|despised|נִבְזֶ֥ה|niḇ•zeh|בזה|bzh|being despised",
+        "18|h1932|heb-esvri-Mal-t-gc5dn|@pi3ms|•|הֽוּא׃|huwʾ|הוּא|huwʾ|he"
+      ]
+    }
+  ],
+  "1:8": [
+    {
+      "o": 25719,
+      "r": "esvi:Malachi:1:8",
+      "p": [
+        "0||heb-esvri-Mal-t-gc5dk|@Pc|•|וְ|wə|וְ|wə|and",
+        "1|h3588|heb-esvri-Mal-t-gc5dc|@Pc|When|כִֽי־|ḵiy-|כִּי|kiy|when",
+        "2|h7126|heb-esvri-Mal-t-gc5do|@vhi2mpXn|offer|תַגִּשׁ֨וּן|ṯag•gi•šuwn|נגשׁ|ngš|you bring near",
+        "3|h5787|heb-esvri-Mal-t-gc5un|@amsa|blind|עִוֵּ֤ר|ʿiw•wēr|עִוֵּר|ʿiw•wēr|blind one",
+        "4||heb-esvri-Mal-t-gc5ue|@Pp|in|לִ|li|לְ|lə|to",
+        "5||heb-esvri-Mal-t-gc5uk|@vqc|sacrifice|זְבֹּ֙חַ֙|z•bōaḥ|זבח|zbḥ|sacrifice",
+        "6|h370|heb-esvri-Mal-t-gc5uo|@Pd|not|אֵ֣ין|ʾēyn|אַיִן|ʾa•yin|there is not",
+        "7|h7451|heb-esvri-Mal-t-gchdn|@amsa|evil|רָ֔ע|rāʿ|רַע|raʿ|evil",
+        "8||heb-esvri-Mal-t-gchde|@Pc|And|וְ|wə|וְ|wə|and",
+        "9|h3588|heb-esvri-Mal-t-gchdk|@Pc|when|כִ֥י|ḵiy|כִּי|kiy|when",
+        "10|h7126|heb-esvri-Mal-t-gchdo|@vhi2mp|offer|תַגִּ֛ישׁוּ|ṯag•giy•šuw|נגשׁ|ngš|you bring near",
+        "11||heb-esvri-Mal-t-gchun|@amsa|lame|פִּסֵּ֥חַ|pis•sēaḥ|פִּסֵּחַ|pis•sēaḥ|lame one",
+        "12||heb-esvri-Mal-t-gchue|@Pc|or|וְ|wə|וְ|wə|or",
+        "13||heb-esvri-Mal-t-gchuk|@vqPmsa|sick|חֹלֶ֖ה|ḥō•leh|חלה|ḥlh|one being sick",
+        "14|h370|heb-esvri-Mal-t-gchuo|@Pd|not|אֵ֣ין|ʾēyn|אַיִן|ʾa•yin|there is not",
+        "15|h7451|heb-esvri-Mal-t-goadn|@amsa|evil|רָ֑ע|rāʿ|רַע|raʿ|evil",
+        "16||heb-esvri-Mal-t-goade|@vhvmsX3ms|Present|הַקְרִיבֵ֨הוּ|haq•riy•ḇē•huw|קרב|qrb|bring near",
+        "18|h4994|heb-esvri-Mal-t-goado|@Pi|•|נָ֜א|nāʾ|נָא|nāʾ|please",
+        "19||heb-esvri-Mal-t-goaun|@Pp|to|לְ|lə|לְ|lə|to",
+        "20|h6347|heb-esvri-Mal-t-goaur|@ncmscX2ms|governor|פֶחָתֶ֗ךָ|p̄e•ḥā•ṯe•ḵā|פֶּחָה|pe•ḥāh|governor of",
+        "22|g1360|heb-esvri-Mal-t-goauc|@Pg||הֲ|hă|הֲ|hă|?",
+        "23||heb-esvri-Mal-t-goauq|@vqi3msX2ms|accept|יִּרְצְךָ֙|y•yir•ṣə•ḵā|רצה|rṣh|he is pleased with",
+        "25||heb-esvri-Mal-t-go3dn|@Pc|or|אֹ֚ו|ʾōw|אֹו|ʾōw|or",
+        "26||heb-esvri-Mal-t-go3de|@Pg|•|הֲ|hă|הֲ|hă|?",
+        "27||heb-esvri-Mal-t-go3dk|@vqi3ms|favor|יִשָּׂ֣א|yiś•śāʾ|נשׂא|nśʾ|he will lift up",
+        "28||heb-esvri-Mal-t-go3do|@ncbpcX2ms|favor|פָנֶ֔יךָ|p̄ā•ney•ḵā|פָּנֶה|pā•neh|face of",
+        "30|h559|heb-esvri-Mal-t-go3ur|@vqp3ms|says|אָמַ֖ר|ʾā•mar|אמר|ʾmr|he says",
+        "31||heb-esvri-Mal-t-go3uk|@np|Lord|יְהוָ֥ה|yəh•wāh|יהוה|yhwh|Yahweh of",
+        "32|h6635|heb-esvri-Mal-t-go3uo|@ncbpa|hosts|צְבָאֹֽות׃|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts"
+      ]
+    }
+  ],
+  "1:9": [
+    {
+      "o": 25720,
+      "r": "esvi:Malachi:1:9",
+      "p": [
+        "0||heb-esvri-Mal-t-go4dr|@Pc|And|וְ|wə|וְ|wə|and",
+        "1|h6258|heb-esvri-Mal-t-go4dg|@Pd|now|עַתָּ֛ה|ʿat•tāh|עַתָּה|ʿat•tāh|now",
+        "2||heb-esvri-Mal-t-go4dc|@vpvmp|entreat|חַלּוּ־|ḥal•luw-|חלה|ḥlh|entreat",
+        "3|h4994|heb-esvri-Mal-t-go4do|@Pi|•|נָ֥א|nāʾ|נָא|nāʾ|now",
+        "4|h6440|heb-esvri-Mal-t-go4un|@ncbpc|favor|פְנֵי־|p̄ə•nēy-|פָּנֶה|pā•neh|face of",
+        "5|h410|heb-esvri-Mal-t-go4ug|@ncmsa|God|אֵ֖ל|ʾēl|אֵל|ʾēl|God",
+        "6||heb-esvri-Mal-t-go4uc|@Pc|that|וִֽ|wi|וְ|wə|that",
+        "7||heb-esvri-Mal-t-go4uq|@vqi3msX1cp{1}Jm|gracious|יחָנֵ֑נוּ|y•ḥā•nē•nuw|חנן|ḥnn|he may be gracious",
+        "9|h4481|heb-esvri-Mal-t-go5dn|@Pp|from|מִ|mi|מִן|min|from",
+        "10|h3027|heb-esvri-Mal-t-go5dr|@ncfscX2mp|hand|יֶּדְכֶם֙|y•yeḏ•ḵem|יָד|yāḏ|hand of",
+        "12||heb-esvri-Mal-t-go5dc|@vqp3fs|•|הָ֣יְתָה|hā•yə•ṯāh|היה|hyh|she will be",
+        "13|h2088|heb-esvri-Mal-t-go5d1|@dfsa|•|זֹּ֔את|z•zō(ʾ)ṯ|זֶה|zeh|this",
+        "14|g2532|heb-esvri-Mal-t-go5ur|@Pg||הֲ|hă|הֲ|hă|?",
+        "15||heb-esvri-Mal-t-go5ug|@vqi3ms|will he show favor|יִשָּׂ֤א|yiś•śāʾ|נשׂא|nśʾ|he will lift up",
+        "16|h4480|heb-esvri-Mal-t-go5uc|@PpX2mp|any|מִכֶּם֙|mik•kem|מִן|min|from",
+        "18||heb-esvri-Mal-t-gohdy|@ncbpa|will he show favor|פָּנִ֔ים|pā•niym|פָּנֶה|pā•neh|face",
+        "19|h559|heb-esvri-Mal-t-gohdg|@vqp3ms|says|אָמַ֖ר|ʾā•mar|אמר|ʾmr|he says",
+        "20||heb-esvri-Mal-t-gohdc|@np|Lord|יְהוָ֥ה|yəh•wāh|יהוה|yhwh|Yahweh of",
+        "21|h6635|heb-esvri-Mal-t-gohd1|@ncbpa|hosts|צְבָאֹֽות׃|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts"
+      ]
+    }
+  ],
+  "1:10": [
+    {
+      "o": 25721,
+      "r": "esvi:Malachi:1:10",
+      "p": [
+        "0|h4310|heb-esvri-Mal-t-gohug|@pii|Oh that there were one|מִ֤י|miy|מִי|miy|who",
+        "1|h1571|heb-esvri-Mal-t-gohuc|@Pc|Oh that there were one|גַם־|ḡam-|גַּם|gam|also",
+        "2||heb-esvri-Mal-t-gohuo|@PpX2mp|among|בָּכֶם֙|bā•ḵem|בְּ|bə|among",
+        "4||heb-esvri-Mal-t-gwadr|@Pc|•|וְ|wə|וְ|wə|and",
+        "5||heb-esvri-Mal-t-gwadg|@vqi3ms{1}Jm|shut|יִסְגֹּ֣ר|yis•gōr|סגר|sgr|he would shut",
+        "6|h1817|heb-esvri-Mal-t-gwadc|@ncfda|doors|דְּלָתַ֔יִם|də•lā•ṯa•yim|דֶּלֶת|de•leṯ|doors",
+        "7||heb-esvri-Mal-t-gwad1|@Pc|that|וְ|wə|וְ|wə|that",
+        "8|h3808|heb-esvri-Mal-t-gwauy|@Pn|not|לֹֽא־|lōʾ-|לֹא|lōʾ|not",
+        "9|h215|heb-esvri-Mal-t-gwaur|@vhi2mp|kindle|תָאִ֥ירוּ|ṯā•ʾiy•ruw|אור|ʾwr|you kindle fire",
+        "10|h4196|heb-esvri-Mal-t-gwauk|@ncmscX1cs|altar|מִזְבְּחִ֖י|miz•bə•ḥiy|מִזְבֵּחַ|miz•bēaḥ|altar of",
+        "12|h2600|heb-esvri-Mal-t-gwau1|@Pd|vain|חִנָּ֑ם|ḥin•nām|חִנָּם|ḥin•nām|in vain",
+        "13|h370|heb-esvri-Mal-t-gw3dr|@Pd|no|אֵֽין־|ʾēyn-|אַיִן|ʾa•yin|there is not",
+        "14||heb-esvri-Mal-t-gw3de|@PpX1cs|have|לִ֨י|liy|לְ|lə|to",
+        "16|h2656|heb-esvri-Mal-t-gw3do|@ncmsa|pleasure|חֵ֜פֶץ|ḥē•p̄eṣ|חֵפֶץ|ḥē•p̄eṣ|pleasure",
+        "17||heb-esvri-Mal-t-gw3un|@PpX2mp|in|בָּכֶ֗ם|bā•ḵem|בְּ|bə|in",
+        "19||heb-esvri-Mal-t-gw3uk|@vqp3ms|says|אָמַר֙|ʾā•mar|אמר|ʾmr|he says",
+        "20||heb-esvri-Mal-t-gw3uo|@np|Lord|יְהוָ֣ה|yəh•wāh|יהוה|yhwh|Yahweh of",
+        "21|h6635|heb-esvri-Mal-t-gw4dn|@ncbpa|hosts|צְבָאֹ֔ות|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts",
+        "22||heb-esvri-Mal-t-gw4de|@Pc|and|וּ|uw|וְ|wə|and",
+        "23|h4503|heb-esvri-Mal-t-gw4dk|@ncfsa|offering|מִנְחָ֖ה|min•ḥāh|מִנְחָה|min•ḥāh|grain offering",
+        "24|h3808|heb-esvri-Mal-t-gw4do|@Pn|not|לֹֽא־|lōʾ-|לֹא|lōʾ|not",
+        "25||heb-esvri-Mal-t-gw4uy|@vqi1cs|accept|אֶרְצֶ֥ה|ʾer•ṣeh|רצה|rṣh|I will accept",
+        "26|h4481|heb-esvri-Mal-t-gw4ug|@Pp|from|מִ|mi|מִן|min|from",
+        "27|h3027|heb-esvri-Mal-t-gw4ue|@ncfscX2mp|hand|יֶּדְכֶֽם׃|y•yeḏ•ḵem|יָד|yāḏ|hand of"
+      ]
+    }
+  ],
+  "1:11": [
+    {
+      "o": 25722,
+      "r": "esvi:Malachi:1:11",
+      "p": [
+        "0|h3588|heb-esvri-Mal-t-gw4u1|@Pc|For|כִּ֣י|kiy|כִּי|kiy|for",
+        "1|h4481|heb-esvri-Mal-t-gw5dr|@Pp|from|מִ|mi|מִן|min|from",
+        "2|h4217|heb-esvri-Mal-t-gw5dg|@ncmsc|rising|מִּזְרַח־|m•miz•raḥ-|מִזְרָח|miz•rāḥ|rise of",
+        "3|h8121|heb-esvri-Mal-t-gw5dk|@ncbsa|sun|שֶׁ֜מֶשׁ|še•meš|שֶׁמֶשׁ|še•meš|sun",
+        "4||heb-esvri-Mal-t-gw5do|@Pc|•|וְ|wə|וְ|wə|and",
+        "5|h5705|heb-esvri-Mal-t-gw5d1|@Pp|to|עַד־|ʿaḏ-|עַד|ʿaḏ|to",
+        "6||heb-esvri-Mal-t-gw5un|@ncmscX3ms|setting|מְבֹואֹ֗ו|mə•ḇōw•ʾōw|מָבֹוא|mā•ḇōwʾ|descent of",
+        "8||heb-esvri-Mal-t-gw5uk|@amsa|great|גָּדֹ֤ול|gā•ḏōwl|גָּדֹול|gā•ḏōwl|great",
+        "9|h8035|heb-esvri-Mal-t-gw5uo|@ncmscX1cs|name|שְׁמִי֙|šə•miy|שֵׁם|šēm|name of",
+        "11||heb-esvri-Mal-t-gwhdr|@Pp|among|בַּ|ba|בְּ|bə|among",
+        "13||heb-esvri-Mal-t-gwhde|@ncmpa|nations|גֹּויִ֔ם|g•gōw•yim|גֹּוי|gōwy|nations",
+        "14||heb-esvri-Mal-t-gwhdq|@Pc|and|וּ|uw|וְ|wə|and",
+        "15||heb-esvri-Mal-t-gwhdo|@Pp|in|בְ|ḇə|בְּ|bə|in",
+        "16|h3606|heb-esvri-Mal-t-gwhd1|@ncmsc|every|כָל־|ḵol-|כֹּל|kōl|every of",
+        "17|h4725|heb-esvri-Mal-t-gwhun|@ncmsa|place|מָקֹ֗ום|mā•qōwm|מָקֹום|mā•qōwm|place",
+        "18|h6999|heb-esvri-Mal-t-gwhue|@ncmsa|incense|מֻקְטָ֥ר|muq•ṭār|מֻקְטָר|muq•ṭār|incense",
+        "19||heb-esvri-Mal-t-gwhuq|@vHPmsa|offered|מֻגָּ֛שׁ|mug•gāš|נגשׁ|ngš|being brought near",
+        "20||heb-esvri-Mal-t-gaady|@Pp|to|לִ|li|לְ|lə|to",
+        "21|h8035|heb-esvri-Mal-t-gaadn|@ncmscX1cs|name|שְׁמִ֖י|š•miy|שֵׁם|šēm|name of",
+        "23||heb-esvri-Mal-t-gaadk|@Pc|and|וּ|uw|וְ|wə|and",
+        "24|h4503|heb-esvri-Mal-t-gaadc|@ncfsa|offering|מִנְחָ֣ה|min•ḥāh|מִנְחָה|min•ḥāh|grain offering",
+        "25||heb-esvri-Mal-t-gaad1|@afsa|pure|טְהֹורָ֑ה|ṭə•hōw•rāh|טָהֹור|ṭā•hōwr|pure",
+        "26|h3588|heb-esvri-Mal-t-gaaur|@Pc|For|כִּֽי־|kiy-|כִּי|kiy|for",
+        "27||heb-esvri-Mal-t-gaaue|@amsa|great|גָדֹ֤ול|ḡā•ḏōwl|גָּדֹול|gā•ḏōwl|great",
+        "28|h8035|heb-esvri-Mal-t-gaauq|@ncmscX1cs|name|שְׁמִי֙|šə•miy|שֵׁם|šēm|name of",
+        "30||heb-esvri-Mal-t-ga3dn|@Pp|among|בַּ|ba|בְּ|bə|among",
+        "32||heb-esvri-Mal-t-ga3dg|@ncmpa|nations|גֹּויִ֔ם|g•gōw•yim|גֹּוי|gōwy|nations",
+        "33|h559|heb-esvri-Mal-t-ga3dc|@vqp3ms|says|אָמַ֖ר|ʾā•mar|אמר|ʾmr|he says",
+        "34||heb-esvri-Mal-t-ga3d1|@np|Lord|יְהוָ֥ה|yəh•wāh|יהוה|yhwh|Yahweh of",
+        "35|h6635|heb-esvri-Mal-t-ga3ur|@ncbpa|hosts|צְבָאֹֽות׃|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts"
+      ]
+    }
+  ],
+  "1:12": [
+    {
+      "o": 25723,
+      "r": "esvi:Malachi:1:12",
+      "p": [
+        "0||heb-esvri-Mal-t-ga3uc|@Pc|But|וְ|wə|וְ|wə|but",
+        "1||heb-esvri-Mal-t-ga3uq|@pi2mp|you|אַתֶּ֖ם|ʾat•tem|אַתֶּם|ʾat•tem|you",
+        "2||heb-esvri-Mal-t-ga4dy|@vpPmpa|profane|מְחַלְּלִ֣ים|mə•ḥal•lə•liym|חלל|ḥll|profaning",
+        "3|h854|heb-esvri-Mal-t-ga4dg|@PoX3ms|•|אֹותֹ֑ו|ʾōw•ṯōw|אֵת|ʾēṯ|",
+        "5||heb-esvri-Mal-t-ga4dq|@Pp|when|בֶּ|be|בְּ|bə|when",
+        "6||heb-esvri-Mal-t-ga4do|@vqcX2mp|say|אֱמָרְכֶ֗ם|ʾĕ•mor•ḵem|אמר|ʾmr|to say",
+        "8|h7979|heb-esvri-Mal-t-ga4ur|@ncmsc|table|שֻׁלְחַ֤ן|šul•ḥan|שֻׁלְחָן|šul•ḥān|table of",
+        "9||heb-esvri-Mal-t-ga4uk|@ncmpcX1cs|Lord's|אֲדֹנָי֙|ʾă•ḏō•nāy|אָדֹון|ʾā•ḏōwn|Lord",
+        "11||heb-esvri-Mal-t-ga4u1|@vPPmsa|polluted|מְגֹאָ֣ל|mə•ḡō•ʾāl|גאל|gʾl|being defiled",
+        "12|h1932|heb-esvri-Mal-t-ga5dr|@pi3ms|•|ה֔וּא|huwʾ|הוּא|huwʾ|he",
+        "13||heb-esvri-Mal-t-ga5dk|@Pc|and|וְ|wə|וְ|wə|and",
+        "14||heb-esvri-Mal-t-ga5dc|@ncmscX3ms|fruit|נִיבֹ֖ו|niy•ḇōw|נִיב|niyḇ|fruit of",
+        "16||heb-esvri-Mal-t-ga5uy|@vnPmsa|despised|נִבְזֶ֥ה|niḇ•zeh|בזה|bzh|being despised",
+        "17|h400|heb-esvri-Mal-t-ga5ug|@ncmscX3ms|food|אָכְלֹֽו׃|ʾoḵ•lōw|אֹכֶל|ʾō•ḵel|food of"
+      ]
+    }
+  ],
+  "1:13": [
+    {
+      "o": 25724,
+      "r": "esvi:Malachi:1:13",
+      "p": [
+        "0||heb-esvri-Mal-t-ga5uo|@Pc|But|וַ|wa|וְ|wə|but",
+        "1||heb-esvri-Mal-t-ga5u1|@vqp2mp{2}|say|אֲמַרְתֶּם֩|ʾă•mar•tem|אמר|ʾmr|you say",
+        "2|h2009|heb-esvri-Mal-t-gahdr|@Pi|•|הִנֵּ֨ה|hin•nēh|הִנֵּה|hin•nēh|behold",
+        "3|h4101|heb-esvri-Mal-t-gahdk|@pii|What|מַ|ma|מָה|māh|what",
+        "4||heb-esvri-Mal-t-gahdc|@ncfsa|weariness|תְּלָאָ֜ה|t•tə•lā•ʾāh|תְּלָאָה|tə•lā•ʾāh|weariness",
+        "5||heb-esvri-Mal-t-gahd1|@Pc|and|וְ|wə|וְ|wə|and",
+        "6||heb-esvri-Mal-t-gahuy|@vhp2mp{2}|snort|הִפַּחְתֶּ֣ם|hip•paḥ•tem|נפח|npḥ|you snort",
+        "7|h854|heb-esvri-Mal-t-gahug|@PoX3ms|•|אֹותֹ֗ו|ʾōw•ṯōw|אֵת|ʾēṯ|",
+        "9|h559|heb-esvri-Mal-t-gahuq|@vqp3ms|says|אָמַר֙|ʾā•mar|אמר|ʾmr|he says",
+        "10||heb-esvri-Mal-t-ghady|@np|Lord|יְהוָ֣ה|yəh•wāh|יהוה|yhwh|Yahweh of",
+        "11|h6635|heb-esvri-Mal-t-ghadg|@ncbpa|hosts|צְבָאֹ֔ות|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts",
+        "12||heb-esvri-Mal-t-ghadc|@Pc|•|וַ|wa|וְ|wə|and",
+        "13||heb-esvri-Mal-t-ghadq|@vhp2mp{2}|bring|הֲבֵאתֶ֣ם|hă•ḇē(ʾ)•ṯem|בוא|bwʾ|you bring",
+        "14||heb-esvri-Mal-t-ghauy|@vqsmsa|taken|גָּז֗וּל|gā•zuwl|גזל|gzl|being taken by violence",
+        "15||heb-esvri-Mal-t-ghaug|@Pc|or|וְ|wə|וְ|wə|or",
+        "16|h854|heb-esvri-Mal-t-ghaue|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "17||heb-esvri-Mal-t-ghauc|@Pa|lame|הַ|ha|הַ|ha|the",
+        "18||heb-esvri-Mal-t-ghauq|@amsa|lame|פִּסֵּ֙חַ֙|p•pis•sēaḥ|פִּסֵּחַ|pis•sēaḥ|lame one",
+        "19||heb-esvri-Mal-t-gh3dy|@Pc|or|וְ|wə|וְ|wə|and",
+        "20|h854|heb-esvri-Mal-t-gh3dn|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "21||heb-esvri-Mal-t-gh3dg|@Pa|sick|הַ֣|ha|הַ|ha|the",
+        "22||heb-esvri-Mal-t-gh3de|@vqPmsa|sick|חֹולֶ֔ה|ḥōw•leh|חלה|ḥlh|one being sick",
+        "23||heb-esvri-Mal-t-gh3dq|@Pc|and|וַ|wa|וְ|wə|and",
+        "24||heb-esvri-Mal-t-gh3do|@vhp2mp{2}|bring|הֲבֵאתֶ֖ם|hă•ḇē(ʾ)•ṯem|בוא|bwʾ|you bring",
+        "25|h854|heb-esvri-Mal-t-gh3un|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "26||heb-esvri-Mal-t-gh3ug|@Pa|offering|הַ|ha|הַ|ha|the",
+        "27|h4503|heb-esvri-Mal-t-gh3ue|@ncfsa|offering|מִּנְחָ֑ה|m•min•ḥāh|מִנְחָה|min•ḥāh|offering",
+        "28|g2532|heb-esvri-Mal-t-gh3uq|@Pg||הַ|ha|הֲ|hă|?",
+        "29||heb-esvri-Mal-t-gh3uo|@vqi1cs|accept|אֶרְצֶ֥ה|ʾer•ṣeh|רצה|rṣh|I will accept",
+        "30|h854|heb-esvri-Mal-t-gh4dn|@PoX3fs|•|אֹותָ֛הּ|ʾōw•ṯāh|אֵת|ʾēṯ|",
+        "32|h4481|heb-esvri-Mal-t-gh4dk|@Pp|from|מִ|mi|מִן|min|from",
+        "33|h3027|heb-esvri-Mal-t-gh4dc|@ncfscX2mp|hand|יֶּדְכֶ֖ם|y•yeḏ•ḵem|יָד|yāḏ|hand of",
+        "35|h559|heb-esvri-Mal-t-gh4uy|@vqp3ms|says|אָמַ֥ר|ʾā•mar|אמר|ʾmr|he says",
+        "36||heb-esvri-Mal-t-gh4ug|@np|Lord|יְהוָֽה׃|yəh•wāh|יהוה|yhwh|Yahweh"
+      ]
+    }
+  ],
+  "1:14": [
+    {
+      "o": 25725,
+      "r": "esvi:Malachi:1:14",
+      "p": [
+        "0||heb-esvri-Mal-t-gh5dy|@Pc|•|וְ|wə|וְ|wə|and",
+        "1||heb-esvri-Mal-t-gh5dn|@vqsmsa|Cursed|אָר֣וּר|ʾā•ruwr|ארר|ʾrr|being cursed",
+        "2||heb-esvri-Mal-t-gh5de|@vqPmsa|cheat|נֹוכֵ֗ל|nōw•ḵēl|נכל|nkl|one cheating",
+        "3||heb-esvri-Mal-t-gh5dq|@Pc|who|וְ|wə|וְ|wə|and",
+        "4|h3426|heb-esvri-Mal-t-gh5do|@Pd|has|יֵ֤שׁ|yēš|יֵשׁ|yēš|there is",
+        "5||heb-esvri-Mal-t-gh5un|@Pp|in|בְּ|bə|בְּ|bə|in",
+        "6|h5740|heb-esvri-Mal-t-gh5ur|@ncmscX3ms|flock|עֶדְרֹו֙|ʿeḏ•rōw|עֵדֶר|ʿē•ḏer|flock of",
+        "8|h2145|heb-esvri-Mal-t-gh5uc|@ncmsa|male|זָכָ֔ר|zā•ḵār|זָכָר|zā•ḵār|male",
+        "9||heb-esvri-Mal-t-gh5u1|@Pc|and|וְ|wə|וְ|wə|and",
+        "10||heb-esvri-Mal-t-ghhdy|@vqPmsa|vows|נֹדֵ֛ר|nō•ḏēr|נדר|ndr|vowing",
+        "11||heb-esvri-Mal-t-ghhdg|@Pc|and yet|וְ|wə|וְ|wə|and",
+        "12||heb-esvri-Mal-t-ghhde|@vqPmsa|sacrifices|זֹבֵ֥חַ|zō•ḇēaḥ|זבח|zbḥ|sacrificing",
+        "13||heb-esvri-Mal-t-ghhdq|@vHPmsa|blemished|מָשְׁחָ֖ת|moš•ḥāṯ|שׁחת|šḥt|one being blemished",
+        "14||heb-esvri-Mal-t-ghhuy|@Pp|to|לַֽ|la|לְ|lə|to",
+        "15||heb-esvri-Mal-t-ghhun|@ncmpcX1cs|Lord|אדֹנָ֑י|(ʾ)•ḏō•nāy|אָדֹון|ʾā•ḏōwn|Lord",
+        "17|h3588|heb-esvri-Mal-t-ghhuk|@Pc|For|כִּי֩|kiy|כִּי|kiy|for",
+        "18|h4428|heb-esvri-Mal-t-ghhuo|@ncmsa|King|מֶ֨לֶךְ|me•leḵ|מֶלֶךְ|me•leḵ|King",
+        "19||heb-esvri-Mal-t-8yadn|@amsa|great|גָּדֹ֜ול|gā•ḏōwl|גָּדֹול|gā•ḏōwl|great",
+        "20|h589|heb-esvri-Mal-t-8yade|@pi1cs|I|אָ֗נִי|ʾā•niy|אֲנִי|ʾă•niy|I",
+        "21|h559|heb-esvri-Mal-t-8yadq|@vqp3ms|says|אָמַר֙|ʾā•mar|אמר|ʾmr|he says",
+        "22||heb-esvri-Mal-t-8yauy|@np|Lord|יְהוָ֣ה|yəh•wāh|יהוה|yhwh|Yahweh of",
+        "23|h6635|heb-esvri-Mal-t-8yaug|@ncbpa|hosts|צְבָאֹ֔ות|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts",
+        "24||heb-esvri-Mal-t-8yauc|@Pc|and|וּ|uw|וְ|wə|and",
+        "25|h8035|heb-esvri-Mal-t-8yauq|@ncmscX1cs|name|שְׁמִ֖י|šə•miy|שֵׁם|šēm|name of",
+        "27||heb-esvri-Mal-t-8y3dn|@vnPmsa|feared|נֹורָ֥א|nōw•rāʾ|ירא|yrʾ|being feared",
+        "28||heb-esvri-Mal-t-8y3de|@Pp|among|בַ|ḇa|בְּ|bə|among",
+        "30||heb-esvri-Mal-t-8y3dc|@ncmpa|nations|גֹּויִֽם׃|g•gōw•yim|גֹּוי|gōwy|nations"
+      ]
+    }
+  ],
+  "2:0": [
+    {
+      "o": 25726,
+      "r": "esvi:Malachi:2:0",
+      "h": 1,
+      "t": "Malachi 2",
+      "p": []
+    },
+    {
+      "o": 25727,
+      "r": "esvi:Malachi:2:0",
+      "h": 2,
+      "t": "The Lord Rebukes the Priests",
+      "p": []
+    }
+  ],
+  "2:1": [
+    {
+      "o": 25728,
+      "r": "esvi:Malachi:2:1",
+      "p": [
+        "0||heb-esvri-Mal-t-8y3un|@Pc|And|וְ|wə|וְ|wə|and",
+        "1|h6258|heb-esvri-Mal-t-8y3ur|@Pd|now|עַתָּ֗ה|ʿat•tāh|עַתָּה|ʿat•tāh|now",
+        "2||heb-esvri-Mal-t-8y3uk|@PpX2mp|for|אֲלֵיכֶ֛ם|ʾă•lēy•ḵem|אֶל|ʾel|to",
+        "4||heb-esvri-Mal-t-8y3u1|@Pa|command|הַ|ha|הַ|ha|the",
+        "5|h4687|heb-esvri-Mal-t-8y4dy|@ncfsa|command|מִּצְוָ֥ה|m•miṣ•wāh|מִצְוָה|miṣ•wāh|command",
+        "6|h2088|heb-esvri-Mal-t-8y4dg|@Pa|this|הַ|ha|הַ|ha|the",
+        "7|h2088|heb-esvri-Mal-t-8y4de|@dfsa|this|זֹּ֖את|z•zō(ʾ)ṯ|זֶה|zeh|this",
+        "8||heb-esvri-Mal-t-8y4dq|@Pa|O|הַ|ha|הַ|ha|O",
+        "9|h3548|heb-esvri-Mal-t-8y4do|@ncmpa|priests|כֹּהֲנִֽים׃|k•kō•hă•niym|כֹּהֵן|kō•hēn|priests"
+      ]
+    }
+  ],
+  "2:2": [
+    {
+      "o": 25729,
+      "r": "esvi:Malachi:2:2",
+      "p": [
+        "0|h518|heb-esvri-Mal-t-8y4ur|@Pc|If|אִם־|ʾim-|אִם|ʾim|if",
+        "1|h3808|heb-esvri-Mal-t-8y4ue|@Pn|not|לֹ֣א|lōʾ|לֹא|lōʾ|not",
+        "2||heb-esvri-Mal-t-8y4uq|@vqi2mp|listen|תִשְׁמְע֡וּ|ṯiš•mə•ʿuw|שׁמע|šmʿ|you will listen",
+        "3||heb-esvri-Mal-t-8y5dy|@Pc|•|וְ|wə|וְ|wə|and",
+        "4|h518|heb-esvri-Mal-t-8y5dn|@Pc|if|אִם־|ʾim-|אִם|ʾim|if",
+        "5|h3808|heb-esvri-Mal-t-8y5dg|@Pn|not|לֹא֩|lōʾ|לֹא|lōʾ|not",
+        "6||heb-esvri-Mal-t-8y5dc|@vqi2mp|take|תָשִׂ֨ימוּ|ṯā•śiy•muw|שׂים|śym|you will lay",
+        "7|h5922|heb-esvri-Mal-t-8y5d1|@Pp|take|עַל־|ʿal-|עַל|ʿal|on",
+        "8|h3820|heb-esvri-Mal-t-8y5un|@ncmsa|take|לֵ֜ב|lēḇ|לֵב|lēḇ|heart",
+        "9||heb-esvri-Mal-t-8y5ue|@Pp|to|לָ|lā|לְ|lə|to",
+        "10||heb-esvri-Mal-t-8y5uk|@vqc|give|תֵ֧ת|ṯēṯ|נתן|ntn|give",
+        "11|h3519|heb-esvri-Mal-t-8y5uo|@ncmsa|honor|כָּבֹ֣וד|kā•ḇōwḏ|כָּבֹוד|kā•ḇōwḏ|honor",
+        "12||heb-esvri-Mal-t-8yhdn|@Pp|to|לִ|li|לְ|lə|to",
+        "13|h8035|heb-esvri-Mal-t-8yhdr|@ncmscX1cs|name|שְׁמִ֗י|š•miy|שֵׁם|šēm|name of",
+        "15|h559|heb-esvri-Mal-t-8yhdc|@vqp3ms|says|אָמַר֙|ʾā•mar|אמר|ʾmr|he says",
+        "16||heb-esvri-Mal-t-8yhd1|@np|Lord|יְהוָ֣ה|yəh•wāh|יהוה|yhwh|Yahweh of",
+        "17|h6635|heb-esvri-Mal-t-8yhur|@ncbpa|hosts|צְבָאֹ֔ות|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts",
+        "18||heb-esvri-Mal-t-8yhuk|@Pc|then|וְ|wə|וְ|wə|then",
+        "19||heb-esvri-Mal-t-8yhuc|@vpp1cs{2}|send|שִׁלַּחְתִּ֤י|šil•laḥ•tiy|שׁלח|šlḥ|I will send",
+        "20||heb-esvri-Mal-t-8yhu1|@PpX2mp|upon|בָכֶם֙|ḇā•ḵem|בְּ|bə|upon",
+        "22|h854|heb-esvri-Mal-t-8radg|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "23||heb-esvri-Mal-t-8radk|@Pa|the|הַ|ha|הַ|ha|the",
+        "24||heb-esvri-Mal-t-8radc|@ncfsa|curse|מְּאֵרָ֔ה|m•mə•ʾē•rāh|מְאֵרָה|mə•ʾē•rāh|curse",
+        "25||heb-esvri-Mal-t-8rad1|@Pc|and|וְ|wə|וְ|wə|and",
+        "26||heb-esvri-Mal-t-8rauy|@vqp1cs{2}|curse|אָרֹותִ֖י|ʾā•rōw•ṯiy|ארר|ʾrr|I will curse",
+        "27|h854|heb-esvri-Mal-t-8raug|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "28|h1293|heb-esvri-Mal-t-8rauk|@ncfpcX2mp|blessings|בִּרְכֹֽותֵיכֶ֑ם|bir•ḵōw•ṯēy•ḵem|בְּרָכָה|bə•rā•ḵāh|blessings of",
+        "30||heb-esvri-Mal-t-8rau1|@Pc|Indeed|וְ|wə|וְ|wə|and",
+        "31|h1571|heb-esvri-Mal-t-8r3dy|@Pc|Indeed|גַם֙|ḡam|גַּם|gam|also",
+        "32||heb-esvri-Mal-t-8r3dg|@vqp1csX3fs|cursed|אָרֹותִ֔יהָ|ʾā•rōw•ṯiy•hā|ארר|ʾrr|I have cursed",
+        "34|h3588|heb-esvri-Mal-t-8r3dq|@Pc|because|כִּ֥י|kiy|כִּי|kiy|because",
+        "35|h370|heb-esvri-Mal-t-8r3uy|@PdX2mp|not|אֵינְכֶ֖ם|ʾēy•nə•ḵem|אַיִן|ʾa•yin|there is not",
+        "37||heb-esvri-Mal-t-8r3ue|@vqPmpa|lay|שָׂמִ֥ים|śā•miym|שׂים|śym|laying",
+        "38|h5922|heb-esvri-Mal-t-8r3uq|@Pp|to|עַל־|ʿal-|עַל|ʿal|on",
+        "39|h3820|heb-esvri-Mal-t-8r3u1|@ncmsa|heart|לֵֽב׃|lēḇ|לֵב|lēḇ|heart"
+      ]
+    }
+  ],
+  "2:3": [
+    {
+      "o": 25730,
+      "r": "esvi:Malachi:2:3",
+      "p": [
+        "0|h2009|heb-esvri-Mal-t-8r4dg|@PiX1cs|Behold|הִנְנִ֨י|hi•nə•niy|הִנֵּה|hin•nēh|behold",
+        "2||heb-esvri-Mal-t-8r4dq|@vqPmsa|rebuke|גֹעֵ֤ר|ḡō•ʿēr|גער|gʿr|rebuking",
+        "3||heb-esvri-Mal-t-8r4uy|@PpX2mp|your|לָכֶם֙|lā•ḵem|לְ|lə|to",
+        "5|h854|heb-esvri-Mal-t-8r4ue|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "6||heb-esvri-Mal-t-8r4uc|@Pa|offspring|הַ|ha|הַ|ha|the",
+        "7|h2233|heb-esvri-Mal-t-8r4uq|@ncmsa|offspring|זֶּ֔רַע|z•ze•raʿ|זֶרַע|ze•raʿ|seed",
+        "8||heb-esvri-Mal-t-8r5dy|@Pc|and|וְ|wə|וְ|wə|and",
+        "9||heb-esvri-Mal-t-8r5dn|@vpp1cs{2}|spread|זֵרִ֤יתִי|zē•riy•ṯiy|זרה|zrh|I will scatter",
+        "10|h6569|heb-esvri-Mal-t-8r5de|@ncmsa|dung|פֶ֙רֶשׁ֙|p̄e•reš|פֶּרֶשׁ|pe•reš|offal",
+        "11|h5922|heb-esvri-Mal-t-8r5dq|@Pp|on|עַל־|ʿal-|עַל|ʿal|on",
+        "12||heb-esvri-Mal-t-8r5d1|@ncbpcX2mp|faces|פְּנֵיכֶ֔ם|pə•nēy•ḵem|פָּנֶה|pā•neh|faces of",
+        "14|h6569|heb-esvri-Mal-t-8r5ug|@ncmsc|dung|פֶּ֖רֶשׁ|pe•reš|פֶּרֶשׁ|pe•reš|offal of",
+        "15|h2282|heb-esvri-Mal-t-8r5uc|@ncmpcX2mp|offerings|חַגֵּיכֶ֑ם|ḥag•gēy•ḵem|חַג|ḥaḡ|feasts of",
+        "17||heb-esvri-Mal-t-8rhdy|@Pc|and|וְ|wə|וְ|wə|and",
+        "18||heb-esvri-Mal-t-8rhdn|@vqp3ms{2}|taken|נָשָׂ֥א|nā•śāʾ|נשׂא|nśʾ|he shall take up",
+        "19|h854|heb-esvri-Mal-t-8rhde|@PoX2mp|•|אֶתְכֶ֖ם|ʾeṯ•ḵem|אֵת|ʾēṯ|",
+        "21||heb-esvri-Mal-t-8rhdo|@PpX3ms|with|אֵלָֽיו׃|ʾē•lāyw|אֶל|ʾel|to"
+      ]
+    }
+  ],
+  "2:4": [
+    {
+      "o": 25731,
+      "r": "esvi:Malachi:2:4",
+      "p": [
+        "0||heb-esvri-Mal-t-8rhug|@Pc|So|וִֽ|wi|וְ|wə|so",
+        "1||heb-esvri-Mal-t-8rhue|@vqp2mp{2}|know|ידַעְתֶּ֕ם|y•ḏaʿ•tem|ידע|ydʿ|you shall know",
+        "2|h3588|heb-esvri-Mal-t-8rhuq|@Pc|that|כִּ֚י|kiy|כִּי|kiy|that",
+        "3||heb-esvri-Mal-t-gradycy|@vpp1cs|sent|שִׁלַּ֣חְתִּי|šil•laḥ•tiy|שׁלח|šlḥ|I have sent away",
+        "4||heb-esvri-Mal-t-gradyca|@PpX2mp|to|אֲלֵיכֶ֔ם|ʾă•lēy•ḵem|אֶל|ʾel|to",
+        "6|h854|heb-esvri-Mal-t-gradypa|@Po|•|אֵ֖ת|ʾēṯ|אֵת|ʾēṯ|",
+        "7||heb-esvri-Mal-t-gradncy|@Pa|command|הַ|ha|הַ|ha|the",
+        "8|h4687|heb-esvri-Mal-t-gradnce|@ncfsa|command|מִּצְוָ֣ה|m•miṣ•wāh|מִצְוָה|miṣ•wāh|command",
+        "9|h2088|heb-esvri-Mal-t-gradnpy|@Pa|this|הַ|ha|הַ|ha|the",
+        "10|h2088|heb-esvri-Mal-t-gradnpe|@dfsa|this|זֹּ֑את|z•zō(ʾ)ṯ|זֶה|zeh|this",
+        "11||heb-esvri-Mal-t-gradnqy|@Pp|that|לִֽ|li|לְ|lə|to",
+        "12||heb-esvri-Mal-t-gradnqe|@vqc|stand|הְיֹ֤ות|h•yōwṯ|היה|hyh|be",
+        "13|h1285|heb-esvri-Mal-t-gradrco|@ncfscX1cs|covenant|בְּרִיתִי֙|bə•riy•ṯiy|בְּרִית|bə•riyṯ|covenant of",
+        "15|h854|heb-esvri-Mal-t-gradrpo|@Pp|with|אֶת־|ʾeṯ-|אֵת|ʾēṯ|with",
+        "16|h3879|heb-esvri-Mal-t-gradrqy|@np|Levi|לֵוִ֔י|lē•wiy|לֵוִי|lē•wiy|Levites",
+        "17|h559|heb-esvri-Mal-t-gradgce|@vqp3ms|says|אָמַ֖ר|ʾā•mar|אמר|ʾmr|he says",
+        "18||heb-esvri-Mal-t-gradgpy|@np|Lord|יְהוָ֥ה|yəh•wāh|יהוה|yhwh|Yahweh of",
+        "19|h6635|heb-esvri-Mal-t-gradgpa|@ncbpa|hosts|צְבָאֹֽות׃|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts"
+      ]
+    }
+  ],
+  "2:5": [
+    {
+      "o": 25732,
+      "r": "esvi:Malachi:2:5",
+      "p": [
+        "0|h1285|heb-esvri-Mal-t-gradece|@ncfscX1cs|covenant|בְּרִיתִ֣י׀|bə•riy•ṯiy|בְּרִית|bə•riyṯ|covenant of",
+        "2||heb-esvri-Mal-t-gradepe|@vqp3fs|was|הָיְתָ֣ה|hā•yə•ṯāh|היה|hyh|she was",
+        "3|h854|heb-esvri-Mal-t-gradeqy|@PpX3ms|with|אִתֹּ֗ו|ʾit•tōw|אֵת|ʾēṯ|with",
+        "5||heb-esvri-Mal-t-gradkco|@Pa|life|הַֽ|ha|הַ|ha|the",
+        "6|h2417|heb-esvri-Mal-t-gradkca|@ncmpa|life|חַיִּים֙|ḥay•yiym|חַי|ḥay|life",
+        "7||heb-esvri-Mal-t-gradkpo|@Pc|and|וְ|wə|וְ|wə|and",
+        "8||heb-esvri-Mal-t-gradkpa|@Pa|peace|הַ֨|ha|הַ|ha|the",
+        "9||heb-esvri-Mal-t-gradkqy|@ncmsa|peace|שָּׁלֹ֔ום|š•šā•lōwm|שָׁלֹום|šā•lōwm|peace",
+        "10||heb-esvri-Mal-t-gradcce|@Pc|and|וָ|wā|וְ|wə|and",
+        "11||heb-esvri-Mal-t-gradcco|@vqw1csX3mp|gave|אֶתְּנֵֽם־|ʾet•tə•nēm-|נתן|ntn|I gave",
+        "13||heb-esvri-Mal-t-gradcpe|@PpX3ms|to|לֹ֥ו|lōw|לְ|lə|to",
+        "15||heb-esvri-Mal-t-gradcqe|@ncmsa|fear|מֹורָ֖א|mōw•rāʾ|מֹורָא|mōw•rāʾ|fear",
+        "16||heb-esvri-Mal-t-gradqco|@Pc|and|וַ|wa|וְ|wə|and",
+        "17||heb-esvri-Mal-t-gradqca|@vqw3msX1cs|feared|יִּֽירָאֵ֑נִי|y•yiy•rā•ʾē•niy|ירא|yrʾ|he feared",
+        "19||heb-esvri-Mal-t-gradqpa|@Pc|•|וּ|uw|וְ|wə|and",
+        "20|h4481|heb-esvri-Mal-t-gradqqy|@Pp|of|מִ|mi|מִן|min|from",
+        "21||heb-esvri-Mal-t-gradqqe|@ncbpc|of|פְּנֵ֥י|p•pə•nēy|פָּנֶה|pā•neh|presence of",
+        "22|h8035|heb-esvri-Mal-t-gradoco|@ncmscX1cs|name|שְׁמִ֖י|šə•miy|שֵׁם|šēm|name of",
+        "24||heb-esvri-Mal-t-gradopo|@vnp3ms|awe|נִחַ֥ת|ni•ḥaṯ|חתת|ḥt|he stood in awe",
+        "25|h1932|heb-esvri-Mal-t-gradoqe|@pi3ms|He|הֽוּא׃|huwʾ|הוּא|huwʾ|he"
+      ]
+    }
+  ],
+  "2:6": [
+    {
+      "o": 25733,
+      "r": "esvi:Malachi:2:6",
+      "p": [
+        "0|h8451|heb-esvri-Mal-t-grad1ca|@ncfsc|instruction|תֹּורַ֤ת|tōw•raṯ|תֹּורָה|tōw•rāh|instruction of",
+        "1|h571|heb-esvri-Mal-t-grad1po|@ncfsa|True|אֱמֶת֙|ʾĕ•meṯ|אֱמֶת|ʾĕ•meṯ|truth",
+        "2||heb-esvri-Mal-t-grad1qe|@vqp3fs|was|הָיְתָ֣ה|hā•yə•ṯāh|היה|hyh|she was",
+        "3||heb-esvri-Mal-t-grauyco|@Pp|in|בְּ|bə|בְּ|bə|in",
+        "4|h6310|heb-esvri-Mal-t-grauyca|@ncmscX3ms|mouth|פִ֔יהוּ|p̄iy•huw|פֶּה|peh|mouth of",
+        "6||heb-esvri-Mal-t-grauypa|@Pc|and|וְ|wə|וְ|wə|and",
+        "7||heb-esvri-Mal-t-grauyqy|@ncfsa|wrong|עַוְלָ֖ה|ʿaw•lāh|עַוְלָה|ʿaw•lāh|wrong",
+        "8|h3808|heb-esvri-Mal-t-graunce|@Pn|no|לֹא־|lōʾ-|לֹא|lōʾ|not",
+        "9||heb-esvri-Mal-t-graunca|@vnp3ms|found|נִמְצָ֣א|nim•ṣāʾ|מצא|mṣʾ|he was found",
+        "10||heb-esvri-Mal-t-graunpo|@Pp|on|בִ|ḇi|בְּ|bə|on",
+        "11|h8193|heb-esvri-Mal-t-graunpa|@ncfdcX3ms|lips|שְׂפָתָ֑יו|ś•p̄ā•ṯāyw|שָׂפָה|śā•p̄āh|lips of",
+        "13||heb-esvri-Mal-t-graurce|@Pp|in|בְּ|bə|בְּ|bə|in",
+        "14||heb-esvri-Mal-t-graurco|@ncmsa|peace|שָׁלֹ֤ום|šā•lōwm|שָׁלֹום|šā•lōwm|peace",
+        "15||heb-esvri-Mal-t-graurpe|@Pc|and|וּ|uw|וְ|wə|and",
+        "16||heb-esvri-Mal-t-graurpo|@Pp|•|בְ|ḇə|בְּ|bə|in",
+        "17||heb-esvri-Mal-t-graurpa|@ncmsa|uprightness|מִישֹׁור֙|miy•šōwr|מִישֹׁור|miy•šōwr|uprightness",
+        "18||heb-esvri-Mal-t-graugcy|@vqp3ms|walked|הָלַ֣ךְ|hā•laḵ|הלך|hlk|he walked",
+        "19|h854|heb-esvri-Mal-t-graugca|@PpX1cs|with|אִתִּ֔י|ʾit•tiy|אֵת|ʾēṯ|with",
+        "21||heb-esvri-Mal-t-graugpa|@Pc|and|וְ|wə|וְ|wə|and",
+        "22|h7227|heb-esvri-Mal-t-graugqy|@ampa|many|רַבִּ֖ים|rab•biym|רַב|raḇ|many",
+        "23||heb-esvri-Mal-t-grauece|@vhp3ms|turned|הֵשִׁ֥יב|hē•šiyḇ|שׁוב|šwb|he turned",
+        "24|h4481|heb-esvri-Mal-t-grauepy|@Pp|from|מֵ|mē|מִן|min|from",
+        "25||heb-esvri-Mal-t-grauepe|@ncbsa|iniquity|עָוֹֽן׃|ʿā•wōn|עָוֹן|ʿā•wōn|iniquity"
+      ]
+    }
+  ],
+  "2:7": [
+    {
+      "o": 25734,
+      "r": "esvi:Malachi:2:7",
+      "p": [
+        "0|h3588|heb-esvri-Mal-t-graueqe|@Pc|For|כִּֽי־|kiy-|כִּי|kiy|for",
+        "1|h8193|heb-esvri-Mal-t-graukce|@ncfdc|lips|שִׂפְתֵ֤י|śip̄•ṯēy|שָׂפָה|śā•p̄āh|lips of",
+        "2|h3548|heb-esvri-Mal-t-graukpy|@ncmsa|priest|כֹהֵן֙|ḵō•hēn|כֹּהֵן|kō•hēn|priest",
+        "3||heb-esvri-Mal-t-graukpa|@vqi3mp|guard|יִשְׁמְרוּ־|yiš•mə•ruw-|שׁמר|šmr|they are to guard",
+        "4|h1847|heb-esvri-Mal-t-graukqe|@ncfsa|knowledge|דַ֔עַת|ḏa•ʿaṯ|דַּעַת|da•ʿaṯ|knowledge",
+        "5||heb-esvri-Mal-t-graucco|@Pc|and|וְ|wə|וְ|wə|and",
+        "6|h8451|heb-esvri-Mal-t-graucca|@ncfsa|instruction|תֹורָ֖ה|ṯōw•rāh|תֹּורָה|tōw•rāh|instruction",
+        "7||heb-esvri-Mal-t-graucpo|@vpi3mp|seek|יְבַקְשׁ֣וּ|yə•ḇaq•šuw|בקשׁ|bqš|they are to seek",
+        "8|h4481|heb-esvri-Mal-t-graucqe|@Pp|from|מִ|mi|מִן|min|from",
+        "9|h6310|heb-esvri-Mal-t-grauqcy|@ncmscX3ms|mouth|פִּ֑יהוּ|p•piy•huw|פֶּה|peh|mouth of",
+        "11|h3588|heb-esvri-Mal-t-grauqpy|@Pc|for|כִּ֛י|kiy|כִּי|kiy|for",
+        "12||heb-esvri-Mal-t-grauqpa|@ncmsc|messenger|מַלְאַ֥ךְ|mal•ʾaḵ|מַלְאָךְ|mal•ʾāḵ|messenger of",
+        "13||heb-esvri-Mal-t-grauocy|@np|Lord|יְהוָֽה־|yəh•wāh-|יהוה|yhwh|Yahweh of",
+        "14|h6635|heb-esvri-Mal-t-grauoco|@ncbpa|hosts|צְבָאֹ֖ות|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts",
+        "15|h1932|heb-esvri-Mal-t-grauope|@pi3ms|he|הֽוּא׃|huwʾ|הוּא|huwʾ|he"
+      ]
+    }
+  ],
+  "2:8": [
+    {
+      "o": 25735,
+      "r": "esvi:Malachi:2:8",
+      "p": [
+        "0||heb-esvri-Mal-t-grauoqe|@Pc|But|וְ|wə|וְ|wə|but",
+        "1||heb-esvri-Mal-t-grau1cy|@pi2mp|you|אַתֶּם֙|ʾat•tem|אַתֶּם|ʾat•tem|you",
+        "2||heb-esvri-Mal-t-grau1ca|@vqp2mp|turned|סַרְתֶּ֣ם|sar•tem|סור|swr|you have turned aside",
+        "3|h4481|heb-esvri-Mal-t-grau1po|@Pp|from|מִן־|min-|מִן|min|from",
+        "4||heb-esvri-Mal-t-grau1qy|@Pa|the|הַ|ha|הַ|ha|the",
+        "5|h1870|heb-esvri-Mal-t-grau1qe|@ncbsa|way|דֶּ֔רֶךְ|d•de•reḵ|דֶּרֶךְ|de•reḵ|way",
+        "6||heb-esvri-Mal-t-gr3dyco|@vhp2mp|stumble|הִכְשַׁלְתֶּ֥ם|hiḵ•šal•tem|כשׁל|kšl|you have caused to stumble",
+        "7|h7229|heb-esvri-Mal-t-gr3dype|@ampa|many|רַבִּ֖ים|rab•biym|רַב|raḇ|many",
+        "8||heb-esvri-Mal-t-gr3dyqy|@Pp|by|בַּ|ba|בְּ|bə|by",
+        "10||heb-esvri-Mal-t-gr3dncy|@ncfsa|instruction|תֹּורָ֑ה|t•tōw•rāh|תֹּורָה|tōw•rāh|instruction",
+        "11||heb-esvri-Mal-t-gr3dnca|@vpp2mp|corrupted|שִֽׁחַתֶּם֙|ši•ḥat•tem|שׁחת|šḥt|you have corrupted",
+        "12|h1285|heb-esvri-Mal-t-gr3dnpo|@ncfsc|covenant|בְּרִ֣ית|bə•riyṯ|בְּרִית|bə•riyṯ|covenant of",
+        "13||heb-esvri-Mal-t-gr3dnqe|@Pa|Levi|הַ|ha|הַ|ha|the",
+        "14|h3879|heb-esvri-Mal-t-gr3drcy|@np|Levi|לֵּוִ֔י|l•lē•wiy|לֵוִי|lē•wiy|Levites",
+        "15|h559|heb-esvri-Mal-t-gr3drca|@vqp3ms|says|אָמַ֖ר|ʾā•mar|אמר|ʾmr|he says",
+        "16||heb-esvri-Mal-t-gr3drpo|@np|Lord|יְהוָ֥ה|yəh•wāh|יהוה|yhwh|Yahweh of",
+        "17|h6635|heb-esvri-Mal-t-gr3drqe|@ncbpa|hosts|צְבָאֹֽות׃|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts"
+      ]
+    }
+  ],
+  "2:9": [
+    {
+      "o": 25736,
+      "r": "esvi:Malachi:2:9",
+      "p": [
+        "0||heb-esvri-Mal-t-gr3dgca|@Pc|and|וְ|wə|וְ|wə|and",
+        "1|h1571|heb-esvri-Mal-t-gr3dgpy|@Pc|so|גַם־|ḡam-|גַּם|gam|also",
+        "2|h589|heb-esvri-Mal-t-gr3dgpo|@pi1cs|I|אֲנִ֞י|ʾă•niy|אֲנִי|ʾă•niy|I",
+        "3||heb-esvri-Mal-t-gr3dgqe|@vqp1cs|make|נָתַ֧תִּי|nā•ṯat•tiy|נתן|ntn|I make",
+        "4|h854|heb-esvri-Mal-t-gr3deco|@PoX2mp|•|אֶתְכֶ֛ם|ʾeṯ•ḵem|אֵת|ʾēṯ|",
+        "6||heb-esvri-Mal-t-gr3depo|@vnPmpa|despised|נִבְזִ֥ים|niḇ•ziym|בזה|bzh|being despised",
+        "7||heb-esvri-Mal-t-gr3deqe|@Pc|and|וּ|uw|וְ|wə|and",
+        "8|h8217|heb-esvri-Mal-t-gr3dkcy|@ampa|abased|שְׁפָלִ֖ים|šə•p̄ā•liym|שָׁפָל|šā•p̄āl|abased",
+        "9||heb-esvri-Mal-t-gr3dkca|@Pp|before|לְ|lə|לְ|lə|to",
+        "10|h3606|heb-esvri-Mal-t-gr3dkpy|@ncmsc|all|כָל־|ḵol-|כֹּל|kōl|all of",
+        "11||heb-esvri-Mal-t-gr3dkpo|@Pa|the|הָ|hā|הַ|ha|the",
+        "12|h5972|heb-esvri-Mal-t-gr3dkpa|@ncmsa|people|עָ֑ם|ʿām|עַם|ʿam|people",
+        "13||heb-esvri-Mal-t-gr3dccy|@Pp|inasmuch as|כְּ|kə|כְּ|kə|as",
+        "14|h6310|heb-esvri-Mal-t-gr3dcce|@ncmsc|inasmuch as|פִ֗י|p̄iy|פֶּה|peh|mouth of",
+        "15|h834|heb-esvri-Mal-t-gr3dcpy|@Pr|inasmuch as|אֲשֶׁ֤ר|ʾă•šer|אֲשֶׁר|ʾă•šer|which",
+        "16|h370|heb-esvri-Mal-t-gr3dcpa|@PdX2mp|not|אֵֽינְכֶם֙|ʾēy•nə•ḵem|אַיִן|ʾa•yin|there is not",
+        "18||heb-esvri-Mal-t-gr3dqce|@vqPmpa|keep|שֹׁמְרִ֣ים|šō•mə•riym|שׁמר|šmr|keeping",
+        "19|h854|heb-esvri-Mal-t-gr3dqpy|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "20|h1870|heb-esvri-Mal-t-gr3dqpo|@ncbpcX1cs|ways|דְּרָכַ֔י|də•rā•ḵay|דֶּרֶךְ|de•reḵ|ways of",
+        "22||heb-esvri-Mal-t-gr3docy|@Pc|but|וְ|wə|וְ|wə|but",
+        "23||heb-esvri-Mal-t-gr3doce|@vqPmpa|show partiality|נֹשְׂאִ֥ים|nō•śə•ʾiym|נשׂא|nśʾ|lifting up",
+        "24||heb-esvri-Mal-t-gr3dopy|@ncbpa|show partiality|פָּנִ֖ים|pā•niym|פָּנֶה|pā•neh|face",
+        "25||heb-esvri-Mal-t-gr3dopa|@Pp|in|בַּ|ba|בְּ|bə|in",
+        "27||heb-esvri-Mal-t-gr3doqe|@ncfsa|instruction|תֹּורָֽה׃|t•tōw•rāh|תֹּורָה|tōw•rāh|instruction"
+      ]
+    },
+    {
+      "o": 25737,
+      "r": "esvi:Malachi:2:9",
+      "h": 2,
+      "t": "Judah Profaned the Covenant",
+      "p": []
+    }
+  ],
+  "2:10": [
+    {
+      "o": 25738,
+      "r": "esvi:Malachi:2:10",
+      "p": [
+        "0|g3756|heb-esvri-Mal-t-gr3d1po|@Pg||הֲ|hă|הֲ|hă|?",
+        "1|h3808|heb-esvri-Mal-t-gr3d1pa|@Pn|not|לֹ֨וא|lōwʾ|לֹא|lōʾ|not",
+        "2|h1|heb-esvri-Mal-t-gr3uycy|@ncmsa|Father|אָ֤ב|ʾāḇ|אָב|ʾāḇ|Father",
+        "3|h259|heb-esvri-Mal-t-gr3uyca|@ucmsa|one|אֶחָד֙|ʾe•ḥāḏ|אֶחָד|ʾe•ḥāḏ|one",
+        "4||heb-esvri-Mal-t-gr3uypo|@Pp|Have|לְ|lə|לְ|lə|to",
+        "5|h3606|heb-esvri-Mal-t-gr3uypa|@ncmscX1cp|all|כֻלָּ֔נוּ|ḵul•lā•nuw|כֹּל|kōl|all of",
+        "7|g3756|heb-esvri-Mal-t-gr3unce|@Pg||הֲ|hă|הֲ|hă|?",
+        "8|h3808|heb-esvri-Mal-t-gr3unco|@Pn|not|לֹ֛וא|lōwʾ|לֹא|lōʾ|not",
+        "9|h410|heb-esvri-Mal-t-gr3unpe|@ncmsa|God|אֵ֥ל|ʾēl|אֵל|ʾēl|God",
+        "10|h259|heb-esvri-Mal-t-gr3unqy|@ucmsa|one|אֶֽחָ֖ד|ʾe•ḥāḏ|אֶחָד|ʾe•ḥāḏ|one",
+        "11|h1254|heb-esvri-Mal-t-gr3urce|@vqp3msX1cp|created|בְּרָאָ֑נוּ|bə•rā•ʾā•nuw|ברא|brʾ|he created",
+        "13|h4069|heb-esvri-Mal-t-gr3urpe|@Pd|Why|מַדּ֗וּעַ|mad•duwaʿ|מַדּוּעַ|mad•duwaʿ|why",
+        "14||heb-esvri-Mal-t-gr3urqy|@vqi1cp|faithless|נִבְגַּד֙|niḇ•gaḏ|בגד|bgd|we are faithless",
+        "15|h376|heb-esvri-Mal-t-gr3ugce|@ncmsa|to one another|אִ֣ישׁ|ʾiyš|אִישׁ|ʾiyš|man",
+        "16||heb-esvri-Mal-t-gr3ugpy|@Pp|to one another|בְּ|bə|בְּ|bə|with",
+        "17|h253|heb-esvri-Mal-t-gr3ugpe|@ncmscX3ms|to one another|אָחִ֔יו|ʾā•ḥiyw|אָח|ʾāḥ|brother of",
+        "19||heb-esvri-Mal-t-gr3ugqe|@Pp|profaning|לְ|lə|לְ|lə|to",
+        "20||heb-esvri-Mal-t-gr3uecy|@vpc|profaning|חַלֵּ֖ל|ḥal•lēl|חלל|ḥll|profane",
+        "21|h1285|heb-esvri-Mal-t-gr3ueca|@ncfsc|covenant|בְּרִ֥ית|bə•riyṯ|בְּרִית|bə•riyṯ|covenant of",
+        "22|h1|heb-esvri-Mal-t-gr3uepo|@ncmpcX1cp|fathers|אֲבֹתֵֽינוּ׃|ʾă•ḇō•ṯēy•nuw|אָב|ʾāḇ|fathers of"
+      ]
+    }
+  ],
+  "2:11": [
+    {
+      "o": 25739,
+      "r": "esvi:Malachi:2:11",
+      "p": [
+        "0||heb-esvri-Mal-t-gr3ukce|@vqp3fs|faithless|בָּגְדָ֣ה|bā•ḡə•ḏāh|בגד|bgd|she has been faithless",
+        "1|h3063|heb-esvri-Mal-t-gr3ukpy|@np|Judah|יְהוּדָ֔ה|yə•huw•ḏāh|יְהוּדָה|yə•huw•ḏāh|Judah",
+        "2||heb-esvri-Mal-t-gr3ukpa|@Pc|and|וְ|wə|וְ|wə|and",
+        "3||heb-esvri-Mal-t-gr3ukqy|@ncfsa|abomination|תֹועֵבָ֛ה|ṯōw•ʿē•ḇāh|תֹּועֵבָה|tōw•ʿē•ḇāh|abomination",
+        "4||heb-esvri-Mal-t-gr3ucce|@vnp3fs|committed|נֶעֶשְׂתָ֥ה|ne•ʿeś•ṯāh|עשׂה|ʿśh|she has been done",
+        "5||heb-esvri-Mal-t-gr3ucpy|@Pp|in|בְ|ḇə|בְּ|bə|in",
+        "6|h3479|heb-esvri-Mal-t-gr3ucpe|@np|Israel|יִשְׂרָאֵ֖ל|yiś•rā•ʾēl|יִשְׂרָאֵל|yiś•rā•ʾēl|Israel",
+        "7||heb-esvri-Mal-t-gr3ucqy|@Pc|and|וּ|uw|וְ|wə|and",
+        "8||heb-esvri-Mal-t-gr3ucqe|@Pp|in|בִ|ḇi|בְּ|bə|in",
+        "9||heb-esvri-Mal-t-gr3uqcy|@np|Jerusalem|ירֽוּשָׁלִָ֑ם|y•ruw•šā•lāim|יְרוּשָׁלִַם|yə•ruw•šā•laim|Jerusalem",
+        "10|h3588|heb-esvri-Mal-t-gr3uqca|@Pc|For|כִּ֣י׀|kiy|כִּי|kiy|for",
+        "11||heb-esvri-Mal-t-gr3uqpo|@vpp3ms|profaned|חִלֵּ֣ל|ḥil•lēl|חלל|ḥll|he has profaned",
+        "12|h3063|heb-esvri-Mal-t-gr3uqqe|@np|Judah|יְהוּדָ֗ה|yə•huw•ḏāh|יְהוּדָה|yə•huw•ḏāh|Judah",
+        "13|h6944|heb-esvri-Mal-t-gr3uoco|@ncmsc|sanctuary|קֹ֤דֶשׁ|qō•ḏeš|קֹדֶשׁ|qō•ḏeš|sanctuary of",
+        "14||heb-esvri-Mal-t-gr3uope|@np|Lord|יְהוָה֙|yəh•wāh|יהוה|yhwh|Yahweh",
+        "15|h834|heb-esvri-Mal-t-gr3uoqy|@Pr|which|אֲשֶׁ֣ר|ʾă•šer|אֲשֶׁר|ʾă•šer|which",
+        "16||heb-esvri-Mal-t-gr3u1ce|@vqp3ms|loves|אָהֵ֔ב|ʾā•hēḇ|אהב|ʾhb|he loves",
+        "17||heb-esvri-Mal-t-gr3u1py|@Pc|and|וּ|uw|וְ|wə|and",
+        "18||heb-esvri-Mal-t-gr3u1pe|@vqp3ms|married|בָעַ֖ל|ḇā•ʿal|בעל|bʿl|he has married",
+        "19|h1325|heb-esvri-Mal-t-gr3u1qy|@ncfsc|daughter|בַּת־|baṯ-|בַּת|baṯ|daughter of",
+        "20|h410|heb-esvri-Mal-t-gr4dycy|@ncmsc|god|אֵ֥ל|ʾēl|אֵל|ʾēl|god of",
+        "21|h5236|heb-esvri-Mal-t-gr4dyca|@ncmsa|foreign|נֵכָֽר׃|nē•ḵār|נֵכָר|nē•ḵār|foreign land"
+      ]
+    }
+  ],
+  "2:12": [
+    {
+      "o": 25740,
+      "r": "esvi:Malachi:2:12",
+      "p": [
+        "0|h3772|heb-esvri-Mal-t-gr4dypa|@vhi3msXa{1}Jt|cut|יַכְרֵ֨ת|yaḵ•rēṯ|כרת|krt|he may cut off",
+        "1||heb-esvri-Mal-t-gr4dncy|@np|Lord|יְהוָ֜ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "2||heb-esvri-Mal-t-gr4dnca|@Pp|of|לָ|lā|לְ|lə|to",
+        "4|h376|heb-esvri-Mal-t-gr4dnpe|@ncmsa|man|אִ֨ישׁ|ʾiyš|אִישׁ|ʾiyš|man",
+        "5|h834|heb-esvri-Mal-t-gr4dnqy|@Pr|who|אֲשֶׁ֤ר|ʾă•šer|אֲשֶׁר|ʾă•šer|who",
+        "6|h6213|heb-esvri-Mal-t-gr4drce|@vqi3msX3fsXe|does|יַעֲשֶׂ֙נָּה֙|ya•ʿă•śen•nāh|עשׂה|ʿśh|he does",
+        "8|h6147|heb-esvri-Mal-t-gr4drpe|@ncmsa|•|עֵ֣ר|ʿēr|עֵר|ʿēr|one being awake",
+        "9||heb-esvri-Mal-t-gr4drqy|@Pc|•|וְ|wə|וְ|wə|and",
+        "10||heb-esvri-Mal-t-gr4drqe|@vqPmsa|•|עֹנֶ֔ה|ʿō•neh|ענה|ʿnh|answering",
+        "11|h4481|heb-esvri-Mal-t-gr4dgco|@Pp|from|מֵ|mē|מִן|min|from",
+        "12|h169|heb-esvri-Mal-t-gr4dgca|@ncmpc|tents|אָהֳלֵ֖י|ʾo•hŏ•lēy|אֹהֶל|ʾō•hel|tents of",
+        "13|h3290|heb-esvri-Mal-t-gr4dgpo|@np|Jacob|יַֽעֲקֹ֑ב|ya•ʿă•qōḇ|יַעֲקֹב|ya•ʿă•qōḇ|Jacob",
+        "14|h834|heb-esvri-Mal-t-gr4dgqe|@Pc|who|וּ|uw|וְ|wə|and",
+        "15||heb-esvri-Mal-t-gr4decy|@vhPmsa|brings|מַגִּ֣ישׁ|mag•giyš|נגשׁ|ngš|one bringing",
+        "16|h4503|heb-esvri-Mal-t-gr4deca|@ncfsa|offering|מִנְחָ֔ה|min•ḥāh|מִנְחָה|min•ḥāh|offering",
+        "17||heb-esvri-Mal-t-gr4depo|@Pp|to|לַֽ|la|לְ|lə|to",
+        "18||heb-esvri-Mal-t-gr4depa|@np|Lord|יהוָ֖ה|yh•wāh|יהוה|yhwh|Yahweh of",
+        "19|h6635|heb-esvri-Mal-t-gr4dkcy|@ncbpa|hosts|צְבָאֹֽות׃|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts"
+      ]
+    }
+  ],
+  "2:13": [
+    {
+      "o": 25741,
+      "r": "esvi:Malachi:2:13",
+      "p": [
+        "0||heb-esvri-Mal-t-gr4dkpa|@Pc|And|וְ|wə|וְ|wə|and",
+        "1|h2088|heb-esvri-Mal-t-gr4dkqy|@dfsa|this|זֹאת֙|zō(ʾ)ṯ|זֶה|zeh|this",
+        "2|h8145|heb-esvri-Mal-t-gr4dcce|@uofsa|second|שֵׁנִ֣ית|šē•niyṯ|שֵׁנִי|šē•niy|second one",
+        "3||heb-esvri-Mal-t-gr4dcpy|@vqi2mp|do|תַּֽעֲשׂ֔וּ|ta•ʿă•śuw|עשׂה|ʿśh|you do",
+        "4||heb-esvri-Mal-t-gr4dcpa|@vpc|cover|כַּסֹּ֤ות|kas•sōwṯ|כסה|ksh|to cover",
+        "5|h1832|heb-esvri-Mal-t-gr4dqcy|@ncfsa|tears|דִּמְעָה֙|dim•ʿāh|דִּמְעָה|dim•ʿāh|tear",
+        "6|h854|heb-esvri-Mal-t-gr4dqca|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "7|h4196|heb-esvri-Mal-t-gr4dqpe|@ncmsc|altar|מִזְבַּ֣ח|miz•baḥ|מִזְבֵּחַ|miz•bēaḥ|altar of",
+        "8||heb-esvri-Mal-t-gr4dqqy|@np|Lord's|יְהוָ֔ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "9|h1065|heb-esvri-Mal-t-gr4doce|@ncmsa|weeping|בְּכִ֖י|bə•ḵiy|בְּכִי|bə•ḵiy|weeping",
+        "10||heb-esvri-Mal-t-gr4dopy|@Pc|and|וַֽ|wa|וְ|wə|and",
+        "11||heb-esvri-Mal-t-gr4dope|@ncfsa|groaning|אֲנָקָ֑ה|ʾă•nā•qāh|אֲנָקָה|ʾă•nā•qāh|groan",
+        "12|h4480|heb-esvri-Mal-t-gr4doqy|@Pp|because|מֵ|mē|מִן|min|from",
+        "13|h370|heb-esvri-Mal-t-gr4doqe|@Pd|no|אֵ֣ין|ʾēyn|אַיִן|ʾa•yin|there is not",
+        "14|h5750|heb-esvri-Mal-t-gr4d1co|@Pd|longer|עֹ֗וד|ʿōwḏ|עֹוד|ʿōwḏ|longer",
+        "15|h6437|heb-esvri-Mal-t-gr4d1pe|@vqc|regards|פְּנֹות֙|pə•nōwṯ|פנה|pnh|to face",
+        "16||heb-esvri-Mal-t-gr4d1qy|@Pp|•|אֶל־|ʾel-|אֶל|ʾel|to",
+        "17||heb-esvri-Mal-t-gr4uycy|@Pa|the|הַ|ha|הַ|ha|the",
+        "18|h4503|heb-esvri-Mal-t-gr4uyce|@ncfsa|offering|מִּנְחָ֔ה|m•min•ḥāh|מִנְחָה|min•ḥāh|offering",
+        "19||heb-esvri-Mal-t-gr4uypy|@Pc|or|וְ|wə|וְ|wə|or",
+        "20||heb-esvri-Mal-t-gr4uype|@Pp|accepts|לָ|lā|לְ|lə|to",
+        "21||heb-esvri-Mal-t-gr4uypo|@vqc|accepts|קַ֥חַת|qa•ḥaṯ|לקח|lqḥ|receive",
+        "22||heb-esvri-Mal-t-gr4uyqe|@ncmsa|favor|רָצֹ֖ון|rā•ṣōwn|רָצֹון|rā•ṣōwn|favor",
+        "23|h4481|heb-esvri-Mal-t-gr4unco|@Pp|from|מִ|mi|מִן|min|from",
+        "24|h3027|heb-esvri-Mal-t-gr4unca|@ncfscX2mp|hand|יֶּדְכֶֽם׃|y•yeḏ•ḵem|יָד|yāḏ|hand of"
+      ]
+    }
+  ],
+  "2:14": [
+    {
+      "o": 25742,
+      "r": "esvi:Malachi:2:14",
+      "p": [
+        "0||heb-esvri-Mal-t-gr4unqy|@Pc|But|וַ|wa|וְ|wə|but",
+        "1||heb-esvri-Mal-t-gr4unqe|@vqp2mp{2}|say|אֲמַרְתֶּ֖ם|ʾă•mar•tem|אמר|ʾmr|you say",
+        "2|h5922|heb-esvri-Mal-t-gr4urco|@Pp|Why does|עַל־|ʿal-|עַל|ʿal|on",
+        "3|h4101|heb-esvri-Mal-t-gr4urpy|@pii|Why does|מָ֑ה|māh|מָה|māh|what",
+        "4|h5921|heb-esvri-Mal-t-gr4urpa|@Pp|Because|עַ֡ל|ʿal|עַל|ʿal|on",
+        "5|h5921|heb-esvri-Mal-t-gr4ugcy|@Pc|Because|כִּי־|kiy-|כִּי|kiy|that",
+        "6||heb-esvri-Mal-t-gr4ugco|@np|Lord|יְהוָה֩|yəh•wāh|יהוה|yhwh|Yahweh",
+        "7||heb-esvri-Mal-t-gr4ugpe|@vhp3ms|witness|הֵעִ֨יד|hē•ʿiyḏ|עוד|ʿwd|he was witness",
+        "8|h996|heb-esvri-Mal-t-gr4ugqy|@PpX2ms|between|בֵּינְךָ֜|bēy•nə•ḵā|בַּיִן|ba•yin|between",
+        "10||heb-esvri-Mal-t-gr4ueco|@Pc|and|וּ|uw|וְ|wə|and",
+        "11||heb-esvri-Mal-t-gr4ueca|@Pp|•|בֵ֣ין׀|ḇēyn|בַּיִן|ba•yin|between",
+        "12|h802|heb-esvri-Mal-t-gr4uepo|@ncfsc|wife|אֵ֣שֶׁת|ʾē•šeṯ|אִשָּׁה|ʾiš•šāh|wife of",
+        "13||heb-esvri-Mal-t-gr4ueqe|@ncmpcX2ms|youth|נְעוּרֶ֗יךָ|nə•ʿuw•rey•ḵā|נְעוּרִים|nə•ʿuw•riym|youth of",
+        "15|h834|heb-esvri-Mal-t-gr4ukca|@Pr|whom|אֲשֶׁ֤ר|ʾă•šer|אֲשֶׁר|ʾă•šer|whom",
+        "16|h859|heb-esvri-Mal-t-gr4ukpo|@pi2ms|you|אַתָּה֙|ʾat•tāh|אַתָּה|ʾat•tāh|you",
+        "17||heb-esvri-Mal-t-gr4ukqe|@vqp2ms|faithless|בָּגַ֣דְתָּה|bā•ḡaḏ•tāh|בגד|bgd|you have been faithless",
+        "18||heb-esvri-Mal-t-gr4ucco|@PpX3fs|to|בָּ֔הּ|bāh|בְּ|bə|against",
+        "20||heb-esvri-Mal-t-gr4ucpo|@Pc|though|וְ|wə|וְ|wə|though",
+        "21||heb-esvri-Mal-t-gr4ucpa|@pi3fs|she|הִ֥יא|hiyʾ|הִיא|hiyʾ|she",
+        "22||heb-esvri-Mal-t-gr4uqcy|@ncfscX2ms|companion|חֲבֶרְתְּךָ֖|ḥă•ḇer•tə•ḵā|חֲבֶרֶת|ḥă•ḇe•reṯ|companion of",
+        "24||heb-esvri-Mal-t-gr4uqpy|@Pc|and|וְ|wə|וְ|wə|and",
+        "25|h802|heb-esvri-Mal-t-gr4uqpe|@ncfsc|wife|אֵ֥שֶׁת|ʾē•šeṯ|אִשָּׁה|ʾiš•šāh|wife of",
+        "26|h1285|heb-esvri-Mal-t-gr4uqqy|@ncfscX2ms|covenant|בְּרִיתֶֽךָ׃|bə•riy•ṯe•ḵā|בְּרִית|bə•riyṯ|covenant of"
+      ]
+    }
+  ],
+  "2:15": [
+    {
+      "o": 25743,
+      "r": "esvi:Malachi:2:15",
+      "p": [
+        "0||heb-esvri-Mal-t-gr4uoca|@Pc|•|וְ|wə|וְ|wə|and",
+        "1|h3808|heb-esvri-Mal-t-gr4uopy|@Pn|not|לֹא־|lōʾ-|לֹא|lōʾ|not",
+        "2|h259|heb-esvri-Mal-t-gr4uopo|@ucmsa|one|אֶחָ֣ד|ʾe•ḥāḏ|אֶחָד|ʾe•ḥāḏ|one",
+        "3||heb-esvri-Mal-t-gr4uoqe|@vqp3ms|make|עָשָׂ֗ה|ʿā•śāh|עשׂה|ʿśh|he has made",
+        "4||heb-esvri-Mal-t-gr4u1co|@Pc|with|וּ|uw|וְ|wə|with",
+        "5||heb-esvri-Mal-t-gr4u1ca|@ncmsc|portion|שְׁאָ֥ר|šə•ʾār|שְׁאָר|šə•ʾār|remnant of",
+        "6|h7308|heb-esvri-Mal-t-gr4u1po|@ncfsa|Spirit|ר֙וּחַ֙|ruwaḥ|רוּחַ|ruwaḥ|Spirit",
+        "7||heb-esvri-Mal-t-gr4u1qe|@PpX3ms|•|לֹ֔ו|lōw|לְ|lə|to",
+        "9||heb-esvri-Mal-t-gr5dyca|@Pc|And|וּ|uw|וְ|wə|and",
+        "10|h4101|heb-esvri-Mal-t-gr5dypy|@pii|what|מָה֙|māh|מָה|māh|what",
+        "11||heb-esvri-Mal-t-gr5dypa|@Pa|the|הָֽ|hā|הַ|ha|the",
+        "12|h259|heb-esvri-Mal-t-gr5dyqy|@ucmsa|one|אֶחָ֔ד|ʾe•ḥāḏ|אֶחָד|ʾe•ḥāḏ|one",
+        "13||heb-esvri-Mal-t-gr5dnce|@vpPmsa|seeking|מְבַקֵּ֖שׁ|mə•ḇaq•qēš|בקשׁ|bqš|seeking",
+        "14|h2233|heb-esvri-Mal-t-gr5dnpy|@ncmsc|offspring|זֶ֣רַע|ze•raʿ|זֶרַע|ze•raʿ|seed of",
+        "15|h430|heb-esvri-Mal-t-gr5dnpa|@ncmpa|Godly|אֱלֹהִ֑ים|ʾĕ•lō•hiym|אֱלֹהִים|ʾĕ•lō•hiym|God",
+        "16||heb-esvri-Mal-t-gr5drcy|@Pc|So|וְ|wə|וְ|wə|so",
+        "17||heb-esvri-Mal-t-gr5drce|@vnp2mp{2}|guard|נִשְׁמַרְתֶּם֙|niš•mar•tem|שׁמר|šmr|you are to guard yourselves",
+        "18||heb-esvri-Mal-t-gr5drpy|@Pp|in|בְּ|bə|בְּ|bə|in",
+        "19|h7308|heb-esvri-Mal-t-gr5drpe|@ncfscX2mp|spirit|ר֣וּחֲכֶ֔ם|ruw•ḥă•ḵem|רוּחַ|ruwaḥ|spirit of",
+        "21||heb-esvri-Mal-t-gr5drqe|@Pc|and|וּ|uw|וְ|wə|and",
+        "22||heb-esvri-Mal-t-gr5dgcy|@Pp|to|בְ|ḇə|בְּ|bə|against",
+        "23|h802|heb-esvri-Mal-t-gr5dgce|@ncfsc|wife|אֵ֥שֶׁת|ʾē•šeṯ|אִשָּׁה|ʾiš•šāh|wife of",
+        "24||heb-esvri-Mal-t-gr5dgpy|@ncmpcX2ms|youth|נְעוּרֶ֖יךָ|nə•ʿuw•rey•ḵā|נְעוּרִים|nə•ʿuw•riym|youth of",
+        "26|h409|heb-esvri-Mal-t-gr5dgqy|@Pd|none|אַל־|ʾal-|אַל|ʾal|not",
+        "27||heb-esvri-Mal-t-gr5decy|@vqi3ms{1}Jm|faithless|יִבְגֹּֽד׃|yiḇ•gōḏ|בגד|bgd|he is to be faithless"
+      ]
+    }
+  ],
+  "2:16": [
+    {
+      "o": 25744,
+      "r": "esvi:Malachi:2:16",
+      "p": [
+        "0|h3588|heb-esvri-Mal-t-gr5depy|@Pc|For|כִּֽי־|kiy-|כִּי|kiy|for",
+        "1||heb-esvri-Mal-t-gr5depo|@vqp3ms|the man who does not love|שָׂנֵ֣א|śā•nēʾ|שׂנא|śnʾ|he hates",
+        "2||heb-esvri-Mal-t-gr5deqe|@vpc|divorces|שַׁלַּ֗ח|šal•laḥ|שׁלח|šlḥ|to send out",
+        "3|h559|heb-esvri-Mal-t-gr5dkco|@vqp3ms|says|אָמַ֤ר|ʾā•mar|אמר|ʾmr|he says",
+        "4||heb-esvri-Mal-t-gr5dkpe|@np|Lord|יְהוָה֙|yəh•wāh|יהוה|yhwh|Yahweh",
+        "5|h430|heb-esvri-Mal-t-gr5dkqy|@ncmpc|God|אֱלֹהֵ֣י|ʾĕ•lō•hēy|אֱלֹהִים|ʾĕ•lō•hiym|God of",
+        "6|h3479|heb-esvri-Mal-t-gr5dcce|@np|Israel|יִשְׂרָאֵ֔ל|yiś•rā•ʾēl|יִשְׂרָאֵל|yiś•rā•ʾēl|Israel",
+        "7||heb-esvri-Mal-t-gr5dcpy|@Pc|•|וְ|wə|וְ|wə|and",
+        "8||heb-esvri-Mal-t-gr5dcpe|@vpp3ms{2}|covers|כִסָּ֤ה|ḵis•sāh|כסה|ksh|he covers",
+        "9|h2555|heb-esvri-Mal-t-gr5dcqy|@ncmsa|violence|חָמָס֙|ḥā•mās|חָמָס|ḥā•mās|violence",
+        "10|h5922|heb-esvri-Mal-t-gr5dqce|@Pp|•|עַל־|ʿal-|עַל|ʿal|on",
+        "11|h3830|heb-esvri-Mal-t-gr5dqca|@ncmscX3ms|garment|לְבוּשֹׁ֔ו|lə•ḇuw•šōw|לְבוּשׁ|lə•ḇuwš|garment of",
+        "13|h559|heb-esvri-Mal-t-gr5dqpa|@vqp3ms|says|אָמַ֖ר|ʾā•mar|אמר|ʾmr|he says",
+        "14||heb-esvri-Mal-t-gr5docy|@np|Lord|יְהוָ֣ה|yəh•wāh|יהוה|yhwh|Yahweh of",
+        "15|h6635|heb-esvri-Mal-t-gr5doca|@ncbpa|hosts|צְבָאֹ֑ות|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts",
+        "16||heb-esvri-Mal-t-gr5dopo|@Pc|So|וְ|wə|וְ|wə|so",
+        "17||heb-esvri-Mal-t-gr5dopa|@vnp2mp{2}|guard|נִשְׁמַרְתֶּ֥ם|niš•mar•tem|שׁמר|šmr|you are to guard yourselves",
+        "18||heb-esvri-Mal-t-gr5d1cy|@Pp|in|בְּ|bə|בְּ|bə|in",
+        "19|h7308|heb-esvri-Mal-t-gr5d1ce|@ncfscX2mp|spirit|רוּחֲכֶ֖ם|ruw•ḥă•ḵem|רוּחַ|ruwaḥ|spirit of",
+        "21||heb-esvri-Mal-t-gr5d1pe|@Pc|and|וְ|wə|וְ|wə|and",
+        "22|h3808|heb-esvri-Mal-t-gr5d1po|@Pn|not|לֹ֥א|lōʾ|לֹא|lōʾ|not",
+        "23||heb-esvri-Mal-t-gr5d1qe|@vqi2mp|faithless|תִבְגֹּֽדוּ׃|ṯiḇ•gō•ḏuw|בגד|bgd|you are to be faithless"
+      ]
+    },
+    {
+      "o": 25745,
+      "r": "esvi:Malachi:2:16",
+      "h": 2,
+      "t": "The Messenger of the Lord",
+      "p": []
+    }
+  ],
+  "2:17": [
+    {
+      "o": 25746,
+      "r": "esvi:Malachi:2:17",
+      "p": [
+        "0||heb-esvri-Mal-t-gr5uypo|@vhp2mp|wearied|הֹוגַעְתֶּ֤ם|hōw•ḡaʿ•tem|יגע|ygʿ|you have wearied",
+        "1||heb-esvri-Mal-t-gr5uyqe|@np|Lord|יְהוָה֙|yəh•wāh|יהוה|yhwh|Yahweh",
+        "2||heb-esvri-Mal-t-gr5unco|@Pp|with|בְּ|bə|בְּ|bə|with",
+        "3|h1697|heb-esvri-Mal-t-gr5unca|@ncmpcX2mp|words|דִבְרֵיכֶ֔ם|ḏiḇ•rēy•ḵem|דָּבָר|dā•ḇār|words of",
+        "5||heb-esvri-Mal-t-gr5unpa|@Pc|But|וַ|wa|וְ|wə|but",
+        "6||heb-esvri-Mal-t-gr5unqy|@vqp2mp{2}|say|אֲמַרְתֶּ֖ם|ʾă•mar•tem|אמר|ʾmr|you say",
+        "7|h4100|heb-esvri-Mal-t-gr5urce|@Pp|How|בַּ|ba|בְּ|bə|with",
+        "8|h4100|heb-esvri-Mal-t-gr5urco|@pii|How|מָּ֣ה|m•māh|מָה|māh|what",
+        "9||heb-esvri-Mal-t-gr5urpe|@vhp1cp|wearied|הֹוגָ֑עְנוּ|hōw•ḡā•ʿə•nuw|יגע|ygʿ|we have wearied",
+        "10||heb-esvri-Mal-t-gr5urqy|@Pp|By|בֶּ|be|בְּ|bə|by",
+        "11||heb-esvri-Mal-t-gr5urqe|@vqcX2mp|saying|אֱמָרְכֶ֗ם|ʾĕ•mor•ḵem|אמר|ʾmr|to say",
+        "13|h3605|heb-esvri-Mal-t-gr5ugca|@ncmsc|Everyone|כָּל־|kol-|כֹּל|kōl|every of",
+        "14||heb-esvri-Mal-t-gr5ugpe|@vqPmsc|does|עֹ֨שֵׂה|ʿō•śēh|עשׂה|ʿśh|one doing",
+        "15|h7451|heb-esvri-Mal-t-gr5ugqy|@amsa|evil|רָ֜ע|rāʿ|רַע|raʿ|evil",
+        "16||heb-esvri-Mal-t-gr5uece|@amsa|good|טֹ֣וב׀|ṭōwḇ|טֹוב|ṭōwḇ|good",
+        "17||heb-esvri-Mal-t-gr5uepy|@Pp|in|בְּ|bə|בְּ|bə|in",
+        "18|h5871|heb-esvri-Mal-t-gr5uepe|@ncbdc|sight|עֵינֵ֣י|ʿēy•nēy|עַיִן|ʿa•yin|eyes of",
+        "19||heb-esvri-Mal-t-gr5ueqy|@np|Lord|יְהוָ֗ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "20||heb-esvri-Mal-t-gr5ukce|@Pc|and|וּ|uw|וְ|wə|and",
+        "21||heb-esvri-Mal-t-gr5ukco|@PpX3mp|in|בָהֶם֙|ḇā•hem|בְּ|bə|in",
+        "23|h1932|heb-esvri-Mal-t-gr5ukpo|@pi3ms|he|ה֣וּא|huwʾ|הוּא|huwʾ|he",
+        "24||heb-esvri-Mal-t-gr5ukqe|@vqp3ms|delights|חָפֵ֔ץ|ḥā•p̄ēṣ|חפץ|ḥpṣ|he delights",
+        "25||heb-esvri-Mal-t-gr5ucco|@Pc|Or|אֹ֥ו|ʾōw|אֹו|ʾōw|or",
+        "26|h346|heb-esvri-Mal-t-gr5ucpe|@Pg|Where|אַיֵּ֖ה|ʾay•yēh|אַיֵּה|ʾay•yēh|where",
+        "27|h430|heb-esvri-Mal-t-gr5ucqy|@ncmpc|God|אֱלֹהֵ֥י|ʾĕ•lō•hēy|אֱלֹהִים|ʾĕ•lō•hiym|God of",
+        "28||heb-esvri-Mal-t-gr5uqce|@Pa|justice|הַ|ha|הַ|ha|the",
+        "29|h4941|heb-esvri-Mal-t-gr5uqco|@ncmsa|justice|מִּשְׁפָּֽט׃|m•miš•pāṭ|מִשְׁפָּט|miš•pāṭ|justice"
+      ]
+    }
+  ],
+  "3:0": [
+    {
+      "o": 25747,
+      "r": "esvi:Malachi:3:0",
+      "h": 1,
+      "t": "Malachi 3",
+      "p": []
+    }
+  ],
+  "3:1": [
+    {
+      "o": 25748,
+      "r": "esvi:Malachi:3:1",
+      "p": [
+        "0|h2009|heb-esvri-Mal-t-gr5uqpa|@PiX1cs|Behold|הִנְנִ֤י|hi•nə•niy|הִנֵּה|hin•nēh|behold",
+        "2||heb-esvri-Mal-t-gr5uoce|@vqPmsa|send|שֹׁלֵחַ֙|šō•lēaḥ|שׁלח|šlḥ|sending",
+        "3||heb-esvri-Mal-t-gr5uopy|@ncmscX1cs|messenger|מַלְאָכִ֔י|mal•ʾā•ḵiy|מַלְאָךְ|mal•ʾāḵ|messenger of",
+        "5||heb-esvri-Mal-t-gr5uoqy|@Pc|and|וּ|uw|וְ|wə|and",
+        "6||heb-esvri-Mal-t-gr5uoqe|@vpp3ms{2}|prepare|פִנָּה־|p̄in•nāh-|פנה|pnh|he will prepare",
+        "7|h1870|heb-esvri-Mal-t-gr5u1ce|@ncbsa|way|דֶ֖רֶךְ|ḏe•reḵ|דֶּרֶךְ|de•reḵ|way",
+        "8|h6440|heb-esvri-Mal-t-gr5u1py|@Pp|before|לְ|lə|לְ|lə|",
+        "9|h6440|heb-esvri-Mal-t-gr5u1pe|@ncbpcX1cs|before|פָנָ֑י|p̄ā•nāy|פָּנֶה|pā•neh|before",
+        "11||heb-esvri-Mal-t-gr5u1qe|@Pc|And|וּ|uw|וְ|wə|and",
+        "12||heb-esvri-Mal-t-grhdycy|@Pd|suddenly|פִתְאֹם֩|p̄iṯ•ʾōm|פִּתְאֹם|piṯ•ʾōm|suddenly",
+        "13|h935|heb-esvri-Mal-t-grhdyca|@vqi3msXa|come|יָבֹ֨וא|yā•ḇōwʾ|בוא|bwʾ|he will come",
+        "14||heb-esvri-Mal-t-grhdypo|@Pp|to|אֶל־|ʾel-|אֶל|ʾel|to",
+        "15|h1964|heb-esvri-Mal-t-grhdyqy|@ncmscX3ms|temple|הֵיכָלֹ֜ו|hēy•ḵā•lōw|הֵיכָל|hēy•ḵāl|temple of",
+        "17||heb-esvri-Mal-t-grhdnco|@Pa|the|הָ|hā|הַ|ha|the",
+        "18||heb-esvri-Mal-t-grhdnca|@ncmsa|Lord|אָדֹ֣ון׀|ʾā•ḏōwn|אָדֹון|ʾā•ḏōwn|Lord",
+        "19|h834|heb-esvri-Mal-t-grhdnpo|@Pr|whom|אֲשֶׁר־|ʾă•šer-|אֲשֶׁר|ʾă•šer|whom",
+        "20||heb-esvri-Mal-t-grhdnqy|@pi2mp|you|אַתֶּ֣ם|ʾat•tem|אַתֶּם|ʾat•tem|you",
+        "21||heb-esvri-Mal-t-grhdrce|@vpPmpa|seek|מְבַקְשִׁ֗ים|mə•ḇaq•šiym|בקשׁ|bqš|seeking",
+        "22||heb-esvri-Mal-t-grhdrpy|@Pc|and|וּ|uw|וְ|wə|and",
+        "23||heb-esvri-Mal-t-grhdrpe|@ncmsc|messenger|מַלְאַ֨ךְ|mal•ʾaḵ|מַלְאָךְ|mal•ʾāḵ|messenger of",
+        "24||heb-esvri-Mal-t-grhdrqy|@Pa|the|הַ|ha|הַ|ha|the",
+        "25|h1285|heb-esvri-Mal-t-grhdrqe|@ncfsa|covenant|בְּרִ֜ית|b•bə•riyṯ|בְּרִית|bə•riyṯ|covenant",
+        "26|h834|heb-esvri-Mal-t-grhdgco|@Pr|whom|אֲשֶׁר־|ʾă•šer-|אֲשֶׁר|ʾă•šer|whom",
+        "27||heb-esvri-Mal-t-grhdgpy|@pi2mp|you|אַתֶּ֤ם|ʾat•tem|אַתֶּם|ʾat•tem|you",
+        "28|h2655|heb-esvri-Mal-t-grhdgpa|@ampa|delight|חֲפֵצִים֙|ḥă•p̄ē•ṣiym|חָפֵץ|ḥā•p̄ēṣ|delighted",
+        "29|h2009|heb-esvri-Mal-t-grhdecy|@Pi|behold|הִנֵּה־|hin•nēh-|הִנֵּה|hin•nēh|behold",
+        "30||heb-esvri-Mal-t-grhdeco|@vqPmsa|coming|בָ֔א|ḇāʾ|בוא|bwʾ|coming",
+        "31|h559|heb-esvri-Mal-t-grhdepe|@vqp3ms|says|אָמַ֖ר|ʾā•mar|אמר|ʾmr|he says",
+        "32||heb-esvri-Mal-t-grhdeqy|@np|Lord|יְהוָ֥ה|yəh•wāh|יהוה|yhwh|Yahweh of",
+        "33|h6635|heb-esvri-Mal-t-grhdkce|@ncbpa|hosts|צְבָאֹֽות׃|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts"
+      ]
+    }
+  ],
+  "3:2": [
+    {
+      "o": 25749,
+      "r": "esvi:Malachi:3:2",
+      "p": [
+        "0||heb-esvri-Mal-t-grhdkpe|@Pc|But|וּ|uw|וְ|wə|but",
+        "1|h4310|heb-esvri-Mal-t-grhdkpo|@pii|who|מִ֤י|miy|מִי|miy|who",
+        "2||heb-esvri-Mal-t-grhdkqe|@vdPmsa|endure|מְכַלְכֵּל֙|mə•ḵal•kēl|כול|kwl|enduring",
+        "3|h854|heb-esvri-Mal-t-grhdcco|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "4||heb-esvri-Mal-t-grhdcpy|@ncmsc|day|יֹ֣ום|yōwm|יֹום|yōwm|day of",
+        "5||heb-esvri-Mal-t-grhdcpa|@vqcX3ms|coming|בֹּואֹ֔ו|bōw•ʾōw|בוא|bwʾ|to come",
+        "7||heb-esvri-Mal-t-grhdqce|@Pc|and|וּ|uw|וְ|wə|and",
+        "8|h4310|heb-esvri-Mal-t-grhdqco|@pii|who|מִ֥י|miy|מִי|miy|who",
+        "9||heb-esvri-Mal-t-grhdqpe|@Pa|stand|הָ|hā|הַ|ha|the",
+        "10||heb-esvri-Mal-t-grhdqpo|@vqPmsa|stand|עֹמֵ֖ד|ʿō•mēḏ|עמד|ʿmd|one standing",
+        "11||heb-esvri-Mal-t-grhdqqe|@Pp|when|בְּ|bə|בְּ|bə|when",
+        "12||heb-esvri-Mal-t-grhdocy|@vncX3ms|appears|הֵרָֽאֹותֹ֑ו|hē•rā•ʾōw•ṯōw|ראה|rʾh|to appear",
+        "14|h3588|heb-esvri-Mal-t-grhdopy|@Pc|For|כִּֽי־|kiy-|כִּי|kiy|for",
+        "15|h1932|heb-esvri-Mal-t-grhdopo|@pi3ms|he|הוּא֙|huwʾ|הוּא|huwʾ|he",
+        "16||heb-esvri-Mal-t-grhdoqe|@Pp|like|כְּ|kə|כְּ|kə|like",
+        "17|h784|heb-esvri-Mal-t-grhd1cy|@ncbsc|fire|אֵ֣שׁ|ʾēš|אֵשׁ|ʾēš|fire",
+        "18||heb-esvri-Mal-t-grhd1ca|@vpPmsa|refiner's|מְצָרֵ֔ף|mə•ṣā•rēp̄|צרף|ṣrp|one refining",
+        "19||heb-esvri-Mal-t-grhd1po|@Pc|and|וּ|uw|וְ|wə|and",
+        "20||heb-esvri-Mal-t-grhd1pa|@Pp|like|כְ|ḵə|כְּ|kə|like",
+        "21|h1287|heb-esvri-Mal-t-grhd1qy|@ncfsc|soap|בֹרִ֖ית|ḇō•riyṯ|בֹּרִית|bō•riyṯ|soap",
+        "22||heb-esvri-Mal-t-grhuyce|@vpPmpa|fullers'|מְכַבְּסִֽים׃|mə•ḵab•bə•siym|כבס|kbs|ones washing"
+      ]
+    }
+  ],
+  "3:3": [
+    {
+      "o": 25750,
+      "r": "esvi:Malachi:3:3",
+      "p": [
+        "0||heb-esvri-Mal-t-grhuype|@Pc|•|וְ|wə|וְ|wə|and",
+        "1||heb-esvri-Mal-t-grhuypo|@vqp3ms{2}|sit|יָשַׁ֨ב|yā•šaḇ|ישׁב|yšb|he will sit",
+        "2||heb-esvri-Mal-t-grhuyqe|@vpPmsa|refiner|מְצָרֵ֤ף|mə•ṣā•rēp̄|צרף|ṣrp|one refining",
+        "3||heb-esvri-Mal-t-grhunco|@Pc|and|וּ|uw|וְ|wə|and",
+        "4||heb-esvri-Mal-t-grhunca|@vpPmsa|purifier|מְטַהֵר֙|mə•ṭa•hēr|טהר|ṭhr|purifying",
+        "5|h3701|heb-esvri-Mal-t-grhunpo|@ncmsa|silver|כֶּ֔סֶף|ke•sep̄|כֶּסֶף|ke•sep̄|silver",
+        "6||heb-esvri-Mal-t-grhunqe|@Pc|and|וְ|wə|וְ|wə|and",
+        "7||heb-esvri-Mal-t-grhurcy|@vpp3ms{2}|purify|טִהַ֤ר|ṭi•har|טהר|ṭhr|he will purify",
+        "8|h854|heb-esvri-Mal-t-grhurca|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "9|h1121|heb-esvri-Mal-t-grhurpe|@ncmpc|sons|בְּנֵֽי־|bə•nēy-|בֵּן|bēn|sons of",
+        "10|h3879|heb-esvri-Mal-t-grhurpa|@np|Levi|לֵוִי֙|lē•wiy|לֵוִי|lē•wiy|Levi",
+        "11||heb-esvri-Mal-t-grhugcy|@Pc|and|וְ|wə|וְ|wə|and",
+        "12||heb-esvri-Mal-t-grhugce|@vpp3ms{2}|refine|זִקַּ֣ק|ziq•qaq|זקק|zqq|he will refine",
+        "13|h854|heb-esvri-Mal-t-grhugpy|@PoX3mp|•|אֹתָ֔ם|ʾō•ṯām|אֵת|ʾēṯ|",
+        "15||heb-esvri-Mal-t-grhugqy|@Pp|like|כַּ|ka|כְּ|kə|like",
+        "17|h2091|heb-esvri-Mal-t-grhuecy|@ncmsa|gold|זָּהָ֖ב|z•zā•hāḇ|זָהָב|zā•hāḇ|gold",
+        "18||heb-esvri-Mal-t-grhueca|@Pc|and|וְ|wə|וְ|wə|and",
+        "19||heb-esvri-Mal-t-grhuepy|@Pp|•|כַ|ḵa|כְּ|kə|like",
+        "21|h3701|heb-esvri-Mal-t-grhuepo|@ncmsa|silver|כָּ֑סֶף|k•kā•sep̄|כֶּסֶף|ke•sep̄|silver",
+        "22||heb-esvri-Mal-t-grhueqe|@Pc|and|וְ|wə|וְ|wə|and",
+        "23||heb-esvri-Mal-t-grhukcy|@vqp3cp{2}|•|הָיוּ֙|hā•yuw|היה|hyh|they will be",
+        "24||heb-esvri-Mal-t-grhukca|@Pp|to|לַֽ|la|לְ|lə|to",
+        "25||heb-esvri-Mal-t-grhukpy|@np|Lord|יהוָ֔ה|yh•wāh|יהוה|yhwh|Yahweh",
+        "26||heb-esvri-Mal-t-grhukpa|@vhPmpc|bring|מַגִּישֵׁ֥י|mag•giy•šēy|נגשׁ|ngš|ones bringing of",
+        "27|h4503|heb-esvri-Mal-t-grhuccy|@ncfsa|offerings|מִנְחָ֖ה|min•ḥāh|מִנְחָה|min•ḥāh|offering",
+        "28||heb-esvri-Mal-t-grhucca|@Pp|in|בִּ|bi|בְּ|bə|in",
+        "29|h6666|heb-esvri-Mal-t-grhucpy|@ncfsa|righteousness|צְדָקָֽה׃|ṣ•ḏā•qāh|צְדָקָה|ṣə•ḏā•qāh|righteousness"
+      ]
+    }
+  ],
+  "3:4": [
+    {
+      "o": 25751,
+      "r": "esvi:Malachi:3:4",
+      "p": [
+        "0||heb-esvri-Mal-t-grhucqy|@Pc|Then|וְ|wə|וְ|wə|then",
+        "1||heb-esvri-Mal-t-grhucqe|@vqp3fs{2}|pleasing|עָֽרְבָה֙|ʿā•rə•ḇāh|ערב|ʿrb|she will be pleasing",
+        "2||heb-esvri-Mal-t-grhuqco|@Pp|to|לַֽ|la|לְ|lə|to",
+        "3||heb-esvri-Mal-t-grhuqca|@np|Lord|יהוָ֔ה|yh•wāh|יהוה|yhwh|Yahweh",
+        "4|h4503|heb-esvri-Mal-t-grhuqpo|@ncfsc|offering|מִנְחַ֥ת|min•ḥaṯ|מִנְחָה|min•ḥāh|offering of",
+        "5|h3063|heb-esvri-Mal-t-grhuqqe|@np|Judah|יְהוּדָ֖ה|yə•huw•ḏāh|יְהוּדָה|yə•huw•ḏāh|Judah",
+        "6||heb-esvri-Mal-t-grhuoco|@Pc|and|וִ|wi|וְ|wə|and",
+        "7||heb-esvri-Mal-t-grhuoca|@np|Jerusalem|ירֽוּשָׁלִָ֑ם|y•ruw•šā•lāim|יְרוּשָׁלִַם|yə•ruw•šā•laim|Jerusalem",
+        "8||heb-esvri-Mal-t-grhuopo|@Pp|as|כִּ|ki|כְּ|kə|as",
+        "9||heb-esvri-Mal-t-grhuopa|@ncmpc|days|ימֵ֣י|y•mēy|יֹום|yōwm|days of",
+        "10||heb-esvri-Mal-t-grhu1cy|@ncmsa|old|עֹולָ֔ם|ʿōw•lām|עֹולָם|ʿōw•lām|ancient time",
+        "11||heb-esvri-Mal-t-grhu1ca|@Pc|and|וּ|uw|וְ|wə|and",
+        "12||heb-esvri-Mal-t-grhu1py|@Pp|as|כְ|ḵə|כְּ|kə|as",
+        "13|h8141|heb-esvri-Mal-t-grhu1pe|@ncfpa|years|שָׁנִ֖ים|šā•niym|שָׁנָה|šā•nāh|years",
+        "14||heb-esvri-Mal-t-grhu1qy|@afpa|former|קַדְמֹנִיֹּֽות׃|qaḏ•mō•niy•yōwṯ|קַדְמֹנִי|qaḏ•mō•niy|former"
+      ]
+    }
+  ],
+  "3:5": [
+    {
+      "o": 25752,
+      "r": "esvi:Malachi:3:5",
+      "p": [
+        "0||heb-esvri-Mal-t-geadyco|@Pc|Then|וְ|wə|וְ|wə|then",
+        "1|h7126|heb-esvri-Mal-t-geadyca|@vqp1cs{2}|near|קָרַבְתִּ֣י|qā•raḇ•tiy|קרב|qrb|I will draw near",
+        "2||heb-esvri-Mal-t-geadypo|@PpX2mp|to|אֲלֵיכֶם֮|ʾă•lēy•ḵem|אֶל|ʾel|to",
+        "4||heb-esvri-Mal-t-geadncy|@Pp|for|לַ|la|לְ|lə|for",
+        "6|h4941|heb-esvri-Mal-t-geadnco|@ncmsa|judgment|מִּשְׁפָּט֒|m•miš•pāṭ|מִשְׁפָּט|miš•pāṭ|judgment",
+        "7||heb-esvri-Mal-t-geadnpe|@Pc|•|וְ|wə|וְ|wə|and",
+        "8||heb-esvri-Mal-t-geadnpo|@vqp1cs{2}|be|הָיִ֣יתִי׀|hā•yiy•ṯiy|היה|hyh|I will be",
+        "9|h5707|heb-esvri-Mal-t-geadnqe|@ncmsa|witness|עֵ֣ד|ʿēḏ|עֵד|ʿēḏ|witness",
+        "10||heb-esvri-Mal-t-geadrco|@vpPmsa|swift|מְמַהֵ֗ר|mə•ma•hēr|מהר|mhr|being swift",
+        "11||heb-esvri-Mal-t-geadrpe|@Pp|against|בַּֽ|ba|בְּ|bə|against",
+        "13||heb-esvri-Mal-t-geadrpa|@vpPmpa|sorcerers|מְכַשְּׁפִים֙|m•ḵaš•šə•p̄iym|כשׁף|kšp|ones practicing sorcery",
+        "14||heb-esvri-Mal-t-geadgcy|@Pc|•|וּ|uw|וְ|wə|and",
+        "15||heb-esvri-Mal-t-geadgce|@Pp|against|בַ|ḇa|בְּ|bə|against",
+        "17||heb-esvri-Mal-t-geadgca|@vpPmpa|adulterers|מְנָ֣אֲפִ֔ים|m•nā•ʾă•p̄iym|נאף|nʾp|ones committing adultery",
+        "18||heb-esvri-Mal-t-geadgpo|@Pc|•|וּ|uw|וְ|wə|and",
+        "19||heb-esvri-Mal-t-geadgpa|@Pp|against|בַ|ḇa|בְּ|bə|against",
+        "21||heb-esvri-Mal-t-geadgqe|@vnPmpa|swear|נִּשְׁבָּעִ֖ים|n•niš•bā•ʿiym|שׁבע|šbʿ|ones swearing",
+        "22|h8267|heb-esvri-Mal-t-geadeco|@Pp|falsely|לַ|la|לְ|lə|to",
+        "24|h8267|heb-esvri-Mal-t-geadepy|@ncmsa|falsely|שָּׁ֑קֶר|š•šā•qer|שֶׁקֶר|še•qer|falsehood",
+        "25||heb-esvri-Mal-t-geadepa|@Pc|•|וּ|uw|וְ|wə|and",
+        "26||heb-esvri-Mal-t-geadeqy|@Pp|against|בְ|ḇə|בְּ|bə|against",
+        "27||heb-esvri-Mal-t-geadeqe|@vqPmpc|oppress|עֹשְׁקֵ֣י|ʿō•šə•qēy|עשׁק|ʿšq|ones oppressing of",
+        "28|h7939|heb-esvri-Mal-t-geadkco|@ncmsc|wages|שְׂכַר־|śə•ḵar-|שָׂכָר|śā•ḵār|wage of",
+        "29|h7916|heb-esvri-Mal-t-geadkpy|@ncmsa|hired|שָׂ֠כִיר|śā•ḵiyr|שָׂכִיר|śā•ḵiyr|hired one",
+        "30|h490|heb-esvri-Mal-t-geadkpa|@ncfsa|widow|אַלְמָנָ֨ה|ʾal•mā•nāh|אַלְמָנָה|ʾal•mā•nāh|widow",
+        "31||heb-esvri-Mal-t-geadccy|@Pc|and|וְ|wə|וְ|wə|and",
+        "32||heb-esvri-Mal-t-geadcce|@ncmsa|fatherless|יָתֹ֤ום|yā•ṯōwm|יָתֹום|yā•ṯōwm|orphan",
+        "33||heb-esvri-Mal-t-geadcpy|@Pc|•|וּ|uw|וְ|wə|and",
+        "34|h5186|heb-esvri-Mal-t-geadcpe|@vhPmpc|aside|מַטֵּי־|maṭ•ṭēy-|נטה|nṭh|ones thrusting aside of",
+        "35||heb-esvri-Mal-t-geadcpa|@ncmsa|sojourner|גֵר֙|ḡēr|גֵּר|gēr|sojourner",
+        "36||heb-esvri-Mal-t-geadqcy|@Pc|and|וְ|wə|וְ|wə|and",
+        "37|h3808|heb-esvri-Mal-t-geadqce|@Pn|not|לֹ֣א|lōʾ|לֹא|lōʾ|not",
+        "38||heb-esvri-Mal-t-geadqpy|@vqp3cpX1cs|fear|יְרֵא֔וּנִי|yə•rē•ʾuw•niy|ירא|yrʾ|they fear",
+        "40||heb-esvri-Mal-t-geadqqy|@vqp3ms|says|אָמַ֖ר|ʾā•mar|אמר|ʾmr|he says",
+        "41||heb-esvri-Mal-t-geadoce|@np|Lord|יְהוָ֥ה|yəh•wāh|יהוה|yhwh|Yahweh of",
+        "42|h6635|heb-esvri-Mal-t-geadopy|@ncbpa|hosts|צְבָאֹֽות׃|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts"
+      ]
+    },
+    {
+      "o": 25753,
+      "r": "esvi:Malachi:3:5",
+      "h": 2,
+      "t": "Robbing God",
+      "p": []
+    }
+  ],
+  "3:6": [
+    {
+      "o": 25754,
+      "r": "esvi:Malachi:3:6",
+      "p": [
+        "0|h3588|heb-esvri-Mal-t-geadoqy|@Pc|For|כִּ֛י|kiy|כִּי|kiy|for",
+        "1|h589|heb-esvri-Mal-t-gead1ce|@pi1cs|I|אֲנִ֥י|ʾă•niy|אֲנִי|ʾă•niy|I",
+        "2||heb-esvri-Mal-t-gead1py|@np|Lord|יְהוָ֖ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "3|h3808|heb-esvri-Mal-t-gead1pa|@Pn|not|לֹ֣א|lōʾ|לֹא|lōʾ|not",
+        "4||heb-esvri-Mal-t-geauycy|@vqp1cs|change|שָׁנִ֑יתִי|šā•niy•ṯiy|שׁנה|šnh|I change",
+        "5||heb-esvri-Mal-t-geauyca|@Pc|therefore|וְ|wə|וְ|wə|therefore",
+        "6||heb-esvri-Mal-t-geauypy|@pi2mp|you|אַתֶּ֥ם|ʾat•tem|אַתֶּם|ʾat•tem|you",
+        "7|h1121|heb-esvri-Mal-t-geauypa|@ncmpc|children|בְּנֵֽי־|bə•nēy-|בֵּן|bēn|children of",
+        "8|h3290|heb-esvri-Mal-t-geauyqe|@np|Jacob|יַעֲקֹ֖ב|ya•ʿă•qōḇ|יַעֲקֹב|ya•ʿă•qōḇ|Jacob",
+        "9|h3808|heb-esvri-Mal-t-geaunco|@Pn|not|לֹ֥א|lōʾ|לֹא|lōʾ|not",
+        "10||heb-esvri-Mal-t-geaunpe|@vqp2mp|consumed|כְלִיתֶֽם׃|ḵə•liy•ṯem|כלה|klh|you are finished"
+      ]
+    }
+  ],
+  "3:7": [
+    {
+      "o": 25755,
+      "r": "esvi:Malachi:3:7",
+      "p": [
+        "0||heb-esvri-Mal-t-geaunqe|@Pp|From|לְ|lə|לְ|lə|",
+        "1|h4481|heb-esvri-Mal-t-geaurcy|@Pp|From|מִ|mi|מִן|min|from",
+        "2||heb-esvri-Mal-t-geaurce|@ncmpc|days|ימֵ֨י|y•mēy|יֹום|yōwm|days of",
+        "3|h1|heb-esvri-Mal-t-geaurpy|@ncmpcX2mp|fathers|אֲבֹתֵיכֶ֜ם|ʾă•ḇō•ṯēy•ḵem|אָב|ʾāḇ|fathers of",
+        "5||heb-esvri-Mal-t-geaurqy|@vqp2mp|turned|סַרְתֶּ֤ם|sar•tem|סור|swr|you have turned aside",
+        "6|h4481|heb-esvri-Mal-t-geaugce|@Pp|from|מֵֽ|mē|מִן|min|from",
+        "7|h2706|heb-esvri-Mal-t-geaugco|@ncmpcX1cs|statutes|חֻקַּי֙|ḥuq•qay|חֹק|ḥōq|statutes of",
+        "9||heb-esvri-Mal-t-geaugpo|@Pc|and|וְ|wə|וְ|wə|and",
+        "10|h3808|heb-esvri-Mal-t-geaugpa|@Pn|not|לֹ֣א|lōʾ|לֹא|lōʾ|not",
+        "11||heb-esvri-Mal-t-geauecy|@vqp2mp|kept|שְׁמַרְתֶּ֔ם|šə•mar•tem|שׁמר|šmr|you have kept",
+        "12||heb-esvri-Mal-t-geaueca|@vqvmp|Return|שׁ֤וּבוּ|šuw•ḇuw|שׁוב|šwb|return",
+        "13||heb-esvri-Mal-t-geauepo|@PpX1cs|to|אֵלַי֙|ʾē•lay|אֶל|ʾel|to",
+        "15||heb-esvri-Mal-t-geaukcy|@Pc|and|וְ|wə|וְ|wə|and",
+        "16||heb-esvri-Mal-t-geaukce|@vqi1cs{1}Ct|return|אָשׁ֣וּבָה|ʾā•šuw•ḇāh|שׁוב|šwb|I will return",
+        "17||heb-esvri-Mal-t-geaukpy|@PpX2mp|to|אֲלֵיכֶ֔ם|ʾă•lēy•ḵem|אֶל|ʾel|to",
+        "19||heb-esvri-Mal-t-geaukqy|@vqp3ms|says|אָמַ֖ר|ʾā•mar|אמר|ʾmr|he says",
+        "20||heb-esvri-Mal-t-geaucce|@np|Lord|יְהוָ֣ה|yəh•wāh|יהוה|yhwh|Yahweh of",
+        "21|h6635|heb-esvri-Mal-t-geaucpy|@ncbpa|hosts|צְבָאֹ֑ות|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts",
+        "22||heb-esvri-Mal-t-geaucpa|@Pc|But|וַ|wa|וְ|wə|but",
+        "23||heb-esvri-Mal-t-geaucqy|@vqp2mp{2}|say|אֲמַרְתֶּ֖ם|ʾă•mar•tem|אמר|ʾmr|you say",
+        "24|h4100|heb-esvri-Mal-t-geauqce|@Pp|How|בַּ|ba|בְּ|bə|in",
+        "25|h4100|heb-esvri-Mal-t-geauqco|@pii|How|מֶּ֥ה|m•meh|מָה|māh|what",
+        "26||heb-esvri-Mal-t-geauqpe|@vqi1cp|return'|נָשֽׁוּב׃|nā•šuwḇ|שׁוב|šwb|we shall return"
+      ]
+    }
+  ],
+  "3:8": [
+    {
+      "o": 25756,
+      "r": "esvi:Malachi:3:8",
+      "p": [
+        "0|g1487|heb-esvri-Mal-t-geauqqe|@Pg||הֲ|hă|הֲ|hă|?",
+        "1|h6906|heb-esvri-Mal-t-geauocy|@vqi3ms|rob|יִקְבַּ֨ע|yiq•baʿ|קבע|qbʿ|he will rob",
+        "2|h121|heb-esvri-Mal-t-geauoca|@ncmsa|man|אָדָ֜ם|ʾā•ḏām|אָדָם|ʾā•ḏām|man",
+        "3|h430|heb-esvri-Mal-t-geauopo|@ncmpa|God|אֱלֹהִ֗ים|ʾĕ•lō•hiym|אֱלֹהִים|ʾĕ•lō•hiym|God",
+        "4|h3588|heb-esvri-Mal-t-geauoqe|@Pc|Yet|כִּ֤י|kiy|כִּי|kiy|yet",
+        "5||heb-esvri-Mal-t-geau1co|@pi2mp|you|אַתֶּם֙|ʾat•tem|אַתֶּם|ʾat•tem|you",
+        "6||heb-esvri-Mal-t-geau1pe|@vqPmpa|robbing|קֹבְעִ֣ים|qō•ḇə•ʿiym|קבע|qbʿ|robbing",
+        "7|h854|heb-esvri-Mal-t-geau1qy|@PoX1cs|•|אֹתִ֔י|ʾō•ṯiy|אֵת|ʾēṯ|",
+        "9||heb-esvri-Mal-t-ge3dyco|@Pc|But|וַ|wa|וְ|wə|but",
+        "10||heb-esvri-Mal-t-ge3dyca|@vqp2mp{2}|say|אֲמַרְתֶּ֖ם|ʾă•mar•tem|אמר|ʾmr|you say",
+        "11|h4100|heb-esvri-Mal-t-ge3dypo|@Pp|How|בַּ|ba|בְּ|bə|in",
+        "12|h4100|heb-esvri-Mal-t-ge3dypa|@pii|How|מֶּ֣ה|m•meh|מָה|māh|what",
+        "13||heb-esvri-Mal-t-ge3dncy|@vqp1cpX2ms|robbed|קְבַעֲנ֑וּךָ|qə•ḇa•ʿă•nuw•ḵā|קבע|qbʿ|we have robbed",
+        "15||heb-esvri-Mal-t-ge3dnpy|@Pa|tithes|הַֽ|ha|הַ|ha|the",
+        "16|h4643|heb-esvri-Mal-t-ge3dnpe|@ncmsa|tithes|מַּעֲשֵׂ֖ר|m•ma•ʿă•śēr|מַעֲשֵׂר|ma•ʿă•śēr|tithe",
+        "17||heb-esvri-Mal-t-ge3dnqy|@Pc|and|וְ|wə|וְ|wə|and",
+        "18||heb-esvri-Mal-t-ge3dnqe|@Pa|contributions|הַ|ha|הַ|ha|the",
+        "19|h8641|heb-esvri-Mal-t-ge3drcy|@ncfsa|contributions|תְּרוּמָֽה׃|t•tə•ruw•māh|תְּרוּמָה|tə•ruw•māh|contribution"
+      ]
+    }
+  ],
+  "3:9": [
+    {
+      "o": 25757,
+      "r": "esvi:Malachi:3:9",
+      "p": [
+        "0||heb-esvri-Mal-t-ge3drpy|@Pp|with|בַּ|ba|בְּ|bə|with",
+        "2||heb-esvri-Mal-t-ge3drpo|@ncfsa|curse|מְּאֵרָה֙|m•mə•ʾē•rāh|מְאֵרָה|mə•ʾē•rāh|curse",
+        "3||heb-esvri-Mal-t-ge3drqe|@pi2mp|You|אַתֶּ֣ם|ʾat•tem|אַתֶּם|ʾat•tem|you",
+        "4||heb-esvri-Mal-t-ge3dgco|@vnPmpa|cursed|נֵֽאָרִ֔ים|nē•ʾā•riym|ארר|ʾrr|being cursed",
+        "5||heb-esvri-Mal-t-ge3dgpe|@Pc|for|וְ|wə|וְ|wə|and",
+        "6|h854|heb-esvri-Mal-t-ge3dgpo|@PoX1cs|•|אֹתִ֖י|ʾō•ṯiy|אֵת|ʾēṯ|",
+        "8||heb-esvri-Mal-t-ge3decy|@pi2mp|you|אַתֶּ֣ם|ʾat•tem|אַתֶּם|ʾat•tem|you",
+        "9||heb-esvri-Mal-t-ge3deca|@vqPmpa|robbing|קֹבְעִ֑ים|qō•ḇə•ʿiym|קבע|qbʿ|robbing",
+        "10||heb-esvri-Mal-t-ge3depo|@Pa|the|הַ|ha|הַ|ha|the",
+        "11|h1471|heb-esvri-Mal-t-ge3depa|@ncmsa|nation|גֹּ֖וי|g•gōwy|גֹּוי|gōwy|nation",
+        "12|h3606|heb-esvri-Mal-t-ge3dkcy|@ncmscX3ms|whole|כֻּלֹּֽו׃|kul•lōw|כֹּל|kōl|whole of"
+      ]
+    }
+  ],
+  "3:10": [
+    {
+      "o": 25758,
+      "r": "esvi:Malachi:3:10",
+      "p": [
+        "0|h935|heb-esvri-Mal-t-ge3dkpe|@vhvmp|Bring|הָבִ֨יאוּ|hā•ḇiy•ʾuw|בוא|bwʾ|bring",
+        "1|h854|heb-esvri-Mal-t-ge3dkqy|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "2|h3606|heb-esvri-Mal-t-ge3dccy|@ncmsc|full|כָּל־|kol-|כֹּל|kōl|whole of",
+        "3||heb-esvri-Mal-t-ge3dcco|@Pa|the|הַֽ|ha|הַ|ha|the",
+        "4|h4643|heb-esvri-Mal-t-ge3dcca|@ncmsa|tithe|מַּעֲשֵׂ֜ר|m•ma•ʿă•śēr|מַעֲשֵׂר|ma•ʿă•śēr|tithe",
+        "5||heb-esvri-Mal-t-ge3dcpo|@Pp|into|אֶל־|ʾel-|אֶל|ʾel|into",
+        "6|h1005|heb-esvri-Mal-t-ge3dcqy|@ncmsc|storehouse|בֵּ֣ית|bēyṯ|בַּיִת|ba•yiṯ|house of",
+        "7||heb-esvri-Mal-t-ge3dqce|@Pa|storehouse|הָ|hā|הַ|ha|the",
+        "8||heb-esvri-Mal-t-ge3dqco|@ncmsa|storehouse|אֹוצָ֗ר|ʾōw•ṣār|אֹוצָר|ʾōw•ṣār|storehouse",
+        "9||heb-esvri-Mal-t-ge3dqpe|@Pc|that|וִ|wi|וְ|wə|that",
+        "10||heb-esvri-Mal-t-ge3dqpo|@vqi3msXa{1}Jt|be|יהִ֥י|y•hiy|היה|hyh|he may be",
+        "11|h2964|heb-esvri-Mal-t-ge3dqqe|@ncmsa|food|טֶ֙רֶף֙|ṭe•rep̄|טֶרֶף|ṭe•rep̄|food",
+        "12||heb-esvri-Mal-t-ge3doco|@Pp|in|בְּ|bə|בְּ|bə|in",
+        "13|h1005|heb-esvri-Mal-t-ge3doca|@ncmscX1cs|house|בֵיתִ֔י|ḇēy•ṯiy|בַּיִת|ba•yiṯ|house of",
+        "15||heb-esvri-Mal-t-ge3dopa|@Pc|And|וּ|uw|וְ|wə|and",
+        "16||heb-esvri-Mal-t-ge3doqy|@vqvmpX1cs|test|בְחָנ֤וּנִי|ḇə•ḥā•nuw•niy|בחן|bḥn|test",
+        "18|h4994|heb-esvri-Mal-t-ge3d1co|@Pi|•|נָא֙|nāʾ|נָא|nāʾ|please",
+        "19||heb-esvri-Mal-t-ge3d1pe|@Pp|thereby|בָּ|bā|בְּ|bə|in",
+        "20|h2088|heb-esvri-Mal-t-ge3d1po|@dfsa|thereby|זֹ֔את|zō(ʾ)ṯ|זֶה|zeh|this",
+        "21|h559|heb-esvri-Mal-t-ge3d1qe|@vqp3ms|says|אָמַ֖ר|ʾā•mar|אמר|ʾmr|he says",
+        "22||heb-esvri-Mal-t-ge3uyco|@np|Lord|יְהוָ֣ה|yəh•wāh|יהוה|yhwh|Yahweh of",
+        "23|h6635|heb-esvri-Mal-t-ge3uype|@ncbpa|hosts|צְבָאֹ֑ות|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts",
+        "24|h518|heb-esvri-Mal-t-ge3uyqy|@Pc|if|אִם־|ʾim-|אִם|ʾim|if",
+        "25|h3808|heb-esvri-Mal-t-ge3uncy|@Pn|not|לֹ֧א|lōʾ|לֹא|lōʾ|not",
+        "26||heb-esvri-Mal-t-ge3unca|@vqi1cs|open|אֶפְתַּ֣ח|ʾep̄•taḥ|פתח|ptḥ|I will open",
+        "27||heb-esvri-Mal-t-ge3unpo|@PpX2mp|for|לָכֶ֗ם|lā•ḵem|לְ|lə|for",
+        "29|h854|heb-esvri-Mal-t-ge3urcy|@Po|•|אֵ֚ת|ʾēṯ|אֵת|ʾēṯ|",
+        "30|h699|heb-esvri-Mal-t-ge3urca|@ncfpc|windows|אֲרֻבֹּ֣ות|ʾă•rub•bōwṯ|אֲרֻבָּה|ʾă•rub•bāh|windows of",
+        "31||heb-esvri-Mal-t-ge3urpo|@Pa|heaven|הַ|ha|הַ|ha|the",
+        "32|h8064|heb-esvri-Mal-t-ge3urpa|@ncmpa|heaven|שָּׁמַ֔יִם|š•šā•ma•yim|שָׁמַיִם|šā•ma•yim|heaven",
+        "33||heb-esvri-Mal-t-ge3ugcy|@Pc|and|וַ|wa|וְ|wə|and",
+        "34||heb-esvri-Mal-t-ge3ugce|@vhp1cs{2}|pour|הֲרִיקֹתִ֥י|hă•riy•qō•ṯiy|ריק|ryq|I will pour out",
+        "35||heb-esvri-Mal-t-ge3ugpy|@PpX2mp|for|לָכֶ֛ם|lā•ḵem|לְ|lə|for",
+        "37|h1293|heb-esvri-Mal-t-ge3ugqy|@ncfsa|blessing|בְּרָכָ֖ה|bə•rā•ḵāh|בְּרָכָה|bə•rā•ḵāh|blessing",
+        "38|h5704|heb-esvri-Mal-t-ge3uece|@Pp|until|עַד־|ʿaḏ-|עַד|ʿaḏ|until",
+        "39|h1097|heb-esvri-Mal-t-ge3ueca|@ncmsc|no|בְּלִי־|bə•liy-|בְּלִי|bə•liy|no",
+        "40|h1767|heb-esvri-Mal-t-ge3uepe|@ncmsa|need|דָֽי׃|ḏāy|דַּי|day|sufficiency"
+      ]
+    }
+  ],
+  "3:11": [
+    {
+      "o": 25759,
+      "r": "esvi:Malachi:3:11",
+      "p": [
+        "0||heb-esvri-Mal-t-ge3ueqe|@Pc|•|וְ|wə|וְ|wə|and",
+        "1||heb-esvri-Mal-t-ge3ukcy|@vqp1cs{2}|rebuke|גָעַרְתִּ֤י|ḡā•ʿar•tiy|גער|gʿr|I will rebuke",
+        "2||heb-esvri-Mal-t-ge3ukca|@PpX2mp|for|לָכֶם֙|lā•ḵem|לְ|lə|for",
+        "4||heb-esvri-Mal-t-ge3ukpa|@Pp|•|בָּֽ|bā|בְּ|bə|on",
+        "6||heb-esvri-Mal-t-ge3ukqe|@vqPmsa|devourer|אֹכֵ֔ל|ʾō•ḵēl|אכל|ʾkl|one devouring",
+        "7||heb-esvri-Mal-t-ge3ucco|@Pc|so that|וְ|wə|וְ|wə|so that",
+        "8|h3808|heb-esvri-Mal-t-ge3ucca|@Pn|not|לֹֽא־|lōʾ-|לֹא|lōʾ|not",
+        "9||heb-esvri-Mal-t-ge3ucpe|@vhi3ms|destroy|יַשְׁחִ֥ת|yaš•ḥiṯ|שׁחת|šḥt|he will destroy",
+        "10||heb-esvri-Mal-t-ge3ucqy|@PpX2mp|•|לָכֶ֖ם|lā•ḵem|לְ|lə|to",
+        "12|h854|heb-esvri-Mal-t-ge3uqco|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "13|h6529|heb-esvri-Mal-t-ge3uqpy|@ncmsc|fruits|פְּרִ֣י|pə•riy|פְּרִי|pə•riy|fruit of",
+        "14||heb-esvri-Mal-t-ge3uqpa|@Pa|soil|הָ|hā|הַ|ha|the",
+        "15|h127|heb-esvri-Mal-t-ge3uqqy|@ncfsa|soil|אֲדָמָ֑ה|ʾă•ḏā•māh|אֲדָמָה|ʾă•ḏā•māh|soil",
+        "16||heb-esvri-Mal-t-ge3uoce|@Pc|and|וְ|wə|וְ|wə|and",
+        "17|h3808|heb-esvri-Mal-t-ge3uoco|@Pn|not|לֹא־|lōʾ-|לֹא|lōʾ|not",
+        "18||heb-esvri-Mal-t-ge3uopy|@vpi3fs|fail to bear|תְשַׁכֵּ֨ל|ṯə•šak•kēl|שׁכל|škl|she shall be unfruitful",
+        "19||heb-esvri-Mal-t-ge3uopa|@PpX2mp|your|לָכֶ֤ם|lā•ḵem|לְ|lə|to",
+        "21||heb-esvri-Mal-t-ge3u1ce|@Pa|vine|הַ|ha|הַ|ha|the",
+        "22|h1612|heb-esvri-Mal-t-ge3u1co|@ncbsa|vine|גֶּ֙פֶן֙|g•ge•p̄en|גֶּפֶן|ge•p̄en|vine",
+        "23||heb-esvri-Mal-t-ge3u1pe|@Pp|in|בַּ|ba|בְּ|bə|in",
+        "25|h7704|heb-esvri-Mal-t-ge3u1pa|@ncmsa|field|שָּׂדֶ֔ה|ś•śā•ḏeh|שָׂדֶה|śā•ḏeh|field",
+        "26||heb-esvri-Mal-t-ge4dycy|@vqp3ms|says|אָמַ֖ר|ʾā•mar|אמר|ʾmr|he says",
+        "27||heb-esvri-Mal-t-ge4dyca|@np|Lord|יְהוָ֥ה|yəh•wāh|יהוה|yhwh|Yahweh of",
+        "28|h6635|heb-esvri-Mal-t-ge4dypo|@ncbpa|hosts|צְבָאֹֽות׃|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts"
+      ]
+    }
+  ],
+  "3:12": [
+    {
+      "o": 25760,
+      "r": "esvi:Malachi:3:12",
+      "p": [
+        "0||heb-esvri-Mal-t-ge4dncy|@Pc|Then|וְ|wə|וְ|wə|then",
+        "1||heb-esvri-Mal-t-ge4dnce|@vpp3cp{2}|blessed|אִשְּׁר֥וּ|ʾiš•šə•ruw|אשׁר|ʾšr|they will call blessed",
+        "2|h854|heb-esvri-Mal-t-ge4dnpy|@PoX2mp|•|אֶתְכֶ֖ם|ʾeṯ•ḵem|אֵת|ʾēṯ|",
+        "4|h3606|heb-esvri-Mal-t-ge4dnqy|@ncmsc|all|כָּל־|kol-|כֹּל|kōl|all of",
+        "5||heb-esvri-Mal-t-ge4drcy|@Pa|nations|הַ|ha|הַ|ha|the",
+        "6||heb-esvri-Mal-t-ge4drce|@ncmpa|nations|גֹּויִ֑ם|g•gōw•yim|גֹּוי|gōwy|nations",
+        "7|h3588|heb-esvri-Mal-t-ge4drpy|@Pc|for|כִּֽי־|kiy-|כִּי|kiy|for",
+        "8||heb-esvri-Mal-t-ge4drpo|@vqi2mp|be|תִהְי֤וּ|ṯih•yuw|היה|hyh|you will be",
+        "9||heb-esvri-Mal-t-ge4drqe|@pi2mp|you|אַתֶּם֙|ʾat•tem|אַתֶּם|ʾat•tem|you",
+        "10|h776|heb-esvri-Mal-t-ge4dgco|@ncfsc|land|אֶ֣רֶץ|ʾe•reṣ|אֶרֶץ|ʾe•reṣ|land of",
+        "11|h2656|heb-esvri-Mal-t-ge4dgpe|@ncmsa|delight|חֵ֔פֶץ|ḥē•p̄eṣ|חֵפֶץ|ḥē•p̄eṣ|delight",
+        "12|h559|heb-esvri-Mal-t-ge4dgqy|@vqp3ms|says|אָמַ֖ר|ʾā•mar|אמר|ʾmr|he says",
+        "13||heb-esvri-Mal-t-ge4dece|@np|Lord|יְהוָ֥ה|yəh•wāh|יהוה|yhwh|Yahweh of",
+        "14|h6635|heb-esvri-Mal-t-ge4depy|@ncbpa|hosts|צְבָאֹֽות׃|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts"
+      ]
+    }
+  ],
+  "3:13": [
+    {
+      "o": 25761,
+      "r": "esvi:Malachi:3:13",
+      "p": [
+        "0||heb-esvri-Mal-t-ge4dkce|@vqp3cp|hard|חָזְק֥וּ|ḥā•zə•quw|חזק|ḥzq|they have been strong",
+        "1|h5921|heb-esvri-Mal-t-ge4dkpy|@PpX1cs|against|עָלַ֛י|ʿā•lay|עַל|ʿal|against",
+        "3|h1697|heb-esvri-Mal-t-ge4dkqy|@ncmpcX2mp|words|דִּבְרֵיכֶ֖ם|diḇ•rēy•ḵem|דָּבָר|dā•ḇār|words of",
+        "5||heb-esvri-Mal-t-ge4dcco|@vqp3ms|says|אָמַ֣ר|ʾā•mar|אמר|ʾmr|he says",
+        "6||heb-esvri-Mal-t-ge4dcpe|@np|Lord|יְהוָ֑ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "7||heb-esvri-Mal-t-ge4dcqy|@Pc|But|וַ|wa|וְ|wə|but",
+        "8||heb-esvri-Mal-t-ge4dcqe|@vqp2mp{2}|say|אֲמַרְתֶּ֕ם|ʾă•mar•tem|אמר|ʾmr|you say",
+        "9|h4101|heb-esvri-Mal-t-ge4dqco|@pii|How|מַה־|mah-|מָה|māh|how",
+        "10||heb-esvri-Mal-t-ge4dqpy|@vnp1cp|spoken|נִּדְבַּ֖רְנוּ|n•niḏ•bar•nuw|דבר|dbr|we have spoken together",
+        "11|h5921|heb-esvri-Mal-t-ge4dqpa|@PpX2ms|against|עָלֶֽיךָ׃|ʿā•ley•ḵā|עַל|ʿal|against"
+      ]
+    }
+  ],
+  "3:14": [
+    {
+      "o": 25762,
+      "r": "esvi:Malachi:3:14",
+      "p": [
+        "0||heb-esvri-Mal-t-ge4doco|@vqp2mp|said|אֲמַרְתֶּ֕ם|ʾă•mar•tem|אמר|ʾmr|you have said",
+        "1|h7723|heb-esvri-Mal-t-ge4dope|@ncmsa|vain|שָׁ֖וְא|šāw(ʾ)|שָׁוְא|šāw(ʾ)|vanity",
+        "2||heb-esvri-Mal-t-ge4doqy|@vqc|serve|עֲבֹ֣ד|ʿă•ḇōḏ|עבד|ʿbd|to serve",
+        "3|h430|heb-esvri-Mal-t-ge4d1ce|@ncmpa|God|אֱלֹהִ֑ים|ʾĕ•lō•hiym|אֱלֹהִים|ʾĕ•lō•hiym|God",
+        "4||heb-esvri-Mal-t-ge4d1py|@Pc|•|וּ|uw|וְ|wə|and",
+        "5|h4101|heb-esvri-Mal-t-ge4d1pe|@pii|What|מַה־|mah-|מָה|māh|what",
+        "6|h1215|heb-esvri-Mal-t-ge4d1pa|@ncmsa|profit|בֶּ֗צַע|be•ṣaʿ|בֶּצַע|be•ṣaʿ|gain",
+        "7|h3588|heb-esvri-Mal-t-ge4uycy|@Pc|•|כִּ֤י|kiy|כִּי|kiy|if",
+        "8||heb-esvri-Mal-t-ge4uyca|@vqp1cp|keeping|שָׁמַ֙רְנוּ֙|šā•mar•nuw|שׁמר|šmr|we keep",
+        "9|h4931|heb-esvri-Mal-t-ge4uypo|@ncfscX3ms|charge|מִשְׁמַרְתֹּ֔ו|miš•mar•tōw|מִשְׁמֶרֶת|miš•me•reṯ|charge of",
+        "11||heb-esvri-Mal-t-ge4uncy|@Pc|or|וְ|wə|וְ|wə|or",
+        "12|h3588|heb-esvri-Mal-t-ge4unce|@Pc|•|כִ֤י|ḵiy|כִּי|kiy|that",
+        "13||heb-esvri-Mal-t-ge4unpy|@vqp1cp|walking|הָלַ֙כְנוּ֙|hā•laḵ•nuw|הלך|hlk|we walk",
+        "14||heb-esvri-Mal-t-ge4unpa|@Pd|mourning|קְדֹ֣רַנִּ֔ית|qə•ḏō•ran•niyṯ|קְדֹרַנִּית|qə•ḏō•ran•niyṯ|mourning",
+        "15|h6440|heb-esvri-Mal-t-ge4urcy|@Pp|before|מִ|mi|מִן|min|from",
+        "16|h6440|heb-esvri-Mal-t-ge4urce|@ncbpc|before|פְּנֵ֖י|p•pə•nēy|פָּנֶה|pā•neh|before",
+        "17||heb-esvri-Mal-t-ge4urpy|@np|Lord|יְהוָ֥ה|yəh•wāh|יהוה|yhwh|Yahweh of",
+        "18|h6635|heb-esvri-Mal-t-ge4urpa|@ncbpa|hosts|צְבָאֹֽות׃|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts"
+      ]
+    }
+  ],
+  "3:15": [
+    {
+      "o": 25763,
+      "r": "esvi:Malachi:3:15",
+      "p": [
+        "0||heb-esvri-Mal-t-ge4ugce|@Pc|And|וְ|wə|וְ|wə|and",
+        "1|h6258|heb-esvri-Mal-t-ge4ugco|@Pd|now|עַתָּ֕ה|ʿat•tāh|עַתָּה|ʿat•tāh|now",
+        "2|h587|heb-esvri-Mal-t-ge4ugpe|@pi1cp|we|אֲנַ֖חְנוּ|ʾă•naḥ•nuw|אֲנַחְנוּ|ʾă•naḥ•nuw|we",
+        "3|h833|heb-esvri-Mal-t-ge4ugqy|@vpPmpa|blessed|מְאַשְּׁרִ֣ים|mə•ʾaš•šə•riym|אשׁר|ʾšr|calling blessed",
+        "4|h2086|heb-esvri-Mal-t-ge4uece|@ampa|arrogant|זֵדִ֑ים|zē•ḏiym|זֵד|zēḏ|arrogant ones",
+        "5|h1571|heb-esvri-Mal-t-ge4uepy|@Pc|not only|גַּם־|gam-|גַּם|gam|also",
+        "6||heb-esvri-Mal-t-ge4uepo|@vnp3cp|prosper|נִבְנוּ֙|niḇ•nuw|בנה|bnh|they prosper",
+        "7||heb-esvri-Mal-t-ge4ueqe|@vqPmpc|Evildoers|עֹשֵׂ֣י|ʿō•śēy|עשׂה|ʿśh|ones doing of",
+        "8||heb-esvri-Mal-t-ge4ukco|@ncfsa|Evildoers|רִשְׁעָ֔ה|riš•ʿāh|רִשְׁעָה|riš•ʿāh|wickedness",
+        "9|h1571|heb-esvri-Mal-t-ge4ukpe|@Pc|but|גַּ֧ם|gam|גַּם|gam|also",
+        "10|h974|heb-esvri-Mal-t-ge4ukqy|@vqp3cp|test|בָּחֲנ֛וּ|bā•ḥă•nuw|בחן|bḥn|they test",
+        "11|h430|heb-esvri-Mal-t-ge4ucce|@ncmpa|God|אֱלֹהִ֖ים|ʾĕ•lō•hiym|אֱלֹהִים|ʾĕ•lō•hiym|God",
+        "12||heb-esvri-Mal-t-ge4ucpy|@Pc|and|וַ|wa|וְ|wə|and",
+        "13||heb-esvri-Mal-t-ge4ucpe|@vnw3mp|escape'|יִּמָּלֵֽטוּ׃|y•yim•mā•lē•ṭuw|מלט|mlṭ|they escape"
+      ]
+    },
+    {
+      "o": 25764,
+      "r": "esvi:Malachi:3:15",
+      "h": 2,
+      "t": "The Book of Remembrance",
+      "p": []
+    }
+  ],
+  "3:16": [
+    {
+      "o": 25765,
+      "r": "esvi:Malachi:3:16",
+      "p": [
+        "0|h227|heb-esvri-Mal-t-ge4ucqe|@Pd|Then|אָ֧ז|ʾāz|אָז|ʾāz|then",
+        "1|h1696|heb-esvri-Mal-t-ge4uqco|@vnp3cp|spoke|נִדְבְּר֛וּ|niḏ•bə•ruw|דבר|dbr|they spoke",
+        "2|h3373|heb-esvri-Mal-t-ge4uqpe|@ampc|feared|יִרְאֵ֥י|yir•ʾēy|יָרֵא|yā•rēʾ|fearing ones of",
+        "3||heb-esvri-Mal-t-ge4uqqy|@np|Lord|יְהוָ֖ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "4|h376|heb-esvri-Mal-t-ge4uoce|@ncmsa|with one another|אִ֣ישׁ|ʾiyš|אִישׁ|ʾiyš|man",
+        "5|h854|heb-esvri-Mal-t-ge4uopy|@Po|with one another|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "6|h7453|heb-esvri-Mal-t-ge4uopo|@ncmscX3ms|with one another|רֵעֵ֑הוּ|rē•ʿē•huw|רֵעַ|rēaʿ|neighbor of",
+        "8||heb-esvri-Mal-t-ge4u1cy|@Pc|•|וַ|wa|וְ|wə|and",
+        "9|h7181|heb-esvri-Mal-t-ge4u1ce|@vhw3msXa|attention|יַּקְשֵׁ֤ב|y•yaq•šēḇ|קשׁב|qšb|he paid attention",
+        "10||heb-esvri-Mal-t-ge4u1py|@np|Lord|יְהוָה֙|yəh•wāh|יהוה|yhwh|Yahweh",
+        "11||heb-esvri-Mal-t-ge4u1pa|@Pc|and|וַ|wa|וְ|wə|and",
+        "12||heb-esvri-Mal-t-ge4u1qy|@vqw3ms|heard|יִּשְׁמָ֔ע|y•yiš•māʿ|שׁמע|šmʿ|he heard",
+        "13||heb-esvri-Mal-t-ge5dyce|@Pc|and|וַ֠|wa|וְ|wə|and",
+        "14||heb-esvri-Mal-t-ge5dyco|@vnw3ms|written|יִּכָּתֵב|y•yik•kā•ṯēḇ|כתב|ktb|he was written",
+        "15|h5612|heb-esvri-Mal-t-ge5dype|@ncmsc|book|סֵ֣פֶר|sē•p̄er|סֵפֶר|sē•p̄er|book of",
+        "16||heb-esvri-Mal-t-ge5dyqy|@ncmsa|remembrance|זִכָּרֹ֤ון|zik•kā•rōwn|זִכָּרֹון|zik•kā•rōwn|remembrance",
+        "17|h6440|heb-esvri-Mal-t-ge5dnce|@Pp|before|לְ|lə|לְ|lə|",
+        "18|h6440|heb-esvri-Mal-t-ge5dnco|@ncbpcX3ms|before|פָנָיו֙|p̄ā•nāyw|פָּנֶה|pā•neh|before",
+        "20||heb-esvri-Mal-t-ge5dnpo|@Pp|of|לְ|lə|לְ|lə|as to",
+        "21|h3373|heb-esvri-Mal-t-ge5dnpa|@ampc|feared|יִרְאֵ֣י|yir•ʾēy|יָרֵא|yā•rēʾ|fearing ones of",
+        "22||heb-esvri-Mal-t-ge5drcy|@np|Lord|יְהוָ֔ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "23||heb-esvri-Mal-t-ge5drca|@Pc|and|וּ|uw|וְ|wə|and",
+        "24||heb-esvri-Mal-t-ge5drpy|@Pp|esteemed|לְ|lə|לְ|lə|as to",
+        "25||heb-esvri-Mal-t-ge5drpe|@vqPmpc|esteemed|חֹשְׁבֵ֖י|ḥō•šə•ḇēy|חשׁב|ḥšb|ones esteeming of",
+        "26|h8035|heb-esvri-Mal-t-ge5drqy|@ncmscX3ms|name|שְׁמֹֽו׃|šə•mōw|שֵׁם|šēm|name of"
+      ]
+    }
+  ],
+  "3:17": [
+    {
+      "o": 25766,
+      "r": "esvi:Malachi:3:17",
+      "p": [
+        "0||heb-esvri-Mal-t-ge5dgca|@Pc|•|וְ|wə|וְ|wə|and",
+        "1||heb-esvri-Mal-t-ge5dgpy|@vqp3cp{2}|be|הָ֣יוּ|hā•yuw|היה|hyh|they shall be",
+        "2||heb-esvri-Mal-t-ge5dgpa|@PpX1cs|mine|לִ֗י|liy|לְ|lə|to",
+        "4||heb-esvri-Mal-t-ge5dece|@vqp3ms|says|אָמַר֙|ʾā•mar|אמר|ʾmr|he says",
+        "5||heb-esvri-Mal-t-ge5depy|@np|Lord|יְהוָ֣ה|yəh•wāh|יהוה|yhwh|Yahweh of",
+        "6|h6635|heb-esvri-Mal-t-ge5depa|@ncbpa|hosts|צְבָאֹ֔ות|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts",
+        "7||heb-esvri-Mal-t-ge5dkcy|@Pp|in|לַ|la|לְ|lə|to",
+        "9||heb-esvri-Mal-t-ge5dkco|@ncmsa|day|יֹּ֕ום|y•yōwm|יֹום|yōwm|day",
+        "10|h834|heb-esvri-Mal-t-ge5dkpe|@Pr|when|אֲשֶׁ֥ר|ʾă•šer|אֲשֶׁר|ʾă•šer|when",
+        "11|h589|heb-esvri-Mal-t-ge5dkqy|@pi1cs|I|אֲנִ֖י|ʾă•niy|אֲנִי|ʾă•niy|I",
+        "12||heb-esvri-Mal-t-ge5dcce|@vqPmsa|make|עֹשֶׂ֣ה|ʿō•śeh|עשׂה|ʿśh|making",
+        "13||heb-esvri-Mal-t-ge5dcpy|@ncfsa|treasured possession|סְגֻלָּ֑ה|sə•ḡul•lāh|סְגֻלָּה|sə•ḡul•lāh|treasured possession",
+        "14||heb-esvri-Mal-t-ge5dcpa|@Pc|and|וְ|wə|וְ|wə|and",
+        "15||heb-esvri-Mal-t-ge5dcqy|@vqp1cs{2}|spare|חָמַלְתִּ֣י|ḥā•mal•tiy|חמל|ḥml|I will spare",
+        "16|h5922|heb-esvri-Mal-t-ge5dqce|@PpX3mp|•|עֲלֵיהֶ֔ם|ʿă•lēy•hem|עַל|ʿal|on",
+        "18||heb-esvri-Mal-t-ge5dqpe|@Pp|as|כַּֽ|ka|כְּ|kə|",
+        "19|h834|heb-esvri-Mal-t-ge5dqpo|@Pr|as|אֲשֶׁר֙|ʾă•šer|אֲשֶׁר|ʾă•šer|as",
+        "20|h2550|heb-esvri-Mal-t-ge5dqqe|@vqi3ms|spares|יַחְמֹ֣ל|yaḥ•mōl|חמל|ḥml|he spares",
+        "21|h376|heb-esvri-Mal-t-ge5doco|@ncmsa|man|אִ֔ישׁ|ʾiyš|אִישׁ|ʾiyš|man",
+        "22|h5922|heb-esvri-Mal-t-ge5dope|@Pp|•|עַל־|ʿal-|עַל|ʿal|on",
+        "23|h1121|heb-esvri-Mal-t-ge5dopa|@ncmscX3ms|son|בְּנֹ֖ו|bə•nōw|בֵּן|bēn|son of",
+        "25||heb-esvri-Mal-t-ge5d1ce|@Pa|who|הָ|hā|הַ|ha|the",
+        "26||heb-esvri-Mal-t-ge5d1co|@vqPmsa|serves|עֹבֵ֥ד|ʿō•ḇēḏ|עבד|ʿbd|one serving",
+        "27|h854|heb-esvri-Mal-t-ge5d1pe|@PoX3ms|•|אֹתֹֽו׃|ʾō•ṯōw|אֵת|ʾēṯ|"
+      ]
+    }
+  ],
+  "3:18": [
+    {
+      "o": 25767,
+      "r": "esvi:Malachi:3:18",
+      "p": [
+        "0||heb-esvri-Mal-t-ge5uycy|@Pc|Then|וְ|wə|וְ|wə|then",
+        "1||heb-esvri-Mal-t-ge5uyce|@vqp2mp{2}|more|שַׁבְתֶּם֙|šaḇ•tem|שׁוב|šwb|you shall do again",
+        "2||heb-esvri-Mal-t-ge5uypy|@Pc|•|וּ|uw|וְ|wə|and",
+        "3||heb-esvri-Mal-t-ge5uype|@vqp2mp{2}|see|רְאִיתֶ֔ם|rə•ʾiy•ṯem|ראה|rʾh|you shall see",
+        "4|h996|heb-esvri-Mal-t-ge5uyqy|@Pp|between|בֵּ֥ין|bēyn|בַּיִן|ba•yin|between",
+        "5|h6662|heb-esvri-Mal-t-ge5unce|@amsa|righteous|צַדִּ֖יק|ṣad•diyq|צַדִּיק|ṣad•diyq|righteous one",
+        "6||heb-esvri-Mal-t-ge5unpy|@Pp|and|לְ|lə|לְ|lə|to",
+        "7|h7563|heb-esvri-Mal-t-ge5unpe|@amsa|wicked|רָשָׁ֑ע|rā•šāʿ|רָשָׁע|rā•šāʿ|wicked one",
+        "8|h996|heb-esvri-Mal-t-ge5unqy|@Pp|between|בֵּ֚ין|bēyn|בַּיִן|ba•yin|between",
+        "9||heb-esvri-Mal-t-ge5urce|@vqPmsc|serves|עֹבֵ֣ד|ʿō•ḇēḏ|עבד|ʿbd|one serving of",
+        "10|h430|heb-esvri-Mal-t-ge5urpy|@ncmpa|God|אֱלֹהִ֔ים|ʾĕ•lō•hiym|אֱלֹהִים|ʾĕ•lō•hiym|God",
+        "11||heb-esvri-Mal-t-ge5urpa|@Pp|and|לַ|la|לְ|lə|to",
+        "12|h834|heb-esvri-Mal-t-ge5urqy|@Pr|who|אֲשֶׁ֖ר|ʾă•šer|אֲשֶׁר|ʾă•šer|who",
+        "13|h3808|heb-esvri-Mal-t-ge5ugce|@Pn|not|לֹ֥א|lōʾ|לֹא|lōʾ|not",
+        "14||heb-esvri-Mal-t-ge5ugpy|@vqp3msX3ms|serve|עֲבָדֹֽו׃|ʿă•ḇā•ḏōw|עבד|ʿbd|he serves"
+      ]
+    }
+  ],
+  "4:0": [
+    {
+      "o": 25768,
+      "r": "esvi:Malachi:4:0",
+      "h": 1,
+      "t": "Malachi 4",
+      "p": []
+    },
+    {
+      "o": 25769,
+      "r": "esvi:Malachi:4:0",
+      "h": 2,
+      "t": "The Great Day of the Lord",
+      "p": []
+    }
+  ],
+  "4:1": [
+    {
+      "o": 25770,
+      "r": "esvi:Malachi:4:1",
+      "p": [
+        "2.19|h3588|heb-esvri-Mal-t-ge5ueco|@Pc|For|כִּֽי־|kiy-|כִּי|kiy|for",
+        "2.19|h2009|heb-esvri-Mal-t-ge5uepy|@Pi|behold|הִנֵּ֤ה|hin•nēh|הִנֵּה|hin•nēh|behold",
+        "2.19||heb-esvri-Mal-t-ge5uepa|@Pa|the|הַ|ha|הַ|ha|the",
+        "2.19||heb-esvri-Mal-t-ge5ueqy|@ncmsa|day|יֹּום֙|y•yōwm|יֹום|yōwm|day",
+        "2.19||heb-esvri-Mal-t-ge5ukce|@vqPmsa|coming|בָּ֔א|bāʾ|בוא|bwʾ|coming",
+        "2.19|h1197|heb-esvri-Mal-t-ge5ukpy|@vqPmsa|burning|בֹּעֵ֖ר|bō•ʿēr|בער|bʿr|burning",
+        "2.19||heb-esvri-Mal-t-ge5ukpa|@Pp|like|כַּ|ka|כְּ|kə|like",
+        "2.19|h8574|heb-esvri-Mal-t-ge5ukqe|@ncbsa|oven|תַּנּ֑וּר|t•tan•nuwr|תַּנּוּר|tan•nuwr|oven",
+        "2.19||heb-esvri-Mal-t-ge5ucco|@Pc|when|וְ|wə|וְ|wə|when",
+        "2.19|h3606|heb-esvri-Mal-t-ge5ucpo|@ncmsc|all|כָל־|ḵol-|כֹּל|kōl|all of",
+        "2.19|h2086|heb-esvri-Mal-t-ge5ucqy|@ampa|arrogant|זֵדִ֜ים|zē•ḏiym|זֵד|zēḏ|arrogant ones",
+        "2.19||heb-esvri-Mal-t-ge5uqce|@Pc|and|וְ|wə|וְ|wə|and",
+        "2.19|h3606|heb-esvri-Mal-t-ge5uqco|@ncmsc|all|כָל־|ḵol-|כֹּל|kōl|all of",
+        "2.19||heb-esvri-Mal-t-ge5uqpa|@ncfsa|evildoers|רִשְׁעָה֙|riš•ʿāh|רִשְׁעָה|riš•ʿāh|wickedness",
+        "2.19||heb-esvri-Mal-t-ge5uqpy|@vqPmsc|evildoers|עֹשֵׂ֤ה|ʿō•śēh|עשׂה|ʿśh|one doing",
+        "2.19||heb-esvri-Mal-t-ge5ucca|@vqp3cp{2}|be|הָי֨וּ|hā•yuw|היה|hyh|they will be",
+        "2.19|h7179|heb-esvri-Mal-t-ge5uocy|@ncmsa|stubble|קַ֔שׁ|qaš|קַשׁ|qaš|stubble",
+        "2.19|h854|heb-esvri-Mal-t-ge5uopa|@PoX3mp|•|אֹתָ֜ם|ʾō•ṯām|אֵת|ʾēṯ|",
+        "2.19||heb-esvri-Mal-t-ge5uoca|@Pc|•|וְ|wə|וְ|wə|and",
+        "2.19||heb-esvri-Mal-t-ge5u1ce|@Pa|The|הַ|ha|הַ|ha|the",
+        "2.19||heb-esvri-Mal-t-ge5u1co|@ncmsa|day|יֹּ֣ום|y•yōwm|יֹום|yōwm|day",
+        "2.19||heb-esvri-Mal-t-ge5u1pe|@Pa|that|הַ|ha|הַ|ha|the",
+        "2.19||heb-esvri-Mal-t-ge5u1po|@vqPmsa|coming|בָּ֗א|b•bāʾ|בוא|bwʾ|one coming",
+        "2.19||heb-esvri-Mal-t-ge5uopy|@vpp3ms{2}|ablaze|לִהַ֨ט|li•haṭ|להט|lhṭ|he will set ablaze",
+        "2.19|h559|heb-esvri-Mal-t-ge5u1qe|@vqp3ms|says|אָמַר֙|ʾā•mar|אמר|ʾmr|he says",
+        "2.19||heb-esvri-Mal-t-gehdyco|@np|Lord|יְהוָ֣ה|yəh•wāh|יהוה|yhwh|Yahweh of",
+        "2.19|h6635|heb-esvri-Mal-t-gehdype|@ncbpa|hosts|צְבָאֹ֔ות|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts",
+        "2.19|h834|heb-esvri-Mal-t-gehdyqy|@Pr|so that|אֲשֶׁ֛ר|ʾă•šer|אֲשֶׁר|ʾă•šer|that",
+        "2.19||heb-esvri-Mal-t-gehdnca|@vqi3ms|leave|יַעֲזֹ֥ב|ya•ʿă•zōḇ|עזב|ʿzb|he will leave",
+        "2.19||heb-esvri-Mal-t-gehdnpo|@PpX3mp|•|לָהֶ֖ם|lā•hem|לְ|lə|to",
+        "2.19|h3808|heb-esvri-Mal-t-gehdnce|@Pn|neither|לֹא־|lōʾ-|לֹא|lōʾ|not",
+        "2.19|h8328|heb-esvri-Mal-t-gehdrcy|@ncmsa|root|שֹׁ֥רֶשׁ|šō•reš|שֹׁרֶשׁ|šō•reš|root",
+        "2.19|h3808|heb-esvri-Mal-t-gehdrca|@Pc|nor|וְ|wə|וְ|wə|nor",
+        "2.19|h6057|heb-esvri-Mal-t-gehdrpy|@ncmsa|branch|עָנָֽף׃|ʿā•nāp̄|עָנָף|ʿā•nāp̄|branch"
+      ]
+    }
+  ],
+  "4:2": [
+    {
+      "o": 25771,
+      "r": "esvi:Malachi:4:2",
+      "p": [
+        "2.2||heb-esvri-Mal-t-gehdrqy|@Pc|But|וְ|wə|וְ|wə|but",
+        "2.2||heb-esvri-Mal-t-gehdgco|@PpX2mp|for|לָכֶ֜ם|lā•ḵem|לְ|lə|for",
+        "2.2|h3373|heb-esvri-Mal-t-gehdgpo|@ampc|fear|יִרְאֵ֤י|yir•ʾēy|יָרֵא|yā•rēʾ|fearing ones of",
+        "2.2|h8035|heb-esvri-Mal-t-gehdgqe|@ncmscX1cs|name|שְׁמִי֙|šə•miy|שֵׁם|šēm|name of",
+        "2.2|h8121|heb-esvri-Mal-t-gehdeca|@ncbsc|sun|שֶׁ֣מֶשׁ|še•meš|שֶׁמֶשׁ|še•meš|sun of",
+        "2.2|h6666|heb-esvri-Mal-t-gehdepo|@ncfsa|righteousness|צְדָקָ֔ה|ṣə•ḏā•qāh|צְדָקָה|ṣə•ḏā•qāh|righteousness",
+        "2.2||heb-esvri-Mal-t-gehdrqe|@vqp3fs{2}|rise|זָרְחָ֨ה|zā•rə•ḥāh|זרח|zrḥ|she shall rise",
+        "2.2||heb-esvri-Mal-t-gehdeqe|@Pc|with|וּ|uw|וְ|wə|with",
+        "2.2|h4832|heb-esvri-Mal-t-gehdkcy|@ncmsa|healing|מַרְפֵּ֖א|mar•pēʾ|מַרְפֵּא|mar•pēʾ|healing",
+        "2.2||heb-esvri-Mal-t-gehdkca|@Pp|in|בִּ|bi|בְּ|bə|in",
+        "2.2|h3671|heb-esvri-Mal-t-gehdkpy|@ncfdcX3fs|wings|כְנָפֶ֑יהָ|ḵ•nā•p̄ey•hā|כָּנָף|kā•nāp̄|wings of",
+        "2.2||heb-esvri-Mal-t-gehdkqy|@Pc|•|וִֽ|wi|וְ|wə|and",
+        "2.2||heb-esvri-Mal-t-gehdkqe|@vqp2mp{2}|out|יצָאתֶ֥ם|y•ṣā(ʾ)•ṯem|יצא|yṣʾ|you shall go out",
+        "2.2||heb-esvri-Mal-t-gehdcco|@Pc|•|וּ|uw|וְ|wə|and",
+        "2.2||heb-esvri-Mal-t-gehdcca|@vqp2mp{2}|leaping|פִשְׁתֶּ֖ם|p̄iš•tem|פושׁ|pwš|you shall leap",
+        "2.2||heb-esvri-Mal-t-gehdcpo|@Pp|like|כְּ|kə|כְּ|kə|like",
+        "2.2|h5695|heb-esvri-Mal-t-gehdcpa|@ncmpc|calves|עֶגְלֵ֥י|ʿeḡ•lēy|עֵגֶל|ʿē•ḡel|calves of",
+        "2.2||heb-esvri-Mal-t-gehdqcy|@ncmsa|stall|מַרְבֵּֽק׃|mar•bēq|מַרְבֵּק|mar•bēq|stall"
+      ]
+    }
+  ],
+  "4:3": [
+    {
+      "o": 25772,
+      "r": "esvi:Malachi:4:3",
+      "p": [
+        "2.21||heb-esvri-Mal-t-gehdqpy|@Pc|And|וְ|wə|וְ|wə|and",
+        "2.21||heb-esvri-Mal-t-gehdqpe|@vqp2mp{2}|tread|עַסֹּותֶ֣ם|ʿas•sōw•ṯem|עסס|ʿss|you shall tread",
+        "2.21|h7563|heb-esvri-Mal-t-gehdqqy|@ampa|wicked|רְשָׁעִ֔ים|rə•šā•ʿiym|רָשָׁע|rā•šāʿ|wicked ones",
+        "2.21|h3588|heb-esvri-Mal-t-gehdoce|@Pc|for|כִּֽי־|kiy-|כִּי|kiy|for",
+        "2.21||heb-esvri-Mal-t-gehdoca|@vqi3mp|be|יִהְי֣וּ|yih•yuw|היה|hyh|they will be",
+        "2.21|h665|heb-esvri-Mal-t-gehdopo|@ncmsa|ashes|אֵ֔פֶר|ʾē•p̄er|אֵפֶר|ʾē•p̄er|ash",
+        "2.21|h8478|heb-esvri-Mal-t-gehdoqe|@Pp|under|תַּ֖חַת|ta•ḥaṯ|תַּחַת|ta•ḥaṯ|under",
+        "2.21|h3709|heb-esvri-Mal-t-gehd1co|@ncfpc|soles|כַּפֹּ֣ות|kap•pōwṯ|כַּף|kap̄|soles of",
+        "2.21|h7272|heb-esvri-Mal-t-gehd1pe|@ncfdcX2mp|feet|רַגְלֵיכֶ֑ם|raḡ•lēy•ḵem|רֶגֶל|re•ḡel|feet of",
+        "2.21||heb-esvri-Mal-t-gehd1qe|@Pp|on|בַּ|ba|בְּ|bə|on",
+        "2.21||heb-esvri-Mal-t-gehuyce|@ncmsa|day|יֹּום֙|y•yōwm|יֹום|yōwm|day",
+        "2.21|h834|heb-esvri-Mal-t-gehuypy|@Pr|when|אֲשֶׁ֣ר|ʾă•šer|אֲשֶׁר|ʾă•šer|when",
+        "2.21|h589|heb-esvri-Mal-t-gehuypa|@pi1cs|I|אֲנִ֣י|ʾă•niy|אֲנִי|ʾă•niy|I",
+        "2.21||heb-esvri-Mal-t-gehuncy|@vqPmsa|act|עֹשֶׂ֔ה|ʿō•śeh|עשׂה|ʿśh|doing",
+        "2.21|h559|heb-esvri-Mal-t-gehunca|@vqp3ms|says|אָמַ֖ר|ʾā•mar|אמר|ʾmr|he says",
+        "2.21||heb-esvri-Mal-t-gehunpo|@np|Lord|יְהוָ֥ה|yəh•wāh|יהוה|yhwh|Yahweh of",
+        "2.21|h6635|heb-esvri-Mal-t-gehunqe|@ncbpa|hosts|צְבָאֹֽות׃|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts"
+      ]
+    }
+  ],
+  "4:4": [
+    {
+      "o": 25773,
+      "r": "esvi:Malachi:4:4",
+      "p": [
+        "2.22|h2142|heb-esvri-Mal-t-gehurpo|@vqvmp|Remember|זִכְר֕וּ|ziḵ•ruw|זכר|zkr|remember",
+        "2.22||heb-esvri-Mal-t-gehurqe|@ncfsc|law|תֹּורַ֖ת|tōw•raṯ|תֹּורָה|tōw•rāh|law of",
+        "2.22|h5651|heb-esvri-Mal-t-gehugpe|@ncmscX1cs|servant|עַבְדִּ֑י|ʿaḇ•diy|עֶבֶד|ʿe•ḇeḏ|servant of",
+        "2.22|h4872|heb-esvri-Mal-t-gehugco|@np|Moses|מֹשֶׁ֣ה|mō•šeh|מֹשֶׁה|mō•šeh|Moses",
+        "2.22|h854|heb-esvri-Mal-t-gehuepe|@PoX3ms|•|אֹותֹ֤ו|ʾōw•ṯōw|אֵת|ʾēṯ|",
+        "2.22|h2706|heb-esvri-Mal-t-gehuccy|@ncmpa|statutes|חֻקִּ֖ים|ḥuq•qiym|חֹק|ḥōq|statutes",
+        "2.22||heb-esvri-Mal-t-gehucca|@Pc|and|וּ|uw|וְ|wə|and",
+        "2.22|h4941|heb-esvri-Mal-t-gehucpy|@ncmpa|rules|מִשְׁפָּטִֽים׃|miš•pā•ṭiym|מִשְׁפָּט|miš•pāṭ|rules",
+        "2.22|h834|heb-esvri-Mal-t-gehugqe|@Pr|that|אֲשֶׁר֩|ʾă•šer|אֲשֶׁר|ʾă•šer|that",
+        "2.22||heb-esvri-Mal-t-gehueco|@vpp1cs|commanded|צִוִּ֨יתִי|ṣiw•wiy•ṯiy|צוה|ṣwh|I commanded",
+        "2.22||heb-esvri-Mal-t-gehueqe|@Pp|at|בְ|ḇə|בְּ|bə|at",
+        "2.22|h2722|heb-esvri-Mal-t-gehukcy|@np|Horeb|חֹרֵב֙|ḥō•rēḇ|חֹרֵב|ḥō•rēḇ|Horeb",
+        "2.22|h5922|heb-esvri-Mal-t-gehukca|@Pp|for|עַל־|ʿal-|עַל|ʿal|on",
+        "2.22|h3606|heb-esvri-Mal-t-gehukpe|@ncmsc|all|כָּל־|kol-|כֹּל|kōl|all of",
+        "2.22|h3478|heb-esvri-Mal-t-gehukpa|@np|Israel|יִשְׂרָאֵ֔ל|yiś•rā•ʾēl|יִשְׂרָאֵל|yiś•rā•ʾēl|Israel"
+      ]
+    }
+  ],
+  "4:5": [
+    {
+      "o": 25774,
+      "r": "esvi:Malachi:4:5",
+      "p": [
+        "2.23|h2009|heb-esvri-Mal-t-gehucqy|@Pi|Behold|הִנֵּ֤ה|hin•nēh|הִנֵּה|hin•nēh|behold",
+        "2.23||heb-esvri-Mal-t-gehuqce|@pi1cs|I|אָֽנֹכִי֙|ʾā•nō•ḵiy|אָנֹכִי|ʾā•nō•ḵiy|I",
+        "2.23||heb-esvri-Mal-t-gehuqpy|@vqPmsa|send|שֹׁלֵ֣חַ|šō•lēaḥ|שׁלח|šlḥ|sending",
+        "2.23||heb-esvri-Mal-t-gehuqpa|@PpX2mp|•|לָכֶ֔ם|lā•ḵem|לְ|lə|to",
+        "2.23|h854|heb-esvri-Mal-t-gehuoce|@Po|•|אֵ֖ת|ʾēṯ|אֵת|ʾēṯ|",
+        "2.23|h452|heb-esvri-Mal-t-gehuopy|@np|Elijah|אֵלִיָּ֣ה|ʾē•liy•yāh|אֵלִיָּה|ʾē•liy•yāh|Elijah",
+        "2.23||heb-esvri-Mal-t-gehuopa|@Pa|the|הַ|ha|הַ|ha|the",
+        "2.23|h5030|heb-esvri-Mal-t-gehuoqy|@ncmsa|prophet|נָּבִ֑יא|n•nā•ḇiyʾ|נָבִיא|nā•ḇiyʾ|prophet",
+        "2.23|h6440|heb-esvri-Mal-t-gehu1co|@ncbpc|before|פְנֵ֗י|p̄•nēy|פָּנֶה|pā•neh|before",
+        "2.23|h6440|heb-esvri-Mal-t-gehu1ce|@Pp|before|לִ|li|לְ|lə|",
+        "2.23||heb-esvri-Mal-t-gcadype|@amsa|great|גָּדֹ֖ול|g•gā•ḏōwl|גָּדֹול|gā•ḏōwl|great",
+        "2.23||heb-esvri-Mal-t-gcadypy|@Pa|great|הַ|ha|הַ|ha|the",
+        "2.23||heb-esvri-Mal-t-gcadyqy|@Pc|and|וְ|wə|וְ|wə|and",
+        "2.23||heb-esvri-Mal-t-gcadncy|@vnPmsa|awesome|נֹּורָֽא׃|n•nōw•rāʾ|ירא|yrʾ|being feared",
+        "2.23||heb-esvri-Mal-t-gcadyqe|@Pa|awesome|הַ|ha|הַ|ha|the",
+        "2.23|h3117|heb-esvri-Mal-t-gehu1qy|@ncmsc|day|יֹ֣ום|yōwm|יֹום|yōwm|day of",
+        "2.23||heb-esvri-Mal-t-gcadyce|@np|Lord|יְהוָ֔ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "2.23||heb-esvri-Mal-t-gehu1pe|@vqc|comes|בֹּ֚וא|bōwʾ|בוא|bwʾ|to come"
+      ]
+    }
+  ],
+  "4:6": [
+    {
+      "o": 25775,
+      "r": "esvi:Malachi:4:6",
+      "p": [
+        "2.24||heb-esvri-Mal-t-gcadnpy|@Pc|And|וְ|wə|וְ|wə|and",
+        "2.24||heb-esvri-Mal-t-gcadnpe|@vhp3ms{2}|turn|הֵשִׁ֤יב|hē•šiyḇ|שׁוב|šwb|he will turn",
+        "2.24|h3820|heb-esvri-Mal-t-gcadnqy|@ncmsc|hearts|לֵב־|lēḇ-|לֵב|lēḇ|heart of",
+        "2.24|h1|heb-esvri-Mal-t-gcadrcy|@ncmpa|fathers|אָבֹות֙|ʾā•ḇōwṯ|אָב|ʾāḇ|fathers",
+        "2.24|h5922|heb-esvri-Mal-t-gcadrca|@Pp|to|עַל־|ʿal-|עַל|ʿal|to",
+        "2.24|h1121|heb-esvri-Mal-t-gcadrpe|@ncmpa|children|בָּנִ֔ים|bā•niym|בֵּן|bēn|children",
+        "2.24||heb-esvri-Mal-t-gcadrqy|@Pc|and|וְ|wə|וְ|wə|and",
+        "2.24|h3820|heb-esvri-Mal-t-gcadrqe|@ncmsc|hearts|לֵ֥ב|lēḇ|לֵב|lēḇ|heart of",
+        "2.24|h1121|heb-esvri-Mal-t-gcadgco|@ncmpa|children|בָּנִ֖ים|bā•niym|בֵּן|bēn|children",
+        "2.24|h5922|heb-esvri-Mal-t-gcadgpe|@Pp|to|עַל־|ʿal-|עַל|ʿal|to",
+        "2.24|h1|heb-esvri-Mal-t-gcadgpa|@ncmpcX3mp|fathers|אֲבֹותָ֑ם|ʾă•ḇōw•ṯām|אָב|ʾāḇ|fathers of",
+        "2.24||heb-esvri-Mal-t-gcadece|@Pc|lest|פֶּן־|pen-|פֶּן|pen|lest",
+        "2.24||heb-esvri-Mal-t-gcadeca|@vqi1cs|come|אָבֹ֕וא|ʾā•ḇōwʾ|בוא|bwʾ|I come",
+        "2.24||heb-esvri-Mal-t-gcadepo|@Pc|and|וְ|wə|וְ|wə|and",
+        "2.24||heb-esvri-Mal-t-gcadepa|@vhp1cs|strike|הִכֵּיתִ֥י|hik•kēy•ṯiy|נכה|nkh|I strike",
+        "2.24|h854|heb-esvri-Mal-t-gcadkcy|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "2.24||heb-esvri-Mal-t-gcadkco|@Pa|the|הָ|hā|הַ|ha|the",
+        "2.24|h776|heb-esvri-Mal-t-gcadkca|@ncfsa|land|אָ֖רֶץ|ʾā•reṣ|אֶרֶץ|ʾe•reṣ|land",
+        "2.24|h2764|heb-esvri-Mal-t-gcadkpo|@ncmsa|destruction|חֵֽרֶם׃|ḥē•rem|חֵרֶם|ḥē•rem|decree of utter destruction"
+      ]
+    }
+  ]
+}

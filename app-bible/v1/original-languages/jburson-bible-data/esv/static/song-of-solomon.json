@@ -1,0 +1,3060 @@
+{
+  "1:0": [
+    {
+      "o": 19458,
+      "r": "esvi:Song of Solomon:1:0",
+      "h": 1,
+      "t": "Song of Solomon 1",
+      "p": []
+    }
+  ],
+  "1:1": [
+    {
+      "o": 19459,
+      "r": "esvi:Song of Solomon:1:1",
+      "p": [
+        "0|h7892|heb-esvri-Sg-t-gw|@ncmsc|Song|שִׁ֥יר|šiyr|שִׁיר|šiyr|song of",
+        "1||heb-esvri-Sg-t-8y|@Pa|Songs|הַ|ha|הַ|ha|the",
+        "2|h7892|heb-esvri-Sg-t-8r|@ncmpa|Songs|שִּׁירִ֖ים|š•šiy•riym|שִׁיר|šiyr|songs",
+        "3|h834|heb-esvri-Sg-t-gr3y|@Pr|which|אֲשֶׁ֥ר|ʾă•šer|אֲשֶׁר|ʾă•šer|which",
+        "4||heb-esvri-Sg-t-gr4o|@Pp|Solomon's|לִ|li|לְ|lə|to",
+        "5|h8010|heb-esvri-Sg-t-gr5y|@np|Solomon's|שְׁלֹמֹֽה׃|š•lō•mōh|שְׁלֹמֹה|šə•lō•mōh|Solomon"
+      ]
+    },
+    {
+      "o": 19460,
+      "r": "esvi:Song of Solomon:1:1",
+      "h": 2,
+      "t": "The Bride Confesses Her Love",
+      "p": []
+    },
+    {
+      "o": 19461,
+      "r": "esvi:Song of Solomon:1:1",
+      "h": 3,
+      "t": "She",
+      "p": []
+    }
+  ],
+  "1:2": [
+    {
+      "o": 19462,
+      "r": "esvi:Song of Solomon:1:2",
+      "p": [
+        "0||heb-esvri-Sg-t-geay|@vqi3msX1cs{1}Jm|kiss|יִשָּׁקֵ֙נִי֙|yiš•šā•qē•niy|נשׁק|nšq|let him kiss",
+        "2|h4481|heb-esvri-Sg-t-ge4y|@Pp|with|מִ|mi|מִן|min|from",
+        "3||heb-esvri-Sg-t-ge4o|@ncfpc|kisses|נְּשִׁיקֹ֣ות|n•nə•šiy•qōwṯ|נְשִׁיקָה|nə•šiy•qāh|kisses of",
+        "4|h6310|heb-esvri-Sg-t-gehy|@ncmscX3ms|mouth|פִּ֔יהוּ|piy•huw|פֶּה|peh|mouth of",
+        "6|h3588|heb-esvri-Sg-t-gc3y|@Pc|For|כִּֽי־|kiy-|כִּי|kiy|for",
+        "7||heb-esvri-Sg-t-gc4y|@ampa|better|טֹובִ֥ים|ṭōw•ḇiym|טֹוב|ṭōwḇ|good",
+        "8||heb-esvri-Sg-t-gc5o|@ncmpcX2ms|love|דֹּדֶ֖יךָ|dō•ḏey•ḵā|דֹּוד|dōwḏ|love of",
+        "10|h4480|heb-esvri-Sg-t-goao|@Pp|than|מִ|mi|מִן|min|more than",
+        "11|h3196|heb-esvri-Sg-t-go3y|@ncmsa|wine|יָּֽיִן׃|y•yā•yin|יַיִן|ya•yin|wine"
+      ]
+    }
+  ],
+  "1:3": [
+    {
+      "o": 19463,
+      "r": "esvi:Song of Solomon:1:3",
+      "p": [
+        "0||heb-esvri-Sg-t-go5y|@Pp|fragrant|לְ|lə|לְ|lə|as to",
+        "1|h7381|heb-esvri-Sg-t-go5o|@ncmsa|fragrant|רֵ֙יחַ֙|rēyaḥ|רֵיחַ|rēyaḥ|fragrance",
+        "2|h8081|heb-esvri-Sg-t-gway|@ncmpcX2ms|oils|שְׁמָנֶ֣יךָ|šə•mā•ney•ḵā|שֶׁמֶן|še•men|oils of",
+        "4||heb-esvri-Sg-t-gw4y|@ampa|fragrant|טֹובִ֔ים|ṭōw•ḇiym|טֹוב|ṭōwḇ|good",
+        "5|h8081|heb-esvri-Sg-t-gw5o|@ncmsa|oil|שֶׁ֖מֶן|še•men|שֶׁמֶן|še•men|oil",
+        "6||heb-esvri-Sg-t-gaay|@vHi3fs|poured|תּוּרַ֣ק|tuw•raq|ריק|ryq|she is poured out",
+        "7|h8035|heb-esvri-Sg-t-ga3o|@ncmscX2ms|name|שְׁמֶ֑ךָ|šə•me•ḵā|שֵׁם|šēm|name of",
+        "9|h5922|heb-esvri-Sg-t-ga5o|@Pp|therefore|עַל־|ʿal-|עַל|ʿal|upon",
+        "10|h3654|heb-esvri-Sg-t-gaho|@Pd|therefore|כֵּ֖ן|kēn|כֵּן|kēn|thus",
+        "11||heb-esvri-Sg-t-gh3y|@ncfpa|virgins|עֲלָמֹ֥ות|ʿă•lā•mōwṯ|עַלְמָה|ʿal•māh|virgins",
+        "12|h157|heb-esvri-Sg-t-gh4o|@vqp3cpX2ms|love|אֲהֵבֽוּךָ׃|ʾă•hē•ḇuw•ḵā|אהב|ʾhb|they love"
+      ]
+    }
+  ],
+  "1:4": [
+    {
+      "o": 19464,
+      "r": "esvi:Song of Solomon:1:4",
+      "p": [
+        "0|h4900|heb-esvri-Sg-t-8yay|@vqvmsX1cs|Draw|מָשְׁכֵ֖נִי|moš•ḵē•niy|משׁך|mšk|draw",
+        "2|h310|heb-esvri-Sg-t-8y4y|@PpX2ms|after|אַחֲרֶ֣יךָ|ʾa•ḥă•rey•ḵā|אַחַר|ʾa•ḥar|after",
+        "4||heb-esvri-Sg-t-8yhy|@vqi1cp{1}Ct|run|נָּר֑וּצָה|n•nā•ruw•ṣāh|רוץ|rwṣ|let us run",
+        "5||heb-esvri-Sg-t-8rao|@vhp3msX1cs|into|הֱבִיאַ֨נִי|hĕ•ḇiy•ʾa•niy|בוא|bwʾ|he has brought",
+        "7||heb-esvri-Sg-t-8r4o|@Pa|The|הַ|ha|הַ|ha|the",
+        "8|h4430|heb-esvri-Sg-t-8r5y|@ncmsa|king|מֶּ֜לֶךְ|m•me•leḵ|מֶלֶךְ|me•leḵ|king",
+        "9|h2315|heb-esvri-Sg-t-8rho|@ncmpcX3ms|chambers|חֲדָרָ֗יו|ḥă•ḏā•rāyw|חֶדֶר|ḥe•ḏer|chambers of",
+        "11||heb-esvri-Sg-t-gradg|@vqi1cp{1}Ct|exult|נָגִ֤ילָה|nā•ḡiy•lāh|גיל|gyl|we will exult",
+        "12||heb-esvri-Sg-t-gradc|@Pc|and|וְ|wə|וְ|wə|and",
+        "13||heb-esvri-Sg-t-gradq|@vqi1cp{1}Ct|rejoice|נִשְׂמְחָה֙|niś•mə•ḥāh|שׂמח|śmḥ|we will rejoice",
+        "14||heb-esvri-Sg-t-grauy|@PpX2m!s|in|בָּ֔ךְ|bāḵ|בְּ|bə|in",
+        "16||heb-esvri-Sg-t-graue|@vhi1cp{1}Ct|extol|נַזְכִּ֤ירָה|naz•kiy•rāh|זכר|zkr|we will extol",
+        "17|h157|heb-esvri-Sg-t-grauq|@ncmpcX2ms|love|דֹדֶ֙יךָ֙|ḏō•ḏey•ḵā|דֹּוד|dōwḏ|love of",
+        "19|h4481|heb-esvri-Sg-t-gr3dn|@Pp|more than|מִ|mi|מִן|min|more than",
+        "20|h3196|heb-esvri-Sg-t-gr3dr|@ncmsa|wine|יַּ֔יִן|y•ya•yin|יַיִן|ya•yin|wine",
+        "21||heb-esvri-Sg-t-gr3dk|@ncmpa|rightly|מֵישָׁרִ֖ים|mēy•šā•riym|מֵישָׁרִים|mēy•šā•riym|right",
+        "22|h157|heb-esvri-Sg-t-gr3do|@vqp3cpX2ms|love|אֲהֵבֽוּךָ׃|ʾă•hē•ḇuw•ḵā|אהב|ʾhb|they love"
+      ]
+    },
+    {
+      "o": 19465,
+      "r": "esvi:Song of Solomon:1:4",
+      "h": 3,
+      "t": "Others",
+      "p": []
+    },
+    {
+      "o": 19466,
+      "r": "esvi:Song of Solomon:1:4",
+      "p": [
+        "0|h4900|heb-esvri-Sg-t-8yay|@vqvmsX1cs|Draw|מָשְׁכֵ֖נִי|moš•ḵē•niy|משׁך|mšk|draw",
+        "2|h310|heb-esvri-Sg-t-8y4y|@PpX2ms|after|אַחֲרֶ֣יךָ|ʾa•ḥă•rey•ḵā|אַחַר|ʾa•ḥar|after",
+        "4||heb-esvri-Sg-t-8yhy|@vqi1cp{1}Ct|run|נָּר֑וּצָה|n•nā•ruw•ṣāh|רוץ|rwṣ|let us run",
+        "5||heb-esvri-Sg-t-8rao|@vhp3msX1cs|into|הֱבִיאַ֨נִי|hĕ•ḇiy•ʾa•niy|בוא|bwʾ|he has brought",
+        "7||heb-esvri-Sg-t-8r4o|@Pa|The|הַ|ha|הַ|ha|the",
+        "8|h4430|heb-esvri-Sg-t-8r5y|@ncmsa|king|מֶּ֜לֶךְ|m•me•leḵ|מֶלֶךְ|me•leḵ|king",
+        "9|h2315|heb-esvri-Sg-t-8rho|@ncmpcX3ms|chambers|חֲדָרָ֗יו|ḥă•ḏā•rāyw|חֶדֶר|ḥe•ḏer|chambers of",
+        "11||heb-esvri-Sg-t-gradg|@vqi1cp{1}Ct|exult|נָגִ֤ילָה|nā•ḡiy•lāh|גיל|gyl|we will exult",
+        "12||heb-esvri-Sg-t-gradc|@Pc|and|וְ|wə|וְ|wə|and",
+        "13||heb-esvri-Sg-t-gradq|@vqi1cp{1}Ct|rejoice|נִשְׂמְחָה֙|niś•mə•ḥāh|שׂמח|śmḥ|we will rejoice",
+        "14||heb-esvri-Sg-t-grauy|@PpX2m!s|in|בָּ֔ךְ|bāḵ|בְּ|bə|in",
+        "16||heb-esvri-Sg-t-graue|@vhi1cp{1}Ct|extol|נַזְכִּ֤ירָה|naz•kiy•rāh|זכר|zkr|we will extol",
+        "17|h157|heb-esvri-Sg-t-grauq|@ncmpcX2ms|love|דֹדֶ֙יךָ֙|ḏō•ḏey•ḵā|דֹּוד|dōwḏ|love of",
+        "19|h4481|heb-esvri-Sg-t-gr3dn|@Pp|more than|מִ|mi|מִן|min|more than",
+        "20|h3196|heb-esvri-Sg-t-gr3dr|@ncmsa|wine|יַּ֔יִן|y•ya•yin|יַיִן|ya•yin|wine",
+        "21||heb-esvri-Sg-t-gr3dk|@ncmpa|rightly|מֵישָׁרִ֖ים|mēy•šā•riym|מֵישָׁרִים|mēy•šā•riym|right",
+        "22|h157|heb-esvri-Sg-t-gr3do|@vqp3cpX2ms|love|אֲהֵבֽוּךָ׃|ʾă•hē•ḇuw•ḵā|אהב|ʾhb|they love"
+      ]
+    },
+    {
+      "o": 19467,
+      "r": "esvi:Song of Solomon:1:4",
+      "h": 3,
+      "t": "She",
+      "p": []
+    }
+  ],
+  "1:5": [
+    {
+      "o": 19468,
+      "r": "esvi:Song of Solomon:1:5",
+      "p": [
+        "0|h7838|heb-esvri-Sg-t-gr3uc|@afsa|dark|שְׁחֹורָ֤ה|šə•ḥōw•rāh|שָׁחֹר|šā•ḥōr|very dark",
+        "1|h589|heb-esvri-Sg-t-gr3u1|@pi1cs|I|אֲנִי֙|ʾă•niy|אֲנִי|ʾă•niy|I",
+        "2||heb-esvri-Sg-t-gr4dr|@Pc|but|וְֽ|wə|וְ|wə|but",
+        "3||heb-esvri-Sg-t-gr4dg|@afsa|lovely|נָאוָ֔ה|nā(ʾ)•wāh|נָאוֶה|nā(ʾ)•weh|lovely",
+        "4|h1325|heb-esvri-Sg-t-gr4dc|@ncfpc|daughters|בְּנֹ֖ות|bə•nōwṯ|בַּת|baṯ|daughters of",
+        "5||heb-esvri-Sg-t-gr4d1|@np|Jerusalem|יְרוּשָׁלִָ֑ם|yə•ruw•šā•lāim|יְרוּשָׁלִַם|yə•ruw•šā•laim|Jerusalem",
+        "6||heb-esvri-Sg-t-gr4ur|@Pp|like|כְּ|kə|כְּ|kə|like",
+        "7|h169|heb-esvri-Sg-t-gr4ug|@ncmpc|tents|אָהֳלֵ֣י|ʾo•hŏ•lēy|אֹהֶל|ʾō•hel|tents of",
+        "8||heb-esvri-Sg-t-gr4uc|@np|Kedar|קֵדָ֔ר|qē•ḏār|קֵדָר|qē•ḏār|Kedar",
+        "9||heb-esvri-Sg-t-gr4u1|@Pp|like|כִּ|ki|כְּ|kə|like",
+        "10|h3407|heb-esvri-Sg-t-gr5dy|@ncfpc|curtains|ירִיעֹ֖ות|y•riy•ʿōwṯ|יְרִיעָה|yə•riy•ʿāh|curtains of",
+        "11|h8010|heb-esvri-Sg-t-gr5dg|@np|Solomon|שְׁלֹמֹֽה׃|šə•lō•mōh|שְׁלֹמֹה|šə•lō•mōh|Solomon"
+      ]
+    }
+  ],
+  "1:6": [
+    {
+      "o": 19469,
+      "r": "esvi:Song of Solomon:1:6",
+      "p": [
+        "0|h409|heb-esvri-Sg-t-gr5dq|@Pd|not|אַל־|ʾal-|אַל|ʾal|not",
+        "1||heb-esvri-Sg-t-gr5d1|@vqi2mpX1cs{1}Jm|gaze|תִּרְא֙וּנִי֙|tir•ʾuw•niy|ראה|rʾh|gaze at",
+        "3||heb-esvri-Sg-t-gr5ug|@Pr|because|שֶׁ|še|שַׁ|ša|that",
+        "4|h589|heb-esvri-Sg-t-gr5ue|@pi1cs|I|אֲנִ֣י|ʾă•niy|אֲנִי|ʾă•niy|I",
+        "5||heb-esvri-Sg-t-gr5uq|@afsa|dark|שְׁחַרְחֹ֔רֶת|šə•ḥar•ḥō•reṯ|שְׁחַרְחֹר|šə•ḥar•ḥōr|dark",
+        "6||heb-esvri-Sg-t-grhdy|@Pr|because|שֶׁ|še|שַׁ|ša|that",
+        "7||heb-esvri-Sg-t-grhdn|@vqp3fsX1cs|looked|שֱּׁזָפַ֖תְנִי|š•šĕ•zā•p̄aṯ•niy|שׁזף|šzp|she has looked upon",
+        "9||heb-esvri-Sg-t-grhdk|@Pa|the|הַ|ha|הַ|ha|the",
+        "10|h8121|heb-esvri-Sg-t-grhdc|@ncbsa|sun|שָּׁ֑מֶשׁ|š•šā•meš|שֶׁמֶשׁ|še•meš|sun",
+        "11|h1121|heb-esvri-Sg-t-grhd1|@ncmpc|sons|בְּנֵ֧י|bə•nēy|בֵּן|bēn|sons of",
+        "12|h517|heb-esvri-Sg-t-grhur|@ncfscX1cs|mother's|אִמִּ֣י|ʾim•miy|אֵם|ʾēm|mother of",
+        "14||heb-esvri-Sg-t-grhuc|@vnp3cp|angry|נִֽחֲרוּ־|ni•ḥă•ruw-|חרה|ḥrh|they were angry",
+        "15||heb-esvri-Sg-t-grhuo|@PpX1cs|with|בִ֗י|ḇiy|בְּ|bə|with",
+        "17||heb-esvri-Sg-t-geadr|@vqp3cpX1cs|made|שָׂמֻ֙נִי֙|śā•mu•niy|שׂים|śym|they made",
+        "19||heb-esvri-Sg-t-geadc|@vqPfsa|keeper|נֹטֵרָ֣ה|nō•ṭē•rāh|נטר|nṭr|one keeping",
+        "20|h854|heb-esvri-Sg-t-gead1|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "21||heb-esvri-Sg-t-geaun|@Pa|the|הַ|ha|הַ|ha|the",
+        "22|h3754|heb-esvri-Sg-t-geaur|@ncmpa|vineyards|כְּרָמִ֔ים|k•kə•rā•miym|כֶּרֶם|ke•rem|vineyards",
+        "23|h3754|heb-esvri-Sg-t-geauk|@ncmscX1cs|vineyard|כַּרְמִ֥י|kar•miy|כֶּרֶם|ke•rem|vineyard of",
+        "25||heb-esvri-Sg-t-geau1|@Pr|•|שֶׁ|še|שַׁ|ša|that",
+        "26||heb-esvri-Sg-t-ge3dy|@PpX1cs|own|לִּ֖י|l•liy|לְ|lə|to",
+        "28|h3808|heb-esvri-Sg-t-ge3de|@Pn|not|לֹ֥א|lōʾ|לֹא|lōʾ|not",
+        "29||heb-esvri-Sg-t-ge3dq|@vqp1cs|kept|נָטָֽרְתִּי׃|nā•ṭār•tiy|נטר|nṭr|I have kept"
+      ]
+    }
+  ],
+  "1:7": [
+    {
+      "o": 19470,
+      "r": "esvi:Song of Solomon:1:7",
+      "p": [
+        "0|h5046|heb-esvri-Sg-t-ge3un|@vhvmsXh|Tell|הַגִּ֣ידָה|hag•giy•ḏāh|נגד|ngd|tell",
+        "1||heb-esvri-Sg-t-ge3ue|@PpX1cs|•|לִּ֗י|l•liy|לְ|lə|to",
+        "3||heb-esvri-Sg-t-ge3uo|@Pr|you whom|שֶׁ֤|še|שַׁ|ša|whom",
+        "4|h157|heb-esvri-Sg-t-ge3u1|@vqp3fs|loves|אָהֲבָה֙|ʾā•hă•ḇāh|אהב|ʾhb|she loves",
+        "5|h5315|heb-esvri-Sg-t-ge4dr|@ncbscX1cs|soul|נַפְשִׁ֔י|nap̄•šiy|נֶפֶשׁ|ne•p̄eš|soul of",
+        "7|h349|heb-esvri-Sg-t-ge4dc|@Pi|where|אֵיכָ֣ה|ʾēy•ḵāh|אֵיכָה|ʾēy•ḵāh|where",
+        "8||heb-esvri-Sg-t-ge4d1|@vqi2ms|pasture|תִרְעֶ֔ה|ṯir•ʿeh|רעה|rʿh|you pasture",
+        "9|h349|heb-esvri-Sg-t-ge4ur|@Pi|where|אֵיכָ֖ה|ʾēy•ḵāh|אֵיכָה|ʾēy•ḵāh|where",
+        "10||heb-esvri-Sg-t-ge4uk|@vhi2ms|lie|תַּרְבִּ֣יץ|tar•biyṣ|רבץ|rbṣ|you make lie down",
+        "11||heb-esvri-Sg-t-ge4uo|@Pp|at|בַּֽ|ba|בְּ|bə|at",
+        "13||heb-esvri-Sg-t-ge5dy|@ncmpa|noon|צָּהֳרָ֑יִם|ṣ•ṣo•hŏ•rā•yim|צָהֳרַיִם|ṣo•hŏ•ra•yim|noon",
+        "14|h4100|heb-esvri-Sg-t-ge5dg|@Pr|for|שַׁ|ša|שַׁ|ša|that",
+        "15||heb-esvri-Sg-t-ge5de|@Pp|why|לָּ|l•lā|לְ|lə|",
+        "16|h4101|heb-esvri-Sg-t-ge5dk|@pii|why|מָ֤ה|māh|מָה|māh|why",
+        "17||heb-esvri-Sg-t-ge5do|@vqi1cs|be|אֶֽהְיֶה֙|ʾeh•yeh|היה|hyh|I shall be",
+        "18||heb-esvri-Sg-t-ge5un|@Pp|like|כְּ|kə|כְּ|kə|like",
+        "19||heb-esvri-Sg-t-ge5ur|@vqPfsa|veils|עֹ֣טְיָ֔ה|ʿō•ṭə•yāh|עטה|ʿṭh|one wrapping up",
+        "20|h5922|heb-esvri-Sg-t-ge5uk|@Pp|beside|עַ֖ל|ʿal|עַל|ʿal|by",
+        "21|h5740|heb-esvri-Sg-t-ge5uo|@ncmpc|flocks|עֶדְרֵ֥י|ʿeḏ•rēy|עֵדֶר|ʿē•ḏer|flocks of",
+        "22|h2270|heb-esvri-Sg-t-gehdn|@ncmpcX2ms|companions|חֲבֵרֶֽיךָ׃|ḥă•ḇē•rey•ḵā|חָבֵר|ḥā•ḇēr|companions of"
+      ]
+    },
+    {
+      "o": 19471,
+      "r": "esvi:Song of Solomon:1:7",
+      "h": 2,
+      "t": "Solomon and His Bride Delight in Each Other",
+      "p": []
+    },
+    {
+      "o": 19472,
+      "r": "esvi:Song of Solomon:1:7",
+      "h": 3,
+      "t": "He",
+      "p": []
+    }
+  ],
+  "1:8": [
+    {
+      "o": 19473,
+      "r": "esvi:Song of Solomon:1:8",
+      "p": [
+        "0|h518|heb-esvri-Sg-t-gehdc|@Pc|If|אִם־|ʾim-|אִם|ʾim|if",
+        "1|h3808|heb-esvri-Sg-t-gehdo|@Pn|not|לֹ֤א|lōʾ|לֹא|lōʾ|not",
+        "2||heb-esvri-Sg-t-gehun|@vqi2fs|know|תֵדְעִי֙|ṯē•ḏə•ʿiy|ידע|ydʿ|you know",
+        "3||heb-esvri-Sg-t-gehue|@PpX2fs|•|לָ֔ךְ|lāḵ|לְ|lə|to",
+        "5||heb-esvri-Sg-t-gehuo|@Pa|O|הַ|ha|הַ|ha|the",
+        "6|h3303|heb-esvri-Sg-t-gehu1|@afsa|beautiful|יָּפָ֖ה|y•yā•p̄āh|יָפֶה|yā•p̄eh|beautiful one",
+        "7||heb-esvri-Sg-t-gcadr|@Pp|among|בַּ|ba|בְּ|bə|among",
+        "9|h802|heb-esvri-Sg-t-gcade|@ncfpa|women|נָּשִׁ֑ים|n•nā•šiym|אִשָּׁה|ʾiš•šāh|women",
+        "10||heb-esvri-Sg-t-gcadq|@vqvfs|follow|צְֽאִי־|ṣə•ʾiy-|יצא|yṣʾ|go out",
+        "11||heb-esvri-Sg-t-gcad1|@PpX2fs|•|לָ֞ךְ|lāḵ|לְ|lə|to",
+        "13||heb-esvri-Sg-t-gcaug|@Pp|in|בְּ|bə|בְּ|bə|in",
+        "14|h6119|heb-esvri-Sg-t-gcaue|@ncmpc|tracks|עִקְבֵ֣י|ʿiq•ḇēy|עָקֵב|ʿā•qēḇ|tracks of",
+        "15||heb-esvri-Sg-t-gcauq|@Pa|the|הַ|ha|הַ|ha|the",
+        "16|h6629|heb-esvri-Sg-t-gcauo|@ncbsa|flock|צֹּ֗אן|ṣ•ṣō(ʾ)n|צֹאן|ṣō(ʾ)n|flock",
+        "17||heb-esvri-Sg-t-gc3dn|@Pc|and|וּ|uw|וְ|wə|and",
+        "18||heb-esvri-Sg-t-gc3dr|@vqvfs|pasture|רְעִי֙|rə•ʿiy|רעה|rʿh|pasture",
+        "19|h854|heb-esvri-Sg-t-gc3dk|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "20|h1429|heb-esvri-Sg-t-gc3dq|@ncfpcX2fs|goats|גְּדִיֹּתַ֔יִךְ|gə•ḏiy•yō•ṯa•yiḵ|גְּדִיָּה|gə•ḏiy•yāh|young goats of",
+        "22|h5922|heb-esvri-Sg-t-gc3un|@Pp|beside|עַ֖ל|ʿal|עַל|ʿal|by",
+        "23|h4908|heb-esvri-Sg-t-gc3ue|@ncmpc|tents|מִשְׁכְּנֹ֥ות|miš•kə•nōwṯ|מִשְׁכָּן|miš•kān|tents of",
+        "24||heb-esvri-Sg-t-gc3uq|@Pa|the|הָ|hā|הַ|ha|the",
+        "25||heb-esvri-Sg-t-gc3uo|@vqPmpa|shepherds'|רֹעִֽים׃|rō•ʿiym|רעה|rʿh|ones shepherding"
+      ]
+    }
+  ],
+  "1:9": [
+    {
+      "o": 19474,
+      "r": "esvi:Song of Solomon:1:9",
+      "p": [
+        "0||heb-esvri-Sg-t-gc4dk|@Pp|to|לְ|lə|לְ|lə|to",
+        "1||heb-esvri-Sg-t-gc4dc|@ncfscX1cs|mare|סֻסָתִי֙|su•sā•ṯiy|סוּסָה|suw•sāh|mare of",
+        "3||heb-esvri-Sg-t-gc4uy|@Pp|among|בְּ|bə|בְּ|bə|among",
+        "4|h7393|heb-esvri-Sg-t-gc4un|@ncmpc|chariots|רִכְבֵ֣י|riḵ•ḇēy|רֶכֶב|re•ḵeḇ|chariots of",
+        "5|h6547|heb-esvri-Sg-t-gc4ue|@np|Pharaoh's|פַרְעֹ֔ה|p̄ar•ʿōh|פַּרְעֹה|par•ʿōh|Pharaoh",
+        "6||heb-esvri-Sg-t-gc4uq|@vpp1csX2fs|compare|דִּמִּיתִ֖יךְ|dim•miy•ṯiyḵ|דמה|dmh|I compare",
+        "8||heb-esvri-Sg-t-gc5dn|@ncfscX1cs|love|רַעְיָתִֽי׃|raʿ•yā•ṯiy|רַעְיָה|raʿ•yāh|beloved of"
+      ]
+    }
+  ],
+  "1:10": [
+    {
+      "o": 19475,
+      "r": "esvi:Song of Solomon:1:10",
+      "p": [
+        "0||heb-esvri-Sg-t-gc5dc|@vqp3cp|lovely|נָאו֤וּ|nā(ʾ)•wuw|נאה|nʾh|they are lovely",
+        "1|h3895|heb-esvri-Sg-t-gc5d1|@ncfdcX2fs|cheeks|לְחָיַ֙יִךְ֙|lə•ḥā•ya•yiḵ|לְחִי|lə•ḥiy|cheeks of",
+        "3||heb-esvri-Sg-t-gc5ug|@Pp|with|בַּ|ba|בְּ|bə|with",
+        "5||heb-esvri-Sg-t-gc5uk|@ncmpa|ornaments|תֹּרִ֔ים|t•tō•riym|תֹּור|tōwr|string ornaments",
+        "6|h6677|heb-esvri-Sg-t-gc5uo|@ncmscX2fs|neck|צַוָּארֵ֖ךְ|ṣaw•wā(ʾ)•rēḵ|צַוָּאר|ṣaw•wā(ʾ)r|neck of",
+        "8||heb-esvri-Sg-t-gchdr|@Pp|with|בַּ|ba|בְּ|bə|with",
+        "9||heb-esvri-Sg-t-gchdg|@ncmpa|strings of jewels|חֲרוּזִֽים׃|ḥă•ruw•ziym|חֲרוּזִים|ḥă•ruw•ziym|neck ornaments"
+      ]
+    },
+    {
+      "o": 19476,
+      "r": "esvi:Song of Solomon:1:10",
+      "h": 3,
+      "t": "Others",
+      "p": []
+    }
+  ],
+  "1:11": [
+    {
+      "o": 19477,
+      "r": "esvi:Song of Solomon:1:11",
+      "p": [
+        "0||heb-esvri-Sg-t-gchdq|@ncmpc|ornaments|תֹּורֵ֤י|tōw•rēy|תֹּור|tōwr|string ornaments of",
+        "1|h2091|heb-esvri-Sg-t-gchuy|@ncmsa|gold|זָהָב֙|zā•hāḇ|זָהָב|zā•hāḇ|gold",
+        "2||heb-esvri-Sg-t-gchug|@vqi1cp|make|נַעֲשֶׂה־|na•ʿă•śeh-|עשׂה|ʿśh|we will make",
+        "3||heb-esvri-Sg-t-gchuk|@PpX2fs|for|לָּ֔ךְ|l•lāḵ|לְ|lə|for",
+        "5|h5974|heb-esvri-Sg-t-gchu1|@Pp|with|עִ֖ם|ʿim|עִם|ʿim|with",
+        "6||heb-esvri-Sg-t-goadr|@ncfpc|studded|נְקֻדֹּ֥ות|nə•qud•dōwṯ|נְקֻדָּה|nə•qud•dāh|points of",
+        "7||heb-esvri-Sg-t-goadk|@Pa|silver|הַ|ha|הַ|ha|the",
+        "8|h3701|heb-esvri-Sg-t-goadc|@ncmsa|silver|כָּֽסֶף׃|k•kā•sep̄|כֶּסֶף|ke•sep̄|silver"
+      ]
+    },
+    {
+      "o": 19478,
+      "r": "esvi:Song of Solomon:1:11",
+      "h": 3,
+      "t": "She",
+      "p": []
+    }
+  ],
+  "1:12": [
+    {
+      "o": 19479,
+      "r": "esvi:Song of Solomon:1:12",
+      "p": [
+        "0|h5704|heb-esvri-Sg-t-goauy|@Pp|While|עַד־|ʿaḏ-|עַד|ʿaḏ|while",
+        "1|h5704|heb-esvri-Sg-t-goaur|@Pr|While|שֶׁ֤|še|שַׁ|ša|that",
+        "2||heb-esvri-Sg-t-goaug|@Pa|the|הַ|ha|הַ|ha|the",
+        "3|h4430|heb-esvri-Sg-t-goaue|@ncmsa|king|מֶּ֙לֶךְ֙|m•me•leḵ|מֶלֶךְ|me•leḵ|king",
+        "4||heb-esvri-Sg-t-goauq|@Pp|on|בִּ|bi|בְּ|bə|on",
+        "5||heb-esvri-Sg-t-goauo|@ncmscX3ms|couch|מְסִבֹּ֔ו|m•sib•bōw|מֵסַב|mē•saḇ|couch of",
+        "7||heb-esvri-Sg-t-go3dr|@ncmscX1cs|nard|נִרְדִּ֖י|nir•diy|נֵרְדְּ|nērd|nard of",
+        "9|h5414|heb-esvri-Sg-t-go3dc|@vqp3ms|gave|נָתַ֥ן|nā•ṯan|נתן|ntn|he gave",
+        "10|h7381|heb-esvri-Sg-t-go3d1|@ncmscX3ms|fragrance|רֵיחֹֽו׃|rēy•ḥōw|רֵיחַ|rēyaḥ|fragrance of"
+      ]
+    }
+  ],
+  "1:13": [
+    {
+      "o": 19480,
+      "r": "esvi:Song of Solomon:1:13",
+      "p": [
+        "0||heb-esvri-Sg-t-go3ue|@ncmsc|sachet|צְרֹ֨ור|ṣə•rōwr|צְרֹור|ṣə•rōwr|sachet of",
+        "1||heb-esvri-Sg-t-go3uq|@Pa|myrrh|הַ|ha|הַ|ha|the",
+        "2|h4753|heb-esvri-Sg-t-go3uo|@ncmsa|myrrh|מֹּ֤ר׀|m•mōr|מֹר|mōr|myrrh",
+        "3||heb-esvri-Sg-t-go4dn|@ncmscX1cs|beloved|דֹּודִי֙|dōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "5||heb-esvri-Sg-t-go4dk|@PpX1cs|to|לִ֔י|liy|לְ|lə|to",
+        "7|h996|heb-esvri-Sg-t-go4d1|@Pp|between|בֵּ֥ין|bēyn|בַּיִן|ba•yin|between",
+        "8|h7699|heb-esvri-Sg-t-go4ur|@ncmdcX1cs|breasts|שָׁדַ֖י|šā•ḏay|שַׁד|šaḏ|breasts of",
+        "10||heb-esvri-Sg-t-go4uc|@vqi3ms|lies|יָלִֽין׃|yā•liyn|לין|lyn|he stays"
+      ]
+    }
+  ],
+  "1:14": [
+    {
+      "o": 19481,
+      "r": "esvi:Song of Solomon:1:14",
+      "p": [
+        "0||heb-esvri-Sg-t-go5dy|@ncmsc|cluster|אֶשְׁכֹּ֨ל|ʾeš•kōl|אֶשְׁכֹּול|ʾeš•kōwl|cluster of",
+        "1||heb-esvri-Sg-t-go5dg|@Pa|henna|הַ|ha|הַ|ha|the",
+        "2|h3724|heb-esvri-Sg-t-go5de|@ncmsa|henna|כֹּ֤פֶר׀|k•kō•p̄er|כֹּפֶר|kō•p̄er|henna",
+        "3||heb-esvri-Sg-t-go5dq|@ncmscX1cs|beloved|דֹּודִי֙|dōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "5||heb-esvri-Sg-t-go5un|@PpX1cs|to|לִ֔י|liy|לְ|lə|to",
+        "7||heb-esvri-Sg-t-go5uk|@Pp|in|בְּ|bə|בְּ|bə|in",
+        "8|h3754|heb-esvri-Sg-t-go5uc|@ncmpc|vineyards|כַרְמֵ֖י|ḵar•mēy|כֶּרֶם|ke•rem|vineyards of",
+        "9||heb-esvri-Sg-t-go5u1|@np|Engedi|עֵ֥ין גֶּֽדִי׃|ʿēyn ge•ḏiy|עֵין גֶּדִי|ʿēyn ge•ḏiy|Engedi"
+      ]
+    },
+    {
+      "o": 19482,
+      "r": "esvi:Song of Solomon:1:14",
+      "h": 3,
+      "t": "He",
+      "p": []
+    }
+  ],
+  "1:15": [
+    {
+      "o": 19483,
+      "r": "esvi:Song of Solomon:1:15",
+      "p": [
+        "0|h2009|heb-esvri-Sg-t-gohdc|@PiX2fs|Behold|הִנָּ֤ךְ|hin•nāḵ|הִנֵּה|hin•nēh|behold",
+        "2|h3303|heb-esvri-Sg-t-gohuy|@afsa|beautiful|יָפָה֙|yā•p̄āh|יָפֶה|yā•p̄eh|beautiful",
+        "3||heb-esvri-Sg-t-gohug|@ncfscX1cs|love|רַעְיָתִ֔י|raʿ•yā•ṯiy|רַעְיָה|raʿ•yāh|beloved of",
+        "5|h2009|heb-esvri-Sg-t-gohuq|@PiX2fs|behold|הִנָּ֥ךְ|hin•nāḵ|הִנֵּה|hin•nēh|behold",
+        "7|h3303|heb-esvri-Sg-t-gwadn|@afsa|beautiful|יָפָ֖ה|yā•p̄āh|יָפֶה|yā•p̄eh|beautiful",
+        "8|h5869|heb-esvri-Sg-t-gwade|@ncbdcX2fs|eyes|עֵינַ֥יִךְ|ʿēy•na•yiḵ|עַיִן|ʿa•yin|eyes of",
+        "10||heb-esvri-Sg-t-gwado|@ncfpa|doves|יֹונִֽים׃|yōw•niym|יֹונָה|yōw•nāh|doves"
+      ]
+    },
+    {
+      "o": 19484,
+      "r": "esvi:Song of Solomon:1:15",
+      "h": 3,
+      "t": "She",
+      "p": []
+    }
+  ],
+  "1:16": [
+    {
+      "o": 19485,
+      "r": "esvi:Song of Solomon:1:16",
+      "p": [
+        "0|h2009|heb-esvri-Sg-t-gwaur|@PiX2ms|Behold|הִנְּךָ֨|hin•nə•ḵā|הִנֵּה|hin•nēh|behold",
+        "2|h3303|heb-esvri-Sg-t-gwauc|@amsa|beautiful|יָפֶ֤ה|yā•p̄eh|יָפֶה|yā•p̄eh|beautiful",
+        "3||heb-esvri-Sg-t-gwau1|@ncmscX1cs|beloved|דֹודִי֙|ḏōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "5|h639|heb-esvri-Sg-t-gw3dg|@Pc|truly|אַ֣ף|ʾap̄|אַף|ʾap̄|also",
+        "6|h5273|heb-esvri-Sg-t-gw3dc|@amsa|delightful|נָעִ֔ים|nā•ʿiym|נָעִים|nā•ʿiym|pleasant",
+        "7|h639|heb-esvri-Sg-t-gw3d1|@Pc|•|אַף־|ʾap̄-|אַף|ʾap̄|also",
+        "8||heb-esvri-Sg-t-gw3un|@ncfscX1cp|couch|עַרְשֵׂ֖נוּ|ʿar•śē•nuw|עֶרֶשׂ|ʿe•reś|couch of",
+        "10|h7488|heb-esvri-Sg-t-gw3uk|@afsa|green|רַעֲנָנָֽה׃|ra•ʿă•nā•nāh|רַעֲנָן|ra•ʿă•nān|green"
+      ]
+    }
+  ],
+  "1:17": [
+    {
+      "o": 19486,
+      "r": "esvi:Song of Solomon:1:17",
+      "p": [
+        "0||heb-esvri-Sg-t-gw3u1|@ncfpc|beams|קֹרֹ֤ות|qō•rōwṯ|קֹורָה|qōw•rāh|beams of",
+        "1|h1005|heb-esvri-Sg-t-gw4dr|@ncmpcX1cp|house|בָּתֵּ֙ינוּ֙|bāt•tēy•nuw|בַּיִת|ba•yiṯ|houses of",
+        "3|h730|heb-esvri-Sg-t-gw4dc|@ncmpa|cedar|אֲרָזִ֔ים|ʾă•rā•ziym|אֶרֶז|ʾe•rez|cedars",
+        "4||heb-esvri-Sg-t-gw4d1|@ncmscX1cp|rafters|רַחִיטֵנוּ|ra•ḥiy•ṭē•nuw|רָחִיט|rā•ḥiyṭ|rafters of",
+        "6||heb-esvri-Sg-t-gw4ug|@ncmscX1cp|•|רַהִיטֵ֖נוּ|ra•hiy•ṭē•nuw|רָהִיט|rā•hiyṭ|",
+        "8||heb-esvri-Sg-t-gw4uq|@ncmpa|pine|בְּרֹותִֽים׃|bə•rōw•ṯiym|בְּרֹות|bə•rōwṯ|pines"
+      ]
+    }
+  ],
+  "2:0": [
+    {
+      "o": 19487,
+      "r": "esvi:Song of Solomon:2:0",
+      "h": 1,
+      "t": "Song of Solomon 2",
+      "p": []
+    }
+  ],
+  "2:1": [
+    {
+      "o": 19488,
+      "r": "esvi:Song of Solomon:2:1",
+      "p": [
+        "0|h589|heb-esvri-Sg-t-gw5dr|@pi1cs|I|אֲנִי֙|ʾă•niy|אֲנִי|ʾă•niy|I",
+        "1||heb-esvri-Sg-t-gw5dk|@ncfsc|rose|חֲבַצֶּ֣לֶת|ḥă•ḇaṣ•ṣe•leṯ|חֲבַצֶּלֶת|ḥă•ḇaṣ•ṣe•leṯ|rose of",
+        "2||heb-esvri-Sg-t-gw5do|@Pa|Sharon|הַ|ha|הַ|ha|the",
+        "3||heb-esvri-Sg-t-gw5d1|@np|Sharon|שָּׁרֹ֔ון|š•šā•rōwn|שָׁרֹון|šā•rōwn|Sharon",
+        "4|h7799|heb-esvri-Sg-t-gw5ur|@ncbsc|lily|שֹֽׁושַׁנַּ֖ת|šōw•šan•naṯ|שׁוּשַׁן|šuw•šan|lily of",
+        "5||heb-esvri-Sg-t-gw5uk|@Pa|the|הָ|hā|הַ|ha|the",
+        "6|h6010|heb-esvri-Sg-t-gw5uc|@ncmpa|valleys|עֲמָקִֽים׃|ʿă•mā•qiym|עֵמֶק|ʿē•meq|valleys"
+      ]
+    },
+    {
+      "o": 19489,
+      "r": "esvi:Song of Solomon:2:1",
+      "h": 3,
+      "t": "He",
+      "p": []
+    }
+  ],
+  "2:2": [
+    {
+      "o": 19490,
+      "r": "esvi:Song of Solomon:2:2",
+      "p": [
+        "0||heb-esvri-Sg-t-gwhdy|@Pp|As|כְּ|kə|כְּ|kə|as",
+        "1|h7799|heb-esvri-Sg-t-gwhdn|@ncbsa|lily|שֹֽׁושַׁנָּה֙|šōw•šan•nāh|שׁוּשַׁן|šuw•šan|lily",
+        "2|h996|heb-esvri-Sg-t-gwhde|@Pp|among|בֵּ֣ין|bēyn|בַּיִן|ba•yin|among",
+        "3||heb-esvri-Sg-t-gwhdq|@Pa|brambles|הַ|ha|הַ|ha|the",
+        "4||heb-esvri-Sg-t-gwhdo|@ncmpa|brambles|חֹוחִ֔ים|ḥōw•ḥiym|חֹוחַ|ḥōwaḥ|brambles",
+        "5|h3654|heb-esvri-Sg-t-gwhun|@Pd|so|כֵּ֥ן|kēn|כֵּן|kēn|so",
+        "6||heb-esvri-Sg-t-gwhue|@ncfscX1cs|love|רַעְיָתִ֖י|raʿ•yā•ṯiy|רַעְיָה|raʿ•yāh|beloved of",
+        "8|h996|heb-esvri-Sg-t-gwhuo|@Pp|among|בֵּ֥ין|bēyn|בַּיִן|ba•yin|among",
+        "9||heb-esvri-Sg-t-gaadn|@Pa|the|הַ|ha|הַ|ha|the",
+        "10|h1325|heb-esvri-Sg-t-gaadr|@ncfpa|women|בָּנֹֽות׃|b•bā•nōwṯ|בַּת|baṯ|daughters"
+      ]
+    },
+    {
+      "o": 19491,
+      "r": "esvi:Song of Solomon:2:2",
+      "h": 3,
+      "t": "She",
+      "p": []
+    }
+  ],
+  "2:3": [
+    {
+      "o": 19492,
+      "r": "esvi:Song of Solomon:2:3",
+      "p": [
+        "0||heb-esvri-Sg-t-gaadc|@Pp|As|כְּ|kə|כְּ|kə|as",
+        "1|h8599|heb-esvri-Sg-t-gaadq|@ncmsa|apple|תַפּ֙וּחַ֙|ṯap•puwaḥ|תַּפּוּחַ|tap•puwaḥ|apple",
+        "2|h996|heb-esvri-Sg-t-gaauy|@Pp|among|בַּ|ba|בְּ|bə|among",
+        "3|h6086|heb-esvri-Sg-t-gaaun|@ncmpc|trees|עֲצֵ֣י|ʿă•ṣēy|עֵץ|ʿēṣ|trees of",
+        "4||heb-esvri-Sg-t-gaaue|@Pa|the|הַ|ha|הַ|ha|the",
+        "5|h3293|heb-esvri-Sg-t-gaauk|@ncmsa|forest|יַּ֔עַר|y•ya•ʿar|יַעַר|ya•ʿar|forest",
+        "6|h3654|heb-esvri-Sg-t-gaauo|@Pd|so|כֵּ֥ן|kēn|כֵּן|kēn|so",
+        "7||heb-esvri-Sg-t-ga3dn|@ncmscX1cs|beloved|דֹּודִ֖י|dōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "9|h996|heb-esvri-Sg-t-ga3dk|@Pp|among|בֵּ֣ין|bēyn|בַּיִן|ba•yin|among",
+        "10||heb-esvri-Sg-t-ga3do|@Pa|the|הַ|ha|הַ|ha|the",
+        "11|h1121|heb-esvri-Sg-t-ga3d1|@ncmpa|men|בָּנִ֑ים|b•bā•niym|בֵּן|bēn|sons",
+        "12||heb-esvri-Sg-t-ga3ur|@Pp|in|בְּ|bə|בְּ|bə|with",
+        "13|h6738|heb-esvri-Sg-t-ga3ug|@ncmscX3ms|shadow|צִלֹּו֙|ṣil•lōw|צֵל|ṣēl|shadow of",
+        "15||heb-esvri-Sg-t-ga3uq|@vpp1cs|delight|חִמַּ֣דְתִּי|ḥim•maḏ•tiy|חמד|ḥmd|I delighted",
+        "16||heb-esvri-Sg-t-ga4dy|@Pc|•|וְ|wə|וְ|wə|and",
+        "17||heb-esvri-Sg-t-ga4dn|@vqp1cs|sat|יָשַׁ֔בְתִּי|yā•šaḇ•tiy|ישׁב|yšb|I sat",
+        "18||heb-esvri-Sg-t-ga4de|@Pc|and|וּ|uw|וְ|wə|and",
+        "19|h6529|heb-esvri-Sg-t-ga4dk|@ncmscX3ms|fruit|פִרְיֹ֖ו|p̄ir•yōw|פְּרִי|pə•riy|fruit of",
+        "21||heb-esvri-Sg-t-ga4d1|@amsa|sweet|מָתֹ֥וק|mā•ṯōwq|מָתֹוק|mā•ṯōwq|sweet",
+        "22||heb-esvri-Sg-t-ga4ur|@Pp|to|לְ|lə|לְ|lə|to",
+        "23||heb-esvri-Sg-t-ga4ug|@ncmscX1cs|taste|חִכִּֽי׃|ḥik•kiy|חֵךְ|ḥēḵ|palate of"
+      ]
+    }
+  ],
+  "2:4": [
+    {
+      "o": 19493,
+      "r": "esvi:Song of Solomon:2:4",
+      "p": [
+        "0||heb-esvri-Sg-t-ga4uo|@vhp3msX1cs|brought|הֱבִיאַ֙נִי֙|hĕ•ḇiy•ʾa•niy|בוא|bwʾ|he brought",
+        "2||heb-esvri-Sg-t-ga5dr|@Pp|to|אֶל־|ʾel-|אֶל|ʾel|to",
+        "3|h1005|heb-esvri-Sg-t-ga5de|@ncmsc|the banqueting house|בֵּ֣ית|bēyṯ|בַּיִת|ba•yiṯ|house of",
+        "4||heb-esvri-Sg-t-ga5dq|@Pa|the banqueting house|הַ|ha|הַ|ha|the",
+        "5|h3196|heb-esvri-Sg-t-ga5do|@ncmsa|the banqueting house|יָּ֔יִן|y•yā•yin|יַיִן|ya•yin|wine",
+        "6||heb-esvri-Sg-t-ga5un|@Pc|and|וְ|wə|וְ|wə|and",
+        "7||heb-esvri-Sg-t-ga5ur|@ncmscX3ms|banner|דִגְלֹ֥ו|ḏiḡ•lōw|דֶּגֶל|de•ḡel|banner of",
+        "9|h5921|heb-esvri-Sg-t-ga5uc|@PpX1cs|over|עָלַ֖י|ʿā•lay|עַל|ʿal|over",
+        "11|h160|heb-esvri-Sg-t-gahdy|@ncfsa|love|אַהֲבָֽה׃|ʾa•hă•ḇāh|אַהֲבָה|ʾa•hă•ḇāh|love"
+      ]
+    }
+  ],
+  "2:5": [
+    {
+      "o": 19494,
+      "r": "esvi:Song of Solomon:2:5",
+      "p": [
+        "0|h5564|heb-esvri-Sg-t-gahde|@vpvmpX1cs|Sustain|סַמְּכ֙וּנִי֙|sam•mə•ḵuw•niy|סמך|smk|sustain",
+        "2||heb-esvri-Sg-t-gahdo|@Pp|with|בָּֽ|bā|בְּ|bə|with",
+        "4|h809|heb-esvri-Sg-t-gahuy|@ncfpa|raisins|אֲשִׁישֹׁ֔ות|ʾă•šiy•šōwṯ|אֲשִׁישָׁה|ʾă•šiy•šāh|raisins",
+        "5||heb-esvri-Sg-t-gahug|@vpvmpX1cs|refresh|רַפְּד֖וּנִי|rap•pə•ḏuw•niy|רפד|rpd|refresh",
+        "7||heb-esvri-Sg-t-gahuq|@Pp|with|בַּ|ba|בְּ|bə|with",
+        "9|h8599|heb-esvri-Sg-t-gahu1|@ncmpa|apples|תַּפּוּחִ֑ים|t•tap•puw•ḥiym|תַּפּוּחַ|tap•puwaḥ|apples",
+        "10|h3588|heb-esvri-Sg-t-ghadr|@Pc|for|כִּי־|kiy-|כִּי|kiy|for",
+        "11||heb-esvri-Sg-t-ghade|@vqPfsc|sick|חֹולַ֥ת|ḥōw•laṯ|חלה|ḥlh|being sick of",
+        "12|h160|heb-esvri-Sg-t-ghadq|@ncfsa|love|אַהֲבָ֖ה|ʾa•hă•ḇāh|אַהֲבָה|ʾa•hă•ḇāh|love",
+        "13|h589|heb-esvri-Sg-t-ghauy|@pi1cs|I|אָֽנִי׃|ʾā•niy|אֲנִי|ʾă•niy|I"
+      ]
+    }
+  ],
+  "2:6": [
+    {
+      "o": 19495,
+      "r": "esvi:Song of Solomon:2:6",
+      "p": [
+        "0||heb-esvri-Sg-t-ghaue|@ncmscX3ms|left|שְׂמֹאלֹו֙|śə•mō(ʾ)•lōw|שְׂמֹאל|śə•mō(ʾ)l|left of",
+        "2|h8480|heb-esvri-Sg-t-ghauo|@Pp|under|תַּ֣חַת|ta•ḥaṯ|תַּחַת|ta•ḥaṯ|under",
+        "3||heb-esvri-Sg-t-gh3dn|@Pp|under|לְ|lə|לְ|lə|to",
+        "4|h7219|heb-esvri-Sg-t-gh3dr|@ncmscX1cs|head|רֹאשִׁ֔י|rō(ʾ)•šiy|רֹאשׁ|rō(ʾ)š|head of",
+        "6||heb-esvri-Sg-t-gh3dc|@Pc|and|וִ|wi|וְ|wə|and",
+        "7|h3226|heb-esvri-Sg-t-gh3dq|@ncfscX3ms|right|ימִינֹ֖ו|y•miy•nōw|יָמִין|yā•miyn|right hand of",
+        "9||heb-esvri-Sg-t-gh3un|@vpi3fsX1cs|embraces|תְּחַבְּקֵֽנִי׃|tə•ḥab•bə•qē•niy|חבק|ḥbq|she embraces"
+      ]
+    }
+  ],
+  "2:7": [
+    {
+      "o": 19496,
+      "r": "esvi:Song of Solomon:2:7",
+      "p": [
+        "0||heb-esvri-Sg-t-gh3uc|@vhp1cs|adjure|הִשְׁבַּ֨עְתִּי|hiš•baʿ•tiy|שׁבע|šbʿ|I adjure",
+        "1|h854|heb-esvri-Sg-t-gh3u1|@PoX2mp|•|אֶתְכֶ֜ם|ʾeṯ•ḵem|אֵת|ʾēṯ|",
+        "3|h1325|heb-esvri-Sg-t-gh4dg|@ncfpc|daughters|בְּנֹ֤ות|bə•nōwṯ|בַּת|baṯ|daughters of",
+        "4||heb-esvri-Sg-t-gh4dc|@np|Jerusalem|יְרוּשָׁלִַ֙ם֙|yə•ruw•šā•laim|יְרוּשָׁלִַם|yə•ruw•šā•laim|Jerusalem",
+        "5||heb-esvri-Sg-t-gh4d1|@Pp|by|בִּ|bi|בְּ|bə|by",
+        "6||heb-esvri-Sg-t-gh4uy|@ncfpa|gazelles|צְבָאֹ֔ות|ṣ•ḇā•ʾōwṯ|צְבִיָּה|ṣə•ḇiy•yāh|female gazelles",
+        "7|h176|heb-esvri-Sg-t-gh4ug|@Pc|or|אֹ֖ו|ʾōw|אֹו|ʾōw|or",
+        "8||heb-esvri-Sg-t-gh4uc|@Pp|•|בְּ|bə|בְּ|bə|in",
+        "9||heb-esvri-Sg-t-gh4uq|@ncfpc|does|אַיְלֹ֣ות|ʾay•lōwṯ|אַיָּלָה|ʾay•yā•lāh|does of",
+        "10||heb-esvri-Sg-t-gh5dy|@Pa|the|הַ|ha|הַ|ha|the",
+        "11|h7704|heb-esvri-Sg-t-gh5dn|@ncmsa|field|שָּׂדֶ֑ה|ś•śā•ḏeh|שָׂדֶה|śā•ḏeh|field",
+        "12|h518|heb-esvri-Sg-t-gh5de|@Pc|not|אִם־|ʾim-|אִם|ʾim|not",
+        "13||heb-esvri-Sg-t-gh5dc|@vhi2mp|stir|תָּעִ֧ירוּ׀|tā•ʿiy•ruw|עור|ʿwr|you stir up",
+        "14|h176|heb-esvri-Sg-t-gh5d1|@Pc|or|וְֽ|wə|וְ|wə|or",
+        "15|h176|heb-esvri-Sg-t-gh5uy|@Pc|or|אִם־|ʾim-|אִם|ʾim|if",
+        "16||heb-esvri-Sg-t-gh5ur|@vei2mp|awaken|תְּעֹֽורְר֛וּ|tə•ʿōw•rə•ruw|עור|ʿwr|you awaken",
+        "17|h854|heb-esvri-Sg-t-gh5uk|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "18||heb-esvri-Sg-t-gh5uq|@Pa|love|הָ|hā|הַ|ha|the",
+        "19|h160|heb-esvri-Sg-t-gh5uo|@ncfsa|love|אַהֲבָ֖ה|ʾa•hă•ḇāh|אַהֲבָה|ʾa•hă•ḇāh|love",
+        "20|h5705|heb-esvri-Sg-t-ghhdn|@Pp|until|עַ֥ד|ʿaḏ|עַד|ʿaḏ|until",
+        "21||heb-esvri-Sg-t-ghhde|@Pr|until|שֶׁ|še|שַׁ|ša|that",
+        "22||heb-esvri-Sg-t-ghhdk|@vqi3fs|pleases|תֶּחְפָּֽץ׃|t•teḥ•pāṣ|חפץ|ḥpṣ|she pleases"
+      ]
+    },
+    {
+      "o": 19497,
+      "r": "esvi:Song of Solomon:2:7",
+      "h": 2,
+      "t": "The Bride Adores Her Beloved",
+      "p": []
+    }
+  ],
+  "2:8": [
+    {
+      "o": 19498,
+      "r": "esvi:Song of Solomon:2:8",
+      "p": [
+        "0||heb-esvri-Sg-t-ghhur|@ncmsc|voice|קֹ֣ול|qōwl|קֹול|qōwl|voice of",
+        "1||heb-esvri-Sg-t-ghhuk|@ncmscX1cs|beloved|דֹּודִ֔י|dōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "3|h2009|heb-esvri-Sg-t-ghhu1|@Pi|Behold|הִנֵּה־|hin•nēh-|הִנֵּה|hin•nēh|behold",
+        "4|h2088|heb-esvri-Sg-t-8yadn|@dmsa|•|זֶ֖ה|zeh|זֶה|zeh|this",
+        "5||heb-esvri-Sg-t-8yade|@vqPmsa|comes|בָּ֑א|bāʾ|בוא|bwʾ|coming",
+        "6|h1801|heb-esvri-Sg-t-8yadq|@vpPmsa|leaping|מְדַלֵּג֙|mə•ḏal•lēḡ|דלג|dlg|leaping",
+        "7|h5922|heb-esvri-Sg-t-8yauy|@Pp|over|עַל־|ʿal-|עַל|ʿal|over",
+        "8||heb-esvri-Sg-t-8yaur|@Pa|the|הֶ֣|he|הַ|ha|the",
+        "9|h2022|heb-esvri-Sg-t-8yaug|@ncmpa|mountains|הָרִ֔ים|hā•riym|הַר|har|mountains",
+        "10||heb-esvri-Sg-t-8yauc|@vpPmsa|bounding|מְקַפֵּ֖ץ|mə•qap•pēṣ|קפץ|qpṣ|bounding",
+        "11|h5922|heb-esvri-Sg-t-8yau1|@Pp|over|עַל־|ʿal-|עַל|ʿal|over",
+        "12||heb-esvri-Sg-t-8y3dn|@Pa|the|הַ|ha|הַ|ha|the",
+        "13|h1390|heb-esvri-Sg-t-8y3dr|@ncfpa|hills|גְּבָעֹֽות׃|g•gə•ḇā•ʿōwṯ|גִּבְעָה|giḇ•ʿāh|hills"
+      ]
+    }
+  ],
+  "2:9": [
+    {
+      "o": 19499,
+      "r": "esvi:Song of Solomon:2:9",
+      "p": [
+        "0||heb-esvri-Sg-t-8y3dc|@vqPmsa|like|דֹּומֶ֤ה|dōw•meh|דמה|dmh|being like",
+        "1||heb-esvri-Sg-t-8y3d1|@ncmscX1cs|beloved|דֹודִי֙|ḏōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "3||heb-esvri-Sg-t-8y3ug|@Pp|•|לִ|li|לְ|lə|to",
+        "4|h6643|heb-esvri-Sg-t-8y3ue|@ncmsa|gazelle|צְבִ֔י|ṣ•ḇiy|צְבִי|ṣə•ḇiy|gazelle",
+        "5|h176|heb-esvri-Sg-t-8y3uq|@Pc|or|אֹ֖ו|ʾōw|אֹו|ʾōw|or",
+        "6||heb-esvri-Sg-t-8y4dy|@Pp|•|לְ|lə|לְ|lə|to",
+        "7|h6082|heb-esvri-Sg-t-8y4dn|@ncmsc|young|עֹ֣פֶר|ʿō•p̄er|עֹפֶר|ʿō•p̄er|fawn of",
+        "8|h354|heb-esvri-Sg-t-8y4de|@Pa|stag|הָֽ|hā|הַ|ha|the",
+        "9|h354|heb-esvri-Sg-t-8y4dk|@ncmpa|stag|אַיָּלִ֑ים|ʾay•yā•liym|אַיָּל|ʾay•yāl|deer",
+        "10|h2009|heb-esvri-Sg-t-8y4do|@Pi|Behold|הִנֵּה־|hin•nēh-|הִנֵּה|hin•nēh|behold",
+        "11|h2088|heb-esvri-Sg-t-8y4uy|@dmsa|there|זֶ֤ה|zeh|זֶה|zeh|this",
+        "12||heb-esvri-Sg-t-8y4ug|@vqPmsa|stands|עֹומֵד֙|ʿōw•mēḏ|עמד|ʿmd|standing",
+        "13|h310|heb-esvri-Sg-t-8y4uc|@Pp|behind|אַחַ֣ר|ʾa•ḥar|אַחַר|ʾa•ḥar|behind",
+        "14||heb-esvri-Sg-t-8y4u1|@ncmscX1cp|wall|כָּתְלֵ֔נוּ|koṯ•lē•nuw|כֹּתֶל|kō•ṯel|wall of",
+        "16||heb-esvri-Sg-t-8y5dg|@vhPmsa|gazing|מַשְׁגִּ֙יחַ֙|maš•giyaḥ|שׁגח|šgḥ|gazing",
+        "17|h4480|heb-esvri-Sg-t-8y5dc|@Pp|through|מִן־|min-|מִן|min|from",
+        "18||heb-esvri-Sg-t-8y5do|@Pa|the|הַֽ|ha|הַ|ha|the",
+        "19||heb-esvri-Sg-t-8y5d1|@ncbpa|windows|חֲלֹּנֹ֔ות|ḥăl•lō•nōwṯ|חַלֹּון|ḥal•lōwn|windows",
+        "20||heb-esvri-Sg-t-8y5ur|@vhPmsa|looking|מֵצִ֖יץ|mē•ṣiyṣ|צוץ|ṣwṣ|shining",
+        "21|h4480|heb-esvri-Sg-t-8y5uk|@Pp|through|מִן־|min-|מִן|min|from",
+        "22||heb-esvri-Sg-t-8y5uq|@Pa|the|הַֽ|ha|הַ|ha|the",
+        "23||heb-esvri-Sg-t-8y5uo|@ncmpa|lattice|חֲרַכִּֽים׃|ḥă•rak•kiym|חָרָךְ|ḥā•rāḵ|lattice"
+      ]
+    }
+  ],
+  "2:10": [
+    {
+      "o": 19500,
+      "r": "esvi:Song of Solomon:2:10",
+      "p": [
+        "0||heb-esvri-Sg-t-8yhdr|@vqp3ms|speaks|עָנָ֥ה|ʿā•nāh|ענה|ʿnh|he answers",
+        "1||heb-esvri-Sg-t-8yhdk|@ncmscX1cs|beloved|דֹודִ֖י|ḏōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "3||heb-esvri-Sg-t-8yhd1|@Pc|and|וְ|wə|וְ|wə|and",
+        "4||heb-esvri-Sg-t-8yhuy|@vqp3ms|says|אָ֣מַר|ʾā•mar|אמר|ʾmr|he says",
+        "5||heb-esvri-Sg-t-8yhug|@PpX1cs|to|לִ֑י|liy|לְ|lə|to",
+        "7||heb-esvri-Sg-t-8yhuq|@vqvfs|Arise|ק֥וּמִי|quw•miy|קום|qwm|arise",
+        "8||heb-esvri-Sg-t-8rady|@PpX2fs|•|לָ֛ךְ|lāḵ|לְ|lə|to",
+        "10||heb-esvri-Sg-t-8rade|@ncfscX1cs|love|רַעְיָתִ֥י|raʿ•yā•ṯiy|רַעְיָה|raʿ•yāh|beloved of",
+        "12|h3303|heb-esvri-Sg-t-8rado|@afscX1cs|beautiful|יָפָתִ֖י|yā•p̄ā•ṯiy|יָפֶה|yā•p̄eh|beautiful one of",
+        "14||heb-esvri-Sg-t-8raur|@Pc|and|וּ|uw|וְ|wə|and",
+        "15||heb-esvri-Sg-t-8raug|@vqvfs|come|לְכִי־|lə•ḵiy-|הלך|hlk|come",
+        "16||heb-esvri-Sg-t-8rauk|@PpX2fs|•|לָֽךְ׃|lāḵ|לְ|lə|to"
+      ]
+    }
+  ],
+  "2:11": [
+    {
+      "o": 19501,
+      "r": "esvi:Song of Solomon:2:11",
+      "p": [
+        "0|h3588|heb-esvri-Sg-t-8r3dy|@Pc|for|כִּֽי־|kiy-|כִּי|kiy|for",
+        "1|h2009|heb-esvri-Sg-t-8r3dr|@Pi|behold|הִנֵּ֥ה|hin•nēh|הִנֵּה|hin•nēh|behold",
+        "2||heb-esvri-Sg-t-8r3dk|@Pa|the|הַ|ha|הַ|ha|the",
+        "3||heb-esvri-Sg-t-8r3dc|@ncmsa|winter|סְּתָו|s•sə•ṯāw|סְתָו|sə•ṯāw|winter",
+        "4||heb-esvri-Sg-t-8r3d1|@Pa|•|הַ|ha|הַ|ha|",
+        "5||heb-esvri-Sg-t-8r3uy|@ncmsa|•|סְּתָ֖יו|s•sə•ṯāyw|סְתָו|sə•ṯāw|",
+        "6||heb-esvri-Sg-t-8r3ug|@vqp3ms|past|עָבָ֑ר|ʿā•ḇār|עבר|ʿbr|he is past",
+        "7||heb-esvri-Sg-t-8r3uc|@Pa|the|הַ|ha|הַ|ha|the",
+        "8|h1653|heb-esvri-Sg-t-8r3uq|@ncmsa|rain|גֶּ֕שֶׁם|g•ge•šem|גֶּשֶׁם|ge•šem|rain",
+        "9||heb-esvri-Sg-t-8r4dy|@vqp3ms|over|חָלַ֖ף|ḥā•lap̄|חלף|ḥlp|he is over",
+        "10||heb-esvri-Sg-t-8r4dg|@vqp3ms|gone|הָלַ֥ךְ|hā•laḵ|הלך|hlk|he is gone",
+        "11||heb-esvri-Sg-t-8r4dc|@PpX3ms|•|לֹֽו׃|lōw|לְ|lə|to"
+      ]
+    }
+  ],
+  "2:12": [
+    {
+      "o": 19502,
+      "r": "esvi:Song of Solomon:2:12",
+      "p": [
+        "0||heb-esvri-Sg-t-8r4un|@Pa|The|הַ|ha|הַ|ha|the",
+        "1||heb-esvri-Sg-t-8r4ur|@ncmpa|flowers|נִּצָּנִים֙|n•niṣ•ṣā•niym|נֵץ|nēṣ|blossom",
+        "2|h7200|heb-esvri-Sg-t-8r4uk|@vnp3cp|appear|נִרְא֣וּ|nir•ʾuw|ראה|rʾh|they appear",
+        "3||heb-esvri-Sg-t-8r4uo|@Pp|on|בָ|ḇā|בְּ|bə|on",
+        "5|h776|heb-esvri-Sg-t-8r5dy|@ncfsa|earth|אָ֔רֶץ|ʾā•reṣ|אֶרֶץ|ʾe•reṣ|earth",
+        "6|h6256|heb-esvri-Sg-t-8r5dg|@ncbsc|time|עֵ֥ת|ʿēṯ|עֵת|ʿēṯ|time of",
+        "7||heb-esvri-Sg-t-8r5dc|@Pa|singing|הַ|ha|הַ|ha|the",
+        "8|h2158|heb-esvri-Sg-t-8r5dq|@ncmsa|singing|זָּמִ֖יר|z•zā•miyr|זָמִיר|zā•miyr|song",
+        "9||heb-esvri-Sg-t-8r5uy|@vhp3ms|come|הִגִּ֑יעַ|hig•giyaʿ|נגע|ngʿ|he has arrived",
+        "10||heb-esvri-Sg-t-8r5ug|@Pc|and|וְ|wə|וְ|wə|and",
+        "11||heb-esvri-Sg-t-8r5ue|@ncmsc|voice|קֹ֥ול|qōwl|קֹול|qōwl|voice of",
+        "12||heb-esvri-Sg-t-8r5uq|@Pa|the|הַ|ha|הַ|ha|the",
+        "13||heb-esvri-Sg-t-8r5uo|@ncfsa|turtledove|תֹּ֖ור|t•tōwr|תֹּור|tōwr|turtledove",
+        "14||heb-esvri-Sg-t-8rhdn|@vnp3ms|heard|נִשְׁמַ֥ע|niš•maʿ|שׁמע|šmʿ|he is heard",
+        "15||heb-esvri-Sg-t-8rhde|@Pp|in|בְּ|bə|בְּ|bə|in",
+        "16|h776|heb-esvri-Sg-t-8rhdk|@ncfscX1cp|land|אַרְצֵֽנוּ׃|ʾar•ṣē•nuw|אֶרֶץ|ʾe•reṣ|land of"
+      ]
+    }
+  ],
+  "2:13": [
+    {
+      "o": 19503,
+      "r": "esvi:Song of Solomon:2:13",
+      "p": [
+        "0||heb-esvri-Sg-t-8rhuy|@Pa|The|הַ|ha|הַ|ha|the",
+        "1||heb-esvri-Sg-t-8rhun|@ncfsa|fig|תְּאֵנָה֙|t•tə•ʾē•nāh|תְּאֵנָה|tə•ʾē•nāh|fig",
+        "2||heb-esvri-Sg-t-8rhue|@vqp3fs|ripens|חָֽנְטָ֣ה|ḥā•nə•ṭāh|חנט|ḥnṭ|she ripens",
+        "3||heb-esvri-Sg-t-8rhuq|@ncmpcX3fs|figs|פַגֶּ֔יהָ|p̄ag•gey•hā|פַּג|paḡ|unripened fruit of",
+        "5||heb-esvri-Sg-t-gradyce|@Pc|and|וְ|wə|וְ|wə|and",
+        "6||heb-esvri-Sg-t-gradyco|@Pa|the|הַ|ha|הַ|ha|the",
+        "7|h1612|heb-esvri-Sg-t-gradyca|@ncbpa|vines|גְּפָנִ֥ים׀|g•gə•p̄ā•niym|גֶּפֶן|ge•p̄en|vines",
+        "8||heb-esvri-Sg-t-gradypo|@ncmsa|blossom|סְמָדַ֖ר|sə•mā•ḏar|סְמָדַר|sə•mā•ḏar|blossom",
+        "9|h5414|heb-esvri-Sg-t-gradyqe|@vqp3cp|give|נָ֣תְנוּ|nā•ṯə•nuw|נתן|ntn|they give",
+        "10|h7381|heb-esvri-Sg-t-gradnco|@ncmsa|fragrance|רֵ֑יחַ|rēyaḥ|רֵיחַ|rēyaḥ|fragrance",
+        "11|h6965|heb-esvri-Sg-t-gradnpe|@vqvfs|Arise|ק֥וּמִי|quw•miy|קום|qwm|arise",
+        "12||heb-esvri-Sg-t-gradnqy|@vqvfs|•|לְכִי|lə•ḵiy|הלך|hlk|come",
+        "13||heb-esvri-Sg-t-gradrce|@PpX2fs|•|לָ֛ךְ|lāḵ|לְ|lə|",
+        "15||heb-esvri-Sg-t-gradrpe|@ncfscX1cs|love|רַעְיָתִ֥י|raʿ•yā•ṯiy|רַעְיָה|raʿ•yāh|beloved of",
+        "17|h3303|heb-esvri-Sg-t-gradrqe|@afscX1cs|beautiful|יָפָתִ֖י|yā•p̄ā•ṯiy|יָפֶה|yā•p̄eh|beautiful one of",
+        "19||heb-esvri-Sg-t-gradgca|@Pc|and|וּ|uw|וְ|wə|and",
+        "20||heb-esvri-Sg-t-gradgpy|@vqvfs|come|לְכִי־|lə•ḵiy-|הלך|hlk|come",
+        "21||heb-esvri-Sg-t-gradgpo|@PpX2fs|•|לָֽךְ׃|lāḵ|לְ|lə|to"
+      ]
+    }
+  ],
+  "2:14": [
+    {
+      "o": 19504,
+      "r": "esvi:Song of Solomon:2:14",
+      "p": [
+        "0||heb-esvri-Sg-t-gradepy|@ncfscX1cs|dove|יֹונָתִ֞י|yōw•nā•ṯiy|יֹונָה|yōw•nāh|dove of",
+        "2||heb-esvri-Sg-t-gradeqy|@Pp|in|בְּ|bə|בְּ|bə|in",
+        "3||heb-esvri-Sg-t-gradeqe|@ncmpc|clefts|חַגְוֵ֣י|ḥaḡ•wēy|חֲגָוִים|ḥă•ḡā•wiym|clefts of",
+        "4||heb-esvri-Sg-t-gradkco|@Pa|the|הַ|ha|הַ|ha|the",
+        "5|h5554|heb-esvri-Sg-t-gradkca|@ncmsa|rock|סֶּ֗לַע|s•se•laʿ|סֶלַע|se•laʿ|rock",
+        "6||heb-esvri-Sg-t-gradkpo|@Pp|in|בְּ|bə|בְּ|bə|in",
+        "7||heb-esvri-Sg-t-gradkpa|@ncmsc|crannies|סֵ֙תֶר֙|sē•ṯer|סָתֶר|sā•ṯer|covering of",
+        "8||heb-esvri-Sg-t-gradccy|@Pa|the|הַ|ha|הַ|ha|the",
+        "9||heb-esvri-Sg-t-gradcce|@ncfsa|cliff|מַּדְרֵגָ֔ה|m•maḏ•rē•ḡāh|מַדְרֵגָה|maḏ•rē•ḡāh|foothold",
+        "10||heb-esvri-Sg-t-gradcpy|@vhvfsX1cs|see|הַרְאִ֙ינִי֙|har•ʾiy•niy|ראה|rʾh|show",
+        "12|h854|heb-esvri-Sg-t-gradcqy|@Po|•|אֶתּ־|ʾet-|אֵת|ʾēṯ|",
+        "13|h4758|heb-esvri-Sg-t-gradqcy|@ncmscX2fs|face|מַרְאַ֔יִךְ|mar•ʾa•yiḵ|מַרְאֶה|mar•ʾeh|appearance of",
+        "15||heb-esvri-Sg-t-gradqpy|@vhvfsX1cs|hear|הַשְׁמִיעִ֖ינִי|haš•miy•ʿiy•niy|שׁמע|šmʿ|let me hear",
+        "17|h854|heb-esvri-Sg-t-gradqqy|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "18||heb-esvri-Sg-t-gradocy|@ncmscX2fs|voice|קֹולֵ֑ךְ|qōw•lēḵ|קֹול|qōwl|voice of",
+        "20|h3588|heb-esvri-Sg-t-gradopy|@Pc|for|כִּי־|kiy-|כִּי|kiy|for",
+        "21||heb-esvri-Sg-t-gradopo|@ncmscX2fs|voice|קֹולֵ֥ךְ|qōw•lēḵ|קֹול|qōwl|voice of",
+        "23|h6149|heb-esvri-Sg-t-grad1cy|@amsa|sweet|עָרֵ֖ב|ʿā•rēḇ|עָרֵב|ʿā•rēḇ|sweet",
+        "24||heb-esvri-Sg-t-grad1ca|@Pc|and|וּ|uw|וְ|wə|and",
+        "25|h4758|heb-esvri-Sg-t-grad1py|@ncmscX2fs|face|מַרְאֵ֥יךְ|mar•ʾēyḵ|מַרְאֶה|mar•ʾeh|appearance of",
+        "27||heb-esvri-Sg-t-grad1qy|@amsa|lovely|נָאוֶֽה׃|nā(ʾ)•weh|נָאוֶה|nā(ʾ)•weh|lovely"
+      ]
+    }
+  ],
+  "2:15": [
+    {
+      "o": 19505,
+      "r": "esvi:Song of Solomon:2:15",
+      "p": [
+        "0|h270|heb-esvri-Sg-t-grauype|@vqvmp|Catch|אֶֽחֱזוּ־|ʾe•ḥĕ•zuw-|אחז|ʾḥz|grasp",
+        "1||heb-esvri-Sg-t-grauypa|@PpX1cp|for|לָ֙נוּ֙|lā•nuw|לְ|lə|for",
+        "3|h7776|heb-esvri-Sg-t-graunce|@ncmpa|foxes|שֽׁוּעָלִ֔ים|šuw•ʿā•liym|שׁוּעָל|šuw•ʿāl|foxes",
+        "4|h7776|heb-esvri-Sg-t-graunpy|@ncmpa|foxes|שֽׁוּעָלִ֥ים|šuw•ʿā•liym|שׁוּעָל|šuw•ʿāl|foxes",
+        "5|h6996|heb-esvri-Sg-t-graunpa|@ampa|little|קְטַנִּ֖ים|qə•ṭan•niym|קָטָן|qā•ṭān|little",
+        "6||heb-esvri-Sg-t-graurcy|@vpPmpa|spoil|מְחַבְּלִ֣ים|mə•ḥab•bə•liym|חבל|ḥbl|ones ruining",
+        "7|h3754|heb-esvri-Sg-t-graurca|@ncmpa|vineyards|כְּרָמִ֑ים|kə•rā•miym|כֶּרֶם|ke•rem|vineyards",
+        "8||heb-esvri-Sg-t-graurpo|@Pc|for|וּ|uw|וְ|wə|since",
+        "9|h3754|heb-esvri-Sg-t-graurpa|@ncmpcX1cp|vineyards|כְרָמֵ֖ינוּ|ḵə•rā•mēy•nuw|כֶּרֶם|ke•rem|vineyards of",
+        "11||heb-esvri-Sg-t-graugce|@ncmsa|blossom|סְמָדַֽר׃|sə•mā•ḏar|סְמָדַר|sə•mā•ḏar|blossom"
+      ]
+    }
+  ],
+  "2:16": [
+    {
+      "o": 19506,
+      "r": "esvi:Song of Solomon:2:16",
+      "p": [
+        "0||heb-esvri-Sg-t-graugpe|@ncmscX1cs|beloved|דֹּודִ֥י|dōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "2||heb-esvri-Sg-t-graugqe|@PpX1cs|mine|לִי֙|liy|לְ|lə|to",
+        "4||heb-esvri-Sg-t-graueca|@Pc|and|וַ|wa|וְ|wə|and",
+        "5|h589|heb-esvri-Sg-t-grauepy|@pi1cs|I|אֲנִ֣י|ʾă•niy|אֲנִי|ʾă•niy|I",
+        "6||heb-esvri-Sg-t-grauepa|@PpX3ms|his|לֹ֔ו|lōw|לְ|lə|to",
+        "8||heb-esvri-Sg-t-graukce|@Pa|grazes|הָ|hā|הַ|ha|the",
+        "9||heb-esvri-Sg-t-graukco|@vqPmsa|grazes|רֹעֶ֖ה|rō•ʿeh|רעה|rʿh|one grazing",
+        "10||heb-esvri-Sg-t-graukpe|@Pp|among|בַּ|ba|בְּ|bə|among",
+        "12|h7799|heb-esvri-Sg-t-graukpa|@ncbpa|lilies|שֹּׁושַׁנִּֽים׃|š•šōw•šan•niym|שׁוּשַׁן|šuw•šan|lilies"
+      ]
+    }
+  ],
+  "2:17": [
+    {
+      "o": 19507,
+      "r": "esvi:Song of Solomon:2:17",
+      "p": [
+        "0|h5704|heb-esvri-Sg-t-graucce|@Pp|Until|עַ֤ד|ʿaḏ|עַד|ʿaḏ|until",
+        "1|h5704|heb-esvri-Sg-t-graucpy|@Pr|Until|שֶׁ|še|שַׁ|ša|that",
+        "2||heb-esvri-Sg-t-graucpe|@vqi3ms|breathes|יָּפ֙וּחַ֙|y•yā•p̄uwaḥ|פוח|pwḥ|he breathes",
+        "3||heb-esvri-Sg-t-graucqy|@Pa|the|הַ|ha|הַ|ha|the",
+        "4||heb-esvri-Sg-t-graucqe|@ncmsa|day|יֹּ֔ום|y•yōwm|יֹום|yōwm|day",
+        "5||heb-esvri-Sg-t-grauqco|@Pc|and|וְ|wə|וְ|wə|and",
+        "6|h5127|heb-esvri-Sg-t-grauqca|@vqp3cp{2}|flee|נָ֖סוּ|nā•suw|נוס|nws|they flee",
+        "7||heb-esvri-Sg-t-grauqpo|@Pa|the|הַ|ha|הַ|ha|the",
+        "8|h6738|heb-esvri-Sg-t-grauqpa|@ncmpa|shadows|צְּלָלִ֑ים|ṣ•ṣə•lā•liym|צֵל|ṣēl|shadows",
+        "9|h5437|heb-esvri-Sg-t-grauocy|@vqvms|turn|סֹב֩|sōḇ|סבב|sbb|turn",
+        "10||heb-esvri-Sg-t-grauoca|@vqvms|like|דְּמֵה־|də•mēh-|דמה|dmh|be like",
+        "11||heb-esvri-Sg-t-grauope|@PpX2ms|•|לְךָ֨|lə•ḵā|לְ|lə|to",
+        "13||heb-esvri-Sg-t-grauoqe|@ncmscX1cs|beloved|דֹודִ֜י|ḏōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "15||heb-esvri-Sg-t-grau1ca|@Pp|•|לִ|li|לְ|lə|to",
+        "16|h6643|heb-esvri-Sg-t-grau1py|@ncmsa|gazelle|צְבִ֗י|ṣ•ḇiy|צְבִי|ṣə•ḇiy|gazelle",
+        "17||heb-esvri-Sg-t-grau1pa|@Pc|or|אֹ֛ו|ʾōw|אֹו|ʾōw|or",
+        "18||heb-esvri-Sg-t-gr3dycy|@Pp|•|לְ|lə|לְ|lə|to",
+        "19|h6082|heb-esvri-Sg-t-gr3dyce|@ncmsc|young|עֹ֥פֶר|ʿō•p̄er|עֹפֶר|ʿō•p̄er|fawn of",
+        "20|h354|heb-esvri-Sg-t-gr3dypy|@Pa|stag|הָ|hā|הַ|ha|the",
+        "21|h354|heb-esvri-Sg-t-gr3dype|@ncmpa|stag|אַיָּלִ֖ים|ʾay•yā•liym|אַיָּל|ʾay•yāl|deer",
+        "22|h5922|heb-esvri-Sg-t-gr3dyqy|@Pp|on|עַל־|ʿal-|עַל|ʿal|on",
+        "23|h2022|heb-esvri-Sg-t-gr3dncy|@ncmpc|mountains|הָ֥רֵי|hā•rēy|הַר|har|mountains of",
+        "24|h1335|heb-esvri-Sg-t-gr3dnca|@ncmsa|cleft|בָֽתֶר׃|ḇā•ṯer|בֶּתֶר|be•ṯer|cleft"
+      ]
+    }
+  ],
+  "3:0": [
+    {
+      "o": 19508,
+      "r": "esvi:Song of Solomon:3:0",
+      "h": 1,
+      "t": "Song of Solomon 3",
+      "p": []
+    },
+    {
+      "o": 19509,
+      "r": "esvi:Song of Solomon:3:0",
+      "h": 2,
+      "t": "The Bride’s Dream",
+      "p": []
+    }
+  ],
+  "3:1": [
+    {
+      "o": 19510,
+      "r": "esvi:Song of Solomon:3:1",
+      "p": [
+        "0|h5922|heb-esvri-Sg-t-gr3drce|@Pp|On|עַל־|ʿal-|עַל|ʿal|on",
+        "1|h4904|heb-esvri-Sg-t-gr3drca|@ncmscX1cs|bed|מִשְׁכָּבִי֙|miš•kā•ḇiy|מִשְׁכָּב|miš•kāḇ|bed of",
+        "3||heb-esvri-Sg-t-gr3drpa|@Pp|by|בַּ|ba|בְּ|bə|by",
+        "5|h3915|heb-esvri-Sg-t-gr3drqe|@ncmpa|night|לֵּילֹ֔ות|l•lēy•lōwṯ|לַיְלָה|lay•lāh|nights",
+        "6||heb-esvri-Sg-t-gr3dgco|@vpp1cs|sought|בִּקַּ֕שְׁתִּי|biq•qaš•tiy|בקשׁ|bqš|I sought",
+        "7|h854|heb-esvri-Sg-t-gr3dgpe|@Po|•|אֵ֥ת|ʾēṯ|אֵת|ʾēṯ|",
+        "8||heb-esvri-Sg-t-gr3dgqy|@Pr|whom|שֶׁ|še|שַׁ|ša|whom",
+        "9|h157|heb-esvri-Sg-t-gr3dgqe|@vqp3fs|loves|אָהֲבָ֖ה|ʾā•hă•ḇāh|אהב|ʾhb|she loves",
+        "10|h5315|heb-esvri-Sg-t-gr3deco|@ncbscX1cs|soul|נַפְשִׁ֑י|nap̄•šiy|נֶפֶשׁ|ne•p̄eš|soul of",
+        "12||heb-esvri-Sg-t-gr3depo|@vpp1csX3ms|sought|בִּקַּשְׁתִּ֖יו|biq•qaš•tiyw|בקשׁ|bqš|I sought",
+        "14||heb-esvri-Sg-t-gr3dkcy|@Pc|but|וְ|wə|וְ|wə|but",
+        "15|h3808|heb-esvri-Sg-t-gr3dkce|@Pn|not|לֹ֥א|lōʾ|לֹא|lōʾ|not",
+        "16||heb-esvri-Sg-t-gr3dkpy|@vqp1csX3ms|found|מְצָאתִֽיו׃|mə•ṣā(ʾ)•ṯiyw|מצא|mṣʾ|I found"
+      ]
+    }
+  ],
+  "3:2": [
+    {
+      "o": 19511,
+      "r": "esvi:Song of Solomon:3:2",
+      "p": [
+        "0||heb-esvri-Sg-t-gr3dkqe|@vqi1cs{1}Ct|rise|אָק֨וּמָה|ʾā•quw•māh|קום|qwm|I will rise",
+        "1|h4994|heb-esvri-Sg-t-gr3dcco|@Pi|now|נָּ֜א|n•nā(ʾ)|נָא|nāʾ|please",
+        "2||heb-esvri-Sg-t-gr3dcpe|@Pc|and|וַ|wa|וְ|wə|and",
+        "3|h5437|heb-esvri-Sg-t-gr3dcpo|@vki1cs{1}Ct|about|אֲסֹובְבָ֣ה|ʾă•sōw•ḇə•ḇāh|סבב|sbb|I will go about",
+        "4||heb-esvri-Sg-t-gr3dcqe|@Pp|•|בָ|ḇā|בְּ|bə|in",
+        "6|h5892|heb-esvri-Sg-t-gr3dqce|@ncfsa|city|עִ֗יר|ʿiyr|עִיר|ʿiyr|city",
+        "7||heb-esvri-Sg-t-gr3dqpy|@Pp|in|בַּ|ba|בְּ|bə|in",
+        "9|h7783|heb-esvri-Sg-t-gr3dqpo|@ncmpa|streets|שְּׁוָקִים֙|š•šə•wā•qiym|שׁוּק|šuwq|streets",
+        "10||heb-esvri-Sg-t-gr3dqqe|@Pc|and|וּ|uw|וְ|wə|and",
+        "11||heb-esvri-Sg-t-gr3docy|@Pp|in|בָ֣|ḇā|בְּ|bə|in",
+        "13|h7340|heb-esvri-Sg-t-gr3doco|@ncmpa|squares|רְחֹבֹ֔ות|rə•ḥō•ḇōwṯ|רְחֹב|rə•ḥōḇ|open squares",
+        "14||heb-esvri-Sg-t-gr3dope|@vpi1cs{1}Ct|seek|אֲבַקְשָׁ֕ה|ʾă•ḇaq•šāh|בקשׁ|bqš|I will seek",
+        "15|h854|heb-esvri-Sg-t-gr3doqy|@Po|•|אֵ֥ת|ʾēṯ|אֵת|ʾēṯ|",
+        "16||heb-esvri-Sg-t-gr3d1ce|@Pr|whom|שֶׁ|še|שַׁ|ša|whom",
+        "17|h157|heb-esvri-Sg-t-gr3d1co|@vqp3fs|loves|אָהֲבָ֖ה|ʾā•hă•ḇāh|אהב|ʾhb|she loves",
+        "18|h5315|heb-esvri-Sg-t-gr3d1pe|@ncbscX1cs|soul|נַפְשִׁ֑י|nap̄•šiy|נֶפֶשׁ|ne•p̄eš|soul of",
+        "20||heb-esvri-Sg-t-gr3d1qe|@vpp1csX3ms|sought|בִּקַּשְׁתִּ֖יו|biq•qaš•tiyw|בקשׁ|bqš|I sought",
+        "22||heb-esvri-Sg-t-gr3uyca|@Pc|but|וְ|wə|וְ|wə|but",
+        "23|h3808|heb-esvri-Sg-t-gr3uypy|@Pn|not|לֹ֥א|lōʾ|לֹא|lōʾ|not",
+        "24||heb-esvri-Sg-t-gr3uypa|@vqp1csX3ms|found|מְצָאתִֽיו׃|mə•ṣā(ʾ)•ṯiyw|מצא|mṣʾ|I found"
+      ]
+    }
+  ],
+  "3:3": [
+    {
+      "o": 19512,
+      "r": "esvi:Song of Solomon:3:3",
+      "p": [
+        "0|h4672|heb-esvri-Sg-t-gr3unco|@vqp3cpX1cs|found|מְצָא֙וּנִי֙|mə•ṣā•ʾuw•niy|מצא|mṣʾ|they found",
+        "2||heb-esvri-Sg-t-gr3unpo|@Pa|The|הַ|ha|הַ|ha|the",
+        "3||heb-esvri-Sg-t-gr3unpa|@vqPmpa|watchmen|שֹּׁ֣מְרִ֔ים|š•šō•mə•riym|שׁמר|šmr|ones watching",
+        "4||heb-esvri-Sg-t-gr3urcy|@Pa|about|הַ|ha|הַ|ha|the",
+        "5||heb-esvri-Sg-t-gr3urce|@vqPmpa|about|סֹּבְבִ֖ים|s•sō•ḇə•ḇiym|סבב|sbb|surrounding",
+        "6||heb-esvri-Sg-t-gr3urpy|@Pp|in|בָּ|bā|בְּ|bə|in",
+        "8|h5892|heb-esvri-Sg-t-gr3urpo|@ncfsa|city|עִ֑יר|ʿiyr|עִיר|ʿiyr|city",
+        "9|h854|heb-esvri-Sg-t-gr3urqe|@Po|•|אֵ֛ת|ʾēṯ|אֵת|ʾēṯ|",
+        "10||heb-esvri-Sg-t-gr3ugco|@Pr|whom|שֶׁ|še|שַׁ|ša|whom",
+        "11|h157|heb-esvri-Sg-t-gr3ugca|@vqp3fs|loves|אָהֲבָ֥ה|ʾā•hă•ḇāh|אהב|ʾhb|she loves",
+        "12|h5315|heb-esvri-Sg-t-gr3ugpo|@ncbscX1cs|soul|נַפְשִׁ֖י|nap̄•šiy|נֶפֶשׁ|ne•p̄eš|soul of",
+        "14||heb-esvri-Sg-t-gr3uecy|@vqp2mp|seen|רְאִיתֶֽם׃|rə•ʾiy•ṯem|ראה|rʾh|you have seen"
+      ]
+    }
+  ],
+  "3:4": [
+    {
+      "o": 19513,
+      "r": "esvi:Song of Solomon:3:4",
+      "p": [
+        "0|h4592|heb-esvri-Sg-t-gr3uepy|@Pp|Scarcely|כִּ|ki|כְּ|kə|as",
+        "1|h4592|heb-esvri-Sg-t-gr3uepe|@amsa|Scarcely|מְעַט֙|m•ʿaṭ|מְעַט|mə•ʿaṭ|little",
+        "2||heb-esvri-Sg-t-gr3ueqy|@Pr|•|שֶׁ|še|שַׁ|ša|that",
+        "3||heb-esvri-Sg-t-gr3ueqe|@vqp1cs|passed|עָבַ֣רְתִּי|ʿā•ḇar•tiy|עבר|ʿbr|I had passed",
+        "4|h4481|heb-esvri-Sg-t-gr3ukco|@PpX3mp|•|מֵהֶ֔ם|mē•hem|מִן|min|from",
+        "6|h5705|heb-esvri-Sg-t-gr3ukpo|@Pp|when|עַ֣ד|ʿaḏ|עַד|ʿaḏ|until",
+        "7||heb-esvri-Sg-t-gr3ukqe|@Pr|when|שֶֽׁ|še|שַׁ|ša|that",
+        "8||heb-esvri-Sg-t-gr3uccy|@vqp1cs|found|מָּצָ֔אתִי|m•mā•ṣā(ʾ)•ṯiy|מצא|mṣʾ|I found",
+        "9|h854|heb-esvri-Sg-t-gr3ucca|@Po|•|אֵ֥ת|ʾēṯ|אֵת|ʾēṯ|",
+        "10||heb-esvri-Sg-t-gr3ucpo|@Pr|whom|שֶׁ|še|שַׁ|ša|whom",
+        "11|h157|heb-esvri-Sg-t-gr3ucpa|@vqp3fs|loves|אָהֲבָ֖ה|ʾā•hă•ḇāh|אהב|ʾhb|she loves",
+        "12|h5315|heb-esvri-Sg-t-gr3uqcy|@ncbscX1cs|soul|נַפְשִׁ֑י|nap̄•šiy|נֶפֶשׁ|ne•p̄eš|soul of",
+        "14||heb-esvri-Sg-t-gr3uqpy|@vqp1csX3ms|held|אֲחַזְתִּיו֙|ʾă•ḥaz•tiyw|אחז|ʾḥz|I held on to",
+        "16||heb-esvri-Sg-t-gr3uqqy|@Pc|and|וְ|wə|וְ|wə|and",
+        "17|h3808|heb-esvri-Sg-t-gr3uqqe|@Pn|not|לֹ֣א|lōʾ|לֹא|lōʾ|not",
+        "18||heb-esvri-Sg-t-gr3uoco|@vhi1csX3msXe|let|אַרְפֶּ֔נּוּ|ʾar•pen•nuw|רפה|rph|I will let go",
+        "20|h5705|heb-esvri-Sg-t-gr3uopo|@Pp|until|עַד־|ʿaḏ-|עַד|ʿaḏ|until",
+        "21||heb-esvri-Sg-t-gr3uoqy|@Pr|until|שֶׁ֤|še|שַׁ|ša|that",
+        "22||heb-esvri-Sg-t-gr3uoqe|@vhp1csX3ms|brought|הֲבֵיאתִיו֙|hă•ḇēy(ʾ)•ṯiyw|בוא|bwʾ|I brought",
+        "24||heb-esvri-Sg-t-gr3u1ca|@Pp|into|אֶל־|ʾel-|אֶל|ʾel|to",
+        "25|h1004|heb-esvri-Sg-t-gr3u1pe|@ncmsc|house|בֵּ֣ית|bēyṯ|בַּיִת|ba•yiṯ|house of",
+        "26|h517|heb-esvri-Sg-t-gr3u1qy|@ncfscX1cs|mother's|אִמִּ֔י|ʾim•miy|אֵם|ʾēm|mother of",
+        "28||heb-esvri-Sg-t-gr4dyco|@Pc|and|וְ|wə|וְ|wə|and",
+        "29||heb-esvri-Sg-t-gr4dyca|@Pp|into|אֶל־|ʾel-|אֶל|ʾel|to",
+        "30|h2315|heb-esvri-Sg-t-gr4dype|@ncmsc|chamber|חֶ֖דֶר|ḥe•ḏer|חֶדֶר|ḥe•ḏer|chamber",
+        "31||heb-esvri-Sg-t-gr4dyqy|@vqPfscX1cs|conceived|הֹורָתִֽי׃|hōw•rā•ṯiy|הרה|hrh|one conceiving of"
+      ]
+    }
+  ],
+  "3:5": [
+    {
+      "o": 19514,
+      "r": "esvi:Song of Solomon:3:5",
+      "p": [
+        "0||heb-esvri-Sg-t-gr4dnca|@vhp1cs|adjure|הִשְׁבַּ֨עְתִּי|hiš•baʿ•tiy|שׁבע|šbʿ|I adjure",
+        "1|h854|heb-esvri-Sg-t-gr4dnpo|@PoX2mp|•|אֶתְכֶ֜ם|ʾeṯ•ḵem|אֵת|ʾēṯ|",
+        "3|h1325|heb-esvri-Sg-t-gr4drcy|@ncfpc|daughters|בְּנֹ֤ות|bə•nōwṯ|בַּת|baṯ|daughters of",
+        "4||heb-esvri-Sg-t-gr4drca|@np|Jerusalem|יְרוּשָׁלִַ֙ם֙|yə•ruw•šā•laim|יְרוּשָׁלִַם|yə•ruw•šā•laim|Jerusalem",
+        "5||heb-esvri-Sg-t-gr4drpo|@Pp|by|בִּ|bi|בְּ|bə|by",
+        "6||heb-esvri-Sg-t-gr4drpa|@ncfpa|gazelles|צְבָאֹ֔ות|ṣ•ḇā•ʾōwṯ|צְבִיָּה|ṣə•ḇiy•yāh|female gazelles",
+        "7|h176|heb-esvri-Sg-t-gr4dgcy|@Pc|or|אֹ֖ו|ʾōw|אֹו|ʾōw|or",
+        "8||heb-esvri-Sg-t-gr4dgca|@Pp|•|בְּ|bə|בְּ|bə|in",
+        "9||heb-esvri-Sg-t-gr4dgpy|@ncfpc|does|אַיְלֹ֣ות|ʾay•lōwṯ|אַיָּלָה|ʾay•yā•lāh|does of",
+        "10||heb-esvri-Sg-t-gr4dgpa|@Pa|the|הַ|ha|הַ|ha|the",
+        "11|h7704|heb-esvri-Sg-t-gr4dgqy|@ncmsa|field|שָּׂדֶ֑ה|ś•śā•ḏeh|שָׂדֶה|śā•ḏeh|field",
+        "12|h518|heb-esvri-Sg-t-gr4dece|@Pc|not|אִם־|ʾim-|אִם|ʾim|not",
+        "13||heb-esvri-Sg-t-gr4deca|@vhi2mp|stir|תָּעִ֧ירוּ׀|tā•ʿiy•ruw|עור|ʿwr|stir you",
+        "14|h176|heb-esvri-Sg-t-gr4depo|@Pc|or|וְֽ|wə|וְ|wə|or",
+        "15|h176|heb-esvri-Sg-t-gr4depa|@Pc|or|אִם־|ʾim-|אִם|ʾim|if",
+        "16||heb-esvri-Sg-t-gr4deqe|@vei2mp|awaken|תְּעֹֽורְר֛וּ|tə•ʿōw•rə•ruw|עור|ʿwr|you awaken",
+        "17|h854|heb-esvri-Sg-t-gr4dkco|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "18||heb-esvri-Sg-t-gr4dkpy|@Pa|love|הָ|hā|הַ|ha|the",
+        "19|h160|heb-esvri-Sg-t-gr4dkpe|@ncfsa|love|אַהֲבָ֖ה|ʾa•hă•ḇāh|אַהֲבָה|ʾa•hă•ḇāh|love",
+        "20|h5705|heb-esvri-Sg-t-gr4dkqy|@Pp|until|עַ֥ד|ʿaḏ|עַד|ʿaḏ|until",
+        "21||heb-esvri-Sg-t-gr4dcce|@Pr|until|שֶׁ|še|שַׁ|ša|that",
+        "22||heb-esvri-Sg-t-gr4dcco|@vqi3fs|pleases|תֶּחְפָּֽץ׃|t•teḥ•pāṣ|חפץ|ḥpṣ|she pleases"
+      ]
+    },
+    {
+      "o": 19515,
+      "r": "esvi:Song of Solomon:3:5",
+      "h": 2,
+      "t": "Solomon Arrives for the Wedding",
+      "p": []
+    }
+  ],
+  "3:6": [
+    {
+      "o": 19516,
+      "r": "esvi:Song of Solomon:3:6",
+      "p": [
+        "0|h4310|heb-esvri-Sg-t-gr4dcqe|@pii|What|מִ֣י|miy|מִי|miy|who",
+        "1|h2088|heb-esvri-Sg-t-gr4dqco|@dfsa|that|זֹ֗את|zō(ʾ)ṯ|זֶה|zeh|this",
+        "2||heb-esvri-Sg-t-gr4dqpe|@vqPfsa|up|עֹלָה֙|ʿō•lāh|עלה|ʿlh|coming up",
+        "3|h4481|heb-esvri-Sg-t-gr4dqqy|@Pp|from|מִן־|min-|מִן|min|from",
+        "4||heb-esvri-Sg-t-gr4docy|@Pa|the|הַ|ha|הַ|ha|the",
+        "5|h4057|heb-esvri-Sg-t-gr4doce|@ncmsa|wilderness|מִּדְבָּ֔ר|m•miḏ•bār|מִדְבָּר|miḏ•bār|wilderness",
+        "6||heb-esvri-Sg-t-gr4dopy|@Pp|like|כְּ|kə|כְּ|kə|like",
+        "7||heb-esvri-Sg-t-gr4dope|@ncfpc|columns|תִֽימֲרֹ֖ות|ṯiy•mă•rōwṯ|תִּימָרָה|tiy•mā•rāh|columns of",
+        "8|h6228|heb-esvri-Sg-t-gr4doqy|@ncmsa|smoke|עָשָׁ֑ן|ʿā•šān|עָשָׁן|ʿā•šān|smoke",
+        "9|h6999|heb-esvri-Sg-t-gr4d1ce|@vPPfsc|perfumed|מְקֻטֶּ֤רֶת|mə•quṭ•ṭe•reṯ|קטר|qṭr|being made smoke of",
+        "10|h4753|heb-esvri-Sg-t-gr4d1py|@ncmsa|myrrh|מֹור֙|mōwr|מֹר|mōr|myrrh",
+        "11||heb-esvri-Sg-t-gr4d1pa|@Pc|and|וּ|uw|וְ|wə|and",
+        "12||heb-esvri-Sg-t-gr4d1qy|@ncfsa|frankincense|לְבֹונָ֔ה|lə•ḇōw•nāh|לְבֹנָה|lə•ḇō•nāh|frankincense",
+        "13|h4481|heb-esvri-Sg-t-gr4uyce|@Pp|with|מִ|mi|מִן|min|from",
+        "14|h3606|heb-esvri-Sg-t-gr4uyco|@ncmsc|all|כֹּ֖ל|k•kōl|כֹּל|kōl|all of",
+        "15|h81|heb-esvri-Sg-t-gr4uype|@ncfsc|powders|אַבְקַ֥ת|ʾaḇ•qaṯ|אֲבָקָה|ʾă•ḇā•qāh|powder of",
+        "16||heb-esvri-Sg-t-gr4uyqy|@vqPmsa|merchant|רֹוכֵֽל׃|rōw•ḵēl|רכל|rkl|one trading"
+      ]
+    }
+  ],
+  "3:7": [
+    {
+      "o": 19517,
+      "r": "esvi:Song of Solomon:3:7",
+      "p": [
+        "0|h2009|heb-esvri-Sg-t-gr4unco|@Pi|Behold|הִנֵּ֗ה|hin•nēh|הִנֵּה|hin•nēh|behold",
+        "1|h4296|heb-esvri-Sg-t-gr4unpe|@ncfscX3ms|litter|מִטָּתֹו֙|miṭ•ṭā•ṯōw|מִטָּה|miṭ•ṭāh|couch of",
+        "3||heb-esvri-Sg-t-gr4unqe|@Pr|•|שֶׁ|še|שַׁ|ša|that",
+        "4||heb-esvri-Sg-t-gr4urcy|@Pp|of|לִּ|l•li|לְ|lə|to",
+        "5|h8010|heb-esvri-Sg-t-gr4urce|@np|Solomon|שְׁלֹמֹ֔ה|š•lō•mōh|שְׁלֹמֹה|šə•lō•mōh|Solomon",
+        "6|h8337|heb-esvri-Sg-t-gr4urpy|@ucbpa|sixty|שִׁשִּׁ֥ים|šiš•šiym|שֵׁשׁ|šēš|sixty",
+        "7|h1368|heb-esvri-Sg-t-gr4urpa|@ampa|mighty|גִּבֹּרִ֖ים|gib•bō•riym|גִּבֹּור|gib•bōwr|mighty ones",
+        "8|h5439|heb-esvri-Sg-t-gr4ugcy|@Pd|Around|סָבִ֣יב|sā•ḇiyḇ|סָבִיב|sā•ḇiyḇ|all around",
+        "9||heb-esvri-Sg-t-gr4ugca|@PpX3fs|Around|לָ֑הּ|lāh|לְ|lə|to",
+        "11|h4481|heb-esvri-Sg-t-gr4ugpa|@Pp|some|מִ|mi|מִן|min|from",
+        "12|h1368|heb-esvri-Sg-t-gr4ugqy|@ampc|mighty|גִּבֹּרֵ֖י|g•gib•bō•rēy|גִּבֹּור|gib•bōwr|mighty ones of",
+        "13|h3479|heb-esvri-Sg-t-gr4uece|@np|Israel|יִשְׂרָאֵֽל׃|yiś•rā•ʾēl|יִשְׂרָאֵל|yiś•rā•ʾēl|Israel"
+      ]
+    }
+  ],
+  "3:8": [
+    {
+      "o": 19518,
+      "r": "esvi:Song of Solomon:3:8",
+      "p": [
+        "0|h3606|heb-esvri-Sg-t-gr4uepe|@ncmscX3mp|all|כֻּלָּם֙|kul•lām|כֹּל|kōl|all of",
+        "2||heb-esvri-Sg-t-gr4ueqe|@vqsmpc|wearing|אֲחֻ֣זֵי|ʾă•ḥu•zēy|אחז|ʾḥz|being grasped of",
+        "3|h2719|heb-esvri-Sg-t-gr4ukco|@ncfsa|swords|חֶ֔רֶב|ḥe•reḇ|חֶרֶב|ḥe•reḇ|sword",
+        "4||heb-esvri-Sg-t-gr4ukpe|@vPPmpc|expert|מְלֻמְּדֵ֖י|mə•lum•mə•ḏēy|למד|lmd|being taught of",
+        "5|h4421|heb-esvri-Sg-t-gr4ukqy|@ncfsa|war|מִלְחָמָ֑ה|mil•ḥā•māh|מִלְחָמָה|mil•ḥā•māh|war",
+        "6|h376|heb-esvri-Sg-t-gr4ucce|@ncmsa|each|אִ֤ישׁ|ʾiyš|אִישׁ|ʾiyš|man",
+        "7|h2719|heb-esvri-Sg-t-gr4ucpy|@ncfscX3ms|sword|חַרְבֹּו֙|ḥar•bōw|חֶרֶב|ḥe•reḇ|sword of",
+        "9|h5922|heb-esvri-Sg-t-gr4ucqy|@Pp|at|עַל־|ʿal-|עַל|ʿal|at",
+        "10|h3409|heb-esvri-Sg-t-gr4uqcy|@ncfscX3ms|thigh|יְרֵכֹ֔ו|yə•rē•ḵōw|יָרֵךְ|yā•rēḵ|thigh of",
+        "12|h4481|heb-esvri-Sg-t-gr4uqpy|@Pp|against|מִ|mi|מִן|min|from",
+        "13|h6343|heb-esvri-Sg-t-gr4uqpe|@ncmsa|terror|פַּ֖חַד|p•pa•ḥaḏ|פַּחַד|pa•ḥaḏ|terror",
+        "14||heb-esvri-Sg-t-gr4uqqy|@Pp|by|בַּ|ba|בְּ|bə|by",
+        "16||heb-esvri-Sg-t-gr4uocy|@ncmpa|night|לֵּילֹּֽות׃|l•lēyl•lōwṯ|לַיְלָה|lay•lāh|nights"
+      ]
+    }
+  ],
+  "3:9": [
+    {
+      "o": 19519,
+      "r": "esvi:Song of Solomon:3:9",
+      "p": [
+        "0||heb-esvri-Sg-t-gr4uopa|@ncmsa|carriage|אַפִּרְיֹ֗ון|ʾap•pir•yōwn|אַפִּרְיֹון|ʾap•pir•yōwn|carriage",
+        "1|h6213|heb-esvri-Sg-t-gr4u1cy|@vqp3ms|made|עָ֤שָׂה|ʿā•śāh|עשׂה|ʿśh|he made",
+        "2||heb-esvri-Sg-t-gr4u1ca|@PpX3ms|•|לֹו֙|lōw|לְ|lə|for",
+        "4|h4428|heb-esvri-Sg-t-gr4u1pa|@Pa|King|הַ|ha|הַ|ha|the",
+        "5|h4428|heb-esvri-Sg-t-gr4u1qy|@ncmsa|King|מֶּ֣לֶךְ|m•me•leḵ|מֶלֶךְ|me•leḵ|King",
+        "6|h8010|heb-esvri-Sg-t-gr5dyce|@np|Solomon|שְׁלֹמֹ֔ה|šə•lō•mōh|שְׁלֹמֹה|šə•lō•mōh|Solomon",
+        "7|h4481|heb-esvri-Sg-t-gr5dypy|@Pp|from|מֵ|mē|מִן|min|from",
+        "8|h6086|heb-esvri-Sg-t-gr5dype|@ncmpc|wood|עֲצֵ֖י|ʿă•ṣēy|עֵץ|ʿēṣ|wood of",
+        "9||heb-esvri-Sg-t-gr5dyqy|@Pa|Lebanon|הַ|ha|הַ|ha|the",
+        "10||heb-esvri-Sg-t-gr5dyqe|@np|Lebanon|לְּבָנֹֽון׃|l•lə•ḇā•nōwn|לְבָנֹון|lə•ḇā•nōwn|Lebanon"
+      ]
+    }
+  ],
+  "3:10": [
+    {
+      "o": 19520,
+      "r": "esvi:Song of Solomon:3:10",
+      "p": [
+        "0|h5982|heb-esvri-Sg-t-gr5dnca|@ncmpcX3ms|posts|עַמּוּדָיו֙|ʿam•muw•ḏāyw|עַמּוּד|ʿam•muwḏ|posts of",
+        "2||heb-esvri-Sg-t-gr5dnpa|@vqp3ms|made|עָ֣שָׂה|ʿā•śāh|עשׂה|ʿśh|he made",
+        "3|h3701|heb-esvri-Sg-t-gr5drcy|@ncmsa|silver|כֶ֔סֶף|ḵe•sep̄|כֶּסֶף|ke•sep̄|silver",
+        "4||heb-esvri-Sg-t-gr5drca|@ncfscX3ms|back|רְפִידָתֹ֣ו|rə•p̄iy•ḏā•ṯōw|רְפִידָה|rə•p̄iy•ḏāh|back of",
+        "6|h2091|heb-esvri-Sg-t-gr5drpa|@ncmsa|gold|זָהָ֔ב|zā•hāḇ|זָהָב|zā•hāḇ|gold",
+        "7|h4817|heb-esvri-Sg-t-gr5dgcy|@ncmscX3ms|seat|מֶרְכָּבֹ֖ו|mer•kā•ḇōw|מֶרְכָּב|mer•kāḇ|place for riding of",
+        "9|h713|heb-esvri-Sg-t-gr5dgpy|@ncmsa|purple|אַרְגָּמָ֑ן|ʾar•gā•mān|אַרְגָּמָן|ʾar•gā•mān|purple",
+        "10|h8432|heb-esvri-Sg-t-gr5dgpa|@ncmscX3ms|interior|תֹּוכֹו֙|tōw•ḵōw|תָּוֶךְ|tā•weḵ|midst of",
+        "12||heb-esvri-Sg-t-gr5dece|@vqsmsa|inlaid|רָצ֣וּף|rā•ṣuwp̄|רצף|rṣp|being inlaid",
+        "13|h160|heb-esvri-Sg-t-gr5depy|@ncfsa|love|אַהֲבָ֔ה|ʾa•hă•ḇāh|אַהֲבָה|ʾa•hă•ḇāh|love",
+        "14|h4481|heb-esvri-Sg-t-gr5depa|@Pp|by|מִ|mi|מִן|min|from",
+        "15|h1325|heb-esvri-Sg-t-gr5deqy|@ncfpc|daughters|בְּנֹ֖ות|b•bə•nōwṯ|בַּת|baṯ|daughters of",
+        "16||heb-esvri-Sg-t-gr5dkce|@np|Jerusalem|יְרוּשָׁלִָֽם׃|yə•ruw•šā•lāim|יְרוּשָׁלִַם|yə•ruw•šā•laim|Jerusalem"
+      ]
+    }
+  ],
+  "3:11": [
+    {
+      "o": 19521,
+      "r": "esvi:Song of Solomon:3:11",
+      "p": [
+        "0||heb-esvri-Sg-t-gr5dkpe|@vqvfp|out|צְאֶ֧ינָה׀|ṣə•ʾey•nāh|יצא|yṣʾ|go out",
+        "1||heb-esvri-Sg-t-gr5dkqy|@Pc|and|וּֽ|uw|וְ|wə|and",
+        "2||heb-esvri-Sg-t-gr5dkqe|@vqvfp|look|רְאֶ֛ינָה|rə•ʾey•nāh|ראה|rʾh|look",
+        "3|h1325|heb-esvri-Sg-t-gr5dcco|@ncfpc|daughters|בְּנֹ֥ות|bə•nōwṯ|בַּת|baṯ|daughters of",
+        "4||heb-esvri-Sg-t-gr5dcpe|@np|Zion|צִיֹּ֖ון|ṣiy•yōwn|צִיֹּון|ṣiy•yōwn|Zion",
+        "5||heb-esvri-Sg-t-gr5dcqy|@Pp|upon|בַּ|ba|בְּ|bə|on",
+        "7|h4430|heb-esvri-Sg-t-gr5dqcy|@ncmsa|King|מֶּ֣לֶךְ|m•me•leḵ|מֶלֶךְ|me•leḵ|King",
+        "8|h8010|heb-esvri-Sg-t-gr5dqca|@np|Solomon|שְׁלֹמֹ֑ה|šə•lō•mōh|שְׁלֹמֹה|šə•lō•mōh|Solomon",
+        "9||heb-esvri-Sg-t-gr5dqpo|@Pp|with|בָּ|bā|בְּ|bə|with",
+        "11|h5850|heb-esvri-Sg-t-gr5dqqy|@ncfsa|crown|עֲטָרָ֗ה|ʿă•ṭā•rāh|עֲטָרָה|ʿă•ṭā•rāh|crown",
+        "12||heb-esvri-Sg-t-gr5doce|@Pr|which|שֶׁ|še|שַׁ|ša|which",
+        "13|h5849|heb-esvri-Sg-t-gr5doco|@vpp3fs|crowned|עִטְּרָה־|ʿiṭ•ṭə•rāh-|עטר|ʿṭr|she crowned",
+        "14||heb-esvri-Sg-t-gr5dopy|@PpX3ms|•|לֹּ֤ו|l•lōw|לְ|lə|",
+        "16|h517|heb-esvri-Sg-t-gr5doqy|@ncfscX3ms|mother|אִמֹּו֙|ʾim•mōw|אֵם|ʾēm|mother of",
+        "18||heb-esvri-Sg-t-gr5d1co|@Pp|on|בְּ|bə|בְּ|bə|on",
+        "19||heb-esvri-Sg-t-gr5d1ca|@ncmsc|day|יֹ֣ום|yōwm|יֹום|yōwm|day of",
+        "20||heb-esvri-Sg-t-gr5d1po|@ncfscX3ms|wedding|חֲתֻנָּתֹ֔ו|ḥă•ṯun•nā•ṯōw|חֲתֻנָּה|ḥă•ṯun•nāh|wedding of",
+        "22||heb-esvri-Sg-t-gr5uycy|@Pc|•|וּ|uw|וְ|wə|and",
+        "23||heb-esvri-Sg-t-gr5uyce|@Pp|on|בְ|ḇə|בְּ|bə|on",
+        "24||heb-esvri-Sg-t-gr5uyco|@ncmsc|day|יֹ֖ום|yōwm|יֹום|yōwm|day of",
+        "25|h8057|heb-esvri-Sg-t-gr5uype|@ncfsc|gladness|שִׂמְחַ֥ת|śim•ḥaṯ|שִׂמְחָה|śim•ḥāh|gladness of",
+        "26|h3820|heb-esvri-Sg-t-gr5uyqy|@ncmscX3ms|heart|לִבֹּֽו׃|lib•bōw|לֵב|lēḇ|heart of"
+      ]
+    }
+  ],
+  "4:0": [
+    {
+      "o": 19522,
+      "r": "esvi:Song of Solomon:4:0",
+      "h": 1,
+      "t": "Song of Solomon 4",
+      "p": []
+    },
+    {
+      "o": 19523,
+      "r": "esvi:Song of Solomon:4:0",
+      "h": 2,
+      "t": "Solomon Admires His Bride’s Beauty",
+      "p": []
+    },
+    {
+      "o": 19524,
+      "r": "esvi:Song of Solomon:4:0",
+      "h": 3,
+      "t": "He",
+      "p": []
+    }
+  ],
+  "4:1": [
+    {
+      "o": 19525,
+      "r": "esvi:Song of Solomon:4:1",
+      "p": [
+        "0|h2009|heb-esvri-Sg-t-gr5unpa|@PiX2fs|Behold|הִנָּ֨ךְ|hin•nāḵ|הִנֵּה|hin•nēh|behold",
+        "2|h3303|heb-esvri-Sg-t-gr5urce|@afsa|beautiful|יָפָ֤ה|yā•p̄āh|יָפֶה|yā•p̄eh|beautiful",
+        "3||heb-esvri-Sg-t-gr5urpy|@ncfscX1cs|love|רַעְיָתִי֙|raʿ•yā•ṯiy|רַעְיָה|raʿ•yāh|beloved of",
+        "5|h2009|heb-esvri-Sg-t-gr5urqy|@PiX2fs|behold|הִנָּ֣ךְ|hin•nāḵ|הִנֵּה|hin•nēh|behold",
+        "7|h3303|heb-esvri-Sg-t-gr5ugco|@afsa|beautiful|יָפָ֔ה|yā•p̄āh|יָפֶה|yā•p̄eh|beautiful",
+        "8|h5869|heb-esvri-Sg-t-gr5ugpe|@ncbdcX2fs|eyes|עֵינַ֣יִךְ|ʿēy•na•yiḵ|עַיִן|ʿa•yin|eyes of",
+        "10||heb-esvri-Sg-t-gr5ugqe|@ncfpa|doves|יֹונִ֔ים|yōw•niym|יֹונָה|yōw•nāh|doves",
+        "11|h4480|heb-esvri-Sg-t-gr5ueco|@Pp|behind|מִ|mi|מִן|min|from",
+        "12|h4480|heb-esvri-Sg-t-gr5ueca|@Pp|behind|בַּ֖עַד|b•ba•ʿaḏ|בַּעַד|ba•ʿaḏ|behind",
+        "13|h4480|heb-esvri-Sg-t-gr5uepo|@Pp|behind|לְ|lə|לְ|lə|to",
+        "14||heb-esvri-Sg-t-gr5uepa|@ncfscX2fs|veil|צַמָּתֵ֑ךְ|ṣam•mā•ṯēḵ|צַמָּה|ṣam•māh|veil of",
+        "16|h8181|heb-esvri-Sg-t-gr5ukce|@ncmscX2fs|hair|שַׂעְרֵךְ֙|śaʿ•rēḵ|שֵׂעָר|śē•ʿār|hair of",
+        "18||heb-esvri-Sg-t-gr5ukpe|@Pp|like|כְּ|kə|כְּ|kə|like",
+        "19|h5740|heb-esvri-Sg-t-gr5ukpo|@ncmsc|flock|עֵ֣דֶר|ʿē•ḏer|עֵדֶר|ʿē•ḏer|flock of",
+        "20||heb-esvri-Sg-t-gr5ukqe|@Pa|goats|הָֽ|hā|הַ|ha|the",
+        "21|h5796|heb-esvri-Sg-t-gr5uccy|@ncfpa|goats|עִזִּ֔ים|ʿiz•ziym|עֵז|ʿēz|goats",
+        "22||heb-esvri-Sg-t-gr5ucca|@Pr|•|שֶׁ|še|שַׁ|ša|that",
+        "23||heb-esvri-Sg-t-gr5ucpy|@vqp3cp|leaping|גָּלְשׁ֖וּ|g•gā•lə•šuw|גלשׁ|glš|they move down",
+        "24|h4481|heb-esvri-Sg-t-gr5ucpa|@Pp|•|מֵ|mē|מִן|min|from",
+        "25|h2022|heb-esvri-Sg-t-gr5ucqy|@ncmsc|slopes|הַ֥ר|har|הַר|har|mountain of",
+        "26|h1568|heb-esvri-Sg-t-gr5uqce|@np|Gilead|גִּלְעָֽד׃|gil•ʿāḏ|גִּלְעָד|gil•ʿāḏ|Gilead"
+      ]
+    }
+  ],
+  "4:2": [
+    {
+      "o": 19526,
+      "r": "esvi:Song of Solomon:4:2",
+      "p": [
+        "0|h8128|heb-esvri-Sg-t-gr5uqpe|@ncbdcX2fs|teeth|שִׁנַּ֙יִךְ֙|šin•na•yiḵ|שֵׁן|šēn|teeth of",
+        "2||heb-esvri-Sg-t-gr5uqqe|@Pp|like|כְּ|kə|כְּ|kə|like",
+        "3|h5740|heb-esvri-Sg-t-gr5uocy|@ncmsa|flock|עֵ֣דֶר|ʿē•ḏer|עֵדֶר|ʿē•ḏer|flock",
+        "4||heb-esvri-Sg-t-gr5uoca|@Pa|shorn|הַ|ha|הַ|ha|the",
+        "5||heb-esvri-Sg-t-gr5uopy|@vqsfpa|shorn|קְּצוּבֹ֔ות|q•qə•ṣuw•ḇōwṯ|קצב|qṣb|ones being shorn",
+        "6||heb-esvri-Sg-t-gr5uopa|@Pr|that|שֶׁ|še|שַׁ|ša|that",
+        "7||heb-esvri-Sg-t-gr5uoqy|@vqp3cp|up|עָל֖וּ|ʿā•luw|עלה|ʿlh|they have come up",
+        "8|h4481|heb-esvri-Sg-t-gr5u1ce|@Pp|from|מִן־|min-|מִן|min|from",
+        "9||heb-esvri-Sg-t-gr5u1ca|@Pa|the|הָ|hā|הַ|ha|the",
+        "10||heb-esvri-Sg-t-gr5u1py|@ncfsa|washing|רַחְצָ֑ה|raḥ•ṣāh|רַחְצָה|raḥ•ṣāh|washing",
+        "11||heb-esvri-Sg-t-gr5u1pa|@Pr|which|שֶׁ|še|שַׁ|ša|which",
+        "12|h3606|heb-esvri-Sg-t-gr5u1qy|@ncmscX3mp|all|כֻּלָּם֙|k•kul•lām|כֹּל|kōl|all of",
+        "14|h8382|heb-esvri-Sg-t-grhdyco|@vhPfpa|twins|מַתְאִימֹ֔ות|maṯ•ʾiy•mōwṯ|תאם|tʾm|bearing twins",
+        "15||heb-esvri-Sg-t-grhdype|@Pc|and|וְ|wə|וְ|wə|and",
+        "16|h7909|heb-esvri-Sg-t-grhdypo|@afsa|lost its young|שַׁכֻּלָ֖ה|šak•ku•lāh|שַׁכּוּל|šak•kuwl|deprived of offspring",
+        "17|h370|heb-esvri-Sg-t-grhdyqe|@Pd|not|אֵ֥ין|ʾēyn|אַיִן|ʾa•yin|there is not",
+        "18||heb-esvri-Sg-t-grhdnco|@PpX3mp|among|בָּהֶֽם׃|bā•hem|בְּ|bə|among"
+      ]
+    }
+  ],
+  "4:3": [
+    {
+      "o": 19527,
+      "r": "esvi:Song of Solomon:4:3",
+      "p": [
+        "0||heb-esvri-Sg-t-grhdnpa|@Pp|like|כְּ|kə|כְּ|kə|like",
+        "1|h2339|heb-esvri-Sg-t-grhdnqy|@ncmsc|thread|ח֤וּט|ḥuwṭ|חוּט|ḥuwṭ|thread of",
+        "2||heb-esvri-Sg-t-grhdrce|@Pa|scarlet|הַ|ha|הַ|ha|the",
+        "3||heb-esvri-Sg-t-grhdrco|@ncmsa|scarlet|שָּׁנִי֙|š•šā•niy|שָׁנִי|šā•niy|crimson",
+        "4|h8193|heb-esvri-Sg-t-grhdrpe|@ncfpcX2fs|lips|שִׂפְתֹתַ֔יִךְ|śip̄•ṯō•ṯa•yiḵ|שָׂפָה|śā•p̄āh|lips of",
+        "6||heb-esvri-Sg-t-grhdrqe|@Pc|and|וּ|uw|וְ|wə|and",
+        "7|h4057|heb-esvri-Sg-t-grhdgcy|@ncmscX2fs|mouth|מִדְבָּרֵ֖יךְ|miḏ•bā•rēyḵ|מִדְבָּר|miḏ•bār|mouth of",
+        "9||heb-esvri-Sg-t-grhdgpy|@amsa|lovely|נָאוֶ֑ה|nā(ʾ)•weh|נָאוֶה|nā(ʾ)•weh|lovely",
+        "10||heb-esvri-Sg-t-grhdgpa|@Pp|like|כְּ|kə|כְּ|kə|like",
+        "11|h6400|heb-esvri-Sg-t-grhdgqy|@ncfsc|halves|פֶ֤לַח|p̄e•laḥ|פֶּלַח|pe•laḥ|split of",
+        "12||heb-esvri-Sg-t-grhdece|@Pa|pomegranate|הָֽ|hā|הַ|ha|the",
+        "13||heb-esvri-Sg-t-grhdeco|@ncmsa|pomegranate|רִמֹּון֙|rim•mōwn|רִמֹּון|rim•mōwn|pomegranate",
+        "14||heb-esvri-Sg-t-grhdepe|@ncfscX2fs|cheeks|רַקָּתֵ֔ךְ|raq•qā•ṯēḵ|רַקָּה|raq•qāh|temple of",
+        "16|h4481|heb-esvri-Sg-t-grhdeqe|@Pp|behind|מִ|mi|מִן|min|from",
+        "17||heb-esvri-Sg-t-grhdkcy|@Pp|behind|בַּ֖עַד|b•ba•ʿaḏ|בַּעַד|ba•ʿaḏ|behind",
+        "18||heb-esvri-Sg-t-grhdkca|@Pp|behind|לְ|lə|לְ|lə|to",
+        "19||heb-esvri-Sg-t-grhdkpy|@ncfscX2fs|veil|צַמָּתֵֽךְ׃|ṣam•mā•ṯēḵ|צַמָּה|ṣam•māh|veil of"
+      ]
+    }
+  ],
+  "4:4": [
+    {
+      "o": 19528,
+      "r": "esvi:Song of Solomon:4:4",
+      "p": [
+        "0||heb-esvri-Sg-t-grhdkqe|@Pp|like|כְּ|kə|כְּ|kə|like",
+        "1|h4026|heb-esvri-Sg-t-grhdccy|@ncmsc|tower|מִגְדַּ֤ל|miḡ•dal|מִגְדָּל|miḡ•dāl|tower of",
+        "2|h1732|heb-esvri-Sg-t-grhdcca|@np|David|דָּוִיד֙|dā•wiyḏ|דָּוִד|dā•wiḏ|David",
+        "3|h6677|heb-esvri-Sg-t-grhdcpo|@ncmscX2fs|neck|צַוָּארֵ֔ךְ|ṣaw•wā(ʾ)•rēḵ|צַוָּאר|ṣaw•wā(ʾ)r|neck of",
+        "5||heb-esvri-Sg-t-grhdqcy|@vqsmsa|built|בָּנ֖וּי|bā•nuwy|בנה|bnh|one being built",
+        "6||heb-esvri-Sg-t-grhdqca|@Pp|in|לְ|lə|לְ|lə|to",
+        "7||heb-esvri-Sg-t-grhdqpy|@ncfpa|rows of stone|תַלְפִּיֹּ֑ות|ṯal•piy•yōwṯ|תַּלְפִּיֹּות|tal•piy•yōwṯ|rows of stones",
+        "8|h505|heb-esvri-Sg-t-grhdqpa|@ucmsc|thousand|אֶ֤לֶף|ʾe•lep̄|אֶלֶף|ʾe•lep̄|thousand of",
+        "9|h4043|heb-esvri-Sg-t-grhdocy|@Pa|shields|הַ|ha|הַ|ha|the",
+        "10|h4043|heb-esvri-Sg-t-grhdoce|@ncbsa|shields|מָּגֵן֙|m•mā•ḡēn|מָגֵן|mā•ḡēn|shield",
+        "11||heb-esvri-Sg-t-grhdopy|@vqsmsa|hang|תָּל֣וּי|tā•luwy|תלה|tlh|being hung",
+        "12|h5922|heb-esvri-Sg-t-grhdopa|@PpX3ms|on|עָלָ֔יו|ʿā•lāyw|עַל|ʿal|on",
+        "14|h3606|heb-esvri-Sg-t-grhd1ce|@ncmsc|all|כֹּ֖ל|kōl|כֹּל|kōl|all of",
+        "15|h4043|heb-esvri-Sg-t-grhd1py|@ncmpc|shields|שִׁלְטֵ֥י|šil•ṭēy|שֶׁלֶט|še•leṭ|small shields of",
+        "16||heb-esvri-Sg-t-grhd1pa|@Pa|warriors|הַ|ha|הַ|ha|the",
+        "17||heb-esvri-Sg-t-grhd1qy|@ampa|warriors|גִּבֹּורִֽים׃|g•gib•bōw•riym|גִּבֹּור|gib•bōwr|mighty ones"
+      ]
+    }
+  ],
+  "4:5": [
+    {
+      "o": 19529,
+      "r": "esvi:Song of Solomon:4:5",
+      "p": [
+        "0|h8147|heb-esvri-Sg-t-grhuyco|@ucmdc|two|שְׁנֵ֥י|šə•nēy|שְׁנַיִם|šə•na•yim|two of",
+        "1|h7699|heb-esvri-Sg-t-grhuype|@ncmdcX2fs|breasts|שָׁדַ֛יִךְ|šā•ḏa•yiḵ|שַׁד|šaḏ|breasts of",
+        "3||heb-esvri-Sg-t-grhuyqe|@Pp|like|כִּ|ki|כְּ|kə|like",
+        "4|h8147|heb-esvri-Sg-t-grhuncy|@ucmdc|two|שְׁנֵ֥י|š•nēy|שְׁנַיִם|šə•na•yim|two of",
+        "5|h6082|heb-esvri-Sg-t-grhunca|@ncmpa|fawns|עֳפָרִ֖ים|ʿŏ•p̄ā•riym|עֹפֶר|ʿō•p̄er|fawns",
+        "6||heb-esvri-Sg-t-grhunpo|@ncmpc|twins|תְּאֹומֵ֣י|tə•ʾōw•mēy|תֹּואֲמִם|tōw•ʾă•mim|twins of",
+        "7||heb-esvri-Sg-t-grhunqe|@ncfsa|gazelle|צְבִיָּ֑ה|ṣə•ḇiy•yāh|צְבִיָּה|ṣə•ḇiy•yāh|female gazelle",
+        "8||heb-esvri-Sg-t-grhurco|@Pa|that|הָ|hā|הַ|ha|the",
+        "9||heb-esvri-Sg-t-grhurca|@vqPmpa|graze|רֹועִ֖ים|rōw•ʿiym|רעה|rʿh|ones grazing",
+        "10||heb-esvri-Sg-t-grhurpo|@Pp|among|בַּ|ba|בְּ|bə|among",
+        "12|h7799|heb-esvri-Sg-t-grhurqy|@ncbpa|lilies|שֹּׁושַׁנִּֽים׃|š•šōw•šan•niym|שׁוּשַׁן|šuw•šan|lilies"
+      ]
+    }
+  ],
+  "4:6": [
+    {
+      "o": 19530,
+      "r": "esvi:Song of Solomon:4:6",
+      "p": [
+        "0|h5704|heb-esvri-Sg-t-grhugco|@Pp|Until|עַ֤ד|ʿaḏ|עַד|ʿaḏ|until",
+        "1|h5704|heb-esvri-Sg-t-grhugpe|@Pr|Until|שֶׁ|še|שַׁ|ša|that",
+        "2||heb-esvri-Sg-t-grhugpo|@vqi3ms|breathes|יָּפ֙וּחַ֙|y•yā•p̄uwaḥ|פוח|pwḥ|he breathes",
+        "3||heb-esvri-Sg-t-grhugqe|@Pa|the|הַ|ha|הַ|ha|the",
+        "4||heb-esvri-Sg-t-grhuecy|@ncmsa|day|יֹּ֔ום|y•yōwm|יֹום|yōwm|day",
+        "5||heb-esvri-Sg-t-grhueca|@Pc|and|וְ|wə|וְ|wə|and",
+        "6|h5127|heb-esvri-Sg-t-grhuepy|@vqp3cp{2}|flee|נָ֖סוּ|nā•suw|נוס|nws|they flee",
+        "7||heb-esvri-Sg-t-grhuepa|@Pa|the|הַ|ha|הַ|ha|the",
+        "8|h6738|heb-esvri-Sg-t-grhueqy|@ncmpa|shadows|צְּלָלִ֑ים|ṣ•ṣə•lā•liym|צֵל|ṣēl|shadows",
+        "9||heb-esvri-Sg-t-grhukce|@vqi1cs|go|אֵ֤לֶךְ|ʾē•leḵ|הלך|hlk|I will go",
+        "10||heb-esvri-Sg-t-grhukpy|@PpX1cs|•|לִי֙|liy|לְ|lə|as to",
+        "12||heb-esvri-Sg-t-grhukqy|@Pp|to|אֶל־|ʾel-|אֶל|ʾel|to",
+        "13|h2022|heb-esvri-Sg-t-grhuccy|@ncmsc|mountain|הַ֣ר|har|הַר|har|mountain of",
+        "14||heb-esvri-Sg-t-grhucca|@Pa|myrrh|הַ|ha|הַ|ha|the",
+        "15|h4753|heb-esvri-Sg-t-grhucpy|@ncmsa|myrrh|מֹּ֔ור|m•mōwr|מֹר|mōr|myrrh",
+        "16||heb-esvri-Sg-t-grhucpa|@Pc|and|וְ|wə|וְ|wə|and",
+        "17||heb-esvri-Sg-t-grhucqy|@Pp|•|אֶל־|ʾel-|אֶל|ʾel|to",
+        "18|h1390|heb-esvri-Sg-t-grhuqcy|@ncfsc|hill|גִּבְעַ֖ת|giḇ•ʿaṯ|גִּבְעָה|giḇ•ʿāh|hill of",
+        "19||heb-esvri-Sg-t-grhuqca|@Pa|frankincense|הַ|ha|הַ|ha|the",
+        "20||heb-esvri-Sg-t-grhuqpy|@ncfsa|frankincense|לְּבֹונָֽה׃|l•lə•ḇōw•nāh|לְבֹנָה|lə•ḇō•nāh|frankincense"
+      ]
+    }
+  ],
+  "4:7": [
+    {
+      "o": 19531,
+      "r": "esvi:Song of Solomon:4:7",
+      "p": [
+        "0|h3606|heb-esvri-Sg-t-grhuqqy|@ncmscX2fs|altogether|כֻּלָּ֤ךְ|kul•lāḵ|כֹּל|kōl|all of",
+        "2|h3303|heb-esvri-Sg-t-grhuoco|@afsa|beautiful|יָפָה֙|yā•p̄āh|יָפֶה|yā•p̄eh|beautiful",
+        "3||heb-esvri-Sg-t-grhuope|@ncfscX1cs|love|רַעְיָתִ֔י|raʿ•yā•ṯiy|רַעְיָה|raʿ•yāh|beloved of",
+        "5||heb-esvri-Sg-t-grhuoqe|@Pc|•|וּ|uw|וְ|wə|and",
+        "6||heb-esvri-Sg-t-grhu1cy|@ncmsa|flaw|מ֖וּם|muwm|מוּם|muwm|flaw",
+        "7|h370|heb-esvri-Sg-t-grhu1ca|@Pd|no|אֵ֥ין|ʾēyn|אַיִן|ʾa•yin|there is not",
+        "8||heb-esvri-Sg-t-grhu1po|@PpX2fs|in|בָּֽךְ׃|bāḵ|בְּ|bə|in"
+      ]
+    }
+  ],
+  "4:8": [
+    {
+      "o": 19532,
+      "r": "esvi:Song of Solomon:4:8",
+      "p": [
+        "0|h854|heb-esvri-Sg-t-geadypy|@PpX1cs|with|אִתִּ֤י|ʾit•tiy|אֵת|ʾēṯ|with",
+        "2|h4481|heb-esvri-Sg-t-geadyqy|@Pp|from|מִ|mi|מִן|min|from",
+        "3||heb-esvri-Sg-t-geadyqe|@np|Lebanon|לְּבָנֹון֙|l•lə•ḇā•nōwn|לְבָנֹון|lə•ḇā•nōwn|Lebanon",
+        "4|h3618|heb-esvri-Sg-t-geadnco|@ncfsa|bride|כַּלָּ֔ה|kal•lāh|כַּלָּה|kal•lāh|bride",
+        "5|h854|heb-esvri-Sg-t-geadnpe|@PpX1cs|with|אִתִּ֖י|ʾit•tiy|אֵת|ʾēṯ|with",
+        "7|h4481|heb-esvri-Sg-t-geadnqe|@Pp|from|מִ|mi|מִן|min|from",
+        "8||heb-esvri-Sg-t-geadrcy|@np|Lebanon|לְּבָנֹ֣ון|l•lə•ḇā•nōwn|לְבָנֹון|lə•ḇā•nōwn|Lebanon",
+        "9||heb-esvri-Sg-t-geadrca|@vqi2fsXa|come|תָּבֹ֑ואִי|tā•ḇōw•ʾiy|בוא|bwʾ|you come",
+        "10||heb-esvri-Sg-t-geadrpo|@vqi2fs|Depart|תָּשׁ֣וּרִי׀|tā•šuw•riy|שׁור|šwr|depart you",
+        "11|h4481|heb-esvri-Sg-t-geadrqe|@Pp|from|מֵ|mē|מִן|min|from",
+        "12|h7219|heb-esvri-Sg-t-geadgcy|@ncmsc|peak|רֹ֣אשׁ|rō(ʾ)š|רֹאשׁ|rō(ʾ)š|top of",
+        "13||heb-esvri-Sg-t-geadgca|@np|Amana|אֲמָנָ֗ה|ʾă•mā•nāh|אֲמָנָה|ʾă•mā•nāh|Amana",
+        "14|h4481|heb-esvri-Sg-t-geadgpo|@Pp|from|מֵ|mē|מִן|min|from",
+        "15|h7219|heb-esvri-Sg-t-geadgpa|@ncmsc|peak|רֹ֤אשׁ|rō(ʾ)š|רֹאשׁ|rō(ʾ)š|top of",
+        "16||heb-esvri-Sg-t-geadecy|@np|Senir|שְׂנִיר֙|śə•niyr|שְׂנִיר|śə•niyr|Senir",
+        "17||heb-esvri-Sg-t-geadeca|@Pc|and|וְ|wə|וְ|wə|and",
+        "18||heb-esvri-Sg-t-geadepy|@np|Hermon|חֶרְמֹ֔ון|ḥer•mōwn|חֶרְמֹון|ḥer•mōwn|Hermon",
+        "19|h4481|heb-esvri-Sg-t-geadepa|@Pp|from|מִ|mi|מִן|min|from",
+        "20|h4585|heb-esvri-Sg-t-geadeqy|@ncfpc|dens|מְּעֹנֹ֣ות|m•mə•ʿō•nōwṯ|מְעֹנָה|mə•ʿō•nāh|dens of",
+        "21|h738|heb-esvri-Sg-t-geadkce|@ncmpa|lions|אֲרָיֹ֔ות|ʾă•rā•yōwṯ|אֲרִי|ʾă•riy|lions",
+        "22|h4481|heb-esvri-Sg-t-geadkpy|@Pp|from|מֵֽ|mē|מִן|min|from",
+        "23|h2022|heb-esvri-Sg-t-geadkpe|@ncmpc|mountains|הַרְרֵ֖י|har•rēy|הַר|har|mountains of",
+        "24|h5246|heb-esvri-Sg-t-geadkqy|@ncmpa|leopards|נְמֵרִֽים׃|nə•mē•riym|נָמֵר|nā•mēr|leopards"
+      ]
+    }
+  ],
+  "4:9": [
+    {
+      "o": 19533,
+      "r": "esvi:Song of Solomon:4:9",
+      "p": [
+        "0||heb-esvri-Sg-t-geadcco|@vpp2fsX1cs|heart|לִבַּבְתִּ֖נִי|lib•baḇ•ti•niy|לבב|lbb|you have captivated heart of",
+        "2||heb-esvri-Sg-t-geadcpo|@ncfscX1cs|sister|אֲחֹתִ֣י|ʾă•ḥō•ṯiy|אָחֹות|ʾā•ḥōwṯ|sister of",
+        "4|h3618|heb-esvri-Sg-t-geadqcy|@ncfsa|bride|כַלָּ֑ה|ḵal•lāh|כַּלָּה|kal•lāh|bride",
+        "5||heb-esvri-Sg-t-geadqca|@vpp2fsX1cs|heart|לִבַּבְתִּ֙ינִי֙|lib•baḇ•tiy•niy|לבב|lbb|you have captivated heart of",
+        "7||heb-esvri-Sg-t-geadqpa|@Pp|with|בְּ|bə|בְּ|bə|with",
+        "8|h259|heb-esvri-Sg-t-geadqqy|@ucmsa|one|אֶחָד|ʾe•ḥāḏ|אֶחָד|ʾe•ḥāḏ|one",
+        "9||heb-esvri-Sg-t-geadoce|@Pp|•|בְּ|bə|בְּ|bə|",
+        "10|h259|heb-esvri-Sg-t-geadoco|@ucfsa|•|אַחַ֣ת|ʾa•ḥaṯ|אֶחָד|ʾe•ḥāḏ|",
+        "11|h4481|heb-esvri-Sg-t-geadope|@Pp|of|מֵ|mē|מִן|min|from",
+        "12|h5871|heb-esvri-Sg-t-geadopo|@ncbdcX2fs|eyes|עֵינַ֔יִךְ|ʿēy•na•yiḵ|עַיִן|ʿa•yin|eyes of",
+        "14||heb-esvri-Sg-t-gead1cy|@Pp|with|בְּ|bə|בְּ|bə|with",
+        "15|h259|heb-esvri-Sg-t-gead1ce|@ucmsc|one|אַחַ֥ד|ʾa•ḥaḏ|אֶחָד|ʾe•ḥāḏ|one of",
+        "16||heb-esvri-Sg-t-gead1py|@ncmsa|jewel|עֲנָ֖ק|ʿă•nāq|עֲנָק|ʿă•nāq|jewel",
+        "17|h4481|heb-esvri-Sg-t-gead1pa|@Pp|of|מִ|mi|מִן|min|from",
+        "18||heb-esvri-Sg-t-gead1qy|@ncmpcX2fs|necklace|צַּוְּרֹנָֽיִךְ׃|ṣ•ṣaw•wə•rō•nā•yiḵ|צַוָּרֹון|ṣaw•wā•rōwn|necklaces of"
+      ]
+    }
+  ],
+  "4:10": [
+    {
+      "o": 19534,
+      "r": "esvi:Song of Solomon:4:10",
+      "p": [
+        "0|h4100|heb-esvri-Sg-t-geauyca|@pii|How|מַה־|mah-|מָה|māh|how",
+        "1|h3302|heb-esvri-Sg-t-geauype|@vqp3cp|beautiful|יָּפ֥וּ|y•yā•p̄uw|יפה|yph|they are beautiful",
+        "2||heb-esvri-Sg-t-geauyqy|@ncmpcX2fs|love|דֹדַ֖יִךְ|ḏō•ḏa•yiḵ|דֹּוד|dōwḏ|love of",
+        "4||heb-esvri-Sg-t-geaunco|@ncfscX1cs|sister|אֲחֹתִ֣י|ʾă•ḥō•ṯiy|אָחֹות|ʾā•ḥōwṯ|sister of",
+        "6|h3618|heb-esvri-Sg-t-geaunpo|@ncfsa|bride|כַלָּ֑ה|ḵal•lāh|כַּלָּה|kal•lāh|bride",
+        "7|h4101|heb-esvri-Sg-t-geaunqe|@pii|How much|מַה־|mah-|מָה|māh|how",
+        "8||heb-esvri-Sg-t-geaurce|@vqp3cp|better|טֹּ֤בוּ|ṭ•ṭō•ḇuw|טוב|ṭwb|good",
+        "9||heb-esvri-Sg-t-geaurpy|@ncmpcX2fs|love|דֹדַ֙יִךְ֙|ḏō•ḏa•yiḵ|דֹּוד|dōwḏ|love of",
+        "11|h4480|heb-esvri-Sg-t-geaurqy|@Pp|than|מִ|mi|מִן|min|more than",
+        "12|h3196|heb-esvri-Sg-t-geaurqe|@ncmsa|wine|יַּ֔יִן|y•ya•yin|יַיִן|ya•yin|wine",
+        "13||heb-esvri-Sg-t-geaugco|@Pc|and|וְ|wə|וְ|wə|and",
+        "14|h7381|heb-esvri-Sg-t-geaugca|@ncmsc|fragrance|רֵ֥יחַ|rēyaḥ|רֵיחַ|rēyaḥ|fragrance of",
+        "15|h8081|heb-esvri-Sg-t-geaugpo|@ncmpcX2fs|oils|שְׁמָנַ֖יִךְ|šə•mā•na•yiḵ|שֶׁמֶן|še•men|oils of",
+        "17|h4480|heb-esvri-Sg-t-geauecy|@Pp|than|מִ|mi|מִן|min|more than",
+        "18|h3606|heb-esvri-Sg-t-geauece|@ncmsc|any|כָּל־|k•kol-|כֹּל|kōl|any of",
+        "19||heb-esvri-Sg-t-geaueca|@ncmpa|spice|בְּשָׂמִֽים׃|bə•śā•miym|בֹּשֶׂם|bō•śem|spices"
+      ]
+    }
+  ],
+  "4:11": [
+    {
+      "o": 19535,
+      "r": "esvi:Song of Solomon:4:11",
+      "p": [
+        "0|h5317|heb-esvri-Sg-t-geauepa|@ncmsa|nectar|נֹ֛פֶת|nō•p̄eṯ|נֹפֶת|nō•p̄eṯ|nectar",
+        "1|h5197|heb-esvri-Sg-t-geaukcy|@vqi3fp|drip|תִּטֹּ֥פְנָה|tiṭ•ṭōp̄•nāh|נטף|nṭp|they drip",
+        "2|h8193|heb-esvri-Sg-t-geaukca|@ncfpcX2fs|lips|שִׂפְתֹותַ֖יִךְ|śip̄•ṯōw•ṯa•yiḵ|שָׂפָה|śā•p̄āh|lips of",
+        "4|h3618|heb-esvri-Sg-t-geaukpa|@ncfsa|bride|כַּלָּ֑ה|kal•lāh|כַּלָּה|kal•lāh|bride",
+        "5|h1706|heb-esvri-Sg-t-geauccy|@ncmsa|honey|דְּבַ֤שׁ|də•ḇaš|דְּבַשׁ|də•ḇaš|honey",
+        "6||heb-esvri-Sg-t-geaucca|@Pc|and|וְ|wə|וְ|wə|and",
+        "7|h2461|heb-esvri-Sg-t-geaucpy|@ncmsa|milk|חָלָב֙|ḥā•lāḇ|חָלָב|ḥā•lāḇ|milk",
+        "8|h8480|heb-esvri-Sg-t-geaucpa|@Pp|under|תַּ֣חַת|ta•ḥaṯ|תַּחַת|ta•ḥaṯ|under",
+        "9||heb-esvri-Sg-t-geauqcy|@ncbscX2fs|tongue|לְשֹׁונֵ֔ךְ|lə•šōw•nēḵ|לָשֹׁון|lā•šōwn|tongue of",
+        "11||heb-esvri-Sg-t-geauqpy|@Pc|•|וְ|wə|וְ|wə|and",
+        "12|h7381|heb-esvri-Sg-t-geauqpe|@ncmsc|fragrance|רֵ֥יחַ|rēyaḥ|רֵיחַ|rēyaḥ|fragrance of",
+        "13|h8009|heb-esvri-Sg-t-geauqqy|@ncfpcX2fs|garments|שַׂלְמֹתַ֖יִךְ|śal•mō•ṯa•yiḵ|שַׂלְמָה|śal•māh|garments of",
+        "15||heb-esvri-Sg-t-geauoco|@Pp|like|כְּ|kə|כְּ|kə|like",
+        "16|h7381|heb-esvri-Sg-t-geauoca|@ncmsc|fragrance|רֵ֥יחַ|rēyaḥ|רֵיחַ|rēyaḥ|fragrance of",
+        "17||heb-esvri-Sg-t-geauopo|@np|Lebanon|לְבָנֹֽון׃|lə•ḇā•nōwn|לְבָנֹון|lə•ḇā•nōwn|Lebanon"
+      ]
+    }
+  ],
+  "4:12": [
+    {
+      "o": 19536,
+      "r": "esvi:Song of Solomon:4:12",
+      "p": [
+        "0|h1530|heb-esvri-Sg-t-geau1ca|@ncbsa|garden|גַּ֥ן׀|gan|גַּן|gan|garden",
+        "1|h5274|heb-esvri-Sg-t-geau1po|@vqsmsa|locked|נָע֖וּל|nā•ʿuwl|נעל|nʿl|being locked",
+        "2||heb-esvri-Sg-t-geau1qe|@ncfscX1cs|sister|אֲחֹתִ֣י|ʾă•ḥō•ṯiy|אָחֹות|ʾā•ḥōwṯ|sister of",
+        "4|h3618|heb-esvri-Sg-t-ge3dyca|@ncfsa|bride|כַלָּ֑ה|ḵal•lāh|כַּלָּה|kal•lāh|bride",
+        "5|h1530|heb-esvri-Sg-t-ge3dypo|@ncmsa|spring|גַּ֥ל|gal|גַּל|gal|spring",
+        "6|h5274|heb-esvri-Sg-t-ge3dyqe|@vqsmsa|locked|נָע֖וּל|nā•ʿuwl|נעל|nʿl|being locked",
+        "7|h4599|heb-esvri-Sg-t-ge3dnco|@ncmsa|fountain|מַעְיָ֥ן|maʿ•yān|מַעְיָן|maʿ•yān|fountain",
+        "8|h2856|heb-esvri-Sg-t-ge3dnpe|@vqsmsa|sealed|חָתֽוּם׃|ḥā•ṯuwm|חתם|ḥtm|being sealed"
+      ]
+    }
+  ],
+  "4:13": [
+    {
+      "o": 19537,
+      "r": "esvi:Song of Solomon:4:13",
+      "p": [
+        "0|h7974|heb-esvri-Sg-t-ge3dnqe|@ncmpcX2fs|shoots|שְׁלָחַ֙יִךְ֙|šə•lā•ḥa•yiḵ|שֶׁלַח|še•laḥ|shoots of",
+        "2|h6508|heb-esvri-Sg-t-ge3drca|@ncmsc|orchard|פַּרְדֵּ֣ס|par•dēs|פַּרְדֵּס|par•dēs|orchard of",
+        "3||heb-esvri-Sg-t-ge3drpo|@ncmpa|pomegranates|רִמֹּונִ֔ים|rim•mōw•niym|רִמֹּון|rim•mōwn|pomegranates",
+        "4|h5974|heb-esvri-Sg-t-ge3drqe|@Pp|with|עִ֖ם|ʿim|עִם|ʿim|with",
+        "5|h6529|heb-esvri-Sg-t-ge3dgco|@ncmsc|fruits|פְּרִ֣י|pə•riy|פְּרִי|pə•riy|fruit of",
+        "6|h4022|heb-esvri-Sg-t-ge3dgpe|@ncmpa|choicest|מְגָדִ֑ים|mə•ḡā•ḏiym|מֶגֶד|me•ḡeḏ|choice things",
+        "7|h3724|heb-esvri-Sg-t-ge3dgqy|@ncmpa|henna|כְּפָרִ֖ים|kə•p̄ā•riym|כֹּפֶר|kō•p̄er|henna",
+        "8|h5974|heb-esvri-Sg-t-ge3dece|@Pp|with|עִם־|ʿim-|עִם|ʿim|with",
+        "9||heb-esvri-Sg-t-ge3deca|@ncmpa|nard|נְרָדִֽים׃|nə•rā•ḏiym|נֵרְדְּ|nērd|nard"
+      ]
+    }
+  ],
+  "4:14": [
+    {
+      "o": 19538,
+      "r": "esvi:Song of Solomon:4:14",
+      "p": [
+        "0||heb-esvri-Sg-t-ge3depa|@ncmsa|nard|נֵ֣רְדְּ׀|nērd|נֵרְדְּ|nērd|nard",
+        "1||heb-esvri-Sg-t-ge3dkcy|@Pc|and|וְ|wə|וְ|wə|and",
+        "2||heb-esvri-Sg-t-ge3dkce|@ncmsa|saffron|כַרְכֹּ֗ם|ḵar•kōm|כַּרְכֹּם|kar•kōm|saffron",
+        "3|h7070|heb-esvri-Sg-t-ge3dkpy|@ncmsa|calamus|קָנֶה֙|qā•neh|קָנֶה|qā•neh|calamus",
+        "4||heb-esvri-Sg-t-ge3dkpa|@Pc|and|וְ|wə|וְ|wə|and",
+        "5||heb-esvri-Sg-t-ge3dkqy|@ncmsa|cinnamon|קִנָּמֹ֔ון|qin•nā•mōwn|קִנָּמֹון|qin•nā•mōwn|cinnamon",
+        "6|h5974|heb-esvri-Sg-t-ge3dcce|@Pp|with|עִ֖ם|ʿim|עִם|ʿim|with",
+        "7|h3606|heb-esvri-Sg-t-ge3dcpy|@ncmsc|all|כָּל־|kol-|כֹּל|kōl|all of",
+        "8|h6086|heb-esvri-Sg-t-ge3dcpo|@ncmpc|trees|עֲצֵ֣י|ʿă•ṣēy|עֵץ|ʿēṣ|trees of",
+        "9||heb-esvri-Sg-t-ge3dcqe|@ncfsa|frankincense|לְבֹונָ֑ה|lə•ḇōw•nāh|לְבֹנָה|lə•ḇō•nāh|frankincense",
+        "10|h4753|heb-esvri-Sg-t-ge3dqco|@ncmsa|myrrh|מֹ֚ר|mōr|מֹר|mōr|myrrh",
+        "11||heb-esvri-Sg-t-ge3dqpe|@Pc|and|וַ|wa|וְ|wə|and",
+        "12||heb-esvri-Sg-t-ge3dqpo|@ncmpa|aloes|אֲהָלֹ֔ות|ʾă•hā•lōwṯ|אֲהָלֹות|ʾă•hā•lōwṯ|aloes",
+        "13|h5974|heb-esvri-Sg-t-ge3dqqe|@Pp|with|עִ֖ם|ʿim|עִם|ʿim|with",
+        "14|h3606|heb-esvri-Sg-t-ge3doco|@ncmsc|all|כָּל־|kol-|כֹּל|kōl|all of",
+        "15|h7219|heb-esvri-Sg-t-ge3dopy|@ncmpc|choice|רָאשֵׁ֥י|rā(ʾ)•šēy|רֹאשׁ|rō(ʾ)š|tops of",
+        "16|h1314|heb-esvri-Sg-t-ge3dopa|@ncmpa|spices|בְשָׂמִֽים׃|ḇə•śā•miym|בֹּשֶׂם|bō•śem|spices"
+      ]
+    }
+  ],
+  "4:15": [
+    {
+      "o": 19539,
+      "r": "esvi:Song of Solomon:4:15",
+      "p": [
+        "0|h4599|heb-esvri-Sg-t-ge3d1ce|@ncmsc|fountain|מַעְיַ֣ן|maʿ•yan|מַעְיָן|maʿ•yān|fountain of",
+        "1|h1588|heb-esvri-Sg-t-ge3d1py|@ncbpa|garden|גַּנִּ֔ים|gan•niym|גַּן|gan|gardens",
+        "2|h875|heb-esvri-Sg-t-ge3d1pa|@ncfsc|well|בְּאֵ֖ר|bə•ʾēr|בְּאֵר|bə•ʾēr|well of",
+        "3|h4325|heb-esvri-Sg-t-ge3uycy|@ncmpa|water|מַ֣יִם|ma•yim|מַיִם|ma•yim|water",
+        "4|h2417|heb-esvri-Sg-t-ge3uyca|@ampa|living|חַיִּ֑ים|ḥay•yiym|חַי|ḥay|alive",
+        "5||heb-esvri-Sg-t-ge3uypo|@Pc|and|וְ|wə|וְ|wə|and",
+        "6||heb-esvri-Sg-t-ge3uypa|@vqPmpa|flowing|נֹזְלִ֖ים|nō•zə•liym|נזל|nzl|flowing",
+        "7|h4481|heb-esvri-Sg-t-ge3uncy|@Pp|from|מִן־|min-|מִן|min|from",
+        "8||heb-esvri-Sg-t-ge3unco|@np|Lebanon|לְבָנֹֽון׃|lə•ḇā•nōwn|לְבָנֹון|lə•ḇā•nōwn|Lebanon"
+      ]
+    }
+  ],
+  "4:16": [
+    {
+      "o": 19540,
+      "r": "esvi:Song of Solomon:4:16",
+      "p": [
+        "0|h5782|heb-esvri-Sg-t-ge3unpo|@vqvfs|Awake|ע֤וּרִי|ʿuw•riy|עור|ʿwr|awake",
+        "1||heb-esvri-Sg-t-ge3unqe|@ncfsa|north|צָפֹון֙|ṣā•p̄ōwn|צָפֹון|ṣā•p̄ōwn|north",
+        "2||heb-esvri-Sg-t-ge3urco|@Pc|and|וּ|uw|וְ|wə|and",
+        "3|h935|heb-esvri-Sg-t-ge3urca|@vqvfs|come|בֹ֣ואִי|ḇōw•ʾiy|בוא|bwʾ|come",
+        "4|h8487|heb-esvri-Sg-t-ge3urpo|@ncfsa|south|תֵימָ֔ן|ṯēy•mān|תֵּימָן|tēy•mān|south",
+        "5||heb-esvri-Sg-t-ge3urqe|@vhvfs|Blow|הָפִ֥יחִי|hā•p̄iy•ḥiy|פוח|pwḥ|blow upon",
+        "6|h1588|heb-esvri-Sg-t-ge3ugco|@ncbscX1cs|garden|גַנִּ֖י|ḡan•niy|גַּן|gan|garden of",
+        "8||heb-esvri-Sg-t-ge3ugpo|@vqi3mp{1}Jm|flow|יִזְּל֣וּ|yiz•zə•luw|נזל|nzl|they shall flow",
+        "9||heb-esvri-Sg-t-ge3ugqe|@ncmpcX3ms|spices|בְשָׂמָ֑יו|ḇə•śā•māyw|בֹּשֶׂם|bō•śem|spices of",
+        "11|h935|heb-esvri-Sg-t-ge3ueca|@vqi3msXa{1}Jm|come|יָבֹ֤א|yā•ḇōʾ|בוא|bwʾ|let him come",
+        "12||heb-esvri-Sg-t-ge3uepo|@ncmscX1cs|beloved|דֹודִי֙|ḏōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "14||heb-esvri-Sg-t-ge3ukcy|@Pp|to|לְ|lə|לְ|lə|to",
+        "15|h1588|heb-esvri-Sg-t-ge3ukce|@ncbscX3ms|garden|גַנֹּ֔ו|ḡan•nōw|גַּן|gan|garden of",
+        "17||heb-esvri-Sg-t-ge3ukpe|@Pc|and|וְ|wə|וְ|wə|and",
+        "18||heb-esvri-Sg-t-ge3ukpo|@vqi3ms{1}Jm|eat|יֹאכַ֖ל|yō(ʾ)•ḵal|אכל|ʾkl|let him eat",
+        "19|h6529|heb-esvri-Sg-t-ge3ukqe|@ncmsc|fruits|פְּרִ֥י|pə•riy|פְּרִי|pə•riy|fruit of",
+        "20|h4022|heb-esvri-Sg-t-ge3ucco|@ncmpcX3ms|choicest|מְגָדָֽיו׃|mə•ḡā•ḏāyw|מֶגֶד|me•ḡeḏ|choices of"
+      ]
+    },
+    {
+      "o": 19541,
+      "r": "esvi:Song of Solomon:4:16",
+      "h": 2,
+      "t": "Together in the Garden of Love",
+      "p": []
+    },
+    {
+      "o": 19542,
+      "r": "esvi:Song of Solomon:4:16",
+      "h": 3,
+      "t": "She",
+      "p": []
+    },
+    {
+      "o": 19543,
+      "r": "esvi:Song of Solomon:4:16",
+      "p": [
+        "0|h5782|heb-esvri-Sg-t-ge3unpo|@vqvfs|Awake|ע֤וּרִי|ʿuw•riy|עור|ʿwr|awake",
+        "1||heb-esvri-Sg-t-ge3unqe|@ncfsa|north|צָפֹון֙|ṣā•p̄ōwn|צָפֹון|ṣā•p̄ōwn|north",
+        "2||heb-esvri-Sg-t-ge3urco|@Pc|and|וּ|uw|וְ|wə|and",
+        "3|h935|heb-esvri-Sg-t-ge3urca|@vqvfs|come|בֹ֣ואִי|ḇōw•ʾiy|בוא|bwʾ|come",
+        "4|h8487|heb-esvri-Sg-t-ge3urpo|@ncfsa|south|תֵימָ֔ן|ṯēy•mān|תֵּימָן|tēy•mān|south",
+        "5||heb-esvri-Sg-t-ge3urqe|@vhvfs|Blow|הָפִ֥יחִי|hā•p̄iy•ḥiy|פוח|pwḥ|blow upon",
+        "6|h1588|heb-esvri-Sg-t-ge3ugco|@ncbscX1cs|garden|גַנִּ֖י|ḡan•niy|גַּן|gan|garden of",
+        "8||heb-esvri-Sg-t-ge3ugpo|@vqi3mp{1}Jm|flow|יִזְּל֣וּ|yiz•zə•luw|נזל|nzl|they shall flow",
+        "9||heb-esvri-Sg-t-ge3ugqe|@ncmpcX3ms|spices|בְשָׂמָ֑יו|ḇə•śā•māyw|בֹּשֶׂם|bō•śem|spices of",
+        "11|h935|heb-esvri-Sg-t-ge3ueca|@vqi3msXa{1}Jm|come|יָבֹ֤א|yā•ḇōʾ|בוא|bwʾ|let him come",
+        "12||heb-esvri-Sg-t-ge3uepo|@ncmscX1cs|beloved|דֹודִי֙|ḏōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "14||heb-esvri-Sg-t-ge3ukcy|@Pp|to|לְ|lə|לְ|lə|to",
+        "15|h1588|heb-esvri-Sg-t-ge3ukce|@ncbscX3ms|garden|גַנֹּ֔ו|ḡan•nōw|גַּן|gan|garden of",
+        "17||heb-esvri-Sg-t-ge3ukpe|@Pc|and|וְ|wə|וְ|wə|and",
+        "18||heb-esvri-Sg-t-ge3ukpo|@vqi3ms{1}Jm|eat|יֹאכַ֖ל|yō(ʾ)•ḵal|אכל|ʾkl|let him eat",
+        "19|h6529|heb-esvri-Sg-t-ge3ukqe|@ncmsc|fruits|פְּרִ֥י|pə•riy|פְּרִי|pə•riy|fruit of",
+        "20|h4022|heb-esvri-Sg-t-ge3ucco|@ncmpcX3ms|choicest|מְגָדָֽיו׃|mə•ḡā•ḏāyw|מֶגֶד|me•ḡeḏ|choices of"
+      ]
+    }
+  ],
+  "5:0": [
+    {
+      "o": 19544,
+      "r": "esvi:Song of Solomon:5:0",
+      "h": 1,
+      "t": "Song of Solomon 5",
+      "p": []
+    },
+    {
+      "o": 19545,
+      "r": "esvi:Song of Solomon:5:0",
+      "h": 3,
+      "t": "He",
+      "p": []
+    }
+  ],
+  "5:1": [
+    {
+      "o": 19546,
+      "r": "esvi:Song of Solomon:5:1",
+      "p": [
+        "0||heb-esvri-Sg-t-ge3ucqy|@vqp1cs|came|בָּ֣אתִי|bā(ʾ)•ṯiy|בוא|bwʾ|I came",
+        "1||heb-esvri-Sg-t-ge3uqce|@Pp|to|לְ|lə|לְ|lə|to",
+        "2|h1588|heb-esvri-Sg-t-ge3uqco|@ncbscX1cs|garden|גַנִּי֮|ḡan•niy|גַּן|gan|garden of",
+        "4||heb-esvri-Sg-t-ge3uqpo|@ncfscX1cs|sister|אֲחֹתִ֣י|ʾă•ḥō•ṯiy|אָחֹות|ʾā•ḥōwṯ|sister of",
+        "6|h3618|heb-esvri-Sg-t-ge3uocy|@ncfsa|bride|כַלָּה֒|ḵal•lāh|כַּלָּה|kal•lāh|bride",
+        "7||heb-esvri-Sg-t-ge3uoca|@vqp1cs|gathered|אָרִ֤יתִי|ʾā•riy•ṯiy|ארה|ʾrh|I gathered",
+        "8|h4753|heb-esvri-Sg-t-ge3uopo|@ncmscX1cs|myrrh|מֹורִי֙|mōw•riy|מֹר|mōr|myrrh of",
+        "10|h5974|heb-esvri-Sg-t-ge3u1cy|@Pp|with|עִם־|ʿim-|עִם|ʿim|with",
+        "11||heb-esvri-Sg-t-ge3u1co|@ncmscX1cs|spice|בְּשָׂמִ֔י|bə•śā•miy|בֹּשֶׂם|bō•śem|spice of",
+        "13||heb-esvri-Sg-t-ge3u1po|@vqp1cs|ate|אָכַ֤לְתִּי|ʾā•ḵal•tiy|אכל|ʾkl|I ate",
+        "14|h3293|heb-esvri-Sg-t-ge3u1qe|@ncmscX1cs|honeycomb|יַעְרִי֙|yaʿ•riy|יַעַר|ya•ʿar|honeycomb of",
+        "16|h5974|heb-esvri-Sg-t-ge4dyca|@Pp|with|עִם־|ʿim-|עִם|ʿim|with",
+        "17|h1706|heb-esvri-Sg-t-ge4dype|@ncmscX1cs|honey|דִּבְשִׁ֔י|diḇ•šiy|דְּבַשׁ|də•ḇaš|honey of",
+        "19||heb-esvri-Sg-t-ge4dyqe|@vqp1cs|drank|שָׁתִ֥יתִי|šā•ṯiy•ṯiy|שׁתה|šth|I drank",
+        "20|h3196|heb-esvri-Sg-t-ge4dnco|@ncmscX1cs|wine|יֵינִ֖י|yēy•niy|יַיִן|ya•yin|wine of",
+        "22|h5974|heb-esvri-Sg-t-ge4dnpo|@Pp|with|עִם־|ʿim-|עִם|ʿim|with",
+        "23|h2461|heb-esvri-Sg-t-ge4dnqy|@ncmscX1cs|milk|חֲלָבִ֑י|ḥă•lā•ḇiy|חָלָב|ḥā•lāḇ|milk of",
+        "25|h398|heb-esvri-Sg-t-ge4drco|@vqvmp|Eat|אִכְל֣וּ|ʾiḵ•luw|אכל|ʾkl|eat",
+        "26|h7453|heb-esvri-Sg-t-ge4drpe|@ncmpa|friends|רֵעִ֔ים|rē•ʿiym|רֵעַ|rēaʿ|friends",
+        "27|h8354|heb-esvri-Sg-t-ge4drqy|@vqvmp|drink|שְׁת֥וּ|šə•ṯuw|שׁתה|šth|drink",
+        "28||heb-esvri-Sg-t-ge4dgce|@Pc|and|וְ|wə|וְ|wə|and",
+        "29||heb-esvri-Sg-t-ge4dgco|@vqvmp|drunk|שִׁכְר֖וּ|šiḵ•ruw|שׁכר|škr|be drunk",
+        "30||heb-esvri-Sg-t-ge4dgpe|@ncmpa|love|דֹּודִֽים׃|dōw•ḏiym|דֹּוד|dōwḏ|love"
+      ]
+    },
+    {
+      "o": 19547,
+      "r": "esvi:Song of Solomon:5:1",
+      "h": 3,
+      "t": "Others",
+      "p": []
+    },
+    {
+      "o": 19548,
+      "r": "esvi:Song of Solomon:5:1",
+      "p": [
+        "0||heb-esvri-Sg-t-ge3ucqy|@vqp1cs|came|בָּ֣אתִי|bā(ʾ)•ṯiy|בוא|bwʾ|I came",
+        "1||heb-esvri-Sg-t-ge3uqce|@Pp|to|לְ|lə|לְ|lə|to",
+        "2|h1588|heb-esvri-Sg-t-ge3uqco|@ncbscX1cs|garden|גַנִּי֮|ḡan•niy|גַּן|gan|garden of",
+        "4||heb-esvri-Sg-t-ge3uqpo|@ncfscX1cs|sister|אֲחֹתִ֣י|ʾă•ḥō•ṯiy|אָחֹות|ʾā•ḥōwṯ|sister of",
+        "6|h3618|heb-esvri-Sg-t-ge3uocy|@ncfsa|bride|כַלָּה֒|ḵal•lāh|כַּלָּה|kal•lāh|bride",
+        "7||heb-esvri-Sg-t-ge3uoca|@vqp1cs|gathered|אָרִ֤יתִי|ʾā•riy•ṯiy|ארה|ʾrh|I gathered",
+        "8|h4753|heb-esvri-Sg-t-ge3uopo|@ncmscX1cs|myrrh|מֹורִי֙|mōw•riy|מֹר|mōr|myrrh of",
+        "10|h5974|heb-esvri-Sg-t-ge3u1cy|@Pp|with|עִם־|ʿim-|עִם|ʿim|with",
+        "11||heb-esvri-Sg-t-ge3u1co|@ncmscX1cs|spice|בְּשָׂמִ֔י|bə•śā•miy|בֹּשֶׂם|bō•śem|spice of",
+        "13||heb-esvri-Sg-t-ge3u1po|@vqp1cs|ate|אָכַ֤לְתִּי|ʾā•ḵal•tiy|אכל|ʾkl|I ate",
+        "14|h3293|heb-esvri-Sg-t-ge3u1qe|@ncmscX1cs|honeycomb|יַעְרִי֙|yaʿ•riy|יַעַר|ya•ʿar|honeycomb of",
+        "16|h5974|heb-esvri-Sg-t-ge4dyca|@Pp|with|עִם־|ʿim-|עִם|ʿim|with",
+        "17|h1706|heb-esvri-Sg-t-ge4dype|@ncmscX1cs|honey|דִּבְשִׁ֔י|diḇ•šiy|דְּבַשׁ|də•ḇaš|honey of",
+        "19||heb-esvri-Sg-t-ge4dyqe|@vqp1cs|drank|שָׁתִ֥יתִי|šā•ṯiy•ṯiy|שׁתה|šth|I drank",
+        "20|h3196|heb-esvri-Sg-t-ge4dnco|@ncmscX1cs|wine|יֵינִ֖י|yēy•niy|יַיִן|ya•yin|wine of",
+        "22|h5974|heb-esvri-Sg-t-ge4dnpo|@Pp|with|עִם־|ʿim-|עִם|ʿim|with",
+        "23|h2461|heb-esvri-Sg-t-ge4dnqy|@ncmscX1cs|milk|חֲלָבִ֑י|ḥă•lā•ḇiy|חָלָב|ḥā•lāḇ|milk of",
+        "25|h398|heb-esvri-Sg-t-ge4drco|@vqvmp|Eat|אִכְל֣וּ|ʾiḵ•luw|אכל|ʾkl|eat",
+        "26|h7453|heb-esvri-Sg-t-ge4drpe|@ncmpa|friends|רֵעִ֔ים|rē•ʿiym|רֵעַ|rēaʿ|friends",
+        "27|h8354|heb-esvri-Sg-t-ge4drqy|@vqvmp|drink|שְׁת֥וּ|šə•ṯuw|שׁתה|šth|drink",
+        "28||heb-esvri-Sg-t-ge4dgce|@Pc|and|וְ|wə|וְ|wə|and",
+        "29||heb-esvri-Sg-t-ge4dgco|@vqvmp|drunk|שִׁכְר֖וּ|šiḵ•ruw|שׁכר|škr|be drunk",
+        "30||heb-esvri-Sg-t-ge4dgpe|@ncmpa|love|דֹּודִֽים׃|dōw•ḏiym|דֹּוד|dōwḏ|love"
+      ]
+    },
+    {
+      "o": 19549,
+      "r": "esvi:Song of Solomon:5:1",
+      "h": 2,
+      "t": "The Bride Searches for Her Beloved",
+      "p": []
+    },
+    {
+      "o": 19550,
+      "r": "esvi:Song of Solomon:5:1",
+      "h": 3,
+      "t": "She",
+      "p": []
+    }
+  ],
+  "5:2": [
+    {
+      "o": 19551,
+      "r": "esvi:Song of Solomon:5:2",
+      "p": [
+        "0|h589|heb-esvri-Sg-t-ge4deco|@pi1cs|I|אֲנִ֥י|ʾă•niy|אֲנִי|ʾă•niy|I",
+        "1|h3463|heb-esvri-Sg-t-ge4depe|@afsa|slept|יְשֵׁנָ֖ה|yə•šē•nāh|יָשֵׁן|yā•šēn|asleep",
+        "2||heb-esvri-Sg-t-ge4deqy|@Pc|but|וְ|wə|וְ|wə|but",
+        "3|h3820|heb-esvri-Sg-t-ge4deqe|@ncmscX1cs|heart|לִבִּ֣י|lib•biy|לֵב|lēḇ|heart of",
+        "5||heb-esvri-Sg-t-ge4dkca|@vqPmsa|awake|עֵ֑ר|ʿēr|עור|ʿwr|being awake",
+        "6||heb-esvri-Sg-t-ge4dkpo|@ncmsc|sound|קֹ֣ול׀|qōwl|קֹול|qōwl|sound of",
+        "7||heb-esvri-Sg-t-ge4dkqe|@ncmscX1cs|beloved|דֹּודִ֣י|dōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "9||heb-esvri-Sg-t-ge4dcca|@vqPmsa|knocking|דֹופֵ֗ק|ḏōw•p̄ēq|דפק|dpq|knocking",
+        "10|h6605|heb-esvri-Sg-t-ge4dcpo|@vqvfs|Open|פִּתְחִי־|piṯ•ḥiy-|פתח|ptḥ|open",
+        "11||heb-esvri-Sg-t-ge4dcqy|@PpX1cs|to|לִ֞י|liy|לְ|lə|to",
+        "13||heb-esvri-Sg-t-ge4dqco|@ncfscX1cs|sister|אֲחֹתִ֤י|ʾă•ḥō•ṯiy|אָחֹות|ʾā•ḥōwṯ|sister of",
+        "15||heb-esvri-Sg-t-ge4dqpo|@ncfscX1cs|love|רַעְיָתִי֙|raʿ•yā•ṯiy|רַעְיָה|raʿ•yāh|beloved of",
+        "17||heb-esvri-Sg-t-ge4docy|@ncfscX1cs|dove|יֹונָתִ֣י|yōw•nā•ṯiy|יֹונָה|yōw•nāh|dove of",
+        "19|h8536|heb-esvri-Sg-t-ge4dopy|@afscX1cs|perfect|תַמָּתִ֔י|ṯam•mā•ṯiy|תָּם|tām|perfect one of",
+        "21||heb-esvri-Sg-t-ge4doqy|@Pr|for|שֶׁ|še|שַׁ|ša|that",
+        "22|h7219|heb-esvri-Sg-t-ge4doqe|@ncmscX1cs|head|רֹּאשִׁי֙|r•rō(ʾ)•šiy|רֹאשׁ|rō(ʾ)š|head of",
+        "24||heb-esvri-Sg-t-ge4d1ca|@vnPmsa|is wet|נִמְלָא־|nim•lāʾ-|מלא|mlʾ|being full",
+        "25|h2919|heb-esvri-Sg-t-ge4d1pe|@ncmsa|dew|טָ֔ל|ṭāl|טַל|ṭal|dew",
+        "26||heb-esvri-Sg-t-ge4d1qy|@ncfpcX1cs|locks|קְוֻּצֹּותַ֖י|qəw•wuṣ•ṣōw•ṯay|קְוֻצֹּות|qə•wuṣ•ṣōwṯ|locks of",
+        "28||heb-esvri-Sg-t-ge4uyco|@ncmpc|drops|רְסִ֥יסֵי|rə•siy•sēy|רָסִיס|rā•siys|drops of",
+        "29||heb-esvri-Sg-t-ge4uype|@ncmsa|night|לָֽיְלָה׃|lāy•lāh|לַיְלָה|lay•lāh|night"
+      ]
+    }
+  ],
+  "5:3": [
+    {
+      "o": 19552,
+      "r": "esvi:Song of Solomon:5:3",
+      "p": [
+        "0||heb-esvri-Sg-t-ge4uyqe|@vqp1cs|I had put off|פָּשַׁ֙טְתִּי֙|pā•šaṭ•tiy|פשׁט|pšṭ|I had put off",
+        "1|h854|heb-esvri-Sg-t-ge4unco|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "2||heb-esvri-Sg-t-ge4unpy|@ncfscX1cs|garment|כֻּתָּנְתִּ֔י|kut•ton•tiy|כֻּתֹּנֶת|kut•tō•neṯ|garment of",
+        "4|h349|heb-esvri-Sg-t-ge4unqy|@Pi|how|אֵיכָ֖כָה|ʾēy•ḵā•ḵāh|אֵיכָכָה|ʾēy•ḵā•ḵāh|how",
+        "5||heb-esvri-Sg-t-ge4urce|@vqi1csX3fsXe|could I put|אֶלְבָּשֶׁ֑נָּה|ʾel•bā•šen•nāh|לבשׁ|lbš|I put on",
+        "7||heb-esvri-Sg-t-ge4urpe|@vqp1cs|bathed|רָחַ֥צְתִּי|rā•ḥaṣ•tiy|רחץ|rḥṣ|I had bathed",
+        "8|h854|heb-esvri-Sg-t-ge4urqy|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "9|h7272|heb-esvri-Sg-t-ge4ugcy|@ncfdcX1cs|feet|רַגְלַ֖י|raḡ•lay|רֶגֶל|re•ḡel|feet of",
+        "11|h349|heb-esvri-Sg-t-ge4ugpy|@Pi|how|אֵיכָ֥כָה|ʾēy•ḵā•ḵāh|אֵיכָכָה|ʾēy•ḵā•ḵāh|how",
+        "12||heb-esvri-Sg-t-ge4ugpa|@vpi1csX3mp|soil|אֲטַנְּפֵֽם׃|ʾă•ṭan•nə•p̄ēm|טנף|ṭnp|I soil"
+      ]
+    }
+  ],
+  "5:4": [
+    {
+      "o": 19553,
+      "r": "esvi:Song of Solomon:5:4",
+      "p": [
+        "0||heb-esvri-Sg-t-ge4ueco|@ncmscX1cs|beloved|דֹּודִ֗י|dōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "2||heb-esvri-Sg-t-ge4uepo|@vqp3ms|put|שָׁלַ֤ח|šā•laḥ|שׁלח|šlḥ|he stretched out",
+        "3|h3027|heb-esvri-Sg-t-ge4ueqe|@ncfscX3ms|hand|יָדֹו֙|yā•ḏōw|יָד|yāḏ|hand of",
+        "5|h4481|heb-esvri-Sg-t-ge4ukca|@Pp|to|מִן־|min-|מִן|min|from",
+        "6||heb-esvri-Sg-t-ge4ukpe|@Pa|the|הַ|ha|הַ|ha|the",
+        "7||heb-esvri-Sg-t-ge4ukpo|@ncmsa|latch|חֹ֔ר|ḥōr|חֹר|ḥōr|hole",
+        "8||heb-esvri-Sg-t-ge4ukqe|@Pc|and|וּ|uw|וְ|wə|and",
+        "9|h4578|heb-esvri-Sg-t-ge4uccy|@ncmpcX1cs|heart|מֵעַ֖י|mē•ʿay|מֵעֶה|mē•ʿeh|insides of",
+        "11||heb-esvri-Sg-t-ge4ucpy|@vqp3cp|thrilled|הָמ֥וּ|hā•muw|המה|hmh|they were turbulent",
+        "12|h5922|heb-esvri-Sg-t-ge4ucpa|@PpX3ms|within|עָלָֽיו׃|ʿā•lāyw|עַל|ʿal|over"
+      ]
+    }
+  ],
+  "5:5": [
+    {
+      "o": 19554,
+      "r": "esvi:Song of Solomon:5:5",
+      "p": [
+        "0||heb-esvri-Sg-t-ge4uqco|@vqp1cs|arose|קַ֥מְתִּֽי|qam•tiy|קום|qwm|I arose",
+        "1|h589|heb-esvri-Sg-t-ge4uqpe|@pi1cs|I|אֲנִ֖י|ʾă•niy|אֲנִי|ʾă•niy|I",
+        "2||heb-esvri-Sg-t-ge4uqqy|@Pp|to|לִ|li|לְ|lə|to",
+        "3||heb-esvri-Sg-t-ge4uqqe|@vqc|open|פְתֹּ֣חַ|p̄•tōaḥ|פתח|ptḥ|open",
+        "4||heb-esvri-Sg-t-ge4uoco|@Pp|to|לְ|lə|לְ|lə|to",
+        "5||heb-esvri-Sg-t-ge4uoca|@ncmscX1cs|beloved|דֹודִ֑י|ḏōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "7||heb-esvri-Sg-t-ge4uopa|@Pc|and|וְ|wə|וְ|wə|and",
+        "8|h3027|heb-esvri-Sg-t-ge4uoqy|@ncfdcX1cs|hands|יָדַ֣י|yā•ḏay|יָד|yāḏ|hands of",
+        "10|h5197|heb-esvri-Sg-t-ge4u1co|@vqp3cp|dripped|נָֽטְפוּ־|nā•ṭə•p̄uw-|נטף|nṭp|they dripped",
+        "11|h4753|heb-esvri-Sg-t-ge4u1py|@ncmsa|myrrh|מֹ֗ור|mōwr|מֹר|mōr|myrrh",
+        "12||heb-esvri-Sg-t-ge4u1pa|@Pc|•|וְ|wə|וְ|wə|and",
+        "13|h677|heb-esvri-Sg-t-ge4u1qy|@ncfpcX1cs|fingers|אֶצְבְּעֹתַי֙|ʾeṣ•bə•ʿō•ṯay|אֶצְבַּע|ʾeṣ•baʿ|fingers of",
+        "15|h4753|heb-esvri-Sg-t-ge5dyco|@ncmsa|myrrh|מֹ֣ור|mōwr|מֹר|mōr|myrrh",
+        "16||heb-esvri-Sg-t-ge5dype|@vqPmsa|liquid|עֹבֵ֔ר|ʿō•ḇēr|עבר|ʿbr|going over",
+        "17|h5922|heb-esvri-Sg-t-ge5dyqy|@Pp|on|עַ֖ל|ʿal|עַל|ʿal|on",
+        "18|h3709|heb-esvri-Sg-t-ge5dnce|@ncfpc|handles|כַּפֹּ֥ות|kap•pōwṯ|כַּף|kap̄|hands of",
+        "19||heb-esvri-Sg-t-ge5dnpy|@Pa|the|הַ|ha|הַ|ha|the",
+        "20||heb-esvri-Sg-t-ge5dnpe|@ncmsa|bolt|מַּנְעֽוּל׃|m•man•ʿuwl|מַנְעוּל|man•ʿuwl|bolt"
+      ]
+    }
+  ],
+  "5:6": [
+    {
+      "o": 19555,
+      "r": "esvi:Song of Solomon:5:6",
+      "p": [
+        "0||heb-esvri-Sg-t-ge5dnqe|@vqp1cs|opened|פָּתַ֤חְתִּֽי|pā•ṯaḥ•tiy|פתח|ptḥ|I opened",
+        "1|h589|heb-esvri-Sg-t-ge5drco|@pi1cs|I|אֲנִי֙|ʾă•niy|אֲנִי|ʾă•niy|I",
+        "2||heb-esvri-Sg-t-ge5drpe|@Pp|to|לְ|lə|לְ|lə|to",
+        "3||heb-esvri-Sg-t-ge5drpo|@ncmscX1cs|beloved|דֹודִ֔י|ḏōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "5||heb-esvri-Sg-t-ge5dgcy|@Pc|but|וְ|wə|וְ|wə|but",
+        "6||heb-esvri-Sg-t-ge5dgce|@ncmscX1cs|beloved|דֹודִ֖י|ḏōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "8||heb-esvri-Sg-t-ge5dgpe|@vqp3ms|turned|חָמַ֣ק|ḥā•maq|חמק|ḥmq|he had turned",
+        "9||heb-esvri-Sg-t-ge5dgqy|@vqp3ms|gone|עָבָ֑ר|ʿā•ḇār|עבר|ʿbr|he had gone over",
+        "10|h5315|heb-esvri-Sg-t-ge5dece|@ncbscX1cs|soul|נַפְשִׁי֙|nap̄•šiy|נֶפֶשׁ|ne•p̄eš|soul of",
+        "12|h3318|heb-esvri-Sg-t-ge5depe|@vqp3fs|failed|יָֽצְאָ֣ה|yā•ṣə•ʾāh|יצא|yṣʾ|she went out",
+        "13||heb-esvri-Sg-t-ge5deqy|@Pp|when|בְ|ḇə|בְּ|bə|when",
+        "14||heb-esvri-Sg-t-ge5deqe|@vpcX3ms|spoke|דַבְּרֹ֔ו|ḏab•bə•rōw|דבר|dbr|to speak",
+        "16||heb-esvri-Sg-t-ge5dkca|@vpp1csX3ms|sought|בִּקַּשְׁתִּ֙יהוּ֙|biq•qaš•tiy•huw|בקשׁ|bqš|I sought",
+        "18||heb-esvri-Sg-t-ge5dkpa|@Pc|but|וְ|wə|וְ|wə|but",
+        "19|h3808|heb-esvri-Sg-t-ge5dkqy|@Pn|not|לֹ֣א|lōʾ|לֹא|lōʾ|not",
+        "20||heb-esvri-Sg-t-ge5dcce|@vqp1csX3ms|found|מְצָאתִ֔יהוּ|mə•ṣā(ʾ)•ṯiy•huw|מצא|mṣʾ|I found",
+        "22||heb-esvri-Sg-t-ge5dcpe|@vqp1csX3ms|called|קְרָאתִ֖יו|qə•rā(ʾ)•ṯiyw|קרא|qrʾ|I called",
+        "24||heb-esvri-Sg-t-ge5dcqe|@Pc|but|וְ|wə|וְ|wə|but",
+        "25|h3808|heb-esvri-Sg-t-ge5dqcy|@Pn|no|לֹ֥א|lōʾ|לֹא|lōʾ|not",
+        "26||heb-esvri-Sg-t-ge5dqca|@vqp3msX1cs|answer|עָנָֽנִי׃|ʿā•nā•niy|ענה|ʿnh|he answered"
+      ]
+    }
+  ],
+  "5:7": [
+    {
+      "o": 19556,
+      "r": "esvi:Song of Solomon:5:7",
+      "p": [
+        "0|h4672|heb-esvri-Sg-t-ge5dqqy|@vqp3cpX1cs|found|מְצָאֻ֧נִי|mə•ṣā•ʾu•niy|מצא|mṣʾ|they found",
+        "2||heb-esvri-Sg-t-ge5doco|@Pa|The|הַ|ha|הַ|ha|the",
+        "3||heb-esvri-Sg-t-ge5doca|@vqPmpa|watchmen|שֹּׁמְרִ֛ים|š•šō•mə•riym|שׁמר|šmr|ones watching",
+        "4||heb-esvri-Sg-t-ge5dopo|@Pa|about|הַ|ha|הַ|ha|the",
+        "5||heb-esvri-Sg-t-ge5dopa|@vqPmpa|about|סֹּבְבִ֥ים|s•sō•ḇə•ḇiym|סבב|sbb|ones going about",
+        "6||heb-esvri-Sg-t-ge5d1cy|@Pp|in|בָּ|bā|בְּ|bə|in",
+        "8|h5892|heb-esvri-Sg-t-ge5d1co|@ncfsa|city|עִ֖יר|ʿiyr|עִיר|ʿiyr|city",
+        "9||heb-esvri-Sg-t-ge5d1pe|@vhp3cpX1cs|beat|הִכּ֣וּנִי|hik•kuw•niy|נכה|nkh|they struck",
+        "11||heb-esvri-Sg-t-ge5d1qe|@vqp3cpX1cs|bruised|פְצָע֑וּנִי|p̄ə•ṣā•ʿuw•niy|פצע|pṣʿ|they bruised",
+        "13|h5375|heb-esvri-Sg-t-ge5uyca|@vqp3cp|took|נָשְׂא֤וּ|nā•śə•ʾuw|נשׂא|nśʾ|they took",
+        "14|h854|heb-esvri-Sg-t-ge5uypo|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "15||heb-esvri-Sg-t-ge5uyqy|@ncmscX1cs|veil|רְדִידִי֙|rə•ḏiy•ḏiy|רְדִיד|rə•ḏiyḏ|veil of",
+        "17|h4481|heb-esvri-Sg-t-ge5unco|@Pp|•|מֵֽ|mē|מִן|min|from",
+        "18|h5922|heb-esvri-Sg-t-ge5unca|@PpX1cs|•|עָלַ֔י|ʿā•lay|עַל|ʿal|on",
+        "20||heb-esvri-Sg-t-ge5unpa|@vqPmpc|watchmen|שֹׁמְרֵ֖י|šō•mə•rēy|שׁמר|šmr|ones watching of",
+        "21||heb-esvri-Sg-t-ge5urcy|@Pa|the|הַ|ha|הַ|ha|the",
+        "22||heb-esvri-Sg-t-ge5urce|@ncfpa|walls|חֹמֹֽות׃|ḥō•mōwṯ|חֹומָה|ḥōw•māh|walls"
+      ]
+    }
+  ],
+  "5:8": [
+    {
+      "o": 19557,
+      "r": "esvi:Song of Solomon:5:8",
+      "p": [
+        "0||heb-esvri-Sg-t-ge5urpe|@vhp1cs|adjure|הִשְׁבַּ֥עְתִּי|hiš•baʿ•tiy|שׁבע|šbʿ|I adjure",
+        "1|h854|heb-esvri-Sg-t-ge5urqy|@PoX2mp|•|אֶתְכֶ֖ם|ʾeṯ•ḵem|אֵת|ʾēṯ|",
+        "3|h1325|heb-esvri-Sg-t-ge5ugco|@ncfpc|daughters|בְּנֹ֣ות|bə•nōwṯ|בַּת|baṯ|daughters of",
+        "4||heb-esvri-Sg-t-ge5ugpe|@np|Jerusalem|יְרוּשָׁלִָ֑ם|yə•ruw•šā•lāim|יְרוּשָׁלִַם|yə•ruw•šā•laim|Jerusalem",
+        "5|h518|heb-esvri-Sg-t-ge5ugqy|@Pc|if|אִֽם־|ʾim-|אִם|ʾim|if",
+        "6||heb-esvri-Sg-t-ge5uecy|@vqi2mp|find|תִּמְצְאוּ֙|tim•ṣə•ʾuw|מצא|mṣʾ|you find",
+        "7|h854|heb-esvri-Sg-t-ge5ueca|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "8||heb-esvri-Sg-t-ge5uepe|@ncmscX1cs|beloved|דֹּודִ֔י|dōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "10|h4101|heb-esvri-Sg-t-ge5ueqe|@pii|that|מַה־|mah-|מָה|māh|what",
+        "11||heb-esvri-Sg-t-ge5ukce|@vhi2mp|tell|תַּגִּ֣ידוּ|tag•giy•ḏuw|נגד|ngd|you tell",
+        "12||heb-esvri-Sg-t-ge5ukpy|@PpX3ms|•|לֹ֔ו|lōw|לְ|lə|",
+        "14||heb-esvri-Sg-t-ge5ukqy|@Pr|•|שֶׁ|še|שַׁ|ša|that",
+        "15||heb-esvri-Sg-t-ge5ukqe|@vqPfsc|sick|חֹולַ֥ת|ḥōw•laṯ|חלה|ḥlh|being sick of",
+        "16|h160|heb-esvri-Sg-t-ge5ucco|@ncfsa|love|אַהֲבָ֖ה|ʾa•hă•ḇāh|אַהֲבָה|ʾa•hă•ḇāh|love",
+        "17|h589|heb-esvri-Sg-t-ge5ucpe|@pi1cs|I|אָֽנִי׃|ʾā•niy|אֲנִי|ʾă•niy|I"
+      ]
+    },
+    {
+      "o": 19558,
+      "r": "esvi:Song of Solomon:5:8",
+      "h": 3,
+      "t": "Others",
+      "p": []
+    }
+  ],
+  "5:9": [
+    {
+      "o": 19559,
+      "r": "esvi:Song of Solomon:5:9",
+      "p": [
+        "0|h4100|heb-esvri-Sg-t-ge5ucqe|@pii|What|מַה־|mah-|מָה|māh|what",
+        "1||heb-esvri-Sg-t-ge5uqce|@ncmscX2fs|beloved|דֹּודֵ֣ךְ|dōw•ḏēḵ|דֹּוד|dōwḏ|love of",
+        "3|h4481|heb-esvri-Sg-t-ge5uqpe|@Pp|more than|מִ|mi|מִן|min|more than",
+        "4||heb-esvri-Sg-t-ge5uqpo|@ncmsa|beloved|דֹּ֔וד|d•dōwḏ|דֹּוד|dōwḏ|love",
+        "5||heb-esvri-Sg-t-ge5uqqe|@Pa|O|הַ|ha|הַ|ha|O",
+        "6|h3303|heb-esvri-Sg-t-ge5uocy|@afsa|beautiful|יָּפָ֖ה|y•yā•p̄āh|יָפֶה|yā•p̄eh|beautiful one",
+        "7||heb-esvri-Sg-t-ge5uoca|@Pp|among|בַּ|ba|בְּ|bə|among",
+        "9|h802|heb-esvri-Sg-t-ge5uope|@ncfpa|women|נָּשִׁ֑ים|n•nā•šiym|אִשָּׁה|ʾiš•šāh|women",
+        "10|h4100|heb-esvri-Sg-t-ge5uoqy|@pii|What|מַה־|mah-|מָה|māh|what",
+        "11||heb-esvri-Sg-t-ge5u1cy|@ncmscX2fs|beloved|דֹּודֵ֣ךְ|dōw•ḏēḵ|דֹּוד|dōwḏ|love of",
+        "13|h4481|heb-esvri-Sg-t-ge5u1py|@Pp|more than|מִ|mi|מִן|min|more than",
+        "14||heb-esvri-Sg-t-ge5u1pe|@ncmsa|beloved|דֹּ֔וד|d•dōwḏ|דֹּוד|dōwḏ|love",
+        "15||heb-esvri-Sg-t-ge5u1qy|@Pr|that|שֶׁ|še|שַׁ|ša|that",
+        "16|h3602|heb-esvri-Sg-t-ge5u1qe|@Pd|thus|כָּ֖כָה|k•kā•ḵāh|כָּכָה|kā•ḵāh|thus",
+        "17||heb-esvri-Sg-t-gehdyco|@vhp2fsX1cp|adjure|הִשְׁבַּעְתָּֽנוּ׃|hiš•baʿ•tā•nuw|שׁבע|šbʿ|you adjure"
+      ]
+    },
+    {
+      "o": 19560,
+      "r": "esvi:Song of Solomon:5:9",
+      "h": 2,
+      "t": "The Bride Praises Her Beloved",
+      "p": []
+    },
+    {
+      "o": 19561,
+      "r": "esvi:Song of Solomon:5:9",
+      "h": 3,
+      "t": "She",
+      "p": []
+    }
+  ],
+  "5:10": [
+    {
+      "o": 19562,
+      "r": "esvi:Song of Solomon:5:10",
+      "p": [
+        "0||heb-esvri-Sg-t-gehdypa|@ncmscX1cs|beloved|דֹּודִ֥י|dōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "2||heb-esvri-Sg-t-gehdnce|@amsa|radiant|צַח֙|ṣaḥ|צַח|ṣaḥ|radiant",
+        "3||heb-esvri-Sg-t-gehdnpy|@Pc|and|וְ|wə|וְ|wə|and",
+        "4|h122|heb-esvri-Sg-t-gehdnpe|@amsa|ruddy|אָדֹ֔ום|ʾā•ḏōwm|אָדֹם|ʾā•ḏōm|red",
+        "5||heb-esvri-Sg-t-gehdnqy|@vqsmsa|distinguished|דָּג֖וּל|dā•ḡuwl|דגל|dgl|distinguished",
+        "6|h4480|heb-esvri-Sg-t-gehdrce|@Pp|among|מֵ|mē|מִן|min|from",
+        "7|h7233|heb-esvri-Sg-t-gehdrco|@ucfsa|ten thousand|רְבָבָֽה׃|rə•ḇā•ḇāh|רְבָבָה|rə•ḇā•ḇāh|ten thousand"
+      ]
+    }
+  ],
+  "5:11": [
+    {
+      "o": 19563,
+      "r": "esvi:Song of Solomon:5:11",
+      "p": [
+        "0|h7219|heb-esvri-Sg-t-gehdrpo|@ncmscX3ms|head|רֹאשֹׁ֖ו|rō(ʾ)•šōw|רֹאשׁ|rō(ʾ)š|head of",
+        "2|h6337|heb-esvri-Sg-t-gehdgcy|@ncmsc|gold|כֶּ֣תֶם|ke•ṯem|כֶּתֶם|ke•ṯem|gold of",
+        "3||heb-esvri-Sg-t-gehdgca|@ncmsa|finest|פָּ֑ז|pāz|פַּז|paz|refined gold",
+        "4||heb-esvri-Sg-t-gehdgpo|@ncfpcX3ms|locks|קְוּצֹּותָיו֙|qəuwṣ•ṣōw•ṯāyw|קְוֻצֹּות|qə•wuṣ•ṣōwṯ|locks of",
+        "6||heb-esvri-Sg-t-gehdecy|@ncmpa|wavy|תַּלְתַּלִּ֔ים|tal•tal•liym|תַּלְתַּלִּים|tal•tal•liym|wavy",
+        "7|h7838|heb-esvri-Sg-t-gehdeca|@afpa|black|שְׁחֹרֹ֖ות|šə•ḥō•rōwṯ|שָׁחֹר|šā•ḥōr|black",
+        "8||heb-esvri-Sg-t-gehdepo|@Pp|as|כָּ|kā|כְּ|kə|as",
+        "10|h6159|heb-esvri-Sg-t-gehdeqy|@ncmsa|raven|עֹורֵֽב׃|ʿōw•rēḇ|עֹרֵב|ʿō•rēḇ|raven"
+      ]
+    }
+  ],
+  "5:12": [
+    {
+      "o": 19564,
+      "r": "esvi:Song of Solomon:5:12",
+      "p": [
+        "0|h5871|heb-esvri-Sg-t-gehdkco|@ncbdcX3ms|eyes|עֵינָ֕יו|ʿēy•nāyw|עַיִן|ʿa•yin|eyes of",
+        "2||heb-esvri-Sg-t-gehdkpo|@Pp|like|כְּ|kə|כְּ|kə|like",
+        "3||heb-esvri-Sg-t-gehdkpa|@ncfpa|doves|יֹונִ֖ים|yōw•niym|יֹונָה|yōw•nāh|doves",
+        "4|h5922|heb-esvri-Sg-t-gehdccy|@Pp|beside|עַל־|ʿal-|עַל|ʿal|by",
+        "5|h650|heb-esvri-Sg-t-gehdcco|@ncmpc|streams|אֲפִ֣יקֵי|ʾă•p̄iy•qēy|אָפִיק|ʾā•p̄iyq|channels of",
+        "6|h4325|heb-esvri-Sg-t-gehdcpe|@ncmpa|water|מָ֑יִם|mā•yim|מַיִם|ma•yim|water",
+        "7||heb-esvri-Sg-t-gehdcqy|@vqPfpa|bathed|רֹֽחֲצֹות֙|rō•ḥă•ṣōwṯ|רחץ|rḥṣ|bathing",
+        "8||heb-esvri-Sg-t-gehdqce|@Pp|in|בֶּֽ|be|בְּ|bə|in",
+        "10|h2461|heb-esvri-Sg-t-gehdqca|@ncmsa|milk|חָלָ֔ב|ḥā•lāḇ|חָלָב|ḥā•lāḇ|milk",
+        "11||heb-esvri-Sg-t-gehdqpo|@vqPfpa|sitting|יֹשְׁבֹ֖ות|yō•šə•ḇōwṯ|ישׁב|yšb|sitting",
+        "12|h5922|heb-esvri-Sg-t-gehdqqe|@Pp|beside|עַל־|ʿal-|עַל|ʿal|by",
+        "13||heb-esvri-Sg-t-gehdoce|@ncfsa|full|מִלֵּֽאת׃|mil•lē(ʾ)ṯ|מִלֵּאת|mil•lē(ʾ)ṯ|fullness"
+      ]
+    }
+  ],
+  "5:13": [
+    {
+      "o": 19565,
+      "r": "esvi:Song of Solomon:5:13",
+      "p": [
+        "0|h3895|heb-esvri-Sg-t-gehdope|@ncfdcX3ms|cheeks|לְחָיָו֙|lə•ḥā•yāw|לְחִי|lə•ḥiy|cheeks of",
+        "2||heb-esvri-Sg-t-gehdoqe|@Pp|like|כַּ|ka|כְּ|kə|like",
+        "3||heb-esvri-Sg-t-gehd1cy|@ncfsc|beds|עֲרוּגַ֣ת|ʿă•ruw•ḡaṯ|עֲרוּגָה|ʿă•ruw•ḡāh|garden of",
+        "4||heb-esvri-Sg-t-gehd1ca|@Pa|spices|הַ|ha|הַ|ha|the",
+        "5||heb-esvri-Sg-t-gehd1py|@ncmsa|spices|בֹּ֔שֶׂם|b•bō•śem|בֹּשֶׂם|bō•śem|spice",
+        "6|h4026|heb-esvri-Sg-t-gehd1pa|@ncmpc|mounds|מִגְדְּלֹ֖ות|miḡ•də•lōwṯ|מִגְדָּל|miḡ•dāl|towers of",
+        "7|h4840|heb-esvri-Sg-t-gehuycy|@ncmpa|sweet-smelling|מֶרְקָחִ֑ים|mer•qā•ḥiym|מֶרְקָח|mer•qāḥ|fragrances",
+        "8|h8193|heb-esvri-Sg-t-gehuyca|@ncfpcX3ms|lips|שִׂפְתֹותָיו֙|śip̄•ṯōw•ṯāyw|שָׂפָה|śā•p̄āh|lips of",
+        "10|h7799|heb-esvri-Sg-t-gehuypa|@ncbpa|lilies|שֹֽׁושַׁנִּ֔ים|šōw•šan•niym|שׁוּשַׁן|šuw•šan|lilies",
+        "11||heb-esvri-Sg-t-gehuncy|@vqPfpa|dripping|נֹטְפֹ֖ות|nō•ṭə•p̄ōwṯ|נטף|nṭp|dripping",
+        "12|h4753|heb-esvri-Sg-t-gehunca|@ncmsa|myrrh|מֹ֥ור|mōwr|מֹר|mōr|myrrh",
+        "13||heb-esvri-Sg-t-gehunpo|@vqPmsa|liquid|עֹבֵֽר׃|ʿō•ḇēr|עבר|ʿbr|going over"
+      ]
+    }
+  ],
+  "5:14": [
+    {
+      "o": 19566,
+      "r": "esvi:Song of Solomon:5:14",
+      "p": [
+        "0|h3027|heb-esvri-Sg-t-gehurcy|@ncfdcX3ms|arms|יָדָיו֙|yā•ḏāyw|יָד|yāḏ|hands of",
+        "2|h1551|heb-esvri-Sg-t-gehurpy|@ncmpc|rods|גְּלִילֵ֣י|gə•liy•lēy|גָּלִיל|gā•liyl|rods of",
+        "3|h2091|heb-esvri-Sg-t-gehurpa|@ncmsa|gold|זָהָ֔ב|zā•hāḇ|זָהָב|zā•hāḇ|gold",
+        "4|h4390|heb-esvri-Sg-t-gehugcy|@vPPmpa|set|מְמֻלָּאִ֖ים|mə•mul•lā•ʾiym|מלא|mlʾ|being filled",
+        "5||heb-esvri-Sg-t-gehugca|@Pp|with|בַּ|ba|בְּ|bə|with",
+        "7|h8659|heb-esvri-Sg-t-gehugpe|@ncmsa|jewels|תַּרְשִׁ֑ישׁ|t•tar•šiyš|תַּרְשִׁישׁ|tar•šiyš|beryl",
+        "8|h4578|heb-esvri-Sg-t-gehugqy|@ncmpcX3ms|body|מֵעָיו֙|mē•ʿāyw|מֵעֶה|mē•ʿeh|belly of",
+        "10||heb-esvri-Sg-t-gehueco|@ncmsc|polished|עֶ֣שֶׁת|ʿe•šeṯ|עֶשֶׁת|ʿe•šeṯ|plate of",
+        "11|h8127|heb-esvri-Sg-t-gehuepe|@ncbsa|ivory|שֵׁ֔ן|šēn|שֵׁן|šēn|ivory",
+        "12||heb-esvri-Sg-t-gehueqy|@vPPfsa|bedecked|מְעֻלֶּ֖פֶת|mə•ʿul•le•p̄eṯ|עלף|ʿlp|being covered",
+        "13||heb-esvri-Sg-t-gehukce|@ncmpa|sapphires|סַפִּירִֽים׃|sap•piy•riym|סַפִּיר|sap•piyr|sapphires"
+      ]
+    }
+  ],
+  "5:15": [
+    {
+      "o": 19567,
+      "r": "esvi:Song of Solomon:5:15",
+      "p": [
+        "0||heb-esvri-Sg-t-gehukpe|@ncfdcX3ms|legs|שֹׁוקָיו֙|šōw•qāyw|שֹׁוק|šōwq|legs of",
+        "2|h5982|heb-esvri-Sg-t-gehukqe|@ncmpc|columns|עַמּ֣וּדֵי|ʿam•muw•ḏēy|עַמּוּד|ʿam•muwḏ|columns of",
+        "3|h8337|heb-esvri-Sg-t-gehucco|@ncmsa|alabaster|שֵׁ֔שׁ|šēš|שֵׁשׁ|šēš|marble",
+        "4|h3245|heb-esvri-Sg-t-gehucpe|@vPPmpa|set|מְיֻסָּדִ֖ים|mə•yus•sā•ḏiym|יסד|ysd|being set",
+        "5|h5922|heb-esvri-Sg-t-gehucqy|@Pp|on|עַל־|ʿal-|עַל|ʿal|on",
+        "6||heb-esvri-Sg-t-gehuqcy|@ncmpc|bases|אַדְנֵי־|ʾaḏ•nēy-|אֶדֶן|ʾe•ḏen|bases of",
+        "7|h6337|heb-esvri-Sg-t-gehuqco|@ncmsa|gold|פָ֑ז|p̄āz|פַּז|paz|refined gold",
+        "8|h4758|heb-esvri-Sg-t-gehuqpe|@ncmscX3ms|appearance|מַרְאֵ֙הוּ֙|mar•ʾē•huw|מַרְאֶה|mar•ʾeh|appearance of",
+        "10||heb-esvri-Sg-t-gehuqqe|@Pp|like|כַּ|ka|כְּ|kə|like",
+        "12||heb-esvri-Sg-t-gehuoce|@np|Lebanon|לְּבָנֹ֔ון|l•lə•ḇā•nōwn|לְבָנֹון|lə•ḇā•nōwn|Lebanon",
+        "13||heb-esvri-Sg-t-gehuopy|@vqsmsa|choice|בָּח֖וּר|bā•ḥuwr|בחר|bḥr|being chosen",
+        "14||heb-esvri-Sg-t-gehuopa|@Pp|as|כָּ|kā|כְּ|kə|as",
+        "16|h730|heb-esvri-Sg-t-gehuoqe|@ncmpa|cedars|אֲרָזִֽים׃|ʾă•rā•ziym|אֶרֶז|ʾe•rez|cedars"
+      ]
+    }
+  ],
+  "5:16": [
+    {
+      "o": 19568,
+      "r": "esvi:Song of Solomon:5:16",
+      "p": [
+        "0||heb-esvri-Sg-t-gehu1ca|@ncmscX3ms|mouth|חִכֹּו֙|ḥik•kōw|חֵךְ|ḥēḵ|roof of mouth of",
+        "2||heb-esvri-Sg-t-gehu1pa|@ncmpa|sweet|מַֽמְתַקִּ֔ים|mam•ṯaq•qiym|מַמְתַקִּים|mam•ṯaq•qiym|sweetness",
+        "3||heb-esvri-Sg-t-gcadycy|@Pc|and|וְ|wə|וְ|wə|and",
+        "4|h3606|heb-esvri-Sg-t-gcadyce|@ncmscX3ms|altogether|כֻלֹּ֖ו|ḵul•lōw|כֹּל|kōl|all of",
+        "6|h4261|heb-esvri-Sg-t-gcadype|@ncmpa|desirable|מַחֲּמַדִּ֑ים|maḥ•ḥă•mad•diym|מַחְמָד|maḥ•māḏ|desirable things",
+        "7|h2088|heb-esvri-Sg-t-gcadyqy|@dmsa|This|זֶ֤ה|zeh|זֶה|zeh|this",
+        "8||heb-esvri-Sg-t-gcadnce|@ncmscX1cs|beloved|דֹודִי֙|ḏōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "10||heb-esvri-Sg-t-gcadnpe|@Pc|and|וְ|wə|וְ|wə|and",
+        "11|h2088|heb-esvri-Sg-t-gcadnpo|@dmsa|this|זֶ֣ה|zeh|זֶה|zeh|this",
+        "12|h7453|heb-esvri-Sg-t-gcadnqe|@ncmscX1cs|friend|רֵעִ֔י|rē•ʿiy|רֵעַ|rēaʿ|friend of",
+        "14|h1325|heb-esvri-Sg-t-gcadrca|@ncfpc|daughters|בְּנֹ֖ות|bə•nōwṯ|בַּת|baṯ|daughters of",
+        "15||heb-esvri-Sg-t-gcadrpo|@np|Jerusalem|יְרוּשָׁלִָֽם׃|yə•ruw•šā•lāim|יְרוּשָׁלִַם|yə•ruw•šā•laim|Jerusalem"
+      ]
+    }
+  ],
+  "6:0": [
+    {
+      "o": 19569,
+      "r": "esvi:Song of Solomon:6:0",
+      "h": 1,
+      "t": "Song of Solomon 6",
+      "p": []
+    },
+    {
+      "o": 19570,
+      "r": "esvi:Song of Solomon:6:0",
+      "h": 3,
+      "t": "Others",
+      "p": []
+    }
+  ],
+  "6:1": [
+    {
+      "o": 19571,
+      "r": "esvi:Song of Solomon:6:1",
+      "p": [
+        "0|h575|heb-esvri-Sg-t-gcadgce|@pii|Where|אָ֚נָה|ʾā•nāh|אָן|ʾān|where + DIR",
+        "1|h1980|heb-esvri-Sg-t-gcadgpy|@vqp3ms|gone|הָלַ֣ךְ|hā•laḵ|הלך|hlk|he has gone",
+        "2||heb-esvri-Sg-t-gcadgpa|@ncmscX2fs|beloved|דֹּודֵ֔ךְ|dōw•ḏēḵ|דֹּוד|dōwḏ|love of",
+        "4||heb-esvri-Sg-t-gcadece|@Pa|O|הַ|ha|הַ|ha|O",
+        "5|h3303|heb-esvri-Sg-t-gcadeco|@afsa|beautiful|יָּפָ֖ה|y•yā•p̄āh|יָפֶה|yā•p̄eh|beautiful one",
+        "6||heb-esvri-Sg-t-gcadepe|@Pp|among|בַּ|ba|בְּ|bə|among",
+        "8|h802|heb-esvri-Sg-t-gcadepa|@ncfpa|women|נָּשִׁ֑ים|n•nā•šiym|אִשָּׁה|ʾiš•šāh|women",
+        "9|h575|heb-esvri-Sg-t-gcadkcy|@pii|Where|אָ֚נָה|ʾā•nāh|אָן|ʾān|where + DIR",
+        "10|h6437|heb-esvri-Sg-t-gcadkca|@vqp3ms|turned|פָּנָ֣ה|pā•nāh|פנה|pnh|he has turned",
+        "11||heb-esvri-Sg-t-gcadkpo|@ncmscX2fs|beloved|דֹודֵ֔ךְ|ḏōw•ḏēḵ|דֹּוד|dōwḏ|love of",
+        "13||heb-esvri-Sg-t-gcadccy|@Pc|that|וּ|uw|וְ|wə|that",
+        "14||heb-esvri-Sg-t-gcadcce|@vpi1cpX3msXe{1}Cm|seek|נְבַקְשֶׁ֖נּוּ|nə•ḇaq•šen•nuw|בקשׁ|bqš|we may seek",
+        "16|h5974|heb-esvri-Sg-t-gcadcpe|@PpX2fs|with|עִמָּֽךְ׃|ʿim•māḵ|עִם|ʿim|with"
+      ]
+    },
+    {
+      "o": 19572,
+      "r": "esvi:Song of Solomon:6:1",
+      "h": 2,
+      "t": "Together in the Garden of Love",
+      "p": []
+    },
+    {
+      "o": 19573,
+      "r": "esvi:Song of Solomon:6:1",
+      "h": 3,
+      "t": "She",
+      "p": []
+    }
+  ],
+  "6:2": [
+    {
+      "o": 19574,
+      "r": "esvi:Song of Solomon:6:2",
+      "p": [
+        "0||heb-esvri-Sg-t-gcadqcy|@ncmscX1cs|beloved|דֹּודִי֙|dōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "2|h3381|heb-esvri-Sg-t-gcadqpy|@vqp3ms|down|יָרַ֣ד|yā•raḏ|ירד|yrd|he has gone down",
+        "3||heb-esvri-Sg-t-gcadqpa|@Pp|to|לְ|lə|לְ|lə|to",
+        "4|h1588|heb-esvri-Sg-t-gcadqqy|@ncbscX3ms|garden|גַנֹּ֔ו|ḡan•nōw|גַּן|gan|garden of",
+        "6||heb-esvri-Sg-t-gcadoco|@Pp|to|לַ|la|לְ|lə|to",
+        "7||heb-esvri-Sg-t-gcadoca|@ncfpc|beds|עֲרוּגֹ֖ות|ʿă•ruw•ḡōwṯ|עֲרוּגָה|ʿă•ruw•ḡāh|garden beds of",
+        "8||heb-esvri-Sg-t-gcadopo|@Pa|spices|הַ|ha|הַ|ha|the",
+        "9||heb-esvri-Sg-t-gcadopa|@ncmsa|spices|בֹּ֑שֶׂם|b•bō•śem|בֹּשֶׂם|bō•śem|spice",
+        "10||heb-esvri-Sg-t-gcad1cy|@Pp|to|לִ|li|לְ|lə|to",
+        "11||heb-esvri-Sg-t-gcad1ce|@vqc|graze|רְעֹות֙|r•ʿōwṯ|רעה|rʿh|graze",
+        "12||heb-esvri-Sg-t-gcad1py|@Pp|in|בַּ|ba|בְּ|bə|in",
+        "14|h1588|heb-esvri-Sg-t-gcad1po|@ncbpa|gardens|גַּנִּ֔ים|g•gan•niym|גַּן|gan|gardens",
+        "15||heb-esvri-Sg-t-gcad1qe|@Pc|and|וְ|wə|וְ|wə|and",
+        "16||heb-esvri-Sg-t-gcauycy|@Pp|to|לִ|li|לְ|lə|to",
+        "17||heb-esvri-Sg-t-gcauyce|@vqc|gather|לְקֹ֖ט|l•qōṭ|לקט|lqṭ|gather",
+        "18|h7799|heb-esvri-Sg-t-gcauypy|@ncbpa|lilies|שֹֽׁושַׁנִּֽים׃|šōw•šan•niym|שׁוּשַׁן|šuw•šan|lilies"
+      ]
+    }
+  ],
+  "6:3": [
+    {
+      "o": 19575,
+      "r": "esvi:Song of Solomon:6:3",
+      "p": [
+        "0|h589|heb-esvri-Sg-t-gcauyqy|@pi1cs|I|אֲנִ֤י|ʾă•niy|אֲנִי|ʾă•niy|I",
+        "1||heb-esvri-Sg-t-gcaunce|@Pp|beloved's|לְ|lə|לְ|lə|to",
+        "2||heb-esvri-Sg-t-gcaunco|@ncmscX1cs|beloved's|דֹודִי֙|ḏōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "4||heb-esvri-Sg-t-gcaunpo|@Pc|and|וְ|wə|וְ|wə|and",
+        "5||heb-esvri-Sg-t-gcaunpa|@ncmscX1cs|beloved|דֹודִ֣י|ḏōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "7||heb-esvri-Sg-t-gcaurce|@PpX1cs|mine|לִ֔י|liy|לְ|lə|to",
+        "9||heb-esvri-Sg-t-gcaurpe|@Pa|grazes|הָ|hā|הַ|ha|the",
+        "10||heb-esvri-Sg-t-gcaurpo|@vqPmsa|grazes|רֹעֶ֖ה|rō•ʿeh|רעה|rʿh|one grazing",
+        "11||heb-esvri-Sg-t-gcaurqe|@Pp|among|בַּ|ba|בְּ|bə|among",
+        "13|h7799|heb-esvri-Sg-t-gcaugce|@ncbpa|lilies|שֹׁושַׁנִּֽים׃|šōw•šan•niym|שׁוּשַׁן|šuw•šan|lily"
+      ]
+    },
+    {
+      "o": 19576,
+      "r": "esvi:Song of Solomon:6:3",
+      "h": 2,
+      "t": "Solomon and His Bride Delight in Each Other",
+      "p": []
+    },
+    {
+      "o": 19577,
+      "r": "esvi:Song of Solomon:6:3",
+      "h": 3,
+      "t": "He",
+      "p": []
+    }
+  ],
+  "6:4": [
+    {
+      "o": 19578,
+      "r": "esvi:Song of Solomon:6:4",
+      "p": [
+        "0|h3303|heb-esvri-Sg-t-gcaugqy|@afsa|beautiful|יָפָ֨ה|yā•p̄āh|יָפֶה|yā•p̄eh|beautiful",
+        "1||heb-esvri-Sg-t-gcauece|@pi2fs|You|אַ֤תְּ|ʾat|אַתְּ|ʾat|you",
+        "2||heb-esvri-Sg-t-gcauepy|@ncfscX1cs|love|רַעְיָתִי֙|raʿ•yā•ṯiy|רַעְיָה|raʿ•yāh|beloved of",
+        "4||heb-esvri-Sg-t-gcaueqy|@Pp|as|כְּ|kə|כְּ|kə|as",
+        "5|h8656|heb-esvri-Sg-t-gcaueqe|@np|Tirzah|תִרְצָ֔ה|ṯir•ṣāh|תִּרְצָה|tir•ṣāh|Tirzah",
+        "6||heb-esvri-Sg-t-gcaukco|@afsa|lovely|נָאוָ֖ה|nā(ʾ)•wāh|נָאוֶה|nā(ʾ)•weh|lovely",
+        "7||heb-esvri-Sg-t-gcaukpe|@Pp|as|כִּ|ki|כְּ|kə|as",
+        "8||heb-esvri-Sg-t-gcaukpo|@np|Jerusalem|ירוּשָׁלִָ֑ם|y•ruw•šā•lāim|יְרוּשָׁלִַם|yə•ruw•šā•laim|Jerusalem",
+        "9||heb-esvri-Sg-t-gcaukqe|@afsa|awesome|אֲיֻמָּ֖ה|ʾă•yum•māh|אָיֹם|ʾā•yōm|awesome",
+        "10||heb-esvri-Sg-t-gcaucco|@Pp|as|כַּ|ka|כְּ|kə|as",
+        "12||heb-esvri-Sg-t-gcaucpy|@vnPfpa|banners|נִּדְגָּלֹֽות׃|n•niḏ•gā•lōwṯ|דגל|dgl|ones being arranged"
+      ]
+    }
+  ],
+  "6:5": [
+    {
+      "o": 19579,
+      "r": "esvi:Song of Solomon:6:5",
+      "p": [
+        "0|h5437|heb-esvri-Sg-t-gcaucqy|@vhvfs|Turn|הָסֵ֤בִּי|hā•sēb•biy|סבב|sbb|turn away",
+        "1|h5871|heb-esvri-Sg-t-gcauqce|@ncbdcX2fs|eyes|עֵינַ֙יִךְ֙|ʿēy•na•yiḵ|עַיִן|ʿa•yin|eyes of",
+        "3|h4481|heb-esvri-Sg-t-gcauqpe|@Pp|from|מִ|mi|מִן|min|from",
+        "4|h5049|heb-esvri-Sg-t-gcauqpo|@PpX1cs|from|נֶּגְדִּ֔י|n•neḡ•diy|נֶגֶד|ne•ḡeḏ|before",
+        "6||heb-esvri-Sg-t-gcauocy|@Pr|for|שֶׁ֥|še|שַׁ|ša|that",
+        "7|h1992|heb-esvri-Sg-t-gcauoce|@pi3mp|they|הֵ֖ם|hēm|הֵם|hēm|they",
+        "8||heb-esvri-Sg-t-gcauopy|@vhp3cpX1cs|overwhelm|הִרְהִיבֻ֑נִי|hir•hiy•ḇu•niy|רהב|rhb|they overwhelm",
+        "10|h8181|heb-esvri-Sg-t-gcauoqy|@ncmscX2fs|hair|שַׂעְרֵךְ֙|śaʿ•rēḵ|שֵׂעָר|śē•ʿār|hair of",
+        "12||heb-esvri-Sg-t-gcau1co|@Pp|like|כְּ|kə|כְּ|kə|like",
+        "13|h5740|heb-esvri-Sg-t-gcau1ca|@ncmsc|flock|עֵ֣דֶר|ʿē•ḏer|עֵדֶר|ʿē•ḏer|flock of",
+        "14||heb-esvri-Sg-t-gcau1po|@Pa|goats|הָֽ|hā|הַ|ha|the",
+        "15|h5796|heb-esvri-Sg-t-gcau1pa|@ncfpa|goats|עִזִּ֔ים|ʿiz•ziym|עֵז|ʿēz|goats",
+        "16||heb-esvri-Sg-t-gc3dycy|@Pr|•|שֶׁ|še|שַׁ|ša|that",
+        "17||heb-esvri-Sg-t-gc3dyce|@vqp3cp|leaping|גָּלְשׁ֖וּ|g•gā•lə•šuw|גלשׁ|glš|they leap",
+        "18|h4481|heb-esvri-Sg-t-gc3dypy|@Pp|•|מִן־|min-|מִן|min|from",
+        "19||heb-esvri-Sg-t-gc3dypo|@Pa|Gilead|הַ|ha|הַ|ha|the",
+        "20|h1568|heb-esvri-Sg-t-gc3dypa|@np|Gilead|גִּלְעָֽד׃|g•gil•ʿāḏ|גִּלְעָד|gil•ʿāḏ|Gilead"
+      ]
+    }
+  ],
+  "6:6": [
+    {
+      "o": 19580,
+      "r": "esvi:Song of Solomon:6:6",
+      "p": [
+        "0|h8128|heb-esvri-Sg-t-gc3dnce|@ncbdcX2fs|teeth|שִׁנַּ֙יִךְ֙|šin•na•yiḵ|שֵׁן|šēn|teeth of",
+        "2||heb-esvri-Sg-t-gc3dnpe|@Pp|like|כְּ|kə|כְּ|kə|like",
+        "3|h5740|heb-esvri-Sg-t-gc3dnpo|@ncmsc|flock|עֵ֣דֶר|ʿē•ḏer|עֵדֶר|ʿē•ḏer|flock of",
+        "4||heb-esvri-Sg-t-gc3dnqe|@Pa|ewes|הָֽ|hā|הַ|ha|the",
+        "5|h7354|heb-esvri-Sg-t-gc3drcy|@ncfpa|ewes|רְחֵלִ֔ים|rə•ḥē•liym|רָחֵל|rā•ḥēl|ewes",
+        "6||heb-esvri-Sg-t-gc3drca|@Pr|that|שֶׁ|še|שַׁ|ša|that",
+        "7||heb-esvri-Sg-t-gc3drpy|@vqp3cp|up|עָל֖וּ|ʿā•luw|עלה|ʿlh|they have come up",
+        "8|h4481|heb-esvri-Sg-t-gc3drpa|@Pp|from|מִן־|min-|מִן|min|from",
+        "9||heb-esvri-Sg-t-gc3drqe|@Pa|the|הָ|hā|הַ|ha|the",
+        "10||heb-esvri-Sg-t-gc3dgcy|@ncfsa|washing|רַחְצָ֑ה|raḥ•ṣāh|רַחְצָה|raḥ•ṣāh|washing",
+        "11||heb-esvri-Sg-t-gc3dgca|@Pr|•|שֶׁ|še|שַׁ|ša|that",
+        "12|h3606|heb-esvri-Sg-t-gc3dgpy|@ncmscX3mp|all|כֻּלָּם֙|k•kul•lām|כֹּל|kōl|all of",
+        "14|h8382|heb-esvri-Sg-t-gc3dgqy|@vhPfpa|twins|מַתְאִימֹ֔ות|maṯ•ʾiy•mōwṯ|תאם|tʾm|bearing twins",
+        "15||heb-esvri-Sg-t-gc3dece|@Pc|•|וְ|wə|וְ|wə|and",
+        "16|h7909|heb-esvri-Sg-t-gc3deco|@afsa|lost its young|שַׁכֻּלָ֖ה|šak•ku•lāh|שַׁכּוּל|šak•kuwl|deprived of offspring",
+        "17|h370|heb-esvri-Sg-t-gc3depe|@Pd|not|אֵ֥ין|ʾēyn|אַיִן|ʾa•yin|there is not",
+        "18||heb-esvri-Sg-t-gc3deqy|@PpX3mp|among|בָּהֶֽם׃|bā•hem|בְּ|bə|among"
+      ]
+    }
+  ],
+  "6:7": [
+    {
+      "o": 19581,
+      "r": "esvi:Song of Solomon:6:7",
+      "p": [
+        "0||heb-esvri-Sg-t-gc3dkca|@Pp|like|כְּ|kə|כְּ|kə|like",
+        "1|h6400|heb-esvri-Sg-t-gc3dkpy|@ncfsc|halves|פֶ֤לַח|p̄e•laḥ|פֶּלַח|pe•laḥ|split of",
+        "2||heb-esvri-Sg-t-gc3dkpa|@Pa|pomegranate|הָ|hā|הַ|ha|the",
+        "3||heb-esvri-Sg-t-gc3dkqy|@ncmsa|pomegranate|רִמֹּון֙|rim•mōwn|רִמֹּון|rim•mōwn|pomegranate",
+        "4||heb-esvri-Sg-t-gc3dcce|@ncfscX2fs|cheeks|רַקָּתֵ֔ךְ|raq•qā•ṯēḵ|רַקָּה|raq•qāh|temple of",
+        "6|h4481|heb-esvri-Sg-t-gc3dcpe|@Pp|behind|מִ|mi|מִן|min|from",
+        "7||heb-esvri-Sg-t-gc3dcpo|@Pp|behind|בַּ֖עַד|b•ba•ʿaḏ|בַּעַד|ba•ʿaḏ|behind",
+        "8||heb-esvri-Sg-t-gc3dcqe|@Pp|behind|לְ|lə|לְ|lə|to",
+        "9||heb-esvri-Sg-t-gc3dqcy|@ncfscX2fs|veil|צַמָּתֵֽךְ׃|ṣam•mā•ṯēḵ|צַמָּה|ṣam•māh|veil of"
+      ]
+    }
+  ],
+  "6:8": [
+    {
+      "o": 19582,
+      "r": "esvi:Song of Solomon:6:8",
+      "p": [
+        "0|h8337|heb-esvri-Sg-t-gc3dqpe|@ucbpa|sixty|שִׁשִּׁ֥ים|šiš•šiym|שֵׁשׁ|šēš|sixty",
+        "1|h1992|heb-esvri-Sg-t-gc3dqqy|@pi3mp|There|הֵ֙מָּה֙|hēm•māh|הֵם|hēm|they",
+        "2|h4436|heb-esvri-Sg-t-gc3doce|@ncfpa|queens|מְּלָכֹ֔ות|m•mə•lā•ḵōwṯ|מַלְכָּה|mal•kāh|queens",
+        "3||heb-esvri-Sg-t-gc3dopy|@Pc|and|וּ|uw|וְ|wə|and",
+        "4|h8083|heb-esvri-Sg-t-gc3dope|@ucbpa|eighty|שְׁמֹנִ֖ים|šə•mō•niym|שְׁמֹנֶה|šə•mō•neh|eighty",
+        "5|h6370|heb-esvri-Sg-t-gc3doqy|@ncfpa|concubines|פִּֽילַגְשִׁ֑ים|piy•laḡ•šiym|פִּלֶגֶשׁ|pi•le•ḡeš|concubines",
+        "6||heb-esvri-Sg-t-gc3d1ce|@Pc|and|וַ|wa|וְ|wə|and",
+        "7||heb-esvri-Sg-t-gc3d1co|@ncfpa|virgins|עֲלָמֹ֖ות|ʿă•lā•mōwṯ|עַלְמָה|ʿal•māh|virgins",
+        "8|h369|heb-esvri-Sg-t-gc3d1pe|@Pd|without|אֵ֥ין|ʾēyn|אַיִן|ʾa•yin|there is not",
+        "9|h4557|heb-esvri-Sg-t-gc3d1qy|@ncmsa|number|מִסְפָּֽר׃|mis•pār|מִסְפָּר|mis•pār|number"
+      ]
+    }
+  ],
+  "6:9": [
+    {
+      "o": 19583,
+      "r": "esvi:Song of Solomon:6:9",
+      "p": [
+        "0|h8535|heb-esvri-Sg-t-gc3uyco|@ucfsa|one|אַחַ֥ת|ʾa•ḥaṯ|אֶחָד|ʾe•ḥāḏ|one",
+        "1||heb-esvri-Sg-t-gc3uype|@pi3fs|•|הִיא֙|hiyʾ|הִיא|hiyʾ|she",
+        "2||heb-esvri-Sg-t-gc3uyqy|@ncfscX1cs|dove|יֹונָתִ֣י|yōw•nā•ṯiy|יֹונָה|yōw•nāh|dove of",
+        "4|h8536|heb-esvri-Sg-t-gc3unco|@afscX1cs|perfect|תַמָּתִ֔י|ṯam•mā•ṯiy|תָּם|tām|perfect one of",
+        "6|h8535|heb-esvri-Sg-t-gc3unpo|@ucfsa|one|אַחַ֥ת|ʾa•ḥaṯ|אֶחָד|ʾe•ḥāḏ|one",
+        "7||heb-esvri-Sg-t-gc3unqe|@pi3fs|•|הִיא֙|hiyʾ|הִיא|hiyʾ|she",
+        "8||heb-esvri-Sg-t-gc3urco|@Pp|of|לְ|lə|לְ|lə|to",
+        "9|h517|heb-esvri-Sg-t-gc3urca|@ncfscX3fs|mother|אִמָּ֔הּ|ʾim•māh|אֵם|ʾēm|mother of",
+        "11||heb-esvri-Sg-t-gc3urpa|@afsa|pure|בָּרָ֥ה|bā•rāh|בַּר|bar|pure",
+        "12||heb-esvri-Sg-t-gc3ugcy|@pi3fs|•|הִ֖יא|hiyʾ|הִיא|hiyʾ|she",
+        "13||heb-esvri-Sg-t-gc3ugca|@Pp|to|לְ|lə|לְ|lə|to",
+        "14||heb-esvri-Sg-t-gc3ugpy|@vqPfscX3fs|bore|יֹֽולַדְתָּ֑הּ|yōw•laḏ•tāh|ילד|yld|one bearing of",
+        "16|h7200|heb-esvri-Sg-t-gc3ugqy|@vqp3cpX3fs|saw|רָא֤וּהָ|rā•ʾuw•hā|ראה|rʾh|they saw",
+        "18|h1325|heb-esvri-Sg-t-gc3ueco|@ncfpa|women|בָנֹות֙|ḇā•nōwṯ|בַּת|baṯ|daughters",
+        "19||heb-esvri-Sg-t-gc3uepe|@Pc|and|וַֽ|wa|וְ|wə|and",
+        "20||heb-esvri-Sg-t-gc3uepo|@vpw3mpX3fs|blessed|יְאַשְּׁר֔וּהָ|y•ʾaš•šə•ruw•hā|אשׁר|ʾšr|they called blessed",
+        "22|h4436|heb-esvri-Sg-t-gc3ukcy|@ncfpa|queens|מְלָכֹ֥ות|mə•lā•ḵōwṯ|מַלְכָּה|mal•kāh|queens",
+        "23||heb-esvri-Sg-t-gc3ukca|@Pc|also|וּ|uw|וְ|wə|and",
+        "24||heb-esvri-Sg-t-gc3ukpy|@ncfpa|concubines|פִֽילַגְשִׁ֖ים|p̄iy•laḡ•šiym|פִּלֶגֶשׁ|pi•le•ḡeš|concubines",
+        "25||heb-esvri-Sg-t-gc3ukpa|@Pc|and|וַֽ|wa|וְ|wə|and",
+        "26||heb-esvri-Sg-t-gc3ukqy|@vpw3mpX3fs|praised|יְהַלְלֽוּהָ׃|y•hal•luw•hā|הלל|hll|they praised"
+      ]
+    }
+  ],
+  "6:10": [
+    {
+      "o": 19584,
+      "r": "esvi:Song of Solomon:6:10",
+      "p": [
+        "0|h4310|heb-esvri-Sg-t-gc3ucpo|@pii|Who|מִי־|miy-|מִי|miy|who",
+        "1|h2088|heb-esvri-Sg-t-gc3ucqy|@dfsa|this|זֹ֥את|zō(ʾ)ṯ|זֶה|zeh|this",
+        "2||heb-esvri-Sg-t-gc3uqce|@Pa|who|הַ|ha|הַ|ha|the",
+        "3||heb-esvri-Sg-t-gc3uqco|@vnPfsa|looks|נִּשְׁקָפָ֖ה|n•niš•qā•p̄āh|שׁקף|šqp|one looking down",
+        "4|h3644|heb-esvri-Sg-t-gc3uqpe|@Pp|like|כְּמֹו־|kə•mōw-|כְּמֹו|kə•mōw|like",
+        "5|h7837|heb-esvri-Sg-t-gc3uqpa|@ncmsa|dawn|שָׁ֑חַר|šā•ḥar|שַׁחַר|ša•ḥar|dawn",
+        "6|h3303|heb-esvri-Sg-t-gc3uocy|@afsa|beautiful|יָפָ֣ה|yā•p̄āh|יָפֶה|yā•p̄eh|beautiful",
+        "7||heb-esvri-Sg-t-gc3uoca|@Pp|as|כַ|ḵa|כְּ|kə|as",
+        "9|h3842|heb-esvri-Sg-t-gc3uope|@ncfsa|moon|לְּבָנָ֗ה|l•lə•ḇā•nāh|לְבָנָה|lə•ḇā•nāh|moon",
+        "10||heb-esvri-Sg-t-gc3uoqy|@afsa|bright|בָּרָה֙|bā•rāh|בַּר|bar|pure",
+        "11||heb-esvri-Sg-t-gc3u1ce|@Pp|as|כַּֽ|ka|כְּ|kə|as",
+        "13||heb-esvri-Sg-t-gc3u1ca|@ncfsa|sun|חַמָּ֔ה|ḥam•māh|חַמָּה|ḥam•māh|sun",
+        "14||heb-esvri-Sg-t-gc3u1po|@afsa|awesome|אֲיֻמָּ֖ה|ʾă•yum•māh|אָיֹם|ʾā•yōm|awesome",
+        "15||heb-esvri-Sg-t-gc3u1qe|@Pp|as|כַּ|ka|כְּ|kə|as",
+        "17||heb-esvri-Sg-t-gc4dyce|@vnPfpa|banners|נִּדְגָּלֹֽות׃|n•niḏ•gā•lōwṯ|דגל|dgl|ones being arranged"
+      ]
+    },
+    {
+      "o": 19585,
+      "r": "esvi:Song of Solomon:6:10",
+      "h": 3,
+      "t": "She",
+      "p": []
+    }
+  ],
+  "6:11": [
+    {
+      "o": 19586,
+      "r": "esvi:Song of Solomon:6:11",
+      "p": [
+        "0||heb-esvri-Sg-t-gc4dyqy|@Pp|to|אֶל־|ʾel-|אֶל|ʾel|to",
+        "1|h1593|heb-esvri-Sg-t-gc4dncy|@ncfsc|orchard|גִּנַּ֤ת|gin•naṯ|גַּנָּה|gan•nāh|orchard of",
+        "2||heb-esvri-Sg-t-gc4dnca|@ncmsa|nut|אֱגֹוז֙|ʾĕ•ḡōwz|אֱגֹוז|ʾĕ•ḡōwz|nut tree",
+        "3|h3381|heb-esvri-Sg-t-gc4dnpo|@vqp1cs|down|יָרַ֔דְתִּי|yā•raḏ•tiy|ירד|yrd|I went down",
+        "4||heb-esvri-Sg-t-gc4dnqe|@Pp|to|לִ|li|לְ|lə|to",
+        "5||heb-esvri-Sg-t-gc4drcy|@vqc|look|רְאֹ֖ות|r•ʾōwṯ|ראה|rʾh|look",
+        "6||heb-esvri-Sg-t-gc4drca|@Pp|at|בְּ|bə|בְּ|bə|at",
+        "7||heb-esvri-Sg-t-gc4drpy|@ncmpc|blossoms|אִבֵּ֣י|ʾib•bēy|אֵב|ʾēḇ|blossoms of",
+        "8||heb-esvri-Sg-t-gc4drpa|@Pa|the|הַ|ha|הַ|ha|the",
+        "9|h5158|heb-esvri-Sg-t-gc4drqy|@ncmsa|valley|נָּ֑חַל|n•nā•ḥal|נַחַל|na•ḥal|valley",
+        "10||heb-esvri-Sg-t-gc4dgce|@Pp|to|לִ|li|לְ|lə|to",
+        "11||heb-esvri-Sg-t-gc4dgco|@vqc|see|רְאֹות֙|r•ʾōwṯ|ראה|rʾh|see",
+        "12||heb-esvri-Sg-t-gc4dgpe|@Pg|whether|הֲ|hă|הֲ|hă|?",
+        "13|h5132|heb-esvri-Sg-t-gc4dgpo|@vqp3fs|budded|פָֽרְחָ֣ה|p̄ā•rə•ḥāh|פרח|prḥ|she has budded",
+        "14||heb-esvri-Sg-t-gc4dgqe|@Pa|the|הַ|ha|הַ|ha|the",
+        "15|h1612|heb-esvri-Sg-t-gc4decy|@ncbsa|vines|גֶּ֔פֶן|g•ge•p̄en|גֶּפֶן|ge•p̄en|vine",
+        "16||heb-esvri-Sg-t-gc4deca|@vhp3cp|bloom|הֵנֵ֖צוּ|hē•nē•ṣuw|נצץ|nṣṣ|they blossomed",
+        "17||heb-esvri-Sg-t-gc4depo|@Pa|the|הָ|hā|הַ|ha|the",
+        "18||heb-esvri-Sg-t-gc4depa|@ncmpa|pomegranates|רִמֹּנִֽים׃|rim•mō•niym|רִמֹּון|rim•mōwn|pomegranates"
+      ]
+    }
+  ],
+  "6:12": [
+    {
+      "o": 19587,
+      "r": "esvi:Song of Solomon:6:12",
+      "p": [
+        "0|h3808|heb-esvri-Sg-t-gc4dkce|@Pn|Before|לֹ֣א|lōʾ|לֹא|lōʾ|not",
+        "1||heb-esvri-Sg-t-gc4dkpy|@vqp1cs|aware|יָדַ֔עְתִּי|yā•ḏaʿ•tiy|ידע|ydʿ|I knew",
+        "2|h5315|heb-esvri-Sg-t-gc4dkpa|@ncbscX1cs|desire|נַפְשִׁ֣י|nap̄•šiy|נֶפֶשׁ|ne•p̄eš|soul of",
+        "4|h7760|heb-esvri-Sg-t-gc4dcce|@vqp3fsX1cs|set|שָׂמַ֔תְנִי|śā•maṯ•niy|שׂים|śym|she set",
+        "6|h4818|heb-esvri-Sg-t-gc4dcpe|@ncfpc|chariots|מַרְכְּבֹ֖ות|mar•kə•ḇōwṯ|מֶרְכָּבָה|mer•kā•ḇāh|chariots of",
+        "7||heb-esvri-Sg-t-gc4dcqy|@np|my kinsman a prince|עַמִּי־נָדִֽיב׃|ʿam•miy-nā•ḏiyḇ|עַמִּי־נָדִיב|ʿam•miy-nā•ḏiyḇ|people of + me + noble one"
+      ]
+    },
+    {
+      "o": 19588,
+      "r": "esvi:Song of Solomon:6:12",
+      "h": 3,
+      "t": "Others",
+      "p": []
+    }
+  ],
+  "6:13": [
+    {
+      "o": 19589,
+      "r": "esvi:Song of Solomon:6:13",
+      "p": [
+        "6.1|h7725|heb-esvri-Sg-t-gc4dqca|@vqvfs|Return|שׁ֤וּבִי|šuw•ḇiy|שׁוב|šwb|return",
+        "6.1|h7725|heb-esvri-Sg-t-gc4dqpo|@vqvfs|return|שׁ֙וּבִי֙|šuw•ḇiy|שׁוב|šwb|return",
+        "6.1||heb-esvri-Sg-t-gc4dqqe|@Pa|O|הַ|ha|הַ|ha|O",
+        "6.1||heb-esvri-Sg-t-gc4docy|@np|Shulammite|שּׁ֣וּלַמִּ֔ית|š•šuw•lam•miyṯ|שׁוּלַמִּית|šuw•lam•miyṯ|Shulammite",
+        "6.1|h7725|heb-esvri-Sg-t-gc4doca|@vqvfs|return|שׁ֥וּבִי|šuw•ḇiy|שׁוב|šwb|return",
+        "6.1|h7725|heb-esvri-Sg-t-gc4dopo|@vqvfs|return|שׁ֖וּבִי|šuw•ḇiy|שׁוב|šwb|return",
+        "6.1||heb-esvri-Sg-t-gc4doqe|@Pc|that|וְ|wə|וְ|wə|that",
+        "6.1||heb-esvri-Sg-t-gc4d1cy|@vqi1cp{1}Cm|look|נֶחֱזֶה־|ne•ḥĕ•zeh-|חזה|ḥzh|we may look",
+        "6.1||heb-esvri-Sg-t-gc4d1co|@PpX2fs|upon|בָּ֑ךְ|bāḵ|בְּ|bə|on",
+        "6.1|h4101|heb-esvri-Sg-t-gc4d1po|@pii|Why|מַֽה־|mah-|מָה|māh|why",
+        "6.1||heb-esvri-Sg-t-gc4d1qy|@vqi2mp|look|תֶּחֱזוּ֙|te•ḥĕ•zuw|חזה|ḥzh|you look",
+        "6.1||heb-esvri-Sg-t-gc4uyce|@Pp|upon|בַּ|ba|בְּ|bə|on",
+        "6.1||heb-esvri-Sg-t-gc4uyca|@np|Shulammite|שּׁ֣וּלַמִּ֔ית|š•šuw•lam•miyṯ|שׁוּלַמִּית|šuw•lam•miyṯ|Shulammite",
+        "6.1||heb-esvri-Sg-t-gc4uypo|@Pp|as|כִּ|ki|כְּ|kə|as",
+        "6.1||heb-esvri-Sg-t-gc4uypa|@ncfsc|dance|מְחֹלַ֖ת|m•ḥō•laṯ|מְחֹלָה|mə•ḥō•lāh|dance of",
+        "6.1|h4264|heb-esvri-Sg-t-gc4unce|@ncbda|armies|מַּחֲנָֽיִם׃|m•ma•ḥă•nā•yim|מַחֲנֶה|ma•ḥă•neh|armies",
+        "6.1||heb-esvri-Sg-t-gc4uncy|@Pa|armies|הַֽ|ha|הַ|ha|the"
+      ]
+    },
+    {
+      "o": 19590,
+      "r": "esvi:Song of Solomon:6:13",
+      "h": 3,
+      "t": "He",
+      "p": []
+    },
+    {
+      "o": 19591,
+      "r": "esvi:Song of Solomon:6:13",
+      "p": [
+        "6.1|h7725|heb-esvri-Sg-t-gc4dqca|@vqvfs|Return|שׁ֤וּבִי|šuw•ḇiy|שׁוב|šwb|return",
+        "6.1|h7725|heb-esvri-Sg-t-gc4dqpo|@vqvfs|return|שׁ֙וּבִי֙|šuw•ḇiy|שׁוב|šwb|return",
+        "6.1||heb-esvri-Sg-t-gc4dqqe|@Pa|O|הַ|ha|הַ|ha|O",
+        "6.1||heb-esvri-Sg-t-gc4docy|@np|Shulammite|שּׁ֣וּלַמִּ֔ית|š•šuw•lam•miyṯ|שׁוּלַמִּית|šuw•lam•miyṯ|Shulammite",
+        "6.1|h7725|heb-esvri-Sg-t-gc4doca|@vqvfs|return|שׁ֥וּבִי|šuw•ḇiy|שׁוב|šwb|return",
+        "6.1|h7725|heb-esvri-Sg-t-gc4dopo|@vqvfs|return|שׁ֖וּבִי|šuw•ḇiy|שׁוב|šwb|return",
+        "6.1||heb-esvri-Sg-t-gc4doqe|@Pc|that|וְ|wə|וְ|wə|that",
+        "6.1||heb-esvri-Sg-t-gc4d1cy|@vqi1cp{1}Cm|look|נֶחֱזֶה־|ne•ḥĕ•zeh-|חזה|ḥzh|we may look",
+        "6.1||heb-esvri-Sg-t-gc4d1co|@PpX2fs|upon|בָּ֑ךְ|bāḵ|בְּ|bə|on",
+        "6.1|h4101|heb-esvri-Sg-t-gc4d1po|@pii|Why|מַֽה־|mah-|מָה|māh|why",
+        "6.1||heb-esvri-Sg-t-gc4d1qy|@vqi2mp|look|תֶּחֱזוּ֙|te•ḥĕ•zuw|חזה|ḥzh|you look",
+        "6.1||heb-esvri-Sg-t-gc4uyce|@Pp|upon|בַּ|ba|בְּ|bə|on",
+        "6.1||heb-esvri-Sg-t-gc4uyca|@np|Shulammite|שּׁ֣וּלַמִּ֔ית|š•šuw•lam•miyṯ|שׁוּלַמִּית|šuw•lam•miyṯ|Shulammite",
+        "6.1||heb-esvri-Sg-t-gc4uypo|@Pp|as|כִּ|ki|כְּ|kə|as",
+        "6.1||heb-esvri-Sg-t-gc4uypa|@ncfsc|dance|מְחֹלַ֖ת|m•ḥō•laṯ|מְחֹלָה|mə•ḥō•lāh|dance of",
+        "6.1|h4264|heb-esvri-Sg-t-gc4unce|@ncbda|armies|מַּחֲנָֽיִם׃|m•ma•ḥă•nā•yim|מַחֲנֶה|ma•ḥă•neh|armies",
+        "6.1||heb-esvri-Sg-t-gc4uncy|@Pa|armies|הַֽ|ha|הַ|ha|the"
+      ]
+    }
+  ],
+  "7:0": [
+    {
+      "o": 19592,
+      "r": "esvi:Song of Solomon:7:0",
+      "h": 1,
+      "t": "Song of Solomon 7",
+      "p": []
+    }
+  ],
+  "7:1": [
+    {
+      "o": 19593,
+      "r": "esvi:Song of Solomon:7:1",
+      "p": [
+        "1.1|h4100|heb-esvri-Sg-t-gc4unpe|@pii|How|מַה־|mah-|מָה|māh|how",
+        "1.1||heb-esvri-Sg-t-gc4ugpy|@ncmpc|rounded|חַמּוּקֵ֣י|ḥam•muw•qēy|חַמּוּק|ḥam•muwq|curves of",
+        "1.1099999999999999|h3409|heb-esvri-Sg-t-gc4ugpa|@ncfdcX2fs|thighs|יְרֵכַ֔יִךְ|yə•rē•ḵa•yiḵ|יָרֵךְ|yā•rēḵ|thighs of",
+        "1.13||heb-esvri-Sg-t-gc4uece|@Pp|like|כְּמֹ֣ו|kə•mōw|כְּמֹו|kə•mōw|like",
+        "1.1400000000000001|h2481|heb-esvri-Sg-t-gc4uepy|@ncmpa|jewels|חֲלָאִ֔ים|ḥă•lā•ʾiym|חֲלִי|ḥă•liy|jewels",
+        "1.15|h4639|heb-esvri-Sg-t-gc4uepa|@ncmsc|work|מַעֲשֵׂ֖ה|ma•ʿă•śēh|מַעֲשֶׂה|ma•ʿă•śeh|work of",
+        "1.1600000000000001|h3027|heb-esvri-Sg-t-gc4ukcy|@ncfdc|hand|יְדֵ֥י|yə•ḏēy|יָד|yāḏ|hands of",
+        "1.17||heb-esvri-Sg-t-gc4ukca|@ncmsa|master|אָמָּֽן׃|ʾom•mān|אָמָּן|ʾom•mān|craftsman",
+        "1.2000000000000002|h3302|heb-esvri-Sg-t-gc4unpa|@vqp3cp|beautiful|יָּפ֧וּ|y•yā•p̄uw|יפה|yph|they are beautiful",
+        "1.2999999999999998|h6471|heb-esvri-Sg-t-gc4urcy|@ncfpcX2fs|feet|פְעָמַ֛יִךְ|p̄ə•ʿā•ma•yiḵ|פַּעַם|pa•ʿam|feet of",
+        "1.5||heb-esvri-Sg-t-gc4urpy|@Pp|in|בַּ|ba|בְּ|bə|in",
+        "1.7000000000000002|h5275|heb-esvri-Sg-t-gc4urpo|@ncfpa|sandals|נְּעָלִ֖ים|n•nə•ʿā•liym|נַעַל|na•ʿal|sandals",
+        "1.7999999999999998|h1323|heb-esvri-Sg-t-gc4urqe|@ncfsc|daughter|בַּת־|baṯ-|בַּת|baṯ|daughter of",
+        "1.9|h5081|heb-esvri-Sg-t-gc4ugce|@amsa|noble|נָדִ֑יב|nā•ḏiyḇ|נָדִיב|nā•ḏiyḇ|noble"
+      ]
+    }
+  ],
+  "7:2": [
+    {
+      "o": 19594,
+      "r": "esvi:Song of Solomon:7:2",
+      "p": [
+        "2.1|h8270|heb-esvri-Sg-t-gc4ukpa|@ncmscX2fs|navel|שָׁרְרֵךְ֙|šor•rēḵ|שֹׁר|šōr|navel of",
+        "2.1|h990|heb-esvri-Sg-t-gc4uqpa|@ncfscX2fs|belly|בִּטְנֵךְ֙|biṭ•nēḵ|בֶּטֶן|be•ṭen|belly of",
+        "2.12||heb-esvri-Sg-t-gc4uoce|@ncfsc|heap|עֲרֵמַ֣ת|ʿă•rē•maṯ|עֲרֵמָה|ʿă•rē•māh|heap of",
+        "2.13|h2406|heb-esvri-Sg-t-gc4uopy|@ncfpa|wheat|חִטִּ֔ים|ḥiṭ•ṭiym|חִטָּה|ḥiṭ•ṭāh|wheat",
+        "2.14||heb-esvri-Sg-t-gc4uopa|@vqsfsa|encircled|סוּגָ֖ה|suw•ḡāh|סוג|swg|encircled",
+        "2.15||heb-esvri-Sg-t-gc4u1cy|@Pp|with|בַּ|ba|בְּ|bə|with",
+        "2.17|h7799|heb-esvri-Sg-t-gc4u1co|@ncbpa|lilies|שֹּׁושַׁנִּֽים׃|š•šōw•šan•niym|שׁוּשַׁן|šuw•šan|lilies",
+        "2.3||heb-esvri-Sg-t-gc4ucce|@ncmsc|bowl|אַגַּ֣ן|ʾag•gan|אַגָּן|ʾag•gān|bowl of",
+        "2.4||heb-esvri-Sg-t-gc4ucpy|@Pa|rounded|הַ|ha|הַ|ha|the",
+        "2.5||heb-esvri-Sg-t-gc4ucpe|@ncmsa|rounded|סַּ֔הַר|s•sa•har|סַהַר|sa•har|roundness",
+        "2.6|h409|heb-esvri-Sg-t-gc4ucqy|@Pd|never|אַל־|ʾal-|אַל|ʾal|not",
+        "2.7|h2637|heb-esvri-Sg-t-gc4uqcy|@vqi3ms{1}Jm|lacks|יֶחְסַ֖ר|yeḥ•sar|חסר|ḥsr|he lacks",
+        "2.8|h4197|heb-esvri-Sg-t-gc4uqca|@Pa|mixed|הַ|ha|הַ|ha|the",
+        "2.9|h4197|heb-esvri-Sg-t-gc4uqpy|@ncmsa|mixed|מָּ֑זֶג|m•mā•zeḡ|מֶזֶג|me•zeḡ|mixed wine"
+      ]
+    }
+  ],
+  "7:3": [
+    {
+      "o": 19595,
+      "r": "esvi:Song of Solomon:7:3",
+      "p": [
+        "3.0999999999999996|h8147|heb-esvri-Sg-t-gc4u1po|@ucmdc|two|שְׁנֵ֥י|šə•nēy|שְׁנַיִם|šə•na•yim|two of",
+        "3.2|h7699|heb-esvri-Sg-t-gc4u1qe|@ncmdcX2fs|breasts|שָׁדַ֛יִךְ|šā•ḏa•yiḵ|שַׁד|šaḏ|breasts of",
+        "3.4000000000000004||heb-esvri-Sg-t-gc5dyca|@Pp|like|כִּ|ki|כְּ|kə|like",
+        "3.5|h8147|heb-esvri-Sg-t-gc5dypy|@ucmdc|two|שְׁנֵ֥י|š•nēy|שְׁנַיִם|šə•na•yim|two of",
+        "3.5999999999999996|h6082|heb-esvri-Sg-t-gc5dypa|@ncmpa|fawns|עֳפָרִ֖ים|ʿŏ•p̄ā•riym|עֹפֶר|ʿō•p̄er|fawns",
+        "3.7||heb-esvri-Sg-t-gc5dncy|@ncmpc|twins|תָּאֳמֵ֥י|to•ʾŏ•mēy|תֹּואֲמִם|tōw•ʾă•mim|twins of",
+        "3.8||heb-esvri-Sg-t-gc5dnca|@ncfsa|gazelle|צְבִיָּֽה׃|ṣə•ḇiy•yāh|צְבִיָּה|ṣə•ḇiy•yāh|female gazelle"
+      ]
+    }
+  ],
+  "7:4": [
+    {
+      "o": 19596,
+      "r": "esvi:Song of Solomon:7:4",
+      "p": [
+        "4.1|h6677|heb-esvri-Sg-t-gc5dnpa|@ncmscX2fs|neck|צַוָּארֵ֖ךְ|ṣaw•wā(ʾ)•rēḵ|צַוָּאר|ṣaw•wā(ʾ)r|neck of",
+        "4.1||heb-esvri-Sg-t-gc5dgpo|@Pp|in|בְּ|bə|בְּ|bə|in",
+        "4.11||heb-esvri-Sg-t-gc5dgpa|@np|Heshbon|חֶשְׁבֹּ֗ון|ḥeš•bōwn|חֶשְׁבֹּון|ḥeš•bōwn|Heshbon",
+        "4.12|h5922|heb-esvri-Sg-t-gc5decy|@Pp|by|עַל־|ʿal-|עַל|ʿal|by",
+        "4.13|h8179|heb-esvri-Sg-t-gc5deco|@ncmsc|gate|שַׁ֙עַר֙|ša•ʿar|שַׁעַר|ša•ʿar|gate of",
+        "4.14||heb-esvri-Sg-t-gc5depe|@np|Bath-rabbim|בַּת־רַבִּ֔ים|baṯ-rab•biym|בַּת־רַבִּים|baṯ-rab•biym|Bath-rabbim",
+        "4.15|h639|heb-esvri-Sg-t-gc5deqy|@ncmscX2fs|nose|אַפֵּךְ֙|ʾap•pēḵ|אַף|ʾap̄|nose of",
+        "4.17||heb-esvri-Sg-t-gc5dkco|@Pp|like|כְּ|kə|כְּ|kə|like",
+        "4.18|h4026|heb-esvri-Sg-t-gc5dkca|@ncmsc|tower|מִגְדַּ֣ל|miḡ•dal|מִגְדָּל|miḡ•dāl|tower of",
+        "4.19||heb-esvri-Sg-t-gc5dkpo|@Pa|Lebanon|הַ|ha|הַ|ha|the",
+        "4.2||heb-esvri-Sg-t-gc5dkpa|@np|Lebanon|לְּבָנֹ֔ון|l•lə•ḇā•nōwn|לְבָנֹון|lə•ḇā•nōwn|Lebanon",
+        "4.21||heb-esvri-Sg-t-gc5dccy|@vqPmsa|looks|צֹופֶ֖ה|ṣōw•p̄eh|צפה|ṣph|one watching",
+        "4.22|h6440|heb-esvri-Sg-t-gc5dcca|@ncbpc|toward|פְּנֵ֥י|pə•nēy|פָּנֶה|pā•neh|face of",
+        "4.23|h1834|heb-esvri-Sg-t-gc5dcpo|@np|Damascus|דַמָּֽשֶׂק׃|ḏam•mā•śeq|דַּמֶּשֶׂק|dam•me•śeq|Damascus",
+        "4.3||heb-esvri-Sg-t-gc5drce|@Pp|like|כְּ|kə|כְּ|kə|like",
+        "4.4|h4026|heb-esvri-Sg-t-gc5drco|@ncmsc|tower|מִגְדַּ֣ל|miḡ•dal|מִגְדָּל|miḡ•dāl|tower of",
+        "4.5||heb-esvri-Sg-t-gc5drpe|@Pa|ivory|הַ|ha|הַ|ha|the",
+        "4.6|h8128|heb-esvri-Sg-t-gc5drpo|@ncbsa|ivory|שֵּׁ֑ן|š•šēn|שֵׁן|šēn|ivory",
+        "4.7|h5871|heb-esvri-Sg-t-gc5drqe|@ncbdcX2fs|eyes|עֵינַ֜יִךְ|ʿēy•na•yiḵ|עַיִן|ʿa•yin|eyes of",
+        "4.9|h1295|heb-esvri-Sg-t-gc5dgca|@ncfpa|pools|בְּרֵכֹ֣ות|bə•rē•ḵōwṯ|בְּרֵכָה|bə•rē•ḵāh|pools"
+      ]
+    }
+  ],
+  "7:5": [
+    {
+      "o": 19597,
+      "r": "esvi:Song of Solomon:7:5",
+      "p": [
+        "5.1|h7219|heb-esvri-Sg-t-gc5dqcy|@ncmscX2fs|head|רֹאשֵׁ֤ךְ|rō(ʾ)•šēḵ|רֹאשׁ|rō(ʾ)š|head of",
+        "5.1|h7219|heb-esvri-Sg-t-gc5dopa|@ncmscX2fs|flowing locks|רֹאשֵׁ֖ךְ|rō(ʾ)•šēḵ|רֹאשׁ|rō(ʾ)š|head of",
+        "5.12||heb-esvri-Sg-t-gc5d1ce|@Pp|like|כָּ|kā|כְּ|kə|like",
+        "5.14|h713|heb-esvri-Sg-t-gc5d1ca|@ncmsa|purple|אַרְגָּמָ֑ן|ʾar•gā•mān|אַרְגָּמָן|ʾar•gā•mān|purple",
+        "5.15|h4430|heb-esvri-Sg-t-gc5d1po|@ncmsa|king|מֶ֖לֶךְ|me•leḵ|מֶלֶךְ|me•leḵ|king",
+        "5.16||heb-esvri-Sg-t-gc5d1qe|@vqsmsa|captive|אָס֥וּר|ʾā•suwr|אסר|ʾsr|being confined",
+        "5.17||heb-esvri-Sg-t-gc5uyco|@Pp|in|בָּ|bo|בְּ|bə|in",
+        "5.19||heb-esvri-Sg-t-gc5uypy|@ncmpa|tresses|רְהָטִֽים׃|r•hā•ṭiym|רַהַט|ra•haṭ|tresses",
+        "5.3|h5922|heb-esvri-Sg-t-gc5dqpy|@PpX2fs|•|עָלַ֙יִךְ֙|ʿā•la•yiḵ|עַל|ʿal|on",
+        "5.5||heb-esvri-Sg-t-gc5dqqy|@Pp|like|כַּ|ka|כְּ|kə|like",
+        "5.7|h3760|heb-esvri-Sg-t-gc5docy|@np|Carmel|כַּרְמֶ֔ל|k•kar•mel|כַּרְמֶל|kar•mel|Carmel",
+        "5.8||heb-esvri-Sg-t-gc5doca|@Pc|and|וְ|wə|וְ|wə|and",
+        "5.9|h1803|heb-esvri-Sg-t-gc5dopy|@ncfsc|flowing locks|דַלַּ֥ת|ḏal•laṯ|דַּלָּה|dal•lāh|flowing locks of"
+      ]
+    }
+  ],
+  "7:6": [
+    {
+      "o": 19598,
+      "r": "esvi:Song of Solomon:7:6",
+      "p": [
+        "6.1|h4100|heb-esvri-Sg-t-gc5uyqy|@pii|How|מַה־|mah-|מָה|māh|how",
+        "6.2|h3302|heb-esvri-Sg-t-gc5uncy|@vqp2fs|beautiful|יָּפִית֙|y•yā•p̄iyṯ|יפה|yph|you are beautiful",
+        "6.3||heb-esvri-Sg-t-gc5unca|@Pc|and|וּ|uw|וְ|wə|and",
+        "6.4|h4101|heb-esvri-Sg-t-gc5unpy|@pii|•|מַה־|mah-|מָה|māh|how",
+        "6.5||heb-esvri-Sg-t-gc5unpo|@vqp2fs|pleasant|נָּעַ֔מְתְּ|n•nā•ʿamt|נעם|nʿm|you are pleasant",
+        "6.6|h160|heb-esvri-Sg-t-gc5unqe|@ncfsa|loved|אַהֲבָ֖ה|ʾa•hă•ḇāh|אַהֲבָה|ʾa•hă•ḇāh|love",
+        "6.7||heb-esvri-Sg-t-gc5urco|@Pp|with|בַּ|ba|בְּ|bə|with",
+        "6.9||heb-esvri-Sg-t-gc5urpy|@ncmpa|delights|תַּֽעֲנוּגִֽים׃|t•ta•ʿă•nuw•ḡiym|תַּעֲנוּג|ta•ʿă•nuwḡ|delights"
+      ]
+    }
+  ],
+  "7:7": [
+    {
+      "o": 19599,
+      "r": "esvi:Song of Solomon:7:7",
+      "p": [
+        "7.1|h2088|heb-esvri-Sg-t-gc5urqy|@dfsa|•|זֹ֤את|zō(ʾ)ṯ|זֶה|zeh|this",
+        "7.1||heb-esvri-Sg-t-gc5uepa|@Pp|like|לְ|lə|לְ|lə|",
+        "7.109999999999999||heb-esvri-Sg-t-gc5ueqy|@ncmpa|clusters|אַשְׁכֹּלֹֽות׃|ʾaš•kō•lōwṯ|אֶשְׁכֹּול|ʾeš•kōwl|clusters",
+        "7.199999999999999||heb-esvri-Sg-t-gc5ugce|@ncfscX2fs|stature|קֹֽומָתֵךְ֙|qōw•mā•ṯēḵ|קֹומָה|qōw•māh|stature of",
+        "7.4||heb-esvri-Sg-t-gc5ugpe|@vqp3fs|like|דָּֽמְתָ֣ה|dā•mə•ṯāh|דמה|dmh|she is like",
+        "7.5||heb-esvri-Sg-t-gc5ugqy|@Pp|•|לְ|lə|לְ|lə|",
+        "7.6|h8559|heb-esvri-Sg-t-gc5ugqe|@ncmsa|palm|תָמָ֔ר|ṯā•mār|תָּמָר|tā•mār|palm tree",
+        "7.699999999999999||heb-esvri-Sg-t-gc5ueco|@Pc|and|וְ|wə|וְ|wə|and",
+        "7.800000000000001|h7699|heb-esvri-Sg-t-gc5ueca|@ncmdcX2fs|breasts|שָׁדַ֖יִךְ|šā•ḏa•yiḵ|שַׁד|šaḏ|breasts of"
+      ]
+    }
+  ],
+  "7:8": [
+    {
+      "o": 19600,
+      "r": "esvi:Song of Solomon:7:8",
+      "p": [
+        "8.1||heb-esvri-Sg-t-gc5ukco|@vqp1cs|say|אָמַ֙רְתִּי֙|ʾā•mar•tiy|אמר|ʾmr|I say",
+        "8.1||heb-esvri-Sg-t-gc5uqce|@vqi3mp{1}Jm|be|יִֽהְיוּ־|yih•yuw-|היה|hyh|let them be",
+        "8.11|h4994|heb-esvri-Sg-t-gc5uqca|@Pi|Oh|נָ֤א|nāʾ|נָא|nāʾ|please",
+        "8.12|h7699|heb-esvri-Sg-t-gc5uqpo|@ncmdcX2fs|breasts|שָׁדַ֙יִךְ֙|šā•ḏa•yiḵ|שַׁד|šaḏ|breasts of",
+        "8.14||heb-esvri-Sg-t-gc5uocy|@Pp|like|כְּ|kə|כְּ|kə|like",
+        "8.15||heb-esvri-Sg-t-gc5uoce|@ncmpc|clusters|אֶשְׁכְּלֹ֣ות|ʾeš•kə•lōwṯ|אֶשְׁכֹּול|ʾeš•kōwl|clusters of",
+        "8.16||heb-esvri-Sg-t-gc5uopy|@Pa|the|הַ|ha|הַ|ha|the",
+        "8.17|h1612|heb-esvri-Sg-t-gc5uope|@ncbsa|vine|גֶּ֔פֶן|g•ge•p̄en|גֶּפֶן|ge•p̄en|vine",
+        "8.18||heb-esvri-Sg-t-gc5uoqy|@Pc|and|וְ|wə|וְ|wə|and",
+        "8.19|h7381|heb-esvri-Sg-t-gc5uoqe|@ncmsc|scent|רֵ֥יחַ|rēyaḥ|רֵיחַ|rēyaḥ|scent of",
+        "8.2||heb-esvri-Sg-t-gc5ukpe|@vqi1cs{1}Cm|climb|אֶעֱלֶ֣ה|ʾe•ʿĕ•leh|עלה|ʿlh|I will go up",
+        "8.2|h639|heb-esvri-Sg-t-gc5u1co|@ncmscX2fs|breath|אַפֵּ֖ךְ|ʾap•pēḵ|אַף|ʾap̄|nose of",
+        "8.22||heb-esvri-Sg-t-gc5u1po|@Pp|like|כַּ|ka|כְּ|kə|like",
+        "8.24|h8599|heb-esvri-Sg-t-gc5u1qy|@ncmpa|apples|תַּפּוּחִֽים׃|t•tap•puw•ḥiym|תַּפּוּחַ|tap•puwaḥ|apples",
+        "8.3||heb-esvri-Sg-t-gc5ukqy|@Pp|•|בְ|ḇə|בְּ|bə|on",
+        "8.4|h8559|heb-esvri-Sg-t-gc5ukqe|@ncmsa|palm|תָמָ֔ר|ṯā•mār|תָּמָר|tā•mār|palm",
+        "8.5|h270|heb-esvri-Sg-t-gc5ucco|@vqi1cs{1}Ct|hold|אֹֽחֲזָ֖ה|ʾō•ḥă•zāh|אחז|ʾḥz|I will take hold",
+        "8.6||heb-esvri-Sg-t-gc5ucpe|@Pp|of|בְּ|bə|בְּ|bə|on",
+        "8.7||heb-esvri-Sg-t-gc5ucpo|@ncmpcX3ms|fruit|סַנְסִנָּ֑יו|san•sin•nāyw|סַנְסִנָּה|san•sin•nāh|fruits of",
+        "8.9||heb-esvri-Sg-t-gc5uqcy|@Pc|•|וְ|wə|וְ|wə|and"
+      ]
+    }
+  ],
+  "7:9": [
+    {
+      "o": 19601,
+      "r": "esvi:Song of Solomon:7:9",
+      "p": [
+        "7||heb-esvri-Sg-t-gchdnpe|@vqPmsa|goes|הֹולֵ֥ךְ|hōw•lēḵ|הלך|hlk|going",
+        "8||heb-esvri-Sg-t-gchdnqy|@Pp|for|לְ|lə|לְ|lə|for",
+        "9||heb-esvri-Sg-t-gchdnqe|@ncmscX1cs|beloved|דֹודִ֖י|ḏōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "9.1||heb-esvri-Sg-t-gchdyco|@Pc|and|וְ|wə|וְ|wə|and",
+        "9.2||heb-esvri-Sg-t-gchdyca|@ncmscX2fs|mouth|חִכֵּ֕ךְ|ḥik•kēḵ|חֵךְ|ḥēḵ|roof of mouth of",
+        "9.4||heb-esvri-Sg-t-gchdypa|@Pp|like|כְּ|kə|כְּ|kə|like",
+        "9.5|h3196|heb-esvri-Sg-t-gchdyqy|@ncmsc|wine|יֵ֥ין|yēyn|יַיִן|ya•yin|wine of",
+        "9.6||heb-esvri-Sg-t-gchdnce|@Pa|best|הַ|ha|הַ|ha|the",
+        "9.7||heb-esvri-Sg-t-gchdnco|@amsa|best|טֹּ֛וב|ṭ•ṭōwḇ|טֹוב|ṭōwḇ|good one",
+        "11||heb-esvri-Sg-t-gchdrca|@Pp|smoothly|לְ|lə|לְ|lə|to",
+        "12||heb-esvri-Sg-t-gchdrpy|@ncmpa|smoothly|מֵישָׁרִ֑ים|mēy•šā•riym|מֵישָׁרִים|mēy•šā•riym|smoothness",
+        "13||heb-esvri-Sg-t-gchdrpa|@vqPmsa|gliding|דֹּובֵ֖ב|dōw•ḇēḇ|דבב|dbb|gliding over",
+        "14|h8193|heb-esvri-Sg-t-gchdgcy|@ncfdc|lips|שִׂפְתֵ֥י|śip̄•ṯēy|שָׂפָה|śā•p̄āh|lips of",
+        "15|h3463|heb-esvri-Sg-t-gchdgca|@ampa|•|יְשֵׁנִֽים׃|yə•šē•niym|יָשֵׁן|yā•šēn|asleep ones"
+      ]
+    },
+    {
+      "o": 19602,
+      "r": "esvi:Song of Solomon:7:9",
+      "h": 3,
+      "t": "She",
+      "p": []
+    },
+    {
+      "o": 19603,
+      "r": "esvi:Song of Solomon:7:9",
+      "p": [
+        "7||heb-esvri-Sg-t-gchdnpe|@vqPmsa|goes|הֹולֵ֥ךְ|hōw•lēḵ|הלך|hlk|going",
+        "8||heb-esvri-Sg-t-gchdnqy|@Pp|for|לְ|lə|לְ|lə|for",
+        "9||heb-esvri-Sg-t-gchdnqe|@ncmscX1cs|beloved|דֹודִ֖י|ḏōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "9.1||heb-esvri-Sg-t-gchdyco|@Pc|and|וְ|wə|וְ|wə|and",
+        "9.2||heb-esvri-Sg-t-gchdyca|@ncmscX2fs|mouth|חִכֵּ֕ךְ|ḥik•kēḵ|חֵךְ|ḥēḵ|roof of mouth of",
+        "9.4||heb-esvri-Sg-t-gchdypa|@Pp|like|כְּ|kə|כְּ|kə|like",
+        "9.5|h3196|heb-esvri-Sg-t-gchdyqy|@ncmsc|wine|יֵ֥ין|yēyn|יַיִן|ya•yin|wine of",
+        "9.6||heb-esvri-Sg-t-gchdnce|@Pa|best|הַ|ha|הַ|ha|the",
+        "9.7||heb-esvri-Sg-t-gchdnco|@amsa|best|טֹּ֛וב|ṭ•ṭōwḇ|טֹוב|ṭōwḇ|good one",
+        "11||heb-esvri-Sg-t-gchdrca|@Pp|smoothly|לְ|lə|לְ|lə|to",
+        "12||heb-esvri-Sg-t-gchdrpy|@ncmpa|smoothly|מֵישָׁרִ֑ים|mēy•šā•riym|מֵישָׁרִים|mēy•šā•riym|smoothness",
+        "13||heb-esvri-Sg-t-gchdrpa|@vqPmsa|gliding|דֹּובֵ֖ב|dōw•ḇēḇ|דבב|dbb|gliding over",
+        "14|h8193|heb-esvri-Sg-t-gchdgcy|@ncfdc|lips|שִׂפְתֵ֥י|śip̄•ṯēy|שָׂפָה|śā•p̄āh|lips of",
+        "15|h3463|heb-esvri-Sg-t-gchdgca|@ampa|•|יְשֵׁנִֽים׃|yə•šē•niym|יָשֵׁן|yā•šēn|asleep ones"
+      ]
+    }
+  ],
+  "7:10": [
+    {
+      "o": 19604,
+      "r": "esvi:Song of Solomon:7:10",
+      "p": [
+        "10.1|h589|heb-esvri-Sg-t-gchdgpa|@pi1cs|I|אֲנִ֣י|ʾă•niy|אֲנִי|ʾă•niy|I",
+        "10.2||heb-esvri-Sg-t-gchdecy|@Pp|beloved's|לְ|lə|לְ|lə|to",
+        "10.3||heb-esvri-Sg-t-gchdece|@ncmscX1cs|beloved's|דֹודִ֔י|ḏōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "10.5||heb-esvri-Sg-t-gchdepe|@Pc|and|וְ|wə|וְ|wə|and",
+        "10.6|h5922|heb-esvri-Sg-t-gchdepo|@PpX1cs|for|עָלַ֖י|ʿā•lay|עַל|ʿal|on",
+        "10.8||heb-esvri-Sg-t-gchdkcy|@ncfscX3ms|desire|תְּשׁוּקָתֹֽו׃|tə•šuw•qā•ṯōw|תְּשׁוּקָה|tə•šuw•qāh|desire of"
+      ]
+    },
+    {
+      "o": 19605,
+      "r": "esvi:Song of Solomon:7:10",
+      "h": 2,
+      "t": "The Bride Gives Her Love",
+      "p": []
+    }
+  ],
+  "7:11": [
+    {
+      "o": 19606,
+      "r": "esvi:Song of Solomon:7:11",
+      "p": [
+        "11.1|h3212|heb-esvri-Sg-t-gchdkqy|@vqvmsXh|Come|לְכָ֤ה|lə•ḵāh|הלך|hlk|come",
+        "11.1||heb-esvri-Sg-t-gchdqpa|@ncmpa|villages|כְּפָרִֽים׃|k•kə•p̄ā•riym|כָּפָר|kā•p̄ār|open villages",
+        "11.2||heb-esvri-Sg-t-gchdcce|@ncmscX1cs|beloved|דֹודִי֙|ḏōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "11.4||heb-esvri-Sg-t-gchdcpe|@vqi1cp{1}Cm|out|נֵצֵ֣א|nē•ṣēʾ|יצא|yṣʾ|let us go out",
+        "11.5||heb-esvri-Sg-t-gchdcqy|@Pa|the|הַ|ha|הַ|ha|the",
+        "11.6|h7704|heb-esvri-Sg-t-gchdcqe|@ncmsa|fields|שָּׂדֶ֔ה|ś•śā•ḏeh|שָׂדֶה|śā•ḏeh|field",
+        "11.7||heb-esvri-Sg-t-gchdqco|@vqi1cp{1}Ct|lodge|נָלִ֖ינָה|nā•liy•nāh|לין|lyn|let us lodge",
+        "11.8||heb-esvri-Sg-t-gchdqpe|@Pp|in|בַּ|ba|בְּ|bə|in"
+      ]
+    }
+  ],
+  "7:12": [
+    {
+      "o": 19607,
+      "r": "esvi:Song of Solomon:7:12",
+      "p": [
+        "12.1|h7925|heb-esvri-Sg-t-gchdoce|@vhi1cp{1}Ct|early|נַשְׁכִּ֙ימָה֙|naš•kiy•māh|שׁכם|škm|let us do early",
+        "12.1||heb-esvri-Sg-t-gchuyco|@vpp3ms|opened|פִּתַּ֣ח|pit•taḥ|פתח|ptḥ|he has opened",
+        "12.11||heb-esvri-Sg-t-gchuype|@Pa|the|הַ|ha|הַ|ha|the",
+        "12.12||heb-esvri-Sg-t-gchuypo|@ncmsa|blossoms|סְּמָדַ֔ר|s•sə•mā•ḏar|סְמָדַר|sə•mā•ḏar|blossom",
+        "12.13||heb-esvri-Sg-t-gchuyqe|@vhp3cp|bloom|הֵנֵ֖צוּ|hē•nē•ṣuw|נצץ|nṣṣ|they have bloomed",
+        "12.14||heb-esvri-Sg-t-gchunco|@Pa|the|הָ|hā|הַ|ha|the",
+        "12.15||heb-esvri-Sg-t-gchunca|@ncmpa|pomegranates|רִמֹּונִ֑ים|rim•mōw•niym|רִמֹּון|rim•mōwn|pomegranates",
+        "12.16|h8033|heb-esvri-Sg-t-gchunpo|@Pd|There|שָׁ֛ם|šām|שָׁם|šām|there",
+        "12.17||heb-esvri-Sg-t-gchunqe|@vqi1cs|give|אֶתֵּ֥ן|ʾet•tēn|נתן|ntn|I will give",
+        "12.18|h854|heb-esvri-Sg-t-gchurco|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "12.19||heb-esvri-Sg-t-gchurpy|@ncmpcX1cs|love|דֹּדַ֖י|dō•ḏay|דֹּוד|dōwḏ|loves of",
+        "12.2||heb-esvri-Sg-t-gchdopy|@Pp|to|לַ|la|לְ|lə|to",
+        "12.21||heb-esvri-Sg-t-gchurqy|@PpX2m!s|•|לָֽךְ׃|lāḵ|לְ|lə|to",
+        "12.4|h3754|heb-esvri-Sg-t-gchdopo|@ncmpa|vineyards|כְּרָמִ֔ים|k•kə•rā•miym|כֶּרֶם|ke•rem|vineyards",
+        "12.5||heb-esvri-Sg-t-gchdoqe|@vqi1cp{1}Cm|see|נִרְאֶ֞ה|nir•ʾeh|ראה|rʾh|let us see",
+        "12.6|h518|heb-esvri-Sg-t-gchd1co|@Pc|whether|אִם|ʾim|אִם|ʾim|if",
+        "12.7||heb-esvri-Sg-t-gchd1pe|@vqp3fs|budded|פָּֽרְחָ֤ה|pā•rə•ḥāh|פרח|prḥ|she has budded",
+        "12.8||heb-esvri-Sg-t-gchd1qy|@Pa|the|הַ|ha|הַ|ha|the",
+        "12.9|h1612|heb-esvri-Sg-t-gchd1qe|@ncbsa|vines|גֶּ֙פֶן֙|g•ge•p̄en|גֶּפֶן|ge•p̄en|vine"
+      ]
+    }
+  ],
+  "7:13": [
+    {
+      "o": 19608,
+      "r": "esvi:Song of Solomon:7:13",
+      "p": [
+        "13.1||heb-esvri-Sg-t-gchugca|@Pa|The|הַֽ|ha|הַ|ha|the",
+        "13.1|h4022|heb-esvri-Sg-t-gchukce|@ncmpa|choice|מְגָדִ֔ים|mə•ḡā•ḏiym|מֶגֶד|me•ḡeḏ|choice things",
+        "13.11|h2319|heb-esvri-Sg-t-gchukpy|@ampa|new|חֲדָשִׁ֖ים|ḥă•ḏā•šiym|חָדָשׁ|ḥā•ḏāš|new ones",
+        "13.12|h1571|heb-esvri-Sg-t-gchukpa|@Pc|as well as|גַּם־|gam-|גַּם|gam|also",
+        "13.13|h3465|heb-esvri-Sg-t-gchukqe|@ampa|old|יְשָׁנִ֑ים|yə•šā•niym|יָשָׁן|yā•šān|old ones",
+        "13.14||heb-esvri-Sg-t-gchucco|@ncmscX1cs|beloved|דֹּודִ֖י|dōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "13.16||heb-esvri-Sg-t-gchucpo|@vqp1cs|laid|צָפַ֥נְתִּי|ṣā•p̄an•tiy|צפן|ṣpn|I have laid up",
+        "13.17||heb-esvri-Sg-t-gchucqe|@PpX2m!s|for|לָֽךְ׃|lāḵ|לְ|lə|for",
+        "13.2||heb-esvri-Sg-t-gchugpy|@ncmpa|mandrakes|דּוּדָאִ֣ים|d•duw•ḏā•ʾiym|דּוּדָאִים|duw•ḏā•ʾiym|mandrakes",
+        "13.3|h5414|heb-esvri-Sg-t-gchugpa|@vqp3cp|give|נָֽתְנוּ־|nā•ṯə•nuw-|נתן|ntn|they give",
+        "13.4|h7381|heb-esvri-Sg-t-gchugqe|@ncmsa|fragrance|רֵ֗יחַ|rēyaḥ|רֵיחַ|rēyaḥ|fragrance",
+        "13.5||heb-esvri-Sg-t-gchueco|@Pc|and|וְ|wə|וְ|wə|and",
+        "13.6|h5922|heb-esvri-Sg-t-gchueca|@Pp|beside|עַל־|ʿal-|עַל|ʿal|by",
+        "13.7|h6607|heb-esvri-Sg-t-gchuepe|@ncmpcX1cp|doors|פְּתָחֵ֙ינוּ֙|pə•ṯā•ḥēy•nuw|פֶּתַח|pe•ṯaḥ|doors of",
+        "13.9|h3606|heb-esvri-Sg-t-gchueqe|@ncmsc|all|כָּל־|kol-|כֹּל|kōl|all of"
+      ]
+    }
+  ],
+  "8:0": [
+    {
+      "o": 19609,
+      "r": "esvi:Song of Solomon:8:0",
+      "h": 1,
+      "t": "Song of Solomon 8",
+      "p": []
+    },
+    {
+      "o": 19610,
+      "r": "esvi:Song of Solomon:8:0",
+      "h": 2,
+      "t": "Longing for Her Beloved",
+      "p": []
+    }
+  ],
+  "8:1": [
+    {
+      "o": 19611,
+      "r": "esvi:Song of Solomon:8:1",
+      "p": [
+        "0|h4310|heb-esvri-Sg-t-gchuqpe|@pii|Oh that|מִ֤י|miy|מִי|miy|who",
+        "1||heb-esvri-Sg-t-gchuqqy|@vqi3msX2ms|Oh that|יִתֶּנְךָ֙|yit•ten•ḵā|נתן|ntn|he will give",
+        "3||heb-esvri-Sg-t-gchuoco|@Pp|like|כְּ|kə|כְּ|kə|like",
+        "4|h253|heb-esvri-Sg-t-gchuoca|@ncmsa|brother|אָ֣ח|ʾāḥ|אָח|ʾāḥ|brother",
+        "5||heb-esvri-Sg-t-gchuopo|@PpX1cs|to|לִ֔י|liy|לְ|lə|to",
+        "7||heb-esvri-Sg-t-gchu1cy|@ncmsa|nursed|יֹונֵ֖ק|yōw•nēq|יֹונֵק|yōw•nēq|one suckling",
+        "8|h7699|heb-esvri-Sg-t-gchu1ca|@ncmdc|breasts|שְׁדֵ֣י|šə•ḏēy|שַׁד|šaḏ|breasts of",
+        "9|h517|heb-esvri-Sg-t-gchu1po|@ncfscX1cs|mother's|אִמִּ֑י|ʾim•miy|אֵם|ʾēm|mother of",
+        "11||heb-esvri-Sg-t-goadycy|@vqi1csX2ms|found|אֶֽמְצָאֲךָ֤|ʾem•ṣā•ʾă•ḵā|מצא|mṣʾ|I found",
+        "13||heb-esvri-Sg-t-goadypy|@Pp|outside|בַ|ḇa|בְּ|bə|in",
+        "15|h2351|heb-esvri-Sg-t-goadypo|@ncmsa|outside|חוּץ֙|ḥuwṣ|חוּץ|ḥuwṣ|outside",
+        "16||heb-esvri-Sg-t-goadyqe|@vqi1csX2ms|kiss|אֶשָׁ֣קְךָ֔|ʾe•šā•qə•ḵā|נשׁק|nšq|I kiss",
+        "18|h1571|heb-esvri-Sg-t-goadnca|@Pc|and|גַּ֖ם|gam|גַּם|gam|also",
+        "19|h3808|heb-esvri-Sg-t-goadnpo|@Pn|none|לֹא־|lōʾ-|לֹא|lōʾ|not",
+        "20||heb-esvri-Sg-t-goadnqy|@vqi3mp|despise|יָב֥וּזוּ|yā•ḇuw•zuw|בוז|bwz|they despise",
+        "21||heb-esvri-Sg-t-goadrce|@PpX1cs|•|לִֽי׃|liy|לְ|lə|"
+      ]
+    }
+  ],
+  "8:2": [
+    {
+      "o": 19612,
+      "r": "esvi:Song of Solomon:8:2",
+      "p": [
+        "0||heb-esvri-Sg-t-goadrpo|@vqi1csX2ms|lead|אֶנְהָֽגֲךָ֗|ʾen•hā•ḡă•ḵā|נהג|nhg|I lead",
+        "2||heb-esvri-Sg-t-goadgcy|@vhi1csX2ms|bring|אֲבִֽיאֲךָ֛|ʾă•ḇiy•ʾă•ḵā|בוא|bwʾ|I bring",
+        "4||heb-esvri-Sg-t-goadgpy|@Pp|into|אֶל־|ʾel-|אֶל|ʾel|to",
+        "5|h1004|heb-esvri-Sg-t-goadgpo|@ncmsc|house|בֵּ֥ית|bēyṯ|בַּיִת|ba•yiṯ|house of",
+        "6|h517|heb-esvri-Sg-t-goadgqe|@ncfscX1cs|mother|אִמִּ֖י|ʾim•miy|אֵם|ʾēm|mother of",
+        "8||heb-esvri-Sg-t-goadeca|@vpi3fsX1cs|teach|תְּלַמְּדֵ֑נִי|tə•lam•mə•ḏē•niy|למד|lmd|she taught",
+        "10||heb-esvri-Sg-t-goadepa|@vhi1csX2ms|drink|אַשְׁקְךָ֙|ʾaš•qə•ḵā|שׁקה|šqh|I give to drink",
+        "12|h4481|heb-esvri-Sg-t-goadkce|@Pp|•|מִ|mi|מִן|min|from",
+        "13|h3196|heb-esvri-Sg-t-goadkco|@ncmsa|wine|יַּ֣יִן|y•ya•yin|יַיִן|ya•yin|wine",
+        "14||heb-esvri-Sg-t-goadkpe|@Pa|spiced|הָ|hā|הַ|ha|the",
+        "15||heb-esvri-Sg-t-goadkpo|@ncmsa|spiced|רֶ֔קַח|re•qaḥ|רֶקַח|re•qaḥ|spice",
+        "16|h4481|heb-esvri-Sg-t-goadkqe|@Pp|•|מֵ|mē|מִן|min|from",
+        "17|h6071|heb-esvri-Sg-t-goadccy|@ncmsc|juice|עֲסִ֖יס|ʿă•siys|עָסִיס|ʿā•siys|juice of",
+        "18||heb-esvri-Sg-t-goadcca|@ncmscX1cs|pomegranate|רִמֹּנִֽי׃|rim•mō•niy|רִמֹּון|rim•mōwn|pomegranate of"
+      ]
+    }
+  ],
+  "8:3": [
+    {
+      "o": 19613,
+      "r": "esvi:Song of Solomon:8:3",
+      "p": [
+        "0||heb-esvri-Sg-t-goadcqy|@ncmscX3ms|left|שְׂמֹאלֹו֙|śə•mō(ʾ)•lōw|שְׂמֹאל|śə•mō(ʾ)l|left of",
+        "2|h8480|heb-esvri-Sg-t-goadqco|@Pp|under|תַּ֣חַת|ta•ḥaṯ|תַּחַת|ta•ḥaṯ|under",
+        "3|h7219|heb-esvri-Sg-t-goadqpe|@ncmscX1cs|head|רֹאשִׁ֔י|rō(ʾ)•šiy|רֹאשׁ|rō(ʾ)š|head of",
+        "5||heb-esvri-Sg-t-goadqqe|@Pc|and|וִֽ|wi|וְ|wə|and",
+        "6|h3226|heb-esvri-Sg-t-goadocy|@ncfscX3ms|right|ימִינֹ֖ו|y•miy•nōw|יָמִין|yā•miyn|right hand of",
+        "8||heb-esvri-Sg-t-goadopy|@vpi3fsX1cs|embraces|תְּחַבְּקֵֽנִי׃|tə•ḥab•bə•qē•niy|חבק|ḥbq|she embraces"
+      ]
+    }
+  ],
+  "8:4": [
+    {
+      "o": 19614,
+      "r": "esvi:Song of Solomon:8:4",
+      "p": [
+        "0||heb-esvri-Sg-t-goadoqe|@vhp1cs|adjure|הִשְׁבַּ֥עְתִּי|hiš•baʿ•tiy|שׁבע|šbʿ|I adjure",
+        "1|h854|heb-esvri-Sg-t-goad1co|@PoX2mp|•|אֶתְכֶ֖ם|ʾeṯ•ḵem|אֵת|ʾēṯ|",
+        "3|h1325|heb-esvri-Sg-t-goad1po|@ncfpc|daughters|בְּנֹ֣ות|bə•nōwṯ|בַּת|baṯ|daughters of",
+        "4||heb-esvri-Sg-t-goad1qe|@np|Jerusalem|יְרוּשָׁלִָ֑ם|yə•ruw•šā•lāim|יְרוּשָׁלִַם|yə•ruw•šā•laim|Jerusalem",
+        "5|h4101|heb-esvri-Sg-t-goauyco|@pii|•|מַה־|mah-|מָה|māh|what",
+        "6||heb-esvri-Sg-t-goauypy|@vhi2mp|stir|תָּעִ֧ירוּ׀|tā•ʿiy•ruw|עור|ʿwr|you stir up",
+        "7||heb-esvri-Sg-t-goauypa|@Pc|or|וּֽ|uw|וְ|wə|or",
+        "8|h4101|heb-esvri-Sg-t-goauyqy|@pii|•|מַה־|mah-|מָה|māh|what",
+        "9||heb-esvri-Sg-t-goauncy|@vei2mp|awaken|תְּעֹֽרְר֛וּ|tə•ʿō•rə•ruw|עור|ʿwr|you awaken",
+        "10|h854|heb-esvri-Sg-t-goaunca|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "11||heb-esvri-Sg-t-goaunpe|@Pa|love|הָ|hā|הַ|ha|the",
+        "12|h160|heb-esvri-Sg-t-goaunpo|@ncfsa|love|אַהֲבָ֖ה|ʾa•hă•ḇāh|אַהֲבָה|ʾa•hă•ḇāh|love",
+        "13|h5705|heb-esvri-Sg-t-goaunqe|@Pp|until|עַ֥ד|ʿaḏ|עַד|ʿaḏ|until",
+        "14||heb-esvri-Sg-t-goaurco|@Pr|until|שֶׁ|še|שַׁ|ša|that",
+        "15||heb-esvri-Sg-t-goaurca|@vqi3fs|pleases|תֶּחְפָּֽץ׃|t•teḥ•pāṣ|חפץ|ḥpṣ|she pleases"
+      ]
+    }
+  ],
+  "8:5": [
+    {
+      "o": 19615,
+      "r": "esvi:Song of Solomon:8:5",
+      "p": [
+        "0|h4310|heb-esvri-Sg-t-goaugcy|@pii|Who|מִ֣י|miy|מִי|miy|who",
+        "1|h2088|heb-esvri-Sg-t-goaugca|@dfsa|that|זֹ֗את|zō(ʾ)ṯ|זֶה|zeh|this",
+        "2||heb-esvri-Sg-t-goaugpo|@vqPfsa|up|עֹלָה֙|ʿō•lāh|עלה|ʿlh|coming up",
+        "3|h4481|heb-esvri-Sg-t-goaugqe|@Pp|from|מִן־|min-|מִן|min|from",
+        "4||heb-esvri-Sg-t-goauece|@Pa|the|הַ|ha|הַ|ha|the",
+        "5|h4057|heb-esvri-Sg-t-goaueco|@ncmsa|wilderness|מִּדְבָּ֔ר|m•miḏ•bār|מִדְבָּר|miḏ•bār|wilderness",
+        "6|h7514|heb-esvri-Sg-t-goauepe|@vtPfsa|leaning|מִתְרַפֶּ֖קֶת|miṯ•rap•pe•qeṯ|רפק|rpq|leaning",
+        "7|h5922|heb-esvri-Sg-t-goaueqy|@Pp|on|עַל־|ʿal-|עַל|ʿal|on",
+        "8||heb-esvri-Sg-t-goaukcy|@ncmscX3fs|beloved|דֹּודָ֑הּ|dōw•ḏāh|דֹּוד|dōwḏ|love of",
+        "10|h8480|heb-esvri-Sg-t-goaukpy|@Pp|Under|תַּ֤חַת|ta•ḥaṯ|תַּחַת|ta•ḥaṯ|under",
+        "11||heb-esvri-Sg-t-goaukpa|@Pa|the|הַ|ha|הַ|ha|the",
+        "12|h8599|heb-esvri-Sg-t-goaukqy|@ncmsa|apple|תַּפּ֙וּחַ֙|t•tap•puwaḥ|תַּפּוּחַ|tap•puwaḥ|apple tree",
+        "13||heb-esvri-Sg-t-goaucce|@vep1csX2ms|awakened|עֹֽורַרְתִּ֔יךָ|ʿōw•rar•tiy•ḵā|עור|ʿwr|I awakened",
+        "15|h8033|heb-esvri-Sg-t-goaucpe|@PdXd|There|שָׁ֚מָּה|šām•māh|שָׁם|šām|there + DIR",
+        "16||heb-esvri-Sg-t-goaucqy|@vpp3fsX2ms|labor|חִבְּלַ֣תְךָ|ḥib•bə•laṯ•ḵā|חבל|ḥbl|you she was in labor",
+        "18|h517|heb-esvri-Sg-t-goauqco|@ncfscX2ms|mother|אִמֶּ֔ךָ|ʾim•me•ḵā|אֵם|ʾēm|mother of",
+        "20|h8033|heb-esvri-Sg-t-goauqpo|@PdXd|there|שָׁ֖מָּה|šām•māh|שָׁם|šām|there + DIR",
+        "21||heb-esvri-Sg-t-goauqqe|@vpp3fs|labor|חִבְּלָ֥ה|ḥib•bə•lāh|חבל|ḥbl|she was in labor",
+        "22||heb-esvri-Sg-t-goauoco|@vqp3fsX2ms|bore|יְלָדַֽתְךָ׃|yə•lā•ḏaṯ•ḵā|ילד|yld|she bore"
+      ]
+    }
+  ],
+  "8:6": [
+    {
+      "o": 19616,
+      "r": "esvi:Song of Solomon:8:6",
+      "p": [
+        "0|h7760|heb-esvri-Sg-t-goauopa|@vqvmsX1cs|Set|שִׂימֵ֨נִי|śiy•mē•niy|שׂים|śym|set",
+        "2||heb-esvri-Sg-t-goau1ce|@Pp|as|כַֽ|ḵa|כְּ|kə|as",
+        "4||heb-esvri-Sg-t-goau1ca|@ncmsa|seal|חֹותָ֜ם|ḥōw•ṯām|חֹותָם|ḥōw•ṯām|seal",
+        "5|h5922|heb-esvri-Sg-t-goau1po|@Pp|upon|עַל־|ʿal-|עַל|ʿal|upon",
+        "6|h3820|heb-esvri-Sg-t-goau1qy|@ncmscX2ms|heart|לִבֶּ֗ךָ|lib•be•ḵā|לֵב|lēḇ|heart of",
+        "8||heb-esvri-Sg-t-go3dyco|@Pp|as|כַּֽ|ka|כְּ|kə|as",
+        "10||heb-esvri-Sg-t-go3dypy|@ncmsa|seal|חֹותָם֙|ḥōw•ṯām|חֹותָם|ḥōw•ṯām|seal",
+        "11|h5922|heb-esvri-Sg-t-go3dypa|@Pp|upon|עַל־|ʿal-|עַל|ʿal|upon",
+        "12||heb-esvri-Sg-t-go3dyqe|@ncfscX2ms|arm|זְרֹועֶ֔ךָ|zə•rōw•ʿe•ḵā|זְרֹועַ|zə•rōwaʿ|arm of",
+        "14|h3588|heb-esvri-Sg-t-go3dnca|@Pc|for|כִּֽי־|kiy-|כִּי|kiy|for",
+        "15|h5794|heb-esvri-Sg-t-go3dnpe|@afsa|strong|עַזָּ֤ה|ʿaz•zāh|עַז|ʿaz|strong",
+        "16||heb-esvri-Sg-t-go3dnqy|@Pp|as|כַ|ḵa|כְּ|kə|as",
+        "18|h4194|heb-esvri-Sg-t-go3drcy|@ncmsa|death|מָּ֙וֶת֙|m•mā•weṯ|מָוֶת|mā•weṯ|death",
+        "19|h160|heb-esvri-Sg-t-go3drca|@ncfsa|love|אַהֲבָ֔ה|ʾa•hă•ḇāh|אַהֲבָה|ʾa•hă•ḇāh|love",
+        "20|h7186|heb-esvri-Sg-t-go3drpo|@afsa|fierce|קָשָׁ֥ה|qā•šāh|קָשֶׁה|qā•šeh|fierce",
+        "21||heb-esvri-Sg-t-go3drqe|@Pp|as|כִ|ḵi|כְּ|kə|as",
+        "22||heb-esvri-Sg-t-go3dgcy|@ncbsa|grave|שְׁאֹ֖ול|š•ʾōwl|שְׁאֹול|šə•ʾōwl|Sheol",
+        "23|h7068|heb-esvri-Sg-t-go3dgca|@ncfsa|jealousy|קִנְאָ֑ה|qin•ʾāh|קִנְאָה|qin•ʾāh|jealousy",
+        "24||heb-esvri-Sg-t-go3dgpo|@ncmpcX3fs|flashes|רְשָׁפֶ֕יהָ|rə•šā•p̄ey•hā|רֶשֶׁף|re•šep̄|flashes of",
+        "26||heb-esvri-Sg-t-go3decy|@ncmpc|flashes|רִשְׁפֵּ֕י|riš•pēy|רֶשֶׁף|re•šep̄|flashes of",
+        "27|h785|heb-esvri-Sg-t-go3deca|@ncbsa|fire|אֵ֖שׁ|ʾēš|אֵשׁ|ʾēš|fire",
+        "28||heb-esvri-Sg-t-go3depo|@ncfsa|flame of the Lord|שַׁלְהֶ֥בֶתְיָֽה׃|šal•he•ḇeṯ•yāh|שַׁלְהֶבֶתְיָה|šal•he•ḇeṯ•yāh|flame of Yah"
+      ]
+    }
+  ],
+  "8:7": [
+    {
+      "o": 19617,
+      "r": "esvi:Song of Solomon:8:7",
+      "p": [
+        "0|h4325|heb-esvri-Sg-t-go3dkcy|@ncmpa|waters|מַ֣יִם|ma•yim|מַיִם|ma•yim|waters",
+        "1|h7227|heb-esvri-Sg-t-go3dkca|@ampa|Many|רַבִּ֗ים|rab•biym|רַב|raḇ|many",
+        "2|h3201|heb-esvri-Sg-t-go3dkpo|@Pn|cannot|לֹ֤א|lōʾ|לֹא|lōʾ|not",
+        "3|h3201|heb-esvri-Sg-t-go3dkqe|@vqi3mp|cannot|יֽוּכְלוּ֙|yuw•ḵə•luw|יכל|ykl|they are able",
+        "4|h3518|heb-esvri-Sg-t-go3dcco|@Pp|quench|לְ|lə|לְ|lə|to",
+        "5|h3518|heb-esvri-Sg-t-go3dcca|@vpc|quench|כַבֹּ֣ות|ḵab•bōwṯ|כבה|kbh|quench",
+        "6|h854|heb-esvri-Sg-t-go3dcpo|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "7|h160|heb-esvri-Sg-t-go3dcqy|@Pa|love|הָֽ|hā|הַ|ha|the",
+        "8|h160|heb-esvri-Sg-t-go3dcqe|@ncfsa|love|אַהֲבָ֔ה|ʾa•hă•ḇāh|אַהֲבָה|ʾa•hă•ḇāh|love",
+        "9||heb-esvri-Sg-t-go3dqco|@Pc|neither|וּ|uw|וְ|wə|and",
+        "10|h5104|heb-esvri-Sg-t-go3dqca|@ncmpa|floods|נְהָרֹ֖ות|nə•hā•rōwṯ|נָהָר|nā•hār|rivers",
+        "11|h3808|heb-esvri-Sg-t-go3dqpo|@Pn|neither|לֹ֣א|lōʾ|לֹא|lōʾ|not",
+        "12||heb-esvri-Sg-t-go3dqqe|@vqi3mpX3fs|drown|יִשְׁטְפ֑וּהָ|yiš•ṭə•p̄uw•hā|שׁטף|šṭp|they engulf",
+        "14|h518|heb-esvri-Sg-t-go3doca|@Pc|If|אִם־|ʾim-|אִם|ʾim|if",
+        "15||heb-esvri-Sg-t-go3dope|@vqi3ms|offered|יִתֵּ֨ן|yit•tēn|נתן|ntn|he gave",
+        "16|h376|heb-esvri-Sg-t-go3doqy|@ncmsa|man|אִ֜ישׁ|ʾiyš|אִישׁ|ʾiyš|man",
+        "17|h854|heb-esvri-Sg-t-go3d1ce|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "18|h3605|heb-esvri-Sg-t-go3d1ca|@ncmsc|all|כָּל־|kol-|כֹּל|kōl|all of",
+        "19||heb-esvri-Sg-t-go3d1pe|@ncmsc|wealth|הֹ֤ון|hōwn|הֹון|hōwn|wealth of",
+        "20|h1005|heb-esvri-Sg-t-go3d1qy|@ncmscX3ms|house|בֵּיתֹו֙|bēy•ṯōw|בַּיִת|ba•yiṯ|house of",
+        "22||heb-esvri-Sg-t-go3uyco|@Pp|for|בָּ|bā|בְּ|bə|over",
+        "24|h160|heb-esvri-Sg-t-go3uypy|@ncfsa|love|אַהֲבָ֔ה|ʾa•hă•ḇāh|אַהֲבָה|ʾa•hă•ḇāh|love",
+        "25||heb-esvri-Sg-t-go3uypa|@vqa|utterly|בֹּ֖וז|bōwz|בוז|bwz|to despise",
+        "26|h936|heb-esvri-Sg-t-go3uncy|@vqi3mp|despised|יָב֥וּזוּ|yā•ḇuw•zuw|בוז|bwz|they despise",
+        "27||heb-esvri-Sg-t-go3unca|@PpX3ms|•|לֹֽו׃|lōw|לְ|lə|"
+      ]
+    },
+    {
+      "o": 19618,
+      "r": "esvi:Song of Solomon:8:7",
+      "h": 2,
+      "t": "Final Advice",
+      "p": []
+    },
+    {
+      "o": 19619,
+      "r": "esvi:Song of Solomon:8:7",
+      "h": 3,
+      "t": "Others",
+      "p": []
+    }
+  ],
+  "8:8": [
+    {
+      "o": 19620,
+      "r": "esvi:Song of Solomon:8:8",
+      "p": [
+        "0|h269|heb-esvri-Sg-t-go3urce|@ncfsa|sister|אָחֹ֥ות|ʾā•ḥōwṯ|אָחֹות|ʾā•ḥōwṯ|sister",
+        "1||heb-esvri-Sg-t-go3urpy|@PpX1cp|have|לָ֙נוּ֙|lā•nuw|לְ|lə|to",
+        "3|h6996|heb-esvri-Sg-t-go3urqy|@afsa|little|קְטַנָּ֔ה|qə•ṭan•nāh|קָטָן|qā•ṭān|little",
+        "4||heb-esvri-Sg-t-go3ugce|@Pc|and|וְ|wə|וְ|wə|and",
+        "5|h7699|heb-esvri-Sg-t-go3ugco|@ncmda|breasts|שָׁדַ֖יִם|šā•ḏa•yim|שַׁד|šaḏ|breasts",
+        "6|h369|heb-esvri-Sg-t-go3ugpe|@Pd|no|אֵ֣ין|ʾēyn|אַיִן|ʾa•yin|there is not",
+        "7||heb-esvri-Sg-t-go3ugqy|@PpX3fs|has|לָ֑הּ|lāh|לְ|lə|to",
+        "9|h4100|heb-esvri-Sg-t-go3ueco|@pii|What|מַֽה־|mah-|מָה|māh|what",
+        "10||heb-esvri-Sg-t-go3uepy|@vqi1cp|do|נַּעֲשֶׂה֙|n•na•ʿă•śeh|עשׂה|ʿśh|we shall do",
+        "11||heb-esvri-Sg-t-go3uepa|@Pp|for|לַ|la|לְ|lə|for",
+        "12|h269|heb-esvri-Sg-t-go3ueqy|@ncfscX1cp|sister|אֲחֹתֵ֔נוּ|ʾă•ḥō•ṯē•nuw|אָחֹות|ʾā•ḥōwṯ|sister of",
+        "14||heb-esvri-Sg-t-go3ukco|@Pp|on|בַּ|ba|בְּ|bə|on",
+        "16||heb-esvri-Sg-t-go3ukpy|@ncmsa|day|יֹּ֖ום|y•yōwm|יֹום|yōwm|day",
+        "17|h7945|heb-esvri-Sg-t-go3ukpa|@Pr|when|שֶׁ|še|שַׁ|ša|that",
+        "18||heb-esvri-Sg-t-go3ukqy|@vPi3ms|spoken|יְּדֻבַּר־|y•yə•ḏub•bar-|דבר|dbr|he speaks",
+        "19||heb-esvri-Sg-t-go3uccy|@PpX3fs|for|בָּֽהּ׃|bāh|בְּ|bə|over"
+      ]
+    }
+  ],
+  "8:9": [
+    {
+      "o": 19621,
+      "r": "esvi:Song of Solomon:8:9",
+      "p": [
+        "0|h518|heb-esvri-Sg-t-go3ucpe|@Pc|If|אִם־|ʾim-|אִם|ʾim|if",
+        "1||heb-esvri-Sg-t-go3ucpa|@ncfsa|wall|חֹומָ֣ה|ḥōw•māh|חֹומָה|ḥōw•māh|wall",
+        "2||heb-esvri-Sg-t-go3uqcy|@pi3fs|she|הִ֔יא|hiyʾ|הִיא|hiyʾ|she",
+        "3||heb-esvri-Sg-t-go3uqca|@vqi1cp|build|נִבְנֶ֥ה|niḇ•neh|בנה|bnh|we will build",
+        "4|h5922|heb-esvri-Sg-t-go3uqpo|@PpX3fs|on|עָלֶ֖יהָ|ʿā•ley•hā|עַל|ʿal|on",
+        "6||heb-esvri-Sg-t-go3uocy|@ncfsc|battlement|טִ֣ירַת|ṭiy•raṯ|טִירָה|ṭiy•rāh|battlement of",
+        "7|h3701|heb-esvri-Sg-t-go3uoca|@ncmsa|silver|כָּ֑סֶף|kā•sep̄|כֶּסֶף|ke•sep̄|silver",
+        "8||heb-esvri-Sg-t-go3uopo|@Pc|but|וְ|wə|וְ|wə|but",
+        "9|h518|heb-esvri-Sg-t-go3uopa|@Pc|if|אִם־|ʾim-|אִם|ʾim|if",
+        "10|h1817|heb-esvri-Sg-t-go3uoqe|@ncfsa|door|דֶּ֣לֶת|de•leṯ|דֶּלֶת|de•leṯ|door",
+        "11||heb-esvri-Sg-t-go3u1co|@pi3fs|she|הִ֔יא|hiyʾ|הִיא|hiyʾ|she",
+        "12||heb-esvri-Sg-t-go3u1pe|@vqi1cp|enclose|נָצ֥וּר|nā•ṣuwr|צור|ṣwr|we will bind",
+        "13|h5922|heb-esvri-Sg-t-go3u1qy|@PpX3fs|•|עָלֶ֖יהָ|ʿā•ley•hā|עַל|ʿal|on",
+        "15|h3871|heb-esvri-Sg-t-go4dyco|@ncmsc|boards|ל֥וּחַ|luwaḥ|לוּחַ|luwaḥ|board of",
+        "16|h730|heb-esvri-Sg-t-go4dype|@ncmsa|cedar|אָֽרֶז׃|ʾā•rez|אֶרֶז|ʾe•rez|cedar"
+      ]
+    },
+    {
+      "o": 19622,
+      "r": "esvi:Song of Solomon:8:9",
+      "h": 3,
+      "t": "She",
+      "p": []
+    }
+  ],
+  "8:10": [
+    {
+      "o": 19623,
+      "r": "esvi:Song of Solomon:8:10",
+      "p": [
+        "0|h589|heb-esvri-Sg-t-go4dyqe|@pi1cs|I|אֲנִ֣י|ʾă•niy|אֲנִי|ʾă•niy|I",
+        "1||heb-esvri-Sg-t-go4dnco|@ncfsa|wall|חֹומָ֔ה|ḥōw•māh|חֹומָה|ḥōw•māh|wall",
+        "2||heb-esvri-Sg-t-go4dnpe|@Pc|and|וְ|wə|וְ|wə|and",
+        "3|h7699|heb-esvri-Sg-t-go4dnpo|@ncmdcX1cs|breasts|שָׁדַ֖י|šā•ḏay|שַׁד|šaḏ|breasts of",
+        "5||heb-esvri-Sg-t-go4drcy|@Pp|like|כַּ|ka|כְּ|kə|like",
+        "7|h4026|heb-esvri-Sg-t-go4drco|@ncmpa|towers|מִּגְדָּלֹ֑ות|m•miḡ•dā•lōwṯ|מִגְדָּל|miḡ•dāl|towers",
+        "8|h227|heb-esvri-Sg-t-go4drpe|@Pd|then|אָ֛ז|ʾāz|אָז|ʾāz|then",
+        "9||heb-esvri-Sg-t-go4drqy|@vqp1cs|was|הָיִ֥יתִי|hā•yiy•ṯiy|היה|hyh|I was",
+        "10||heb-esvri-Sg-t-go4dgce|@Pp|in|בְ|ḇə|בְּ|bə|in",
+        "11|h5871|heb-esvri-Sg-t-go4dgco|@ncbdcX3ms|eyes|עֵינָ֖יו|ʿēy•nāyw|עַיִן|ʿa•yin|eyes of",
+        "13||heb-esvri-Sg-t-go4dgpo|@Pp|as|כְּ|kə|כְּ|kə|as",
+        "14||heb-esvri-Sg-t-go4dgpa|@vqPfsa|finds|מֹוצְאֵ֥ת|mōw•ṣə•ʾēṯ|מצא|mṣʾ|one finding",
+        "15|h7965|heb-esvri-Sg-t-go4decy|@ncmsa|peace|שָׁלֹֽום׃|šā•lōwm|שָׁלֹום|šā•lōwm|peace"
+      ]
+    }
+  ],
+  "8:11": [
+    {
+      "o": 19624,
+      "r": "esvi:Song of Solomon:8:11",
+      "p": [
+        "0|h3754|heb-esvri-Sg-t-go4depa|@ncmsa|vineyard|כֶּ֣רֶם|ke•rem|כֶּרֶם|ke•rem|vineyard",
+        "1|h1961|heb-esvri-Sg-t-go4dkcy|@vqp3ms|had|הָיָ֤ה|hā•yāh|היה|hyh|he was",
+        "2|h1961|heb-esvri-Sg-t-go4dkca|@Pp|had|לִ|li|לְ|lə|to",
+        "3|h8010|heb-esvri-Sg-t-go4dkpy|@np|Solomon|שְׁלֹמֹה֙|š•lō•mōh|שְׁלֹמֹה|šə•lō•mōh|Solomon",
+        "4||heb-esvri-Sg-t-go4dkpa|@Pp|at|בְּ|bə|בְּ|bə|in",
+        "5||heb-esvri-Sg-t-go4dkqy|@np|Baal-hamon|בַ֣עַל הָמֹ֔ון|ḇa•ʿal hā•mōwn|בַּעַל הָמֹון|ba•ʿal hā•mōwn|Baal-hamon",
+        "6||heb-esvri-Sg-t-go4dcce|@vqp3ms|let|נָתַ֥ן|nā•ṯan|נתן|ntn|he gave",
+        "7|h854|heb-esvri-Sg-t-go4dcpy|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "8||heb-esvri-Sg-t-go4dcpo|@Pa|the|הַ|ha|הַ|ha|the",
+        "9|h3754|heb-esvri-Sg-t-go4dcpa|@ncmsa|vineyard|כֶּ֖רֶם|k•ke•rem|כֶּרֶם|ke•rem|vineyard",
+        "10||heb-esvri-Sg-t-go4dqcy|@Pp|to|לַ|la|לְ|lə|to",
+        "12||heb-esvri-Sg-t-go4dqco|@vqPmpa|keepers|נֹּטְרִ֑ים|n•nō•ṭə•riym|נטר|nṭr|ones keeping",
+        "13|h376|heb-esvri-Sg-t-go4dqpe|@ncmsa|each|אִ֛ישׁ|ʾiyš|אִישׁ|ʾiyš|man",
+        "14||heb-esvri-Sg-t-go4dqqy|@vhi3ms|bring|יָבִ֥א|yā•ḇiʾ|בוא|bwʾ|he shall bring",
+        "15||heb-esvri-Sg-t-go4doce|@Pp|for|בְּ|bə|בְּ|bə|over",
+        "16|h6529|heb-esvri-Sg-t-go4doco|@ncmscX3ms|fruit|פִרְיֹ֖ו|p̄ir•yōw|פְּרִי|pə•riy|fruit of",
+        "18|h505|heb-esvri-Sg-t-go4dopo|@ucmsc|thousand|אֶ֥לֶף|ʾe•lep̄|אֶלֶף|ʾe•lep̄|thousand of",
+        "19|h3701|heb-esvri-Sg-t-go4doqe|@ncmsa|silver|כָּֽסֶף׃|kā•sep̄|כֶּסֶף|ke•sep̄|silver"
+      ]
+    }
+  ],
+  "8:12": [
+    {
+      "o": 19625,
+      "r": "esvi:Song of Solomon:8:12",
+      "p": [
+        "0|h3754|heb-esvri-Sg-t-go4d1ca|@ncmscX1cs|vineyard|כָּרְמִ֥י|kā•rə•miy|כֶּרֶם|ke•rem|vineyard of",
+        "2||heb-esvri-Sg-t-go4d1pa|@Pr|•|שֶׁ|še|שַׁ|ša|that",
+        "3||heb-esvri-Sg-t-go4d1qy|@PpX1cs|my|לִּ֖י|l•liy|לְ|lə|to",
+        "5||heb-esvri-Sg-t-go4uyco|@Pp|before|לְ|lə|לְ|lə|",
+        "6||heb-esvri-Sg-t-go4uyca|@ncbpcX1cs|before|פָנָ֑י|p̄ā•nāy|פָּנֶה|pā•neh|before",
+        "8||heb-esvri-Sg-t-go4uypa|@Pa|the|הָ|hā|הַ|ha|the",
+        "9|h505|heb-esvri-Sg-t-go4uyqy|@ucmsa|thousand|אֶ֤לֶף|ʾe•lep̄|אֶלֶף|ʾe•lep̄|thousand",
+        "10||heb-esvri-Sg-t-go4unce|@PpX2ms|have|לְךָ֙|lə•ḵā|לְ|lə|to",
+        "12|h8010|heb-esvri-Sg-t-go4unpe|@np|Solomon|שְׁלֹמֹ֔ה|šə•lō•mōh|שְׁלֹמֹה|šə•lō•mōh|Solomon",
+        "13||heb-esvri-Sg-t-go4unqy|@Pc|and|וּ|uw|וְ|wə|and",
+        "14|h3967|heb-esvri-Sg-t-go4unqe|@ucfda|hundred|מָאתַ֖יִם|mā(ʾ)•ṯa•yim|מֵאָה|mē•ʾāh|two hundred",
+        "15||heb-esvri-Sg-t-go4urco|@Pp|•|לְ|lə|לְ|lə|to",
+        "16||heb-esvri-Sg-t-go4urca|@vqPmpa|keepers|נֹטְרִ֥ים|nō•ṭə•riym|נטר|nṭr|ones keeping",
+        "17|h854|heb-esvri-Sg-t-go4urpo|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "18|h6529|heb-esvri-Sg-t-go4urqy|@ncmscX3ms|fruit|פִּרְיֹֽו׃|pir•yōw|פְּרִי|pə•riy|fruit of"
+      ]
+    },
+    {
+      "o": 19626,
+      "r": "esvi:Song of Solomon:8:12",
+      "h": 3,
+      "t": "He",
+      "p": []
+    }
+  ],
+  "8:13": [
+    {
+      "o": 19627,
+      "r": "esvi:Song of Solomon:8:13",
+      "p": [
+        "0||heb-esvri-Sg-t-go4ugca|@Pa|O you who|הַ|ha|הַ|ha|O",
+        "1||heb-esvri-Sg-t-go4ugpy|@vqPfsa|dwell|יֹושֶׁ֣בֶת|yōw•še•ḇeṯ|ישׁב|yšb|one dwelling",
+        "2||heb-esvri-Sg-t-go4ugpa|@Pp|in|בַּ|ba|בְּ|bə|in",
+        "4|h1588|heb-esvri-Sg-t-go4ugqe|@ncbpa|gardens|גַּנִּ֗ים|g•gan•niym|גַּן|gan|gardens",
+        "5|h2270|heb-esvri-Sg-t-go4ueco|@ncmpa|companions|חֲבֵרִ֛ים|ḥă•ḇē•riym|חָבֵר|ḥā•ḇēr|companions",
+        "6||heb-esvri-Sg-t-go4uepe|@vhPmpa|listening|מַקְשִׁיבִ֥ים|maq•šiy•ḇiym|קשׁב|qšb|listening attentively",
+        "7||heb-esvri-Sg-t-go4ueqy|@Pp|for|לְ|lə|לְ|lə|for",
+        "8||heb-esvri-Sg-t-go4ueqe|@ncmscX2fs|voice|קֹולֵ֖ךְ|qōw•lēḵ|קֹול|qōwl|voice of",
+        "10||heb-esvri-Sg-t-go4ukca|@vhvfsX1cs|hear|הַשְׁמִיעִֽינִי׃|haš•miy•ʿiy•niy|שׁמע|šmʿ|let hear"
+      ]
+    },
+    {
+      "o": 19628,
+      "r": "esvi:Song of Solomon:8:13",
+      "h": 3,
+      "t": "She",
+      "p": []
+    }
+  ],
+  "8:14": [
+    {
+      "o": 19629,
+      "r": "esvi:Song of Solomon:8:14",
+      "p": [
+        "0||heb-esvri-Sg-t-go4ukqy|@vqvms|haste|בְּרַ֣ח׀|bə•raḥ|ברח|brḥ|flee",
+        "1||heb-esvri-Sg-t-go4ucce|@ncmscX1cs|beloved|דֹּודִ֗י|dōw•ḏiy|דֹּוד|dōwḏ|love of",
+        "3||heb-esvri-Sg-t-go4ucpe|@Pc|and|וּֽ|uw|וְ|wə|and",
+        "4||heb-esvri-Sg-t-go4ucpo|@vqvms|like|דְמֵה־|ḏə•mēh-|דמה|dmh|be like",
+        "5||heb-esvri-Sg-t-go4ucqy|@PpX2ms|•|לְךָ֤|lə•ḵā|לְ|lə|as to",
+        "7||heb-esvri-Sg-t-go4uqco|@Pp|•|לִ|li|לְ|lə|",
+        "8|h6643|heb-esvri-Sg-t-go4uqca|@ncmsa|gazelle|צְבִי֙|ṣ•ḇiy|צְבִי|ṣə•ḇiy|gazelle",
+        "9|h176|heb-esvri-Sg-t-go4uqpo|@Pc|or|אֹ֚ו|ʾōw|אֹו|ʾōw|or",
+        "10||heb-esvri-Sg-t-go4uqqe|@Pp|•|לְ|lə|לְ|lə|",
+        "11|h6082|heb-esvri-Sg-t-go4uocy|@ncmsc|young|עֹ֣פֶר|ʿō•p̄er|עֹפֶר|ʿō•p̄er|fawn of",
+        "12|h354|heb-esvri-Sg-t-go4uoca|@Pa|stag|הָֽ|hā|הַ|ha|the",
+        "13|h354|heb-esvri-Sg-t-go4uopy|@ncmpa|stag|אַיָּלִ֔ים|ʾay•yā•liym|אַיָּל|ʾay•yāl|deer",
+        "14|h5922|heb-esvri-Sg-t-go4uopa|@Pp|on|עַ֖ל|ʿal|עַל|ʿal|on",
+        "15|h2022|heb-esvri-Sg-t-go4u1cy|@ncmpc|mountains|הָרֵ֥י|hā•rēy|הַר|har|mountains of",
+        "16||heb-esvri-Sg-t-go4u1ca|@ncmpa|spices|בְשָׂמִֽים׃|ḇə•śā•miym|בֹּשֶׂם|bō•śem|spices"
+      ]
+    }
+  ]
+}

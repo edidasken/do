@@ -1,0 +1,1159 @@
+{
+  "1:0": [
+    {
+      "o": 25236,
+      "r": "esvi:Nahum:1:0",
+      "h": 1,
+      "t": "Nahum 1",
+      "p": []
+    }
+  ],
+  "1:1": [
+    {
+      "o": 25237,
+      "r": "esvi:Nahum:1:1",
+      "p": [
+        "0|h4854|heb-esvri-Nah-t-gw|@ncmsc|oracle|מַשָּׂ֖א|maś•śāʾ|מַשָּׂא|maś•śāʾ|oracle of",
+        "1|h5210|heb-esvri-Nah-t-8y|@np|Nineveh|נִֽינְוֵ֑ה|niy•nə•wēh|נִינְוֵה|niy•nə•wēh|Nineveh",
+        "2|h5612|heb-esvri-Nah-t-grao|@ncmsc|book|סֵ֧פֶר|sē•p̄er|סֵפֶר|sē•p̄er|book of",
+        "3||heb-esvri-Nah-t-gr4y|@ncmsc|vision|חֲזֹ֛ון|ḥă•zōwn|חָזֹון|ḥā•zōwn|vision of",
+        "4||heb-esvri-Nah-t-gr5o|@np|Nahum|נַח֖וּם|na•ḥuwm|נַחוּם|na•ḥuwm|Nahum",
+        "5||heb-esvri-Nah-t-geay|@Pa|Elkosh|הָ|hā|הַ|ha|the",
+        "6||heb-esvri-Nah-t-geao|@np|Elkosh|אֶלְקֹשִֽׁי׃|ʾel•qō•šiy|אֶלְקֹשִׁי|ʾel•qō•šiy|Elkosh"
+      ]
+    },
+    {
+      "o": 25238,
+      "r": "esvi:Nahum:1:1",
+      "h": 2,
+      "t": "God’s Wrath Against Nineveh",
+      "p": []
+    }
+  ],
+  "1:2": [
+    {
+      "o": 25239,
+      "r": "esvi:Nahum:1:2",
+      "p": [
+        "0|h410|heb-esvri-Nah-t-ge4o|@ncmsa|God|אֵ֣ל|ʾēl|אֵל|ʾēl|God",
+        "1||heb-esvri-Nah-t-gehy|@amsa|jealous|קַנֹּ֤וא|qan•nōwʾ|קַנֹּוא|qan•nōwʾ|jealous",
+        "2||heb-esvri-Nah-t-gcao|@Pc|and|וְ|wə|וְ|wə|and",
+        "3||heb-esvri-Nah-t-gc3y|@vqPmsa|avenging|נֹקֵם֙|nō•qēm|נקם|nqm|avenging",
+        "4||heb-esvri-Nah-t-gc4o|@np|Lord|יְהוָ֔ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "5||heb-esvri-Nah-t-gchy|@vqPmsa|avenging|נֹקֵ֥ם|nō•qēm|נקם|nqm|avenging",
+        "6||heb-esvri-Nah-t-goao|@np|Lord|יְהוָ֖ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "7||heb-esvri-Nah-t-go4y|@Pc|and|וּ|uw|וְ|wə|and",
+        "8|h1168|heb-esvri-Nah-t-go4o|@ncmsc|wrathful|בַ֣עַל|ḇa•ʿal|בַּעַל|ba•ʿal|master of",
+        "9|h2534|heb-esvri-Nah-t-gohy|@ncfsa|wrathful|חֵמָ֑ה|ḥē•māh|חֵמָה|ḥē•māh|wrath",
+        "10|h5358|heb-esvri-Nah-t-gwao|@vqPmsa|vengeance|נֹקֵ֤ם|nō•qēm|נקם|nqm|taking vengeance",
+        "11||heb-esvri-Nah-t-gw4y|@np|Lord|יְהוָה֙|yəh•wāh|יהוה|yhwh|Yahweh",
+        "12||heb-esvri-Nah-t-gw5o|@Pp|on|לְ|lə|לְ|lə|to",
+        "13|h6862|heb-esvri-Nah-t-gwhy|@ncmpcX3ms|adversaries|צָרָ֔יו|ṣā•rāyw|צַר|ṣar|adversaries of",
+        "15||heb-esvri-Nah-t-ga3y|@Pc|and|וְ|wə|וְ|wə|and",
+        "16||heb-esvri-Nah-t-ga3o|@vqPmsa|keeps|נֹוטֵ֥ר|nōw•ṭēr|נטר|nṭr|keeping",
+        "17|h1932|heb-esvri-Nah-t-ga5y|@pi3ms|•|ה֖וּא|huwʾ|הוּא|huwʾ|he",
+        "18||heb-esvri-Nah-t-gaho|@Pp|for|לְ|lə|לְ|lə|for",
+        "19|h341|heb-esvri-Nah-t-ghay|@ncmpcX3ms|enemies|אֹיְבָֽיו׃|ʾō•yə•ḇāyw|אֹיֵב|ʾō•yēḇ|ones being hostile to"
+      ]
+    }
+  ],
+  "1:3": [
+    {
+      "o": 25240,
+      "r": "esvi:Nahum:1:3",
+      "p": [
+        "0||heb-esvri-Nah-t-gh4o|@np|Lord|יְהֹוָ֗ה|yə•hō•wāh|יהוה|yhwh|Yahweh",
+        "1|h750|heb-esvri-Nah-t-ghhy|@amsc|slow to anger|אֶ֤רֶךְ|ʾe•reḵ|אָרֵךְ|ʾā•rēḵ|long of",
+        "2|h639|heb-esvri-Nah-t-8yao|@ncmda|slow to anger|אַפַּ֙יִם֙|ʾap•pa•yim|אַף|ʾap̄|nostrils",
+        "3||heb-esvri-Nah-t-8y4y|@Pc|and|וּ|uw|וְ|wə|and",
+        "4||heb-esvri-Nah-t-8y4o|@amsc|great|גְדֹול־|ḡə•ḏōwl-|גָּדֹול|gā•ḏōwl|great of",
+        "5||heb-esvri-Nah-t-8y5o|@Pc|•|וּ|uw|וְ|wə|",
+        "6||heb-esvri-Nah-t-8yhy|@amsc|•|גְדָל־|ḡə•ḏol-|גָּדֹול|gā•ḏōwl|",
+        "7|h3581|heb-esvri-Nah-t-8ray|@ncmsa|power|כֹּ֔חַ|kōaḥ|כֹּחַ|kōaḥ|power",
+        "8||heb-esvri-Nah-t-8r3o|@Pc|and|וְ|wə|וְ|wə|and",
+        "9||heb-esvri-Nah-t-8r4y|@vpa|by no means|נַקֵּ֖ה|naq•qēh|נקה|nqh|to acquit",
+        "10|h3808|heb-esvri-Nah-t-8r5o|@Pn|by no means|לֹ֣א|lōʾ|לֹא|lōʾ|not",
+        "11||heb-esvri-Nah-t-grady|@vpi3ms|clear|יְנַקֶּ֑ה|yə•naq•qeh|נקה|nqh|he will acquit",
+        "12||heb-esvri-Nah-t-gradg|@np|Lord|יְהוָ֗ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "13||heb-esvri-Nah-t-gradc|@Pp|in|בְּ|bə|בְּ|bə|in",
+        "14||heb-esvri-Nah-t-gradq|@ncfsa|whirlwind|סוּפָ֤ה|suw•p̄āh|סוּפָה|suw•p̄āh|storm wind",
+        "15||heb-esvri-Nah-t-grauy|@Pc|and|וּ|uw|וְ|wə|and",
+        "16||heb-esvri-Nah-t-graun|@Pp|•|בִ|ḇi|בְּ|bə|in",
+        "17||heb-esvri-Nah-t-graur|@ncfsa|storm|שְׂעָרָה֙|ś•ʿā•rāh|שְׂעָרָה|śə•ʿā•rāh|storm",
+        "18|h1870|heb-esvri-Nah-t-grauk|@ncbscX3ms|way|דַּרְכֹּ֔ו|dar•kōw|דֶּרֶךְ|de•reḵ|way of",
+        "20||heb-esvri-Nah-t-grau1|@Pc|and|וְ|wə|וְ|wə|and",
+        "21|h6052|heb-esvri-Nah-t-gr3dy|@ncmsa|clouds|עָנָ֖ן|ʿā•nān|עָנָן|ʿā•nān|cloud",
+        "22|h80|heb-esvri-Nah-t-gr3dg|@ncmsc|dust|אֲבַ֥ק|ʾă•ḇaq|אָבָק|ʾā•ḇāq|dust of",
+        "23|h7272|heb-esvri-Nah-t-gr3dc|@ncfdcX3ms|feet|רַגְלָֽיו׃|raḡ•lāyw|רֶגֶל|re•ḡel|feet of"
+      ]
+    }
+  ],
+  "1:4": [
+    {
+      "o": 25241,
+      "r": "esvi:Nahum:1:4",
+      "p": [
+        "0||heb-esvri-Nah-t-gr3un|@vqPmsa|rebukes|גֹּועֵ֤ר|gōw•ʿēr|גער|gʿr|rebuking",
+        "1||heb-esvri-Nah-t-gr3ue|@Pp|•|בַּ|ba|בְּ|bə|on",
+        "3|h3221|heb-esvri-Nah-t-gr3uc|@ncmsa|sea|יָּם֙|y•yām|יָם|yām|sea",
+        "4||heb-esvri-Nah-t-gr3u1|@Pc|and|וַֽ|wa|וְ|wə|and",
+        "5||heb-esvri-Nah-t-gr4dy|@vpw3msX3ms|dry|יַּבְּשֵׁ֔הוּ|y•yab•bə•šē•huw|יבשׁ|ybš|he makes dry",
+        "7||heb-esvri-Nah-t-gr4de|@Pc|•|וְ|wə|וְ|wə|and",
+        "8|h3606|heb-esvri-Nah-t-gr4dk|@ncmsc|all|כָל־|ḵol-|כֹּל|kōl|all of",
+        "9||heb-esvri-Nah-t-gr4dq|@Pa|the|הַ|ha|הַ|ha|the",
+        "10|h5104|heb-esvri-Nah-t-gr4do|@ncmpa|rivers|נְּהָרֹ֖ות|n•nə•hā•rōwṯ|נָהָר|nā•hār|rivers",
+        "11||heb-esvri-Nah-t-gr4un|@vhp3ms|dries|הֶֽחֱרִ֑יב|he•ḥĕ•riyḇ|חרב|ḥrb|he dries up",
+        "12|h535|heb-esvri-Nah-t-gr4ue|@vip3ms|wither|אֻמְלַ֤ל|ʾum•lal|אמל|ʾml|he withers",
+        "13|h1316|heb-esvri-Nah-t-gr4uq|@np|Bashan|בָּשָׁן֙|bā•šān|בָּשָׁן|bā•šān|Bashan",
+        "14||heb-esvri-Nah-t-gr5dy|@Pc|and|וְ|wə|וְ|wə|and",
+        "15|h3760|heb-esvri-Nah-t-gr5dn|@np|Carmel|כַרְמֶ֔ל|ḵar•mel|כַּרְמֶל|kar•mel|Carmel",
+        "16||heb-esvri-Nah-t-gr5de|@Pc|•|וּ|uw|וְ|wə|and",
+        "17|h6525|heb-esvri-Nah-t-gr5dk|@ncmsc|bloom|פֶ֥רַח|p̄e•raḥ|פֶּרַח|pe•raḥ|blossom of",
+        "18||heb-esvri-Nah-t-gr5do|@np|Lebanon|לְבָנֹ֖ון|lə•ḇā•nōwn|לְבָנֹון|lə•ḇā•nōwn|Lebanon",
+        "19||heb-esvri-Nah-t-gr5un|@vip3ms|withers|אֻמְלָֽל׃|ʾum•lāl|אמל|ʾml|he withers"
+      ]
+    }
+  ],
+  "1:5": [
+    {
+      "o": 25242,
+      "r": "esvi:Nahum:1:5",
+      "p": [
+        "0|h2022|heb-esvri-Nah-t-gr5uk|@ncmpa|mountains|הָרִים֙|hā•riym|הַר|har|mountains",
+        "1|h7493|heb-esvri-Nah-t-gr5uo|@vqp3cp|quake|רָעֲשׁ֣וּ|rā•ʿă•šuw|רעשׁ|rʿš|they quake",
+        "2|h4481|heb-esvri-Nah-t-grhdn|@PpX3ms|before|מִמֶּ֔נּוּ|mim•men•nuw|מִן|min|from",
+        "4||heb-esvri-Nah-t-grhdk|@Pc|•|וְ|wə|וְ|wə|and",
+        "5||heb-esvri-Nah-t-grhdc|@Pa|the|הַ|ha|הַ|ha|the",
+        "6|h1390|heb-esvri-Nah-t-grhdq|@ncfpa|hills|גְּבָעֹ֖ות|g•gə•ḇā•ʿōwṯ|גִּבְעָה|giḇ•ʿāh|hills",
+        "7|h4127|heb-esvri-Nah-t-grhuy|@vvp3cp|melt|הִתְמֹגָ֑גוּ|hiṯ•mō•ḡā•ḡuw|מוג|mwg|they melt",
+        "8||heb-esvri-Nah-t-grhug|@Pc|•|וַ|wa|וְ|wə|and",
+        "9||heb-esvri-Nah-t-grhue|@vqw3fs|heaves|תִּשָּׂ֤א|t•tiś•śāʾ|נשׂא|nśʾ|she raises",
+        "10||heb-esvri-Nah-t-grhuq|@Pa|the|הָ|hā|הַ|ha|the",
+        "11|h776|heb-esvri-Nah-t-grhuo|@ncfsa|earth|אָ֙רֶץ֙|ʾā•reṣ|אֶרֶץ|ʾe•reṣ|earth",
+        "12|h4481|heb-esvri-Nah-t-geadn|@Pp|before|מִ|mi|מִן|min|from",
+        "13||heb-esvri-Nah-t-geadr|@ncbpcX3ms|before|פָּנָ֔יו|p•pā•nāyw|פָּנֶה|pā•neh|before",
+        "15||heb-esvri-Nah-t-geadc|@Pc|•|וְ|wə|וְ|wə|and",
+        "16|h8398|heb-esvri-Nah-t-geadq|@ncfsa|world|תֵבֵ֖ל|ṯē•ḇēl|תֵּבֵל|tē•ḇēl|world",
+        "17||heb-esvri-Nah-t-geauy|@Pc|and|וְ|wə|וְ|wə|and",
+        "18|h3606|heb-esvri-Nah-t-geaun|@ncmsc|all|כָל־|ḵol-|כֹּל|kōl|all of",
+        "19||heb-esvri-Nah-t-geaug|@vqPmpc|dwell|יֹ֥שְׁבֵי|yō•šə•ḇēy|ישׁב|yšb|ones dwelling of",
+        "20||heb-esvri-Nah-t-geauc|@PpX3fs|in|בָֽהּ׃|ḇāh|בְּ|bə|in"
+      ]
+    }
+  ],
+  "1:6": [
+    {
+      "o": 25243,
+      "r": "esvi:Nahum:1:6",
+      "p": [
+        "0|h6440|heb-esvri-Nah-t-ge3dn|@Pp|before|לִ|li|לְ|lə|",
+        "1|h6440|heb-esvri-Nah-t-ge3dr|@ncbpc|before|פְנֵ֤י|p̄•nēy|פָּנֶה|pā•neh|before",
+        "2||heb-esvri-Nah-t-ge3dk|@ncmscX3ms|indignation|זַעְמֹו֙|zaʿ•mōw|זַעַם|za•ʿam|indignation of",
+        "4|h4310|heb-esvri-Nah-t-ge3d1|@pii|Who|מִ֣י|miy|מִי|miy|who",
+        "5||heb-esvri-Nah-t-ge3ur|@vqi3ms|stand|יַֽעֲמֹ֔וד|ya•ʿă•mōwḏ|עמד|ʿmd|he stands",
+        "6||heb-esvri-Nah-t-ge3uk|@Pc|•|וּ|uw|וְ|wə|and",
+        "7|h4310|heb-esvri-Nah-t-ge3uc|@pii|Who|מִ֥י|miy|מִי|miy|who",
+        "8||heb-esvri-Nah-t-ge3u1|@vqi3ms|endure|יָק֖וּם|yā•quwm|קום|qwm|he stands",
+        "9||heb-esvri-Nah-t-ge4dr|@Pp|•|בַּ|ba|בְּ|bə|in",
+        "10||heb-esvri-Nah-t-ge4dg|@ncmsc|heat|חֲרֹ֣ון|ḥă•rōwn|חָרֹון|ḥā•rōwn|blaze of",
+        "11|h639|heb-esvri-Nah-t-ge4dc|@ncmscX3ms|anger|אַפֹּ֑ו|ʾap•pōw|אַף|ʾap̄|nose of",
+        "13|h2534|heb-esvri-Nah-t-ge4uy|@ncfscX3ms|wrath|חֲמָתֹו֙|ḥă•mā•ṯōw|חֵמָה|ḥē•māh|wrath of",
+        "15||heb-esvri-Nah-t-ge4ue|@vnp3fs|poured|נִתְּכָ֣ה|nit•tə•ḵāh|נתך|ntk|she is poured out",
+        "16||heb-esvri-Nah-t-ge4uq|@Pp|like|כָ|ḵā|כְּ|kə|like",
+        "18|h785|heb-esvri-Nah-t-ge4u1|@ncbsa|fire|אֵ֔שׁ|ʾēš|אֵשׁ|ʾēš|fire",
+        "19||heb-esvri-Nah-t-ge5dr|@Pc|and|וְ|wə|וְ|wə|and",
+        "20||heb-esvri-Nah-t-ge5dg|@Pa|the|הַ|ha|הַ|ha|the",
+        "21|h6697|heb-esvri-Nah-t-ge5de|@ncmpa|rocks|צֻּרִ֖ים|ṣ•ṣu•riym|צוּר|ṣuwr|rocks",
+        "22||heb-esvri-Nah-t-ge5dq|@vnp3cp|broken|נִתְּצ֥וּ|nit•tə•ṣuw|נתץ|ntṣ|they are shattered",
+        "23|h4481|heb-esvri-Nah-t-ge5uy|@PpX3ms|by|מִמֶּֽנּוּ׃|mim•men•nuw|מִן|min|from"
+      ]
+    }
+  ],
+  "1:7": [
+    {
+      "o": 25244,
+      "r": "esvi:Nahum:1:7",
+      "p": [
+        "0||heb-esvri-Nah-t-ge5uk|@amsa|good|טֹ֣וב|ṭōwḇ|טֹוב|ṭōwḇ|good",
+        "1||heb-esvri-Nah-t-ge5uo|@np|Lord|יְהוָ֔ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "2||heb-esvri-Nah-t-gehdn|@Pp|•|לְ|lə|לְ|lə|",
+        "3||heb-esvri-Nah-t-gehdr|@ncmsa|stronghold|מָעֹ֖וז|mā•ʿōwz|מָעֹוז|mā•ʿōwz|stronghold",
+        "4||heb-esvri-Nah-t-gehdk|@Pp|in|בְּ|bə|בְּ|bə|in",
+        "5||heb-esvri-Nah-t-gehdc|@ncmsc|day|יֹ֣ום|yōwm|יֹום|yōwm|day of",
+        "6|h6869|heb-esvri-Nah-t-gehd1|@ncfsa|trouble|צָרָ֑ה|ṣā•rāh|צָרָה|ṣā•rāh|trouble",
+        "7||heb-esvri-Nah-t-gehur|@Pc|•|וְ|wə|וְ|wə|and",
+        "8||heb-esvri-Nah-t-gehug|@vqPmsa|knows|יֹדֵ֖עַ|yō•ḏēaʿ|ידע|ydʿ|knowing",
+        "9|h2620|heb-esvri-Nah-t-gehuc|@vqPmpc|refuge|חֹ֥סֵי|ḥō•sēy|חסה|ḥsh|ones taking refuge of",
+        "10||heb-esvri-Nah-t-gehu1|@PpX3ms|in|בֹֽו׃|ḇōw|בְּ|bə|in"
+      ]
+    }
+  ],
+  "1:8": [
+    {
+      "o": 25245,
+      "r": "esvi:Nahum:1:8",
+      "p": [
+        "0||heb-esvri-Nah-t-gcade|@Pc|But|וּ|uw|וְ|wə|but",
+        "1||heb-esvri-Nah-t-gcadk|@Pp|with|בְ|ḇə|בְּ|bə|with",
+        "2|h7858|heb-esvri-Nah-t-gcadc|@ncmsa|flood|שֶׁ֣טֶף|še•ṭep̄|שֶׁטֶף|še•ṭep̄|torrent",
+        "3||heb-esvri-Nah-t-gcad1|@vqPmsa|overflowing|עֹבֵ֔ר|ʿō•ḇēr|עבר|ʿbr|going over",
+        "4|h3617|heb-esvri-Nah-t-gcaur|@ncfsa|complete|כָּלָ֖ה|kā•lāh|כָּלָה|kā•lāh|complete end",
+        "5||heb-esvri-Nah-t-gcauk|@vqi3ms|make|יַעֲשֶׂ֣ה|ya•ʿă•śeh|עשׂה|ʿśh|he will make",
+        "6||heb-esvri-Nah-t-gcauo|@ncmscX3fs|•|מְקֹומָ֑הּ|mə•qōw•māh|מָקֹום|mā•qōwm|place of",
+        "8||heb-esvri-Nah-t-gc3dr|@Pc|and|וְ|wə|וְ|wə|and",
+        "9|h341|heb-esvri-Nah-t-gc3dg|@ncmpcX3ms|enemies|אֹיְבָ֖יו|ʾō•yə•ḇāyw|אֹיֵב|ʾō•yēḇ|ones being hostile to",
+        "11||heb-esvri-Nah-t-gc3dq|@vpi3ms|pursue|יְרַדֶּף־|yə•rad•dep̄-|רדף|rdp|he will pursue",
+        "12|h2822|heb-esvri-Nah-t-gc3d1|@ncmsa|darkness|חֹֽשֶׁךְ׃|ḥō•šeḵ|חֹשֶׁךְ|ḥō•šeḵ|darkness"
+      ]
+    }
+  ],
+  "1:9": [
+    {
+      "o": 25246,
+      "r": "esvi:Nahum:1:9",
+      "p": [
+        "0|h4101|heb-esvri-Nah-t-gc3ug|@pii|What|מַה־|mah-|מָה|māh|what",
+        "1||heb-esvri-Nah-t-gc3uk|@vpi2mpXn|plot|תְּחַשְּׁבוּן֙|tə•ḥaš•šə•ḇuwn|חשׁב|ḥšb|you plot",
+        "2|h413|heb-esvri-Nah-t-gc3uo|@Pp|against|אֶל־|ʾel-|אֶל|ʾel|against",
+        "3||heb-esvri-Nah-t-gc4dy|@np|Lord|יְהוָ֔ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "4|h3617|heb-esvri-Nah-t-gc4dg|@ncfsa|complete|כָּלָ֖ה|kā•lāh|כָּלָה|kā•lāh|complete end",
+        "5|h1932|heb-esvri-Nah-t-gc4dc|@pi3ms|He|ה֣וּא|huwʾ|הוּא|huwʾ|he",
+        "6||heb-esvri-Nah-t-gc4d1|@vqPmsa|make|עֹשֶׂ֑ה|ʿō•śeh|עשׂה|ʿśh|making",
+        "7|h3808|heb-esvri-Nah-t-gc4ur|@Pn|not|לֹֽא־|lōʾ-|לֹא|lōʾ|not",
+        "8||heb-esvri-Nah-t-gc4ue|@vqi3fs|rise|תָק֥וּם|ṯā•quwm|קום|qwm|she will rise",
+        "9|h6471|heb-esvri-Nah-t-gc4uq|@ncfda|second|פַּעֲמַ֖יִם|pa•ʿă•ma•yim|פַּעַם|pa•ʿam|two times",
+        "10|h6869|heb-esvri-Nah-t-gc5dy|@ncfsa|trouble|צָרָֽה׃|ṣā•rāh|צָרָה|ṣā•rāh|trouble"
+      ]
+    }
+  ],
+  "1:10": [
+    {
+      "o": 25247,
+      "r": "esvi:Nahum:1:10",
+      "p": [
+        "0|h3588|heb-esvri-Nah-t-gc5de|@Pc|For|כִּ֚י|kiy|כִּי|kiy|for",
+        "1|h5705|heb-esvri-Nah-t-gc5dq|@Pp|like|עַד־|ʿaḏ-|עַד|ʿaḏ|to",
+        "2|h5518|heb-esvri-Nah-t-gc5d1|@ncfpa|thorns|סִירִ֣ים|siy•riym|סִירָה|siy•rāh|thorns",
+        "3||heb-esvri-Nah-t-gc5ur|@vqsmpa|entangled|סְבֻכִ֔ים|sə•ḇu•ḵiym|סבך|sbk|being entangled",
+        "4||heb-esvri-Nah-t-gc5uk|@Pc|•|וּ|uw|וְ|wə|and",
+        "5||heb-esvri-Nah-t-gc5uc|@Pp|like|כְ|ḵə|כְּ|kə|like",
+        "6||heb-esvri-Nah-t-gc5uq|@ncmscX3mp|drunkards|סָבְאָ֖ם|soḇ•ʾām|סֹבֶא|sō•ḇeʾ|drink of",
+        "8||heb-esvri-Nah-t-gchdn|@vqsmpa|drink|סְבוּאִ֑ים|sə•ḇuw•ʾiym|סבא|sbʾ|ones being drunk",
+        "9||heb-esvri-Nah-t-gchde|@vQp3cp|consumed|אֻ֨כְּל֔וּ|ʾuk•kə•luw|אכל|ʾkl|they are consumed",
+        "10||heb-esvri-Nah-t-gchdq|@Pp|like|כְּ|kə|כְּ|kə|like",
+        "11|h7179|heb-esvri-Nah-t-gchdo|@ncmsa|stubble|קַ֥שׁ|qaš|קַשׁ|qaš|stubble",
+        "12|h3003|heb-esvri-Nah-t-gchun|@amsa|dried|יָבֵ֖שׁ|yā•ḇēš|יָבֵשׁ|yā•ḇēš|dry",
+        "13|h4392|heb-esvri-Nah-t-gchue|@amsa|fully|מָלֵֽא׃|mā•lēʾ|מָלֵא|mā•lēʾ|full"
+      ]
+    }
+  ],
+  "1:11": [
+    {
+      "o": 25248,
+      "r": "esvi:Nahum:1:11",
+      "p": [
+        "0|h4481|heb-esvri-Nah-t-gchuo|@PpX2fs|From|מִמֵּ֣ךְ|mim•mēḵ|מִן|min|from",
+        "2||heb-esvri-Nah-t-goadr|@vqp3ms|came|יָצָ֔א|yā•ṣāʾ|יצא|yṣʾ|he came out",
+        "3||heb-esvri-Nah-t-goadk|@vqPmsa|plotted|חֹשֵׁ֥ב|ḥō•šēḇ|חשׁב|ḥšb|one plotting",
+        "4|h5921|heb-esvri-Nah-t-goado|@Pp|against|עַל־|ʿal-|עַל|ʿal|against",
+        "5||heb-esvri-Nah-t-goauy|@np|Lord|יְהוָ֖ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "6|h7451|heb-esvri-Nah-t-goaug|@ncfsa|evil|רָעָ֑ה|rā•ʿāh|רָעָה|rā•ʿāh|evil",
+        "7|h3289|heb-esvri-Nah-t-goauc|@ncmsc|counselor|יֹעֵ֖ץ|yō•ʿēṣ|יֹועֵץ|yōw•ʿēṣ|one giving counsel of",
+        "8|h1100|heb-esvri-Nah-t-goau1|@ncmsa|worthless|בְּלִיָּֽעַל׃|bə•liy•yā•ʿal|בְּלִיַּעַל|bə•liy•ya•ʿal|worthlessness"
+      ]
+    }
+  ],
+  "1:12": [
+    {
+      "o": 25249,
+      "r": "esvi:Nahum:1:12",
+      "p": [
+        "0|h3541|heb-esvri-Nah-t-go3dc|@Pd|Thus|כֹּ֣ה׀|kōh|כֹּה|kōh|thus",
+        "1|h559|heb-esvri-Nah-t-go3d1|@vqp3ms|says|אָמַ֣ר|ʾā•mar|אמר|ʾmr|he says",
+        "2||heb-esvri-Nah-t-go3ur|@np|Lord|יְהוָ֗ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "3|h518|heb-esvri-Nah-t-go3uk|@Pc|Though|אִם־|ʾim-|אִם|ʾim|though",
+        "4|h8003|heb-esvri-Nah-t-go3uq|@ampa|full|שְׁלֵמִים֙|šə•lē•miym|שָׁלֵם|šā•lēm|whole",
+        "5||heb-esvri-Nah-t-go4dy|@Pc|and|וְ|wə|וְ|wə|and",
+        "6|h3654|heb-esvri-Nah-t-go4dn|@Pd|•|כֵ֣ן|ḵēn|כֵּן|kēn|thus",
+        "7|h7227|heb-esvri-Nah-t-go4de|@ampa|many|רַבִּ֔ים|rab•biym|רַב|raḇ|many",
+        "8||heb-esvri-Nah-t-go4dq|@Pc|•|וְ|wə|וְ|wə|and",
+        "9|h3654|heb-esvri-Nah-t-go4do|@Pd|•|כֵ֥ן|ḵēn|כֵּן|kēn|thus",
+        "10||heb-esvri-Nah-t-go4un|@vnp3cp|cut|נָגֹ֖זּוּ|nā•ḡōz•zuw|גזז|gzz|they will be cut off",
+        "11||heb-esvri-Nah-t-go4ue|@Pc|and|וְ|wə|וְ|wə|and",
+        "12||heb-esvri-Nah-t-go4uk|@vqp3ms|pass|עָבָ֑ר|ʿā•ḇār|עבר|ʿbr|he will pass away",
+        "13|h518|heb-esvri-Nah-t-go4uo|@Pc|Though|וְ|wə|וְ|wə|though",
+        "14||heb-esvri-Nah-t-go4u1|@vpp1csX2fs|afflicted|עִ֨נִּתִ֔ךְ|ʿin•ni•ṯiḵ|ענה|ʿnh|I have afflicted",
+        "16|h3808|heb-esvri-Nah-t-go5dg|@Pn|no|לֹ֥א|lōʾ|לֹא|lōʾ|not",
+        "17||heb-esvri-Nah-t-go5dc|@vpi1csX2fs|afflict|אֲעַנֵּ֖ךְ|ʾă•ʿan•nēḵ|ענה|ʿnh|I will afflict",
+        "19||heb-esvri-Nah-t-go5uy|@Pd|more|עֹֽוד׃|ʿōwḏ|עֹוד|ʿōwḏ|more"
+      ]
+    }
+  ],
+  "1:13": [
+    {
+      "o": 25250,
+      "r": "esvi:Nahum:1:13",
+      "p": [
+        "0||heb-esvri-Nah-t-go5ue|@Pc|And|וְ|wə|וְ|wə|and",
+        "1|h6258|heb-esvri-Nah-t-go5uk|@Pd|now|עַתָּ֕ה|ʿat•tāh|עַתָּה|ʿat•tāh|now",
+        "2||heb-esvri-Nah-t-go5uo|@vqi1cs|break|אֶשְׁבֹּ֥ר|ʾeš•bōr|שׁבר|šbr|I will break",
+        "3||heb-esvri-Nah-t-gohdn|@ncmscX3ms|yoke|מֹטֵ֖הוּ|mō•ṭē•huw|מֹוט|mōwṭ|bar of",
+        "5|h4481|heb-esvri-Nah-t-gohdk|@Pp|from off|מֵֽ|mē|מִן|min|from",
+        "6|h5922|heb-esvri-Nah-t-gohdc|@PpX2fs|from off|עָלָ֑יִךְ|ʿā•lā•yiḵ|עַל|ʿal|on",
+        "8||heb-esvri-Nah-t-gohuy|@Pc|and|וּ|uw|וְ|wə|and",
+        "9||heb-esvri-Nah-t-gohun|@ncfpcX2fs|bonds|מֹוסְרֹתַ֖יִךְ|mōw•sə•rō•ṯa•yiḵ|מֹוסֵרָה|mōw•sē•rāh|bonds of",
+        "11||heb-esvri-Nah-t-gohuk|@vpi1cs|burst|אֲנַתֵּֽק׃|ʾă•nat•tēq|נתק|ntq|I will burst"
+      ]
+    }
+  ],
+  "1:14": [
+    {
+      "o": 25251,
+      "r": "esvi:Nahum:1:14",
+      "p": [
+        "0||heb-esvri-Nah-t-gohu1|@Pc|•|וְ|wə|וְ|wə|and",
+        "1||heb-esvri-Nah-t-gwady|@vpp3ms|commandment|צִוָּ֤ה|ṣiw•wāh|צוה|ṣwh|he has given commandment",
+        "2|h5922|heb-esvri-Nah-t-gwadg|@PpX2ms|about|עָלֶ֙יךָ֙|ʿā•ley•ḵā|עַל|ʿal|about",
+        "4||heb-esvri-Nah-t-gwadq|@np|Lord|יְהוָ֔ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "5|h3808|heb-esvri-Nah-t-gwauy|@Pn|No|לֹֽא־|lōʾ-|לֹא|lōʾ|not",
+        "6||heb-esvri-Nah-t-gwaur|@vni3ms|perpetuated|יִזָּרַ֥ע|yiz•zā•raʿ|זרע|zrʿ|he shall be sown",
+        "7|h4481|heb-esvri-Nah-t-gwauk|@Pp|•|מִ|mi|מִן|min|from",
+        "8|h8035|heb-esvri-Nah-t-gwauc|@ncmscX2ms|name|שִּׁמְךָ֖|š•šim•ḵā|שֵׁם|šēm|name of",
+        "10||heb-esvri-Nah-t-gw3dy|@Pd|more|עֹ֑וד|ʿōwḏ|עֹוד|ʿōwḏ|more",
+        "11|h4481|heb-esvri-Nah-t-gw3dg|@Pp|from|מִ|mi|מִן|min|from",
+        "12|h1005|heb-esvri-Nah-t-gw3de|@ncmsc|house|בֵּ֨ית|b•bēyṯ|בַּיִת|ba•yiṯ|house of",
+        "13|h430|heb-esvri-Nah-t-gw3dq|@ncmpcX2ms|gods|אֱלֹהֶ֜יךָ|ʾĕ•lō•hey•ḵā|אֱלֹהִים|ʾĕ•lō•hiym|gods of",
+        "15||heb-esvri-Nah-t-gw3un|@vhi1cs|cut|אַכְרִ֨ית|ʾaḵ•riyṯ|כרת|krt|I will cut off",
+        "16|h6459|heb-esvri-Nah-t-gw3ue|@ncmsa|carved|פֶּ֧סֶל|pe•sel|פֶּסֶל|pe•sel|carved image",
+        "17||heb-esvri-Nah-t-gw3uq|@Pc|and|וּ|uw|וְ|wə|and",
+        "18|h4541|heb-esvri-Nah-t-gw3uo|@ncfsa|metal|מַסֵּכָ֛ה|mas•sē•ḵāh|מַסֵּכָה|mas•sē•ḵāh|cast image",
+        "19||heb-esvri-Nah-t-gw4dn|@vqi1cs|make|אָשִׂ֥ים|ʾā•śiym|שׂים|śym|I will make",
+        "20|h6913|heb-esvri-Nah-t-gw4de|@ncmscX2ms|grave|קִבְרֶ֖ךָ|qiḇ•re•ḵā|קֶבֶר|qe•ḇer|grave of",
+        "22|h3588|heb-esvri-Nah-t-gw4do|@Pc|for|כִּ֥י|kiy|כִּי|kiy|for",
+        "23||heb-esvri-Nah-t-gw4un|@vqp2ms|vile|קַלֹּֽותָ׃|qal•lōw•ṯā|קלל|qll|you are vile"
+      ]
+    }
+  ],
+  "1:15": [
+    {
+      "o": 25252,
+      "r": "esvi:Nahum:1:15",
+      "p": [
+        "1.1|h2009|heb-esvri-Nah-t-gw4u1|@Pi|Behold|הִנֵּ֨ה|hin•nēh|הִנֵּה|hin•nēh|behold",
+        "1.1|h5922|heb-esvri-Nah-t-gw5dr|@Pp|upon|עַל־|ʿal-|עַל|ʿal|upon",
+        "1.1||heb-esvri-Nah-t-gw5de|@Pa|the|הֶ|he|הַ|ha|the",
+        "1.1|h2022|heb-esvri-Nah-t-gw5dk|@ncmpa|mountains|הָרִ֜ים|hā•riym|הַר|har|mountains",
+        "1.1|h7272|heb-esvri-Nah-t-gw5do|@ncfdc|feet|רַגְלֵ֤י|raḡ•lēy|רֶגֶל|re•ḡel|feet of",
+        "1.1||heb-esvri-Nah-t-gw5un|@vpPmsa|who brings good news|מְבַשֵּׂר֙|mə•ḇaś•śēr|בשׂר|bśr|one bringing good news",
+        "1.1||heb-esvri-Nah-t-gw5ue|@vhPmsa|publishes|מַשְׁמִ֣יעַ|maš•miyaʿ|שׁמע|šmʿ|one proclaiming",
+        "1.1|h7965|heb-esvri-Nah-t-gw5uq|@ncmsa|peace|שָׁלֹ֔ום|šā•lōwm|שָׁלֹום|šā•lōwm|peace",
+        "1.1|h2282|heb-esvri-Nah-t-gwhdc|@ncmpcX2fs|feasts|חַגַּ֖יִךְ|ḥag•ga•yiḵ|חַג|ḥaḡ|feasts of",
+        "1.1||heb-esvri-Nah-t-gwhdy|@vqvfs|feasts|חָגִּ֧י|ḥog•giy|חגג|ḥgg|keep a feast",
+        "1.1|h3063|heb-esvri-Nah-t-gwhdg|@np|Judah|יְהוּדָ֛ה|yə•huw•ḏāh|יְהוּדָה|yə•huw•ḏāh|Judah",
+        "1.1||heb-esvri-Nah-t-gwhuy|@vpvfs|fulfill|שַׁלְּמִ֣י|šal•lə•miy|שׁלם|šlm|fulfill",
+        "1.1||heb-esvri-Nah-t-gwhug|@ncmpcX2fs|vows|נְדָרָ֑יִךְ|nə•ḏā•rā•yiḵ|נֵדֶר|nē•ḏer|vows of",
+        "1.1|h3588|heb-esvri-Nah-t-gwhuq|@Pc|for|כִּי֩|kiy|כִּי|kiy|for",
+        "1.1|h3808|heb-esvri-Nah-t-gaady|@Pn|never|לֹ֨א|lōʾ|לֹא|lōʾ|not",
+        "1.1|h3254|heb-esvri-Nah-t-gaadc|@Pd|again|עֹ֛וד|ʿōwḏ|עֹוד|ʿōwḏ|again",
+        "1.1|h3254|heb-esvri-Nah-t-gaadg|@vhi3ms|again|יֹוסִ֥יף|yōw•siyp̄|יסף|ysp|he shall do again",
+        "1.1|h1100|heb-esvri-Nah-t-gaau1|@ncmsa|worthless|בְּלִיַּ֖עַל|bə•liy•ya•ʿal|בְּלִיַּעַל|bə•liy•ya•ʿal|worthless person",
+        "1.1||heb-esvri-Nah-t-gaauy|@vqc|pass|עֲבֹור־|ʿă•ḇōwr-|עבר|ʿbr|pass",
+        "1.1||heb-esvri-Nah-t-gaad1|@Pp|pass|לַ|la|לְ|lə|to",
+        "1.1||heb-esvri-Nah-t-gaaug|@vqc|•|עֲבָר־|ʿă•ḇor-|עבר|ʿbr|",
+        "1.1||heb-esvri-Nah-t-gaaur|@Pp|•|לַֽ|la|לְ|lə|",
+        "1.1||heb-esvri-Nah-t-gaauk|@PpX2fs|through|בָּ֥ךְ|bāḵ|בְּ|bə|through",
+        "1.1|h3606|heb-esvri-Nah-t-ga3dr|@ncmscX3ms|utterly|כֻּלֹּ֥ה|kul•lōh|כֹּל|kōl|whole of",
+        "1.1||heb-esvri-Nah-t-ga3dc|@vnp3ms|cut|נִכְרָֽת׃|niḵ•rāṯ|כרת|krt|he is cut off"
+      ]
+    }
+  ],
+  "2:0": [
+    {
+      "o": 25253,
+      "r": "esvi:Nahum:2:0",
+      "h": 1,
+      "t": "Nahum 2",
+      "p": []
+    },
+    {
+      "o": 25254,
+      "r": "esvi:Nahum:2:0",
+      "h": 2,
+      "t": "The Destruction of Nineveh",
+      "p": []
+    }
+  ],
+  "2:1": [
+    {
+      "o": 25255,
+      "r": "esvi:Nahum:2:1",
+      "p": [
+        "1.1||heb-esvri-Nah-t-ga3uy|@vqp3ms|up|עָלָ֥ה|ʿā•lāh|עלה|ʿlh|he has come up",
+        "1.1||heb-esvri-Nah-t-ga4ug|@vpvms|dress for battle|חַזֵּ֣ק|ḥaz•zēq|חזק|ḥzq|make strong",
+        "1.1099999999999999||heb-esvri-Nah-t-ga4uc|@ncmda|dress for battle|מָתְנַ֔יִם|moṯ•na•yim|מָתְנַיִם|moṯ•na•yim|loins",
+        "1.12||heb-esvri-Nah-t-ga4u1|@vpvms|strength|אַמֵּ֥ץ|ʾam•mēṣ|אמץ|ʾmṣ|make firm",
+        "1.13|h3581|heb-esvri-Nah-t-ga5dr|@ncmsa|strength|כֹּ֖חַ|kōaḥ|כֹּחַ|kōaḥ|strength",
+        "1.1400000000000001|h3966|heb-esvri-Nah-t-ga5dk|@Pd|all|מְאֹֽד׃|mə•ʾōḏ|מְאֹד|mə•ʾōḏ|very",
+        "1.2000000000000002||heb-esvri-Nah-t-ga3ug|@vhPmsa|scatterer|מֵפִ֛יץ|mē•p̄iyṣ|פוץ|pwṣ|one scattering",
+        "1.2999999999999998|h5922|heb-esvri-Nah-t-ga3uc|@Pp|against|עַל־|ʿal-|עַל|ʿal|against",
+        "1.4||heb-esvri-Nah-t-ga3uo|@ncbpcX2fs|against|פָּנַ֖יִךְ|pā•na•yiḵ|פָּנֶה|pā•neh|face of",
+        "1.6||heb-esvri-Nah-t-ga4dr|@vqa|Man|נָצֹ֣ור|nā•ṣōwr|נצר|nṣr|to guard",
+        "1.7000000000000002|h4694|heb-esvri-Nah-t-ga4dk|@ncfsa|ramparts|מְצֻרָ֑ה|mə•ṣu•rāh|מְצוּרָה|mə•ṣuw•rāh|fortification",
+        "1.7999999999999998|h6822|heb-esvri-Nah-t-ga4do|@vpvms|watch|צַפֵּה־|ṣap•pēh-|צפה|ṣph|watch",
+        "1.9|h1870|heb-esvri-Nah-t-ga4uy|@ncbsa|road|דֶ֙רֶךְ֙|ḏe•reḵ|דֶּרֶךְ|de•reḵ|road"
+      ]
+    }
+  ],
+  "2:2": [
+    {
+      "o": 25256,
+      "r": "esvi:Nahum:2:2",
+      "p": [
+        "2.1|h3588|heb-esvri-Nah-t-ga5d1|@Pc|For|כִּ֣י|kiy|כִּי|kiy|for",
+        "2.1|h3588|heb-esvri-Nah-t-gahug|@Pc|for|כִּ֤י|kiy|כִּי|kiy|for",
+        "2.11||heb-esvri-Nah-t-gahuc|@vqp3cpX3mp|plundered|בְקָקוּם֙|ḇə•qā•quwm|בקק|bqq|they have emptied",
+        "2.13||heb-esvri-Nah-t-ghady|@vqPmpa|plunderers|בֹּֽקְקִ֔ים|bō•qə•qiym|בקק|bqq|ones emptying",
+        "2.14||heb-esvri-Nah-t-ghadg|@Pc|and|וּ|uw|וְ|wə|and",
+        "2.15|h2156|heb-esvri-Nah-t-ghade|@ncfpcX3mp|branches|זְמֹרֵיהֶ֖ם|zə•mō•rēy•hem|זְמֹורָה|zə•mōw•rāh|branches of",
+        "2.17||heb-esvri-Nah-t-ghado|@vpp3cp|ruined|שִׁחֵֽתוּ׃|ši•ḥē•ṯuw|שׁחת|šḥt|they have ruined",
+        "2.2||heb-esvri-Nah-t-ga5ur|@vqp3ms|restoring|שָׁ֤ב|šāḇ|שׁוב|šwb|he is restoring",
+        "2.3||heb-esvri-Nah-t-ga5uk|@np|Lord|יְהוָה֙|yəh•wāh|יהוה|yhwh|Yahweh",
+        "2.4|h854|heb-esvri-Nah-t-ga5uo|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "2.5||heb-esvri-Nah-t-gahdy|@ncmsc|majesty|גְּאֹ֣ון|gə•ʾōwn|גָּאֹון|gā•ʾōwn|majesty of",
+        "2.6|h3290|heb-esvri-Nah-t-gahdg|@np|Jacob|יַעֲקֹ֔ב|ya•ʿă•qōḇ|יַעֲקֹב|ya•ʿă•qōḇ|Jacob",
+        "2.7||heb-esvri-Nah-t-gahdc|@Pp|as|כִּ|ki|כְּ|kə|as",
+        "2.8||heb-esvri-Nah-t-gahdq|@ncmsc|majesty|גְאֹ֖ון|ḡ•ʾōwn|גָּאֹון|gā•ʾōwn|majesty of",
+        "2.9|h3479|heb-esvri-Nah-t-gahuy|@np|Israel|יִשְׂרָאֵ֑ל|yiś•rā•ʾēl|יִשְׂרָאֵל|yiś•rā•ʾēl|Israel"
+      ]
+    }
+  ],
+  "2:3": [
+    {
+      "o": 25257,
+      "r": "esvi:Nahum:2:3",
+      "p": [
+        "3.0999999999999996|h4043|heb-esvri-Nah-t-ghaur|@ncbsc|shield|מָגֵ֨ן|mā•ḡēn|מָגֵן|mā•ḡēn|shield of",
+        "3.0999999999999996||heb-esvri-Nah-t-gh3ug|@ncfpa|metal|פְּלָדֹ֥ות|pə•lā•ḏōwṯ|פְּלָדָה|pə•lā•ḏāh|metal",
+        "3.1100000000000003||heb-esvri-Nah-t-gh3uc|@Pa|The|הָ|hā|הַ|ha|the",
+        "3.12|h7393|heb-esvri-Nah-t-gh3uq|@ncmsa|chariots|רֶ֖כֶב|re•ḵeḇ|רֶכֶב|re•ḵeḇ|chariot",
+        "3.13||heb-esvri-Nah-t-gh4dy|@Pp|on|בְּ|bə|בְּ|bə|on",
+        "3.1399999999999997||heb-esvri-Nah-t-gh4dn|@ncmsc|day|יֹ֣ום|yōwm|יֹום|yōwm|day of",
+        "3.1500000000000004||heb-esvri-Nah-t-gh4de|@vhcX3ms|musters|הֲכִינֹ֑ו|hă•ḵiy•nōw|כון|kwn|to establish",
+        "3.17||heb-esvri-Nah-t-gh4do|@Pc|•|וְ|wə|וְ|wə|and",
+        "3.1799999999999997||heb-esvri-Nah-t-gh4d1|@Pa|the|הַ|ha|הַ|ha|the",
+        "3.1900000000000004||heb-esvri-Nah-t-gh4uy|@ncmpa|cypress|בְּרֹשִׁ֖ים|b•bə•rō•šiym|בְּרֹושׁ|bə•rōwš|cypresses",
+        "3.2||heb-esvri-Nah-t-ghauk|@ampcX3ms|mighty|גִּבֹּרֵ֜יהוּ|gib•bō•rēy•huw|גִּבֹּור|gib•bōwr|mighty ones of",
+        "3.2||heb-esvri-Nah-t-gh4ug|@vHp3cp|brandished|הָרְעָֽלוּ׃|hor•ʿā•luw|רעל|rʿl|they are brandished",
+        "3.4000000000000004||heb-esvri-Nah-t-ghau1|@vPPmsa|red|מְאָדָּ֗ם|mə•ʾod•dām|אדם|ʾdm|being dyed red",
+        "3.5|h376|heb-esvri-Nah-t-gh3dr|@ncmpc|soldiers|אַנְשֵׁי־|ʾan•šēy-|אִישׁ|ʾiyš|men of",
+        "3.5999999999999996|h2429|heb-esvri-Nah-t-gh3de|@ncmsa|soldiers|חַ֙יִל֙|ḥa•yil|חַיִל|ḥa•yil|army",
+        "3.7||heb-esvri-Nah-t-gh3dq|@vPPmpa|scarlet|מְתֻלָּעִ֔ים|mə•ṯul•lā•ʿiym|תלע|tlʿ|being clothed in scarlet",
+        "3.8||heb-esvri-Nah-t-gh3uy|@Pp|with|בְּ|bə|בְּ|bə|with",
+        "3.9000000000000004|h785|heb-esvri-Nah-t-gh3un|@ncbsc|flashing|אֵשׁ־|ʾēš-|אֵשׁ|ʾēš|fire of"
+      ]
+    }
+  ],
+  "2:4": [
+    {
+      "o": 25258,
+      "r": "esvi:Nahum:2:4",
+      "p": [
+        "4.1||heb-esvri-Nah-t-gh4uq|@Pp|through|בַּֽ|ba|בְּ|bə|through",
+        "4.1|h7340|heb-esvri-Nah-t-gh5ue|@ncmpa|squares|רְחֹבֹ֑ות|r•ḥō•ḇōwṯ|רְחֹב|rə•ḥōḇ|open squares",
+        "4.11|h4758|heb-esvri-Nah-t-gh5uq|@ncmscX3fp|gleam|מַרְאֵיהֶן֙|mar•ʾēy•hen|מַרְאֶה|mar•ʾeh|appearances of",
+        "4.13||heb-esvri-Nah-t-ghhdn|@Pp|like|כַּ|ka|כְּ|kə|like",
+        "4.15|h3940|heb-esvri-Nah-t-ghhdg|@ncmpa|torches|לַּפִּידִ֔ם|l•lap•piy•ḏim|לַפִּיד|lap•piyḏ|torches",
+        "4.16||heb-esvri-Nah-t-ghhdc|@Pp|like|כַּ|ka|כְּ|kə|like",
+        "4.18|h1301|heb-esvri-Nah-t-ghhdo|@ncmpa|lightning|בְּרָקִ֖ים|b•bə•rā•qiym|בָּרָק|bā•rāq|lightning",
+        "4.19||heb-esvri-Nah-t-ghhun|@vei3mp|dart|יְרֹוצֵֽצוּ׃|yə•rōw•ṣē•ṣuw|רוץ|rwṣ|they dart",
+        "4.3|h2351|heb-esvri-Nah-t-gh4u1|@ncmpa|streets|חוּצֹות֙|ḥuw•ṣōwṯ|חוּץ|ḥuwṣ|streets",
+        "4.4|h1984|heb-esvri-Nah-t-gh5dr|@vyi3mp|madly|יִתְהֹולְל֣וּ|yiṯ•hōw•lə•luw|הלל|hll|they act like a madman",
+        "4.5||heb-esvri-Nah-t-gh5dk|@Pa|The|הָ|hā|הַ|ha|the",
+        "4.6|h7393|heb-esvri-Nah-t-gh5dc|@ncmsa|chariots|רֶ֔כֶב|re•ḵeḇ|רֶכֶב|re•ḵeḇ|chariot",
+        "4.7||heb-esvri-Nah-t-gh5d1|@vwi3mpXn|rush|יִֽשְׁתַּקְשְׁק֖וּן|yiš•taq•šə•quwn|שׁקק|šqq|they rush to and fro",
+        "4.8||heb-esvri-Nah-t-gh5ur|@Pp|through|בָּ|bo|בְּ|bə|through"
+      ]
+    }
+  ],
+  "2:5": [
+    {
+      "o": 25259,
+      "r": "esvi:Nahum:2:5",
+      "p": [
+        "5.1||heb-esvri-Nah-t-ghhuk|@vqi3ms|remembers|יִזְכֹּר֙|yiz•kōr|זכר|zkr|he remembers",
+        "5.11||heb-esvri-Nah-t-8yauk|@vpi3mp|hasten|יְמַֽהֲרוּ֙|yə•ma•hă•ruw|מהר|mhr|they hasten",
+        "5.12||heb-esvri-Nah-t-8yauo|@ncfscX3fs|wall|חֹֽומָתָ֔הּ|ḥōw•mā•ṯāh|חֹומָה|ḥōw•māh|wall of",
+        "5.14||heb-esvri-Nah-t-8y3dr|@Pc|•|וְ|wə|וְ|wə|and",
+        "5.15||heb-esvri-Nah-t-8y3dg|@vHp3ms{2}|set|הֻכַ֖ן|hu•ḵan|כון|kwn|he is set in place",
+        "5.16||heb-esvri-Nah-t-8y3dc|@Pa|the|הַ|ha|הַ|ha|the",
+        "5.17||heb-esvri-Nah-t-8y3dq|@ncmsa|tower|סֹּכֵֽךְ׃|s•sō•ḵēḵ|סֹכֵךְ|sō•ḵēḵ|mantelet",
+        "5.2|h117|heb-esvri-Nah-t-ghhuo|@ampcX3ms|officers|אַדִּירָ֔יו|ʾad•diy•rāyw|אַדִּיר|ʾad•diyr|excellent ones of",
+        "5.4||heb-esvri-Nah-t-8yadr|@vni3mp|stumble|יִכָּשְׁל֖וּ|yik•kā•šə•luw|כשׁל|kšl|they stumble",
+        "5.5||heb-esvri-Nah-t-8yadk|@Pp|as|בַ|ḇa|בְּ|bə|in",
+        "5.6||heb-esvri-Nah-t-8yadc|@ncfpcX3mp|go|הֲלִכֹותָם|hă•li•ḵōw•ṯām|הֲלִיכָה|hă•liy•ḵāh|going of",
+        "5.8||heb-esvri-Nah-t-8yauy|@Pp|•|בַּ|ba|בְּ|bə|",
+        "5.9||heb-esvri-Nah-t-8yaun|@ncfscX3mp|•|הֲלִֽיכָתָ֑ם|hă•liy•ḵā•ṯām|הֲלִיכָה|hă•liy•ḵāh|"
+      ]
+    }
+  ],
+  "2:6": [
+    {
+      "o": 25260,
+      "r": "esvi:Nahum:2:6",
+      "p": [
+        "6.1|h8179|heb-esvri-Nah-t-8y3un|@ncmpc|gates|שַׁעֲרֵ֥י|ša•ʿă•rēy|שַׁעַר|ša•ʿar|gates of",
+        "6.2||heb-esvri-Nah-t-8y3ue|@Pa|river|הַ|ha|הַ|ha|the",
+        "6.3|h5104|heb-esvri-Nah-t-8y3uk|@ncmpa|river|נְּהָרֹ֖ות|n•nə•hā•rōwṯ|נָהָר|nā•hār|rivers",
+        "6.4||heb-esvri-Nah-t-8y3uo|@vnp3cp|opened|נִפְתָּ֑חוּ|nip̄•tā•ḥuw|פתח|ptḥ|they are opened",
+        "6.5||heb-esvri-Nah-t-8y4dn|@Pc|•|וְ|wə|וְ|wə|and",
+        "6.6||heb-esvri-Nah-t-8y4dr|@Pa|the|הַֽ|ha|הַ|ha|the",
+        "6.7|h1964|heb-esvri-Nah-t-8y4dg|@ncmsa|palace|הֵיכָ֖ל|hēy•ḵāl|הֵיכָל|hēy•ḵāl|palace",
+        "6.8||heb-esvri-Nah-t-8y4dc|@vnp3ms|melts|נָמֹֽוג׃|nā•mōwḡ|מוג|mwg|he melts away"
+      ]
+    }
+  ],
+  "2:7": [
+    {
+      "o": 25261,
+      "r": "esvi:Nahum:2:7",
+      "p": [
+        "7.1||heb-esvri-Nah-t-8y4uy|@Pc|•|וְ|wə|וְ|wə|and",
+        "7.1||heb-esvri-Nah-t-8y5d1|@ncmsc|•|קֹ֣ול|qōwl|קֹול|qōwl|sound of",
+        "7.109999999999999||heb-esvri-Nah-t-8y5ur|@ncfpa|doves|יֹונִ֔ים|yōw•niym|יֹונָה|yōw•nāh|doves",
+        "7.119999999999999||heb-esvri-Nah-t-8y5uk|@vkPfpa|beating|מְתֹפְפֹ֖ת|mə•ṯō•p̄ə•p̄ōṯ|תפף|tpp|beating",
+        "7.130000000000001|h5922|heb-esvri-Nah-t-8y5uo|@Pp|•|עַל־|ʿal-|עַל|ʿal|on",
+        "7.140000000000001|h3824|heb-esvri-Nah-t-8yhdy|@ncmpcX3fp|breasts|לִבְבֵהֶֽן׃|li•ḇə•ḇē•hen|לֵבָב|lē•ḇāḇ|heart of",
+        "7.199999999999999||heb-esvri-Nah-t-8y4un|@vHp3ms|•|הֻצַּ֖ב|huṣ•ṣaḇ|נצב|nṣb|he is fixed",
+        "7.300000000000001||heb-esvri-Nah-t-8y4ue|@vPp3fs|stripped|גֻּלְּתָ֣ה|gul•lə•ṯāh|גלה|glh|she is uncovered",
+        "7.4||heb-esvri-Nah-t-8y4uq|@vHp3fs|carried|הֹֽעֲלָ֑תָה|hō•ʿă•lā•ṯāh|עלה|ʿlh|she is made to go up",
+        "7.5||heb-esvri-Nah-t-8y5dy|@Pc|•|וְ|wə|וְ|wə|and",
+        "7.6|h519|heb-esvri-Nah-t-8y5dn|@ncfpcX3fs|slave|אַמְהֹתֶ֗יהָ|ʾam•hō•ṯey•hā|אָמָה|ʾā•māh|female slaves of",
+        "7.800000000000001||heb-esvri-Nah-t-8y5dk|@vpPfpa|moaning|מְנַֽהֲגֹות֙|mə•na•hă•ḡōwṯ|נהג|nhg|moaning",
+        "7.9||heb-esvri-Nah-t-8y5do|@Pp|like|כְּ|kə|כְּ|kə|like"
+      ]
+    }
+  ],
+  "2:8": [
+    {
+      "o": 25262,
+      "r": "esvi:Nahum:2:8",
+      "p": [
+        "8.1||heb-esvri-Nah-t-8yhdk|@Pc|•|וְ|wə|וְ|wə|and",
+        "8.1|h1992|heb-esvri-Nah-t-8radg|@pi3mp|•|הֵ֣מָּה|hēm•māh|הֵם|hēm|they",
+        "8.11||heb-esvri-Nah-t-8radc|@vqPmpa|run|נָסִ֔ים|nā•siym|נוס|nws|fleeing",
+        "8.12||heb-esvri-Nah-t-8rad1|@vqvmp|Halt|עִמְד֥וּ|ʿim•ḏuw|עמד|ʿmd|stand",
+        "8.13||heb-esvri-Nah-t-8raur|@vqvmp|Halt|עֲמֹ֖דוּ|ʿă•mō•ḏuw|עמד|ʿmd|stand",
+        "8.14||heb-esvri-Nah-t-8rauk|@Pc|but|וְ|wə|וְ|wə|but",
+        "8.15|h370|heb-esvri-Nah-t-8rauc|@Pd|none|אֵ֥ין|ʾēyn|אַיִן|ʾa•yin|there is not",
+        "8.16|h6437|heb-esvri-Nah-t-8rau1|@vhPmsa|turns|מַפְנֶֽה׃|map̄•neh|פנה|pnh|one turning back",
+        "8.2|h5210|heb-esvri-Nah-t-8yhdc|@np|Nineveh|נִינְוֵ֥ה|niy•nə•wēh|נִינְוֵה|niy•nə•wēh|Nineveh",
+        "8.3||heb-esvri-Nah-t-8yhd1|@Pp|like|כִ|ḵi|כְּ|kə|like",
+        "8.4|h1295|heb-esvri-Nah-t-8yhuy|@ncfsc|pool|בְרֵֽכַת־|ḇ•rē•ḵaṯ-|בְּרֵכָה|bə•rē•ḵāh|pool of",
+        "8.5|h4325|heb-esvri-Nah-t-8yhur|@ncmpa|waters|מַ֖יִם|ma•yim|מַיִם|ma•yim|waters",
+        "8.6|h4481|heb-esvri-Nah-t-8yhuk|@Pp|•|מִ֣|mi|מִן|min|from",
+        "8.7||heb-esvri-Nah-t-8yhuc|@ncmpc|•|ימֵי|y•mēy|יֹום|yōwm|days of",
+        "8.8||heb-esvri-Nah-t-8yhu1|@pi3fs|•|הִ֑יא|hiyʾ|הִיא|hiyʾ|her",
+        "8.9||heb-esvri-Nah-t-8radr|@Pc|•|וְ|wə|וְ|wə|and"
+      ]
+    }
+  ],
+  "2:9": [
+    {
+      "o": 25263,
+      "r": "esvi:Nahum:2:9",
+      "p": [
+        "9.1|h962|heb-esvri-Nah-t-8r3dg|@vqvmp|Plunder|בֹּ֥זּוּ|bōz•zuw|בזז|bzz|plunder",
+        "9.1||heb-esvri-Nah-t-8r4de|@ncfsa|treasure|תְּכוּנָ֔ה|t•tə•ḵuw•nāh|תְּכוּנָה|tə•ḵuw•nāh|arrangement",
+        "9.11||heb-esvri-Nah-t-8r4dq|@ncmsa|wealth|כָּבֹ֕ד|kā•ḇōḏ|כָּבֹוד|kā•ḇōwḏ|wealth",
+        "9.12|h4481|heb-esvri-Nah-t-8r4uy|@Pp|of|מִ|mi|מִן|min|from",
+        "9.13|h3606|heb-esvri-Nah-t-8r4un|@ncmsc|all|כֹּ֖ל|k•kōl|כֹּל|kōl|all of",
+        "9.14|h3627|heb-esvri-Nah-t-8r4ue|@ncmsc|things|כְּלִ֥י|kə•liy|כְּלִי|kə•liy|object of",
+        "9.15|h2532|heb-esvri-Nah-t-8r4uq|@ncfsa|precious|חֶמְדָּֽה׃|ḥem•dāh|חֶמְדָּה|ḥem•dāh|desire",
+        "9.2|h3701|heb-esvri-Nah-t-8r3dc|@ncmsa|silver|כֶ֖סֶף|ḵe•sep̄|כֶּסֶף|ke•sep̄|silver",
+        "9.3||heb-esvri-Nah-t-8r3d1|@vqvmp|plunder|בֹּ֣זּוּ|bōz•zuw|בזז|bzz|plunder",
+        "9.4|h2091|heb-esvri-Nah-t-8r3ur|@ncmsa|gold|זָהָ֑ב|zā•hāḇ|זָהָב|zā•hāḇ|gold",
+        "9.5||heb-esvri-Nah-t-8r3uk|@Pc|•|וְ|wə|וְ|wə|and",
+        "9.6|h370|heb-esvri-Nah-t-8r3uc|@Pd|no|אֵ֥ין|ʾēyn|אַיִן|ʾa•yin|there is not",
+        "9.7||heb-esvri-Nah-t-8r3u1|@ncmsa|end|קֵ֙צֶה֙|qē•ṣeh|קֵצֶה|qē•ṣeh|end",
+        "9.8||heb-esvri-Nah-t-8r4dr|@Pp|of|לַ|la|לְ|lə|to"
+      ]
+    }
+  ],
+  "2:10": [
+    {
+      "o": 25264,
+      "r": "esvi:Nahum:2:10",
+      "p": [
+        "10.1||heb-esvri-Nah-t-8r5dn|@ncfsa|Desolate|בּוּקָ֥ה|buw•qāh|בּוּקָה|buw•qāh|emptiness",
+        "10.1||heb-esvri-Nah-t-8rhdy|@ncmsc|tremble|פִ֣ק|p̄iq|פִּק|piq|trembling of",
+        "10.11|h1290|heb-esvri-Nah-t-8rhdg|@ncfda|knees|בִּרְכַּ֗יִם|bir•ka•yim|בֶּרֶךְ|be•reḵ|knees",
+        "10.12||heb-esvri-Nah-t-8rhdc|@Pc|•|וְ|wə|וְ|wə|and",
+        "10.13||heb-esvri-Nah-t-8rhdq|@ncfsa|anguish|חַלְחָלָה֙|ḥal•ḥā•lāh|חַלְחָלָה|ḥal•ḥā•lāh|anguish",
+        "10.14||heb-esvri-Nah-t-8rhuy|@Pp|in|בְּ|bə|בְּ|bə|in",
+        "10.15|h3606|heb-esvri-Nah-t-8rhun|@ncmsc|all|כָל־|ḵol-|כֹּל|kōl|all of",
+        "10.16||heb-esvri-Nah-t-8rhug|@ncmda|loins|מָתְנַ֔יִם|moṯ•na•yim|מָתְנַיִם|moṯ•na•yim|loins",
+        "10.17||heb-esvri-Nah-t-8rhuc|@Pc|•|וּ|uw|וְ|wə|and",
+        "10.18||heb-esvri-Nah-t-8rhuq|@ncbpc|faces|פְנֵ֥י|p̄ə•nēy|פָּנֶה|pā•neh|face of",
+        "10.19|h3606|heb-esvri-Nah-t-gradycy|@ncmscX3mp|all|כֻלָּ֖ם|ḵul•lām|כֹּל|kōl|all of",
+        "10.2||heb-esvri-Nah-t-8r5de|@Pc|•|וּ|uw|וְ|wə|and",
+        "10.21|h6289|heb-esvri-Nah-t-gradypy|@vpp3cp|pale|קִבְּצ֥וּ|qib•bə•ṣuw|קבץ|qbṣ|they gather",
+        "10.22|h6289|heb-esvri-Nah-t-gradypa|@ncmsa|pale|פָארֽוּר׃|p̄ā(ʾ)•ruwr|פָּארוּר|pā(ʾ)•ruwr|paleness",
+        "10.3||heb-esvri-Nah-t-8r5dk|@ncfsa|Desolation|מְבוּקָ֖ה|mə•ḇuw•qāh|מְבוּקָה|mə•ḇuw•qāh|desolation",
+        "10.4||heb-esvri-Nah-t-8r5do|@Pc|and|וּ|uw|וְ|wə|and",
+        "10.5||heb-esvri-Nah-t-8r5d1|@ncfsa|ruin|מְבֻלָּקָ֑ה|mə•ḇul•lā•qāh|מְבֻלָּקָה|mə•ḇul•lā•qāh|ruin",
+        "10.6||heb-esvri-Nah-t-8r5ur|@Pc|•|וְ|wə|וְ|wə|and",
+        "10.7|h3820|heb-esvri-Nah-t-8r5ug|@ncmsa|Hearts|לֵ֨ב|lēḇ|לֵב|lēḇ|heart",
+        "10.8||heb-esvri-Nah-t-8r5uc|@vnPmsa|melt|נָמֵ֜ס|nā•mēs|מסס|mss|melting away",
+        "10.9||heb-esvri-Nah-t-8r5u1|@Pc|and|וּ|uw|וְ|wə|and"
+      ]
+    }
+  ],
+  "2:11": [
+    {
+      "o": 25265,
+      "r": "esvi:Nahum:2:11",
+      "p": [
+        "11.1|h346|heb-esvri-Nah-t-gradnce|@Pg|Where|אַיֵּה֙|ʾay•yēh|אַיֵּה|ʾay•yēh|where",
+        "11.1|h834|heb-esvri-Nah-t-gradgco|@Pr|where|אֲשֶׁ֣ר|ʾă•šer|אֲשֶׁר|ʾă•šer|where",
+        "11.11||heb-esvri-Nah-t-gradgpe|@vqp3ms|went|הָלַךְ֩|hā•laḵ|הלך|hlk|he went",
+        "11.12||heb-esvri-Nah-t-gradgqy|@ncmsa|lion|אַרְיֵ֨ה|ʾar•yēh|אַרְיֵה|ʾar•yēh|lion",
+        "11.13|h3833|heb-esvri-Nah-t-gradece|@ncmsa|lioness|לָבִ֥יא|lā•ḇiyʾ|לָבִיא|lā•ḇiyʾ|lioness",
+        "11.14|h8033|heb-esvri-Nah-t-gradepy|@Pd|where|שָׁ֛ם|šām|שָׁם|šām|there",
+        "11.15|h1482|heb-esvri-Nah-t-gradepa|@ncmsc|cubs|גּ֥וּר|guwr|גּוּר|guwr|cub of",
+        "11.16||heb-esvri-Nah-t-gradkcy|@ncmsa|•|אַרְיֵ֖ה|ʾar•yēh|אַרְיֵה|ʾar•yēh|lion",
+        "11.17||heb-esvri-Nah-t-gradkca|@Pc|with|וְ|wə|וְ|wə|and",
+        "11.18|h370|heb-esvri-Nah-t-gradkpy|@Pd|none|אֵ֥ין|ʾēyn|אַיִן|ʾa•yin|there is not",
+        "11.19||heb-esvri-Nah-t-gradkpa|@vhPmsa|disturb|מַחֲרִֽיד׃|ma•ḥă•riyḏ|חרד|ḥrd|one making afraid",
+        "11.2||heb-esvri-Nah-t-gradnpy|@ncmsc|den|מְעֹ֣ון|mə•ʿōwn|מָעֹון|mā•ʿōwn|dwelling place of",
+        "11.3|h738|heb-esvri-Nah-t-gradnpa|@ncmpa|lions'|אֲרָיֹ֔ות|ʾă•rā•yōwṯ|אֲרִי|ʾă•riy|lions",
+        "11.4||heb-esvri-Nah-t-gradrcy|@Pc|•|וּ|uw|וְ|wə|and",
+        "11.5|h4829|heb-esvri-Nah-t-gradrce|@ncmsa|the feeding place|מִרְעֶ֥ה|mir•ʿeh|מִרְעֶה|mir•ʿeh|pasture of",
+        "11.6|h1932|heb-esvri-Nah-t-gradrpy|@pi3ms|•|ה֖וּא|huwʾ|הוּא|huwʾ|he",
+        "11.7||heb-esvri-Nah-t-gradrpa|@Pp|of|לַ|la|לְ|lə|to",
+        "11.9|h3715|heb-esvri-Nah-t-gradrqe|@ncmpa|lions|כְּפִרִ֑ים|k•kə•p̄i•riym|כְּפִיר|kə•p̄iyr|young lions"
+      ]
+    }
+  ],
+  "2:12": [
+    {
+      "o": 25266,
+      "r": "esvi:Nahum:2:12",
+      "p": [
+        "12.1||heb-esvri-Nah-t-gradcce|@ncmsa|lion|אַרְיֵ֤ה|ʾar•yēh|אַרְיֵה|ʾar•yēh|lion",
+        "12.1||heb-esvri-Nah-t-gradocy|@ncfpcX3ms|lionesses|לִבְאֹתָ֑יו|liḇ•ʾō•ṯāyw|לִבְאָה|liḇ•ʾāh|lionesses of",
+        "12.12||heb-esvri-Nah-t-gradopy|@Pc|•|וַ|wa|וְ|wə|and",
+        "12.13||heb-esvri-Nah-t-gradope|@vpw3ms|filled|יְמַלֵּא־|y•mal•lēʾ-|מלא|mlʾ|he filled",
+        "12.14|h2964|heb-esvri-Nah-t-gradopa|@ncmsa|prey|טֶ֣רֶף|ṭe•rep̄|טֶרֶף|ṭe•rep̄|prey",
+        "12.15||heb-esvri-Nah-t-grad1cy|@ncmpcX3ms|caves|חֹרָ֔יו|ḥō•rāyw|חֹר|ḥōr|holes of",
+        "12.17||heb-esvri-Nah-t-grad1py|@Pc|and|וּ|uw|וְ|wə|and",
+        "12.18||heb-esvri-Nah-t-grad1pe|@ncfpcX3ms|dens|מְעֹֽנֹתָ֖יו|mə•ʿō•nō•ṯāyw|מְעֹנָה|mə•ʿō•nāh|dens of",
+        "12.2|h2963|heb-esvri-Nah-t-gradcpy|@vqPmsa|tore|טֹרֵף֙|ṭō•rēp̄|טרף|ṭrp|tearing",
+        "12.2|h2966|heb-esvri-Nah-t-grad1qe|@ncfsa|torn|טְרֵפָֽה׃|ṭə•rē•p̄āh|טְרֵפָה|ṭə•rē•p̄āh|torn flesh",
+        "12.3||heb-esvri-Nah-t-gradcpa|@Pp|enough for|בְּ|bə|בְּ|bə|on",
+        "12.4|h1767|heb-esvri-Nah-t-gradcqy|@ncmsc|enough for|דֵ֣י|ḏēy|דַּי|day|enough of",
+        "12.5||heb-esvri-Nah-t-gradqce|@ncmpcX3ms|cubs|גֹֽרֹותָ֔יו|ḡō•rōw•ṯāyw|גֹּור|gōwr|cubs of",
+        "12.7||heb-esvri-Nah-t-gradqpe|@Pc|and|וּ|uw|וְ|wə|and",
+        "12.8||heb-esvri-Nah-t-gradqpo|@vpPmsa|strangled|מְחַנֵּ֖ק|mə•ḥan•nēq|חנק|ḥnq|strangling",
+        "12.9||heb-esvri-Nah-t-gradqqe|@Pp|for|לְ|lə|לְ|lə|for"
+      ]
+    }
+  ],
+  "2:13": [
+    {
+      "o": 25267,
+      "r": "esvi:Nahum:2:13",
+      "p": [
+        "13.1|h2009|heb-esvri-Nah-t-grauyca|@PiX1cs|Behold|הִנְנִ֣י|hi•nə•niy|הִנֵּה|hin•nēh|behold",
+        "13.1||heb-esvri-Nah-t-graurpy|@Pp|in|בֶֽ|ḇe|בְּ|bə|in",
+        "13.12|h6228|heb-esvri-Nah-t-graurpo|@ncmsa|smoke|עָשָׁן֙|ʿā•šān|עָשָׁן|ʿā•šān|smoke",
+        "13.13|h7393|heb-esvri-Nah-t-graurqe|@ncmscX3fs|chariots|רִכְבָּ֔הּ|riḵ•bāh|רֶכֶב|re•ḵeḇ|chariot of",
+        "13.15||heb-esvri-Nah-t-graugca|@Pc|and|וּ|uw|וְ|wə|and",
+        "13.16|h3715|heb-esvri-Nah-t-graugpy|@ncmpcX2fs|lions|כְפִירַ֖יִךְ|ḵə•p̄iy•ra•yiḵ|כְּפִיר|kə•p̄iyr|young lions of",
+        "13.18||heb-esvri-Nah-t-graugqy|@vqi3fs|devour|תֹּ֣אכַל|tō(ʾ)•ḵal|אכל|ʾkl|she shall devour",
+        "13.19|h2719|heb-esvri-Nah-t-grauece|@ncfsa|sword|חָ֑רֶב|ḥā•reḇ|חֶרֶב|ḥe•reḇ|sword",
+        "13.2||heb-esvri-Nah-t-grauepy|@Pc|•|וְ|wə|וְ|wə|and",
+        "13.21||heb-esvri-Nah-t-grauepe|@vhp1cs{2}|cut|הִכְרַתִּ֤י|hiḵ•rat•tiy|כרת|krt|I will cut off",
+        "13.22|h4481|heb-esvri-Nah-t-graueqy|@Pp|from|מֵ|mē|מִן|min|from",
+        "13.23|h776|heb-esvri-Nah-t-graueqe|@ncfsa|earth|אֶ֙רֶץ֙|ʾe•reṣ|אֶרֶץ|ʾe•reṣ|earth",
+        "13.24|h2964|heb-esvri-Nah-t-graukco|@ncmscX2fs|prey|טַרְפֵּ֔ךְ|ṭar•pēḵ|טֶרֶף|ṭe•rep̄|prey of",
+        "13.26||heb-esvri-Nah-t-graukpo|@Pc|and|וְ|wə|וְ|wə|and",
+        "13.27|h3808|heb-esvri-Nah-t-graukpa|@Pn|no|לֹֽא־|lōʾ-|לֹא|lōʾ|not",
+        "13.28||heb-esvri-Nah-t-graukqe|@vni3ms|heard|יִשָּׁמַ֥ע|yiš•šā•maʿ|שׁמע|šmʿ|he shall be heard",
+        "13.29|h5750|heb-esvri-Nah-t-graucco|@Pd|longer|עֹ֖וד|ʿōwḏ|עֹוד|ʿōwḏ|longer",
+        "13.3||heb-esvri-Nah-t-grauypa|@PpX2fs|against|אֵלַ֗יִךְ|ʾē•la•yiḵ|אֶל|ʾel|against",
+        "13.3||heb-esvri-Nah-t-graucpe|@ncmsc|voice|קֹ֥ול|qōwl|קֹול|qōwl|voice of",
+        "13.31||heb-esvri-Nah-t-graucqy|@ncmpcX2fs|messengers|מַלְאָכֵֽכֵה׃|mal•ʾā•ḵē•ḵēh|מַלְאָךְ|mal•ʾāḵ|messengers of",
+        "13.5|h5002|heb-esvri-Nah-t-graunce|@ncmsc|declares|נְאֻם֙|nə•ʾum|נְאֻם|nə•ʾum|declaration of",
+        "13.6||heb-esvri-Nah-t-graunpy|@np|Lord|יְהוָ֣ה|yəh•wāh|יהוה|yhwh|Yahweh of",
+        "13.7|h6635|heb-esvri-Nah-t-graunpa|@ncbpa|hosts|צְבָאֹ֔ות|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts",
+        "13.8||heb-esvri-Nah-t-graurcy|@Pc|and|וְ|wə|וְ|wə|and",
+        "13.9||heb-esvri-Nah-t-graurce|@vhp1cs{2}|burn|הִבְעַרְתִּ֤י|hiḇ•ʿar•tiy|בער|bʿr|I will burn"
+      ]
+    }
+  ],
+  "3:0": [
+    {
+      "o": 25268,
+      "r": "esvi:Nahum:3:0",
+      "h": 1,
+      "t": "Nahum 3",
+      "p": []
+    },
+    {
+      "o": 25269,
+      "r": "esvi:Nahum:3:0",
+      "h": 2,
+      "t": "Woe to Nineveh",
+      "p": []
+    }
+  ],
+  "3:1": [
+    {
+      "o": 25270,
+      "r": "esvi:Nahum:3:1",
+      "p": [
+        "0|h1945|heb-esvri-Nah-t-grauqpa|@Pi|Woe|הֹ֖וי|hōwy|הֹוי|hōwy|woe",
+        "1|h5892|heb-esvri-Nah-t-grauocy|@ncfsc|city|עִ֣יר|ʿiyr|עִיר|ʿiyr|city of",
+        "2|h1818|heb-esvri-Nah-t-grauoca|@ncmpa|bloody|דָּמִ֑ים|dā•miym|דָּם|dām|blood",
+        "3|h3606|heb-esvri-Nah-t-grauopo|@ncmscX3fs|all|כֻּלָּ֗הּ|kul•lāh|כֹּל|kōl|all of",
+        "5||heb-esvri-Nah-t-grau1cy|@ncmsa|lies|כַּ֤חַשׁ|ka•ḥaš|כַּחַשׁ|ka•ḥaš|lie",
+        "6||heb-esvri-Nah-t-grau1ca|@ncmsa|plunder|פֶּ֙רֶק֙|pe•req|פֶּרֶק|pe•req|plunder",
+        "7|h4392|heb-esvri-Nah-t-grau1po|@afsa|full|מְלֵאָ֔ה|mə•lē•ʾāh|מָלֵא|mā•lēʾ|full",
+        "8|h3808|heb-esvri-Nah-t-grau1qe|@Pn|no|לֹ֥א|lōʾ|לֹא|lōʾ|not",
+        "9||heb-esvri-Nah-t-gr3dyco|@vqi3ms|end|יָמִ֖ישׁ|yā•miyš|מושׁ|mwš|he removes",
+        "10|h2964|heb-esvri-Nah-t-gr3dype|@ncmsa|prey|טָֽרֶף׃|ṭā•rep̄|טֶרֶף|ṭe•rep̄|prey"
+      ]
+    }
+  ],
+  "3:2": [
+    {
+      "o": 25271,
+      "r": "esvi:Nahum:3:2",
+      "p": [
+        "0||heb-esvri-Nah-t-gr3dyqe|@ncmsc|crack|קֹ֣ול|qōwl|קֹול|qōwl|sound of",
+        "1||heb-esvri-Nah-t-gr3dnco|@ncmsa|whip|שֹׁ֔וט|šōwṭ|שֹׁוט|šōwṭ|whip",
+        "2||heb-esvri-Nah-t-gr3dnpe|@Pc|and|וְ|wə|וְ|wə|and",
+        "3||heb-esvri-Nah-t-gr3dnpo|@ncmsc|•|קֹ֖ול|qōwl|קֹול|qōwl|sound of",
+        "4|h7494|heb-esvri-Nah-t-gr3dnqe|@ncmsc|rumble|רַ֣עַשׁ|ra•ʿaš|רַעַשׁ|ra•ʿaš|rumble",
+        "5||heb-esvri-Nah-t-gr3drco|@ncmsa|wheel|אֹופָ֑ן|ʾōw•p̄ān|אֹופַן|ʾōw•p̄an|wheel",
+        "6||heb-esvri-Nah-t-gr3drpe|@Pc|•|וְ|wə|וְ|wə|and",
+        "7|h5483|heb-esvri-Nah-t-gr3drpo|@ncmsa|horse|ס֣וּס|suws|סוּס|suws|horse",
+        "8||heb-esvri-Nah-t-gr3drqe|@vqPmsa|galloping|דֹּהֵ֔ר|dō•hēr|דהר|dhr|galloping",
+        "9||heb-esvri-Nah-t-gr3dgco|@Pc|and|וּ|uw|וְ|wə|and",
+        "10|h4818|heb-esvri-Nah-t-gr3dgca|@ncfsa|chariot|מֶרְכָּבָ֖ה|mer•kā•ḇāh|מֶרְכָּבָה|mer•kā•ḇāh|chariot",
+        "11||heb-esvri-Nah-t-gr3dgpo|@vpPfsa|bounding|מְרַקֵּדָֽה׃|mə•raq•qē•ḏāh|רקד|rqd|bounding"
+      ]
+    }
+  ],
+  "3:3": [
+    {
+      "o": 25272,
+      "r": "esvi:Nahum:3:3",
+      "p": [
+        "0|h6571|heb-esvri-Nah-t-gr3decy|@ncmsa|Horsemen|פָּרָ֣שׁ|pā•rāš|פָּרָשׁ|pā•rāš|horsemen",
+        "1|h5927|heb-esvri-Nah-t-gr3deca|@vhPmsa|charging|מַעֲלֶ֗ה|ma•ʿă•leh|עלה|ʿlh|bringing up",
+        "2||heb-esvri-Nah-t-gr3depo|@Pc|•|וְ|wə|וְ|wə|and",
+        "3|h3851|heb-esvri-Nah-t-gr3depa|@ncmsc|flashing|לַ֤הַב|la•haḇ|לַהַב|la•haḇ|flash of",
+        "4|h2719|heb-esvri-Nah-t-gr3dkcy|@ncfsa|sword|חֶ֙רֶב֙|ḥe•reḇ|חֶרֶב|ḥe•reḇ|sword",
+        "5||heb-esvri-Nah-t-gr3dkca|@Pc|and|וּ|uw|וְ|wə|and",
+        "6|h1301|heb-esvri-Nah-t-gr3dkpy|@ncmsc|glittering|בְרַ֣ק|ḇə•raq|בָּרָק|bā•rāq|lightning of",
+        "7|h2595|heb-esvri-Nah-t-gr3dkpa|@ncfsa|spear|חֲנִ֔ית|ḥă•niyṯ|חֲנִית|ḥă•niyṯ|spear",
+        "8||heb-esvri-Nah-t-gr3dccy|@Pc|•|וְ|wə|וְ|wə|and",
+        "9|h7230|heb-esvri-Nah-t-gr3dcce|@ncmsc|hosts|רֹ֥ב|rōḇ|רֹב|rōḇ|multitude",
+        "10|h2491|heb-esvri-Nah-t-gr3dcpy|@amsa|slain|חָלָ֖ל|ḥā•lāl|חָלָל|ḥā•lāl|slain ones",
+        "11||heb-esvri-Nah-t-gr3dcpa|@Pc|•|וְ|wə|וְ|wə|and",
+        "12||heb-esvri-Nah-t-gr3dcqy|@ncmsc|heaps|כֹ֣בֶד|ḵō•ḇeḏ|כֹּבֶד|kō•ḇeḏ|mass of",
+        "13|h6297|heb-esvri-Nah-t-gr3dqce|@ncmsa|corpses|פָּ֑גֶר|pā•ḡer|פֶּגֶר|pe•ḡer|corpse",
+        "14||heb-esvri-Nah-t-gr3dqpy|@Pc|•|וְ|wə|וְ|wə|and",
+        "15|h370|heb-esvri-Nah-t-gr3dqpe|@Pd|without|אֵ֥ין|ʾēyn|אַיִן|ʾa•yin|there is not",
+        "16||heb-esvri-Nah-t-gr3dqqy|@ncmsa|end|קֵ֙צֶה֙|qē•ṣeh|קֵצֶה|qē•ṣeh|end",
+        "17||heb-esvri-Nah-t-gr3doce|@Pp|without|לַ|la|לְ|lə|to",
+        "19|h1472|heb-esvri-Nah-t-gr3doca|@ncfsa|bodies|גְּוִיָּ֔ה|g•gə•wiy•yāh|גְּוִיָּה|gə•wiy•yāh|dead body",
+        "20||heb-esvri-Nah-t-gr3dopo|@vqi3mp|stumble|יִכְשְׁלוּ|yiḵ•šə•luw|כשׁל|kšl|they stumble",
+        "21||heb-esvri-Nah-t-gr3doqe|@Pc|•|וְ|wə|וְ|wə|",
+        "22||heb-esvri-Nah-t-gr3d1cy|@vqp3cp{2}|•|כָשְׁל֖וּ|ḵā•šə•luw|כשׁל|kšl|",
+        "23||heb-esvri-Nah-t-gr3d1ca|@Pp|over|בִּ|bi|בְּ|bə|on",
+        "24|h1472|heb-esvri-Nah-t-gr3d1py|@ncfscX3mp|bodies|גְוִיָּתָֽם׃|ḡ•wiy•yā•ṯām|גְּוִיָּה|gə•wiy•yāh|dead body of"
+      ]
+    }
+  ],
+  "3:4": [
+    {
+      "o": 25273,
+      "r": "esvi:Nahum:3:4",
+      "p": [
+        "0|h4481|heb-esvri-Nah-t-gr3d1qe|@Pp|for|מֵ|mē|מִן|min|from",
+        "1|h7230|heb-esvri-Nah-t-gr3uycy|@ncmsc|countless|רֹב֙|rōḇ|רֹב|rōḇ|multitude of",
+        "2||heb-esvri-Nah-t-gr3uyca|@ncmpc|whorings|זְנוּנֵ֣י|zə•nuw•nēy|זְנוּנִים|zə•nuw•niym|whorings of",
+        "3||heb-esvri-Nah-t-gr3uypo|@ncfsa|prostitute|זֹונָ֔ה|zōw•nāh|זֹנָה|zō•nāh|one prostituting",
+        "4||heb-esvri-Nah-t-gr3uyqe|@afsc|graceful|טֹ֥ובַת|ṭōw•ḇaṯ|טֹוב|ṭōwḇ|good of",
+        "5|h2580|heb-esvri-Nah-t-gr3unco|@ncmsa|graceful|חֵ֖ן|ḥēn|חֵן|ḥēn|grace",
+        "6|h1173|heb-esvri-Nah-t-gr3unpe|@ncfsc|charms|בַּעֲלַ֣ת|ba•ʿă•laṯ|בַּעֲלָה|ba•ʿă•lāh|mistress of",
+        "7|h3785|heb-esvri-Nah-t-gr3unqy|@ncmpa|charms|כְּשָׁפִ֑ים|kə•šā•p̄iym|כֶּשֶׁף|ke•šep̄|sorceries",
+        "8||heb-esvri-Nah-t-gr3urce|@Pa|who|הַ|ha|הַ|ha|the",
+        "9||heb-esvri-Nah-t-gr3urco|@vqPfsa|betrays|מֹּכֶ֤רֶת|m•mō•ḵe•reṯ|מכר|mkr|one selling",
+        "10|h1471|heb-esvri-Nah-t-gr3urpe|@ncmpa|nations|גֹּויִם֙|gōw•yim|גֹּוי|gōwy|nations",
+        "11||heb-esvri-Nah-t-gr3urqy|@Pp|with|בִּ|bi|בְּ|bə|with",
+        "12||heb-esvri-Nah-t-gr3urqe|@ncmpcX3fs|whorings|זְנוּנֶ֔יהָ|z•nuw•ney•hā|זְנוּנִים|zə•nuw•niym|whorings of",
+        "14||heb-esvri-Nah-t-gr3ugca|@Pc|and|וּ|uw|וְ|wə|and",
+        "15|h4940|heb-esvri-Nah-t-gr3ugpy|@ncfpa|peoples|מִשְׁפָּחֹ֖ות|miš•pā•ḥōwṯ|מִשְׁפָּחָה|miš•pā•ḥāh|clans",
+        "16||heb-esvri-Nah-t-gr3ugpa|@Pp|with|בִּ|bi|בְּ|bə|with",
+        "17|h3785|heb-esvri-Nah-t-gr3ugqy|@ncmpcX3fs|charms|כְשָׁפֶֽיהָ׃|ḵ•šā•p̄ey•hā|כֶּשֶׁף|ke•šep̄|sorcery of"
+      ]
+    }
+  ],
+  "3:5": [
+    {
+      "o": 25274,
+      "r": "esvi:Nahum:3:5",
+      "p": [
+        "0|h2009|heb-esvri-Nah-t-gr3ueca|@PiX1cs|Behold|הִנְנִ֣י|hi•nə•niy|הִנֵּה|hin•nēh|behold",
+        "2||heb-esvri-Nah-t-gr3uepa|@PpX2fs|against|אֵלַ֗יִךְ|ʾē•la•yiḵ|אֶל|ʾel|against",
+        "4|h5002|heb-esvri-Nah-t-gr3ukce|@ncmsc|declares|נְאֻם֙|nə•ʾum|נְאֻם|nə•ʾum|declaration of",
+        "5||heb-esvri-Nah-t-gr3ukpy|@np|Lord|יְהוָ֣ה|yəh•wāh|יהוה|yhwh|Yahweh of",
+        "6|h6635|heb-esvri-Nah-t-gr3ukpa|@ncbpa|hosts|צְבָאֹ֔ות|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts",
+        "7||heb-esvri-Nah-t-gr3uccy|@Pc|and|וְ|wə|וְ|wə|and",
+        "8||heb-esvri-Nah-t-gr3ucce|@vpp1cs{2}|lift|גִלֵּיתִ֥י|ḡil•lēy•ṯiy|גלה|glh|I will make revealed",
+        "9||heb-esvri-Nah-t-gr3ucpy|@ncmpcX2fs|skirts|שׁוּלַ֖יִךְ|šuw•la•yiḵ|שׁוּל|šuwl|skirts of",
+        "11|h5921|heb-esvri-Nah-t-gr3ucqy|@Pp|over|עַל־|ʿal-|עַל|ʿal|over",
+        "12||heb-esvri-Nah-t-gr3uqcy|@ncbpcX2fs|face|פָּנָ֑יִךְ|pā•nā•yiḵ|פָּנֶה|pā•neh|face of",
+        "14||heb-esvri-Nah-t-gr3uqpy|@Pc|and|וְ|wə|וְ|wə|and",
+        "15||heb-esvri-Nah-t-gr3uqpe|@vhp1cs{2}|look|הַרְאֵיתִ֤י|har•ʾēy•ṯiy|ראה|rʾh|I will make look",
+        "16||heb-esvri-Nah-t-gr3uqqy|@ncmpa|nations|גֹויִם֙|ḡōw•yim|גֹּוי|gōwy|nations",
+        "17|h4626|heb-esvri-Nah-t-gr3uoce|@ncmscX2fs|nakedness|מַעְרֵ֔ךְ|maʿ•rēḵ|מַעַר|ma•ʿar|nakedness of",
+        "19||heb-esvri-Nah-t-gr3uope|@Pc|and|וּ|uw|וְ|wə|and",
+        "20|h4467|heb-esvri-Nah-t-gr3uopo|@ncfpa|kingdoms|מַמְלָכֹ֖ות|mam•lā•ḵōwṯ|מַמְלָכָה|mam•lā•ḵāh|kingdoms",
+        "21||heb-esvri-Nah-t-gr3uoqe|@ncmscX2fs|shame|קְלֹונֵֽךְ׃|qə•lōw•nēḵ|קָלֹון|qā•lōwn|shame of"
+      ]
+    }
+  ],
+  "3:6": [
+    {
+      "o": 25275,
+      "r": "esvi:Nahum:3:6",
+      "p": [
+        "0||heb-esvri-Nah-t-gr3u1py|@Pc|•|וְ|wə|וְ|wə|and",
+        "1||heb-esvri-Nah-t-gr3u1pe|@vhp1cs{2}|throw|הִשְׁלַכְתִּ֥י|hiš•laḵ•tiy|שׁלך|šlk|I will throw",
+        "2|h5922|heb-esvri-Nah-t-gr3u1qy|@PpX2fs|at|עָלַ֛יִךְ|ʿā•la•yiḵ|עַל|ʿal|at",
+        "4|h8251|heb-esvri-Nah-t-gr4dyco|@ncmpa|filth|שִׁקֻּצִ֖ים|šiq•qu•ṣiym|שִׁקּוּץ|šiq•quwṣ|detestable things",
+        "5||heb-esvri-Nah-t-gr4dype|@Pc|and|וְ|wə|וְ|wə|and",
+        "6||heb-esvri-Nah-t-gr4dypo|@vpp1csX2fs{2}|contempt|נִבַּלְתִּ֑יךְ|nib•bal•tiyḵ|נבל|nbl|I will treat with contempt",
+        "8||heb-esvri-Nah-t-gr4dncy|@Pc|and|וְ|wə|וְ|wə|and",
+        "9||heb-esvri-Nah-t-gr4dnce|@vqp1csX2fs{2}|make|שַׂמְתִּ֖יךְ|śam•tiyḵ|שׂים|śym|I will make",
+        "11||heb-esvri-Nah-t-gr4dnpe|@Pp|•|כְּ|kə|כְּ|kə|as",
+        "12|h7210|heb-esvri-Nah-t-gr4dnpo|@ncmsa|spectacle|רֹֽאִי׃|rō•ʾiy|רֳאִי|rŏ•ʾiy|sight"
+      ]
+    }
+  ],
+  "3:7": [
+    {
+      "o": 25276,
+      "r": "esvi:Nahum:3:7",
+      "p": [
+        "0||heb-esvri-Nah-t-gr4drcy|@Pc|And|וְ|wə|וְ|wə|and",
+        "1||heb-esvri-Nah-t-gr4drce|@vqp3ms{2}|•|הָיָ֤ה|hā•yāh|היה|hyh|he will be",
+        "2|h3606|heb-esvri-Nah-t-gr4drpy|@ncmsc|all|כָל־|ḵol-|כֹּל|kōl|all of",
+        "3||heb-esvri-Nah-t-gr4drpo|@vqPmpcX2fs|look|רֹאַ֙יִךְ֙|rō•ʾa•yiḵ|ראה|rʾh|ones looking of",
+        "5||heb-esvri-Nah-t-gr4dgcy|@vqi3ms|shrink|יִדֹּ֣וד|yid•dōwḏ|נדד|nd|he will flee",
+        "6|h4481|heb-esvri-Nah-t-gr4dgca|@PpX2fs|from|מִמֵּ֔ךְ|mim•mēḵ|מִן|min|from",
+        "8||heb-esvri-Nah-t-gr4dgpa|@Pc|and|וְ|wə|וְ|wə|and",
+        "9||heb-esvri-Nah-t-gr4dgqy|@vqp3ms{2}|say|אָמַר֙|ʾā•mar|אמר|ʾmr|he will say",
+        "10||heb-esvri-Nah-t-gr4dece|@vPp3fs|Wasted|שָׁדְּדָ֣ה|šod•də•ḏāh|שׁדד|šd|she is devastated",
+        "11|h5210|heb-esvri-Nah-t-gr4depy|@np|Nineveh|נִֽינְוֵ֔ה|niy•nə•wēh|נִינְוֵה|niy•nə•wēh|Nineveh",
+        "12|h4310|heb-esvri-Nah-t-gr4depa|@pii|who|מִ֖י|miy|מִי|miy|who",
+        "13||heb-esvri-Nah-t-gr4dkcy|@vqi3ms|grieve|יָנ֣וּד|yā•nuwḏ|נוד|nwd|he will grieve",
+        "14||heb-esvri-Nah-t-gr4dkca|@PpX3fs|for|לָ֑הּ|lāh|לְ|lə|for",
+        "16|h4481|heb-esvri-Nah-t-gr4dkpa|@Pp|Where|מֵ|mē|מִן|min|from",
+        "17|h370|heb-esvri-Nah-t-gr4dkqy|@Pd|Where|אַ֛יִן|ʾa•yin|אַיִן|ʾa•yin|where",
+        "18||heb-esvri-Nah-t-gr4dcce|@vpi1cs|seek|אֲבַקֵּ֥שׁ|ʾă•ḇaq•qēš|בקשׁ|bqš|I shall seek",
+        "19|h5162|heb-esvri-Nah-t-gr4dcpy|@vpPmpa|comforters|מְנַחֲמִ֖ים|mə•na•ḥă•miym|נחם|nḥm|ones comforting",
+        "20||heb-esvri-Nah-t-gr4dcpa|@PpX2fs|for|לָֽךְ׃|lāḵ|לְ|lə|for"
+      ]
+    }
+  ],
+  "3:8": [
+    {
+      "o": 25277,
+      "r": "esvi:Nahum:3:8",
+      "p": [
+        "0|g2090|heb-esvri-Nah-t-gr4dqco|@Pg||הֲ|hă|הֲ|hă|?",
+        "1||heb-esvri-Nah-t-gr4dqca|@vhi2fs|better|תֵֽיטְבִי֙|ṯēy•ṭə•ḇiy|יטב|yṭb|you make good",
+        "2|h4480|heb-esvri-Nah-t-gr4dqpo|@Pp|than|מִ|mi|מִן|min|more than",
+        "3|h4996|heb-esvri-Nah-t-gr4dqpa|@np|Thebes|נֹּ֣א|n•nōʾ|נֹא|nōʾ|No",
+        "4||heb-esvri-Nah-t-gr4docy|@np|Thebes|אָמֹ֔ון|ʾā•mōwn|אָמֹון|ʾā•mōwn|Amon",
+        "5||heb-esvri-Nah-t-gr4doca|@Pa|that|הַ|ha|הַ|ha|the",
+        "6||heb-esvri-Nah-t-gr4dopy|@vqPfsa|sat|יֹּֽשְׁבָה֙|y•yō•šə•ḇāh|ישׁב|yšb|one sitting",
+        "7||heb-esvri-Nah-t-gr4dopa|@Pp|by|בַּ|ba|בְּ|bə|by",
+        "9||heb-esvri-Nah-t-gr4doqe|@ncmpa|Nile|יְאֹרִ֔ים|y•ʾō•riym|יְאֹר|yə•ʾōr|Nile",
+        "10|h4325|heb-esvri-Nah-t-gr4d1co|@ncmpa|water|מַ֖יִם|ma•yim|מַיִם|ma•yim|water",
+        "11|h5439|heb-esvri-Nah-t-gr4d1pe|@Pd|around|סָבִ֣יב|sā•ḇiyḇ|סָבִיב|sā•ḇiyḇ|all around",
+        "12||heb-esvri-Nah-t-gr4d1qy|@PpX3fs|around|לָ֑הּ|lāh|לְ|lə|to",
+        "14|h834|heb-esvri-Nah-t-gr4uyco|@Pr|•|אֲשֶׁר־|ʾă•šer-|אֲשֶׁר|ʾă•šer|that",
+        "15|h2426|heb-esvri-Nah-t-gr4uypy|@ncmsc|rampart|חֵ֣יל|ḥēyl|חֵיל|ḥēyl|rampart of",
+        "16|h3221|heb-esvri-Nah-t-gr4uypa|@ncmsa|sea|יָ֔ם|yām|יָם|yām|sea",
+        "17|h4481|heb-esvri-Nah-t-gr4uncy|@Pp|•|מִ|mi|מִן|min|from",
+        "18|h3221|heb-esvri-Nah-t-gr4unce|@ncmsa|water|יָּ֖ם|y•yām|יָם|yām|sea",
+        "19||heb-esvri-Nah-t-gr4unpy|@ncfscX3fs|wall|חֹומָתָֽהּ׃|ḥōw•mā•ṯāh|חֹומָה|ḥōw•māh|wall of"
+      ]
+    }
+  ],
+  "3:9": [
+    {
+      "o": 25278,
+      "r": "esvi:Nahum:3:9",
+      "p": [
+        "0|h3568|heb-esvri-Nah-t-gr4unqe|@np|Cush|כּ֥וּשׁ|kuwš|כּוּשׁ|kuwš|Cush",
+        "1||heb-esvri-Nah-t-gr4urco|@ncfscX3fs|strength|עָצְמָ֛ה|ʿoṣ•māh|עֹצֶם|ʿō•ṣem|strength",
+        "3||heb-esvri-Nah-t-gr4urpo|@Pc|too|וּ|uw|וְ|wə|and",
+        "4|h4714|heb-esvri-Nah-t-gr4urpa|@np|Egypt|מִצְרַ֖יִם|miṣ•ra•yim|מִצְרַיִם|miṣ•ra•yim|Egypt",
+        "5||heb-esvri-Nah-t-gr4ugcy|@Pc|and that|וְ|wə|וְ|wə|and",
+        "6|h370|heb-esvri-Nah-t-gr4ugce|@Pd|without|אֵ֣ין|ʾēyn|אַיִן|ʾa•yin|there is not",
+        "7||heb-esvri-Nah-t-gr4ugpy|@ncmsa|limit|קֵ֑צֶה|qē•ṣeh|קֵצֶה|qē•ṣeh|end",
+        "8|h6316|heb-esvri-Nah-t-gr4ugpa|@np|Put|פּ֣וּט|puwṭ|פּוּט|puwṭ|Put",
+        "9||heb-esvri-Nah-t-gr4uecy|@Pc|and|וְ|wə|וְ|wə|and",
+        "10||heb-esvri-Nah-t-gr4uece|@np|Libyans|לוּבִ֔ים|luw•ḇiym|לוּב|luwḇ|Libyans",
+        "11||heb-esvri-Nah-t-gr4uepy|@vqp3cp|were|הָי֖וּ|hā•yuw|היה|hyh|they were",
+        "12||heb-esvri-Nah-t-gr4uepa|@Pp|•|בְּ|bə|בְּ|bə|with",
+        "13|h5833|heb-esvri-Nah-t-gr4ueqy|@ncfscX2fs|helpers|עֶזְרָתֵֽךְ׃|ʿez•rā•ṯēḵ|עֶזְרָה|ʿez•rāh|help of"
+      ]
+    }
+  ],
+  "3:10": [
+    {
+      "o": 25279,
+      "r": "esvi:Nahum:3:10",
+      "p": [
+        "0|h1571|heb-esvri-Nah-t-gr4ukca|@Pc|Yet|גַּם־|gam-|גַּם|gam|also",
+        "1||heb-esvri-Nah-t-gr4ukpe|@pi3fs|she|הִ֗יא|hiyʾ|הִיא|hiyʾ|she",
+        "2||heb-esvri-Nah-t-gr4ukqy|@Pp|•|לַ|la|לְ|lə|to",
+        "4||heb-esvri-Nah-t-gr4uccy|@ncfsa|exile|גֹּלָה֙|g•gō•lāh|גֹּולָה|gōw•lāh|exile",
+        "5||heb-esvri-Nah-t-gr4ucca|@vqp3fs|went|הָלְכָ֣ה|hā•lə•ḵāh|הלך|hlk|she went",
+        "6||heb-esvri-Nah-t-gr4ucpo|@Pp|into|בַ|ḇa|בְּ|bə|in",
+        "8|h7628|heb-esvri-Nah-t-gr4ucqy|@ncmsa|captivity|שֶּׁ֔בִי|š•še•ḇiy|שְׁבִי|šə•ḇiy|captivity",
+        "9|h1571|heb-esvri-Nah-t-gr4uqce|@Pc|•|גַּ֧ם|gam|גַּם|gam|also",
+        "10||heb-esvri-Nah-t-gr4uqpy|@ncmpcX3fs|infants|עֹלָלֶ֛יהָ|ʿō•lā•ley•hā|עֹולָל|ʿōw•lāl|children of",
+        "12||heb-esvri-Nah-t-gr4uqqy|@vPi3mp|were dashed in pieces|יְרֻטְּשׁ֖וּ|yə•ruṭ•ṭə•šuw|רטשׁ|rṭš|they were dashed to pieces",
+        "13||heb-esvri-Nah-t-gr4uoce|@Pp|at|בְּ|bə|בְּ|bə|at",
+        "14|h7219|heb-esvri-Nah-t-gr4uoco|@ncmsc|head|רֹ֣אשׁ|rō(ʾ)š|רֹאשׁ|rō(ʾ)š|head of",
+        "15|h3606|heb-esvri-Nah-t-gr4uope|@ncmsc|every|כָּל־|kol-|כֹּל|kōl|all of",
+        "16|h2351|heb-esvri-Nah-t-gr4uopa|@ncmpa|street|חוּצֹ֑ות|ḥuw•ṣōwṯ|חוּץ|ḥuwṣ|streets",
+        "17||heb-esvri-Nah-t-gr4u1cy|@Pc|•|וְ|wə|וְ|wə|and",
+        "18|h5922|heb-esvri-Nah-t-gr4u1ce|@Pp|for|עַל־|ʿal-|עַל|ʿal|over",
+        "19||heb-esvri-Nah-t-gr4u1ca|@vnPmpcX3fs|honored|נִכְבַּדֶּ֙יהָ֙|niḵ•bad•dey•hā|כבד|kbd|ones being honored of",
+        "21||heb-esvri-Nah-t-gr4u1pa|@vqp3cp|cast|יַדּ֣וּ|yad•duw|ידד|yd|they cast",
+        "22|h1486|heb-esvri-Nah-t-gr5dycy|@ncmsa|lots|גֹורָ֔ל|ḡōw•rāl|גֹּורָל|gōw•rāl|lot",
+        "23||heb-esvri-Nah-t-gr5dyca|@Pc|and|וְ|wə|וְ|wə|and",
+        "24|h3606|heb-esvri-Nah-t-gr5dypy|@ncmsc|all|כָל־|ḵol-|כֹּל|kōl|all of",
+        "25||heb-esvri-Nah-t-gr5dypo|@ampcX3fs|great|גְּדֹולֶ֖יהָ|gə•ḏōw•ley•hā|גָּדֹול|gā•ḏōwl|great ones of",
+        "27||heb-esvri-Nah-t-gr5dncy|@vPp3cp|bound|רֻתְּק֥וּ|rut•tə•quw|רתק|rtq|they were bound",
+        "28||heb-esvri-Nah-t-gr5dnca|@Pp|in|בַ|ḇa|בְּ|bə|in",
+        "30||heb-esvri-Nah-t-gr5dnpe|@ncmpa|chains|זִּקִּֽים׃|z•ziq•qiym|זֵק|zēq|bonds"
+      ]
+    }
+  ],
+  "3:11": [
+    {
+      "o": 25280,
+      "r": "esvi:Nahum:3:11",
+      "p": [
+        "0|h1571|heb-esvri-Nah-t-gr5dnqe|@Pc|also|גַּם־|gam-|גַּם|gam|also",
+        "1||heb-esvri-Nah-t-gr5drce|@pi2fs|You|אַ֣תְּ|ʾat|אַתְּ|ʾat|you",
+        "2||heb-esvri-Nah-t-gr5drpy|@vqi2fs|drunken|תִּשְׁכְּרִ֔י|tiš•kə•riy|שׁכר|škr|you will be drunk",
+        "3||heb-esvri-Nah-t-gr5drpa|@vqi3fsXa{1}Jf|hiding|תְּהִ֖י|tə•hiy|היה|hyh|you shall be",
+        "4||heb-esvri-Nah-t-gr5dgcy|@vnPfsa|hiding|נַֽעֲלָמָ֑ה|na•ʿă•lā•māh|עלם|ʿlm|hiding yourself",
+        "5|h1571|heb-esvri-Nah-t-gr5dgca|@Pc|•|גַּם־|gam-|גַּם|gam|also",
+        "6||heb-esvri-Nah-t-gr5dgpe|@pi2fs|you|אַ֛תְּ|ʾat|אַתְּ|ʾat|you",
+        "7||heb-esvri-Nah-t-gr5dgqy|@vpi2fs|seek|תְּבַקְשִׁ֥י|tə•ḇaq•šiy|בקשׁ|bqš|you will seek",
+        "8||heb-esvri-Nah-t-gr5dece|@ncmsa|refuge|מָעֹ֖וז|mā•ʿōwz|מָעֹוז|mā•ʿōwz|refuge",
+        "9|h4481|heb-esvri-Nah-t-gr5depy|@Pp|from|מֵ|mē|מִן|min|from",
+        "10|h341|heb-esvri-Nah-t-gr5depe|@ncmsa|enemy|אֹויֵֽב׃|ʾōw•yēḇ|אֹיֵב|ʾō•yēḇ|one being hostile"
+      ]
+    }
+  ],
+  "3:12": [
+    {
+      "o": 25281,
+      "r": "esvi:Nahum:3:12",
+      "p": [
+        "0|h3605|heb-esvri-Nah-t-gr5deqe|@ncmsc|All|כָּ֨ל־|kol-|כֹּל|kōl|all of",
+        "1|h4014|heb-esvri-Nah-t-gr5dkce|@ncmpcX2fs|fortresses|מִבְצָרַ֔יִךְ|miḇ•ṣā•ra•yiḵ|מִבְצָר|miḇ•ṣār|fortresses of",
+        "3||heb-esvri-Nah-t-gr5dkpe|@ncfpa|fig|תְּאֵנִ֖ים|tə•ʾē•niym|תְּאֵנָה|tə•ʾē•nāh|fig trees",
+        "4|h5974|heb-esvri-Nah-t-gr5dkqy|@Pp|with|עִם־|ʿim-|עִם|ʿim|with",
+        "5||heb-esvri-Nah-t-gr5dccy|@ncmpa|first-ripe|בִּכּוּרִ֑ים|bik•kuw•riym|בִּכּוּרִים|bik•kuw•riym|first-ripe figs",
+        "6|h518|heb-esvri-Nah-t-gr5dcca|@Pc|if|אִם־|ʾim-|אִם|ʾim|if",
+        "7|h5128|heb-esvri-Nah-t-gr5dcpe|@vni3mp|shaken|יִנֹּ֕ועוּ|yin•nōw•ʿuw|נוע|nwʿ|they are shaken",
+        "8||heb-esvri-Nah-t-gr5dcqy|@Pc|•|וְ|wə|וְ|wə|then",
+        "9||heb-esvri-Nah-t-gr5dcqe|@vqp3cp{2}|fall|נָפְל֖וּ|nā•p̄ə•luw|נפל|npl|they fall",
+        "10|h5922|heb-esvri-Nah-t-gr5dqco|@Pp|into|עַל־|ʿal-|עַל|ʿal|on",
+        "11|h6310|heb-esvri-Nah-t-gr5dqpy|@ncmsc|mouth|פִּ֥י|piy|פֶּה|peh|mouth of",
+        "12||heb-esvri-Nah-t-gr5dqpa|@vqPmsa|eater|אֹוכֵֽל׃|ʾōw•ḵēl|אכל|ʾkl|one eating"
+      ]
+    }
+  ],
+  "3:13": [
+    {
+      "o": 25282,
+      "r": "esvi:Nahum:3:13",
+      "p": [
+        "0|h2009|heb-esvri-Nah-t-gr5doce|@Pi|Behold|הִנֵּ֨ה|hin•nēh|הִנֵּה|hin•nēh|behold",
+        "1|h5972|heb-esvri-Nah-t-gr5dopy|@ncmscX2fs|troops|עַמֵּ֤ךְ|ʿam•mēḵ|עַם|ʿam|army of",
+        "3|h802|heb-esvri-Nah-t-gr5doqy|@ncfpa|women|נָשִׁים֙|nā•šiym|אִשָּׁה|ʾiš•šāh|women",
+        "4||heb-esvri-Nah-t-gr5d1ce|@Pp|in|בְּ|bə|בְּ|bə|in",
+        "5|h7130|heb-esvri-Nah-t-gr5d1co|@ncmscX2fs|midst|קִרְבֵּ֔ךְ|qir•bēḵ|קֶרֶב|qe•reḇ|midst of",
+        "7||heb-esvri-Nah-t-gr5d1po|@Pp|to|לְ|lə|לְ|lə|to",
+        "8|h341|heb-esvri-Nah-t-gr5d1pa|@ncmpcX2fs|enemies|אֹ֣יְבַ֔יִךְ|ʾō•yə•ḇa•yiḵ|אֹיֵב|ʾō•yēḇ|ones being hostile to",
+        "10|h6605|heb-esvri-Nah-t-gr5uyce|@vqa|wide|פָּתֹ֥וחַ|pā•ṯōwaḥ|פתח|ptḥ|to open",
+        "11|h6605|heb-esvri-Nah-t-gr5uypy|@vnp3cp|open|נִפְתְּח֖וּ|nip̄•tə•ḥuw|פתח|ptḥ|they are opened",
+        "12|h8179|heb-esvri-Nah-t-gr5uypa|@ncmpc|gates|שַׁעֲרֵ֣י|ša•ʿă•rēy|שַׁעַר|ša•ʿar|gates of",
+        "13|h776|heb-esvri-Nah-t-gr5uncy|@ncfscX2fs|land|אַרְצֵ֑ךְ|ʾar•ṣēḵ|אֶרֶץ|ʾe•reṣ|land of",
+        "15||heb-esvri-Nah-t-gr5unpy|@vqp3fs|devoured|אָכְלָ֥ה|ʾā•ḵə•lāh|אכל|ʾkl|she has devoured",
+        "16|h785|heb-esvri-Nah-t-gr5unpa|@ncbsa|fire|אֵ֖שׁ|ʾēš|אֵשׁ|ʾēš|fire",
+        "17|h1280|heb-esvri-Nah-t-gr5urcy|@ncmpcX2fs|bars|בְּרִיחָֽיִך׃|bə•riy•ḥā•yiḵ|בְּרִיחַ|bə•riyaḥ|bars of"
+      ]
+    }
+  ],
+  "3:14": [
+    {
+      "o": 25283,
+      "r": "esvi:Nahum:3:14",
+      "p": [
+        "0|h4325|heb-esvri-Nah-t-gr5urpe|@ncmpc|water|מֵ֤י|mēy|מַיִם|ma•yim|water of",
+        "1||heb-esvri-Nah-t-gr5urqy|@ncmsa|siege|מָצֹור֙|mā•ṣōwr|מָצֹור|mā•ṣōwr|siege",
+        "2|h7579|heb-esvri-Nah-t-gr5ugce|@vqvfs|Draw|שַֽׁאֲבִי־|ša•ʾă•ḇiy-|שׁאב|šʾb|draw",
+        "3||heb-esvri-Nah-t-gr5ugca|@PpX2fs|•|לָ֔ךְ|lāḵ|לְ|lə|for",
+        "5||heb-esvri-Nah-t-gr5ugpa|@vpvfs|strengthen|חַזְּקִ֖י|ḥaz•zə•qiy|חזק|ḥzq|strengthen",
+        "6|h4014|heb-esvri-Nah-t-gr5uecy|@ncmpcX2fs|forts|מִבְצָרָ֑יִךְ|miḇ•ṣā•rā•yiḵ|מִבְצָר|miḇ•ṣār|fortifications of",
+        "8|h935|heb-esvri-Nah-t-gr5uepy|@vqvfs|go|בֹּ֧אִי|bō•ʾiy|בוא|bwʾ|go",
+        "9||heb-esvri-Nah-t-gr5uepa|@Pp|into|בַ|ḇa|בְּ|bə|in",
+        "11|h2916|heb-esvri-Nah-t-gr5ueqe|@ncmsa|clay|טִּ֛יט|ṭ•ṭiyṭ|טִיט|ṭiyṭ|clay",
+        "12||heb-esvri-Nah-t-gr5ukco|@Pc|•|וְ|wə|וְ|wə|and",
+        "13||heb-esvri-Nah-t-gr5ukca|@vqvfs|tread|רִמְסִ֥י|rim•siy|רמס|rms|tread",
+        "14||heb-esvri-Nah-t-gr5ukpo|@Pp|•|בַ|ḇa|בְּ|bə|on",
+        "16|h2563|heb-esvri-Nah-t-gr5ukqy|@ncmsa|mortar|חֹ֖מֶר|ḥō•mer|חֹמֶר|ḥō•mer|mortar",
+        "17|h2388|heb-esvri-Nah-t-gr5ucce|@vhvfs|hold|הַחֲזִ֥יקִי|ha•ḥă•ziy•qiy|חזק|ḥzq|take hold",
+        "18||heb-esvri-Nah-t-gr5ucpy|@ncmsa|the brick mold|מַלְבֵּֽן׃|mal•bēn|מַלְבֵּן|mal•bēn|brick mold"
+      ]
+    }
+  ],
+  "3:15": [
+    {
+      "o": 25284,
+      "r": "esvi:Nahum:3:15",
+      "p": [
+        "0|h8033|heb-esvri-Nah-t-gr5ucqy|@Pd|There|שָׁ֚ם|šām|שָׁם|šām|there",
+        "1||heb-esvri-Nah-t-gr5uqce|@vqi3fsX2fs|devour|תֹּאכְלֵ֣ךְ|tō(ʾ)•ḵə•lēḵ|אכל|ʾkl|she shall devour",
+        "3|h784|heb-esvri-Nah-t-gr5uqpe|@ncbsa|fire|אֵ֔שׁ|ʾēš|אֵשׁ|ʾēš|fire",
+        "4||heb-esvri-Nah-t-gr5uqqy|@vhi3fsX2fs|cut|תַּכְרִיתֵ֣ךְ|taḵ•riy•ṯēḵ|כרת|krt|she will cut off",
+        "6|h2719|heb-esvri-Nah-t-gr5uoco|@ncfsa|sword|חֶ֔רֶב|ḥe•reḇ|חֶרֶב|ḥe•reḇ|sword",
+        "7||heb-esvri-Nah-t-gr5uope|@vqi3fsX2fs|devour|תֹּאכְלֵ֖ךְ|tō(ʾ)•ḵə•lēḵ|אכל|ʾkl|she shall devour",
+        "9||heb-esvri-Nah-t-gr5uoqe|@Pp|like|כַּ|ka|כְּ|kə|like",
+        "11|h3218|heb-esvri-Nah-t-gr5u1ce|@ncmsa|locust|יָּ֑לֶק|y•yā•leq|יֶלֶק|ye•leq|young locust",
+        "12|h3513|heb-esvri-Nah-t-gr5u1py|@vtvms|Multiply|הִתְכַּבֵּ֣ד|hiṯ•kab•bēḏ|כבד|kbd|multiply yourselves",
+        "13||heb-esvri-Nah-t-gr5u1pa|@Pp|like|כַּ|ka|כְּ|kə|like",
+        "15|h3218|heb-esvri-Nah-t-gr5u1qe|@ncmsa|locust|יֶּ֔לֶק|y•ye•leq|יֶלֶק|ye•leq|young locust",
+        "16||heb-esvri-Nah-t-grhdyco|@vtvfs|multiply|הִֽתְכַּבְּדִ֖י|hiṯ•kab•bə•ḏiy|כבד|kbd|multiply yourself",
+        "17||heb-esvri-Nah-t-grhdype|@Pp|like|כָּ|kā|כְּ|kə|like",
+        "19|h697|heb-esvri-Nah-t-grhdypa|@ncmsa|grasshopper|אַרְבֶּֽה׃|ʾar•beh|אַרְבֶּה|ʾar•beh|locust"
+      ]
+    }
+  ],
+  "3:16": [
+    {
+      "o": 25285,
+      "r": "esvi:Nahum:3:16",
+      "p": [
+        "0||heb-esvri-Nah-t-grhdnce|@vhp2fs|increased|הִרְבֵּית֙|hir•bēyṯ|רבה|rbh|you increased",
+        "1||heb-esvri-Nah-t-grhdnpy|@vqPmpcX2fs|merchants|רֹֽכְלַ֔יִךְ|rō•ḵə•la•yiḵ|רכל|rkl|ones trading of",
+        "3|h4481|heb-esvri-Nah-t-grhdnqy|@Pp|more than|מִ|mi|מִן|min|more than",
+        "4||heb-esvri-Nah-t-grhdnqe|@ncmpc|stars|כֹּוכְבֵ֖י|k•kōw•ḵə•ḇēy|כֹּוכָב|kōw•ḵāḇ|stars of",
+        "5||heb-esvri-Nah-t-grhdrco|@Pa|the|הַ|ha|הַ|ha|the",
+        "6|h8064|heb-esvri-Nah-t-grhdrca|@ncmpa|heavens|שָּׁמָ֑יִם|š•šā•mā•yim|שָׁמַיִם|šā•ma•yim|heavens",
+        "7|h3218|heb-esvri-Nah-t-grhdrpo|@ncmsa|locust|יֶ֥לֶק|ye•leq|יֶלֶק|ye•leq|young locust",
+        "8||heb-esvri-Nah-t-grhdrqe|@vqp3ms|spreads|פָּשַׁ֖ט|pā•šaṭ|פשׁט|pšṭ|he strips",
+        "9||heb-esvri-Nah-t-grhdgco|@Pc|and|וַ|wa|וְ|wə|and",
+        "10||heb-esvri-Nah-t-grhdgca|@vqw3msXa|flies|יָּעֹֽף׃|y•yā•ʿōp̄|עוף|ʿwp|he flies"
+      ]
+    }
+  ],
+  "3:17": [
+    {
+      "o": 25286,
+      "r": "esvi:Nahum:3:17",
+      "p": [
+        "0||heb-esvri-Nah-t-grhdgpa|@ncmpcX2fs|princes|מִנְּזָרַ֙יִךְ֙|min•nə•zā•ra•yiḵ|מִנְּזָר|min•nə•zār|princes of",
+        "2||heb-esvri-Nah-t-grhdece|@Pp|like|כָּֽ|kā|כְּ|kə|like",
+        "4|h697|heb-esvri-Nah-t-grhdeca|@ncmsa|grasshoppers|אַרְבֶּ֔ה|ʾar•beh|אַרְבֶּה|ʾar•beh|locust",
+        "5||heb-esvri-Nah-t-grhdepo|@Pc|•|וְ|wə|וְ|wə|and",
+        "6||heb-esvri-Nah-t-grhdepa|@ncmpcX2fs|scribes|טַפְסְרַ֖יִךְ|ṭap̄•sə•ra•yiḵ|טִפְסָר|ṭip̄•sār|officials of",
+        "8||heb-esvri-Nah-t-grhdkce|@Pp|like|כְּ|kə|כְּ|kə|like",
+        "9||heb-esvri-Nah-t-grhdkco|@ncmsc|locusts|גֹ֣וב|ḡōwḇ|גֹּוב|gōwḇ|locust swarm of",
+        "10||heb-esvri-Nah-t-grhdkpe|@ncmpa|locusts|גֹּבָ֑י|gō•ḇāy|גֹּבַי|gō•ḇay|locusts",
+        "11||heb-esvri-Nah-t-grhdkqy|@Pa|settling|הַֽ|ha|הַ|ha|the",
+        "12||heb-esvri-Nah-t-grhdkqe|@vqPmpa|settling|חֹונִ֤ים|ḥōw•niym|חנה|ḥnh|ones encamping",
+        "13||heb-esvri-Nah-t-grhdcco|@Pp|on|בַּ|ba|בְּ|bə|on",
+        "15|h1448|heb-esvri-Nah-t-grhdcpy|@ncfpa|fences|גְּדֵרֹות֙|g•gə•ḏē•rōwṯ|גְּדֵרָה|gə•ḏē•rāh|pens",
+        "16||heb-esvri-Nah-t-grhdcpa|@Pp|in|בְּ|bə|בְּ|bə|in",
+        "17|h3117|heb-esvri-Nah-t-grhdcqy|@ncmsc|day|יֹ֣ום|yōwm|יֹום|yōwm|day of",
+        "18|h7136|heb-esvri-Nah-t-grhdqce|@ncfsa|cold|קָרָ֔ה|qā•rāh|קָרָה|qā•rāh|cold",
+        "19|h8121|heb-esvri-Nah-t-grhdqpy|@ncbsa|sun|שֶׁ֤מֶשׁ|še•meš|שֶׁמֶשׁ|še•meš|sun",
+        "20|h2224|heb-esvri-Nah-t-grhdqpa|@vqp3fs|rises|זָֽרְחָה֙|zā•rə•ḥāh|זרח|zrḥ|she rises",
+        "21||heb-esvri-Nah-t-grhdocy|@Pc|•|וְ|wə|וְ|wə|and",
+        "22||heb-esvri-Nah-t-grhdoce|@vlp3ms{2}|fly|נֹודַ֔ד|nōw•ḏaḏ|נדד|nd|he flees",
+        "23||heb-esvri-Nah-t-grhdopy|@Pc|•|וְ|wə|וְ|wə|and",
+        "24|h3808|heb-esvri-Nah-t-grhdope|@Pn|no|לֹֽא־|lōʾ-|לֹא|lōʾ|not",
+        "25||heb-esvri-Nah-t-grhdopa|@vnp3ms|knows|נֹודַ֥ע|nōw•ḏaʿ|ידע|ydʿ|he is known",
+        "26||heb-esvri-Nah-t-grhd1cy|@ncmscX3ms|•|מְקֹומֹ֖ו|mə•qōw•mōw|מָקֹום|mā•qōwm|place of",
+        "28|h335|heb-esvri-Nah-t-grhd1py|@PgX3mp|where|אַיָּֽם׃|ʾay•yām|אֵי|ʾēy|where"
+      ]
+    }
+  ],
+  "3:18": [
+    {
+      "o": 25287,
+      "r": "esvi:Nahum:3:18",
+      "p": [
+        "0||heb-esvri-Nah-t-grhd1qe|@vqp3cp|asleep|נָמ֤וּ|nā•muw|נום|nwm|they sleep",
+        "1||heb-esvri-Nah-t-grhuyco|@vqPmpcX2ms|shepherds|רֹעֶ֙יךָ֙|rō•ʿey•ḵā|רעה|rʿh|ones shepherding of",
+        "3|h4430|heb-esvri-Nah-t-grhuypo|@ncmsc|king|מֶ֣לֶךְ|me•leḵ|מֶלֶךְ|me•leḵ|king of",
+        "4|h804|heb-esvri-Nah-t-grhuyqe|@np|Assyria|אַשּׁ֔וּר|ʾaš•šuwr|אַשּׁוּר|ʾaš•šuwr|Assyria",
+        "5|h5123|heb-esvri-Nah-t-grhunco|@vqi3mp|slumber|יִשְׁכְּנ֖וּ|yiš•kə•nuw|שׁכן|škn|they dwell",
+        "6|h117|heb-esvri-Nah-t-grhunpe|@ampcX2ms|nobles|אַדִּירֶ֑יךָ|ʾad•diy•rey•ḵā|אַדִּיר|ʾad•diyr|noble ones of",
+        "8||heb-esvri-Nah-t-grhunqe|@vnp3cp|scattered|נָפֹ֧שׁוּ|nā•p̄ō•šuw|פושׁ|pwš|they are scattered",
+        "9|h5972|heb-esvri-Nah-t-grhurco|@ncmscX2ms|people|עַמְּךָ֛|ʿam•mə•ḵā|עַם|ʿam|people of",
+        "11|h5922|heb-esvri-Nah-t-grhurpo|@Pp|on|עַל־|ʿal-|עַל|ʿal|on",
+        "12||heb-esvri-Nah-t-grhurqy|@Pa|the|הֶ|he|הַ|ha|the",
+        "13|h2022|heb-esvri-Nah-t-grhurqe|@ncmpa|mountains|הָרִ֖ים|hā•riym|הַר|har|mountains",
+        "14||heb-esvri-Nah-t-grhugco|@Pc|with|וְ|wə|וְ|wə|and",
+        "15|h370|heb-esvri-Nah-t-grhugca|@Pd|none|אֵ֥ין|ʾēyn|אַיִן|ʾa•yin|there is not",
+        "16||heb-esvri-Nah-t-grhugpo|@vpPmsa|gather|מְקַבֵּֽץ׃|mə•qab•bēṣ|קבץ|qbṣ|one gathering"
+      ]
+    }
+  ],
+  "3:19": [
+    {
+      "o": 25288,
+      "r": "esvi:Nahum:3:19",
+      "p": [
+        "0|h370|heb-esvri-Nah-t-grhuecy|@Pd|no|אֵין־|ʾēyn-|אַיִן|ʾa•yin|there is not",
+        "1||heb-esvri-Nah-t-grhueco|@ncfsa|easing|כֵּהָ֣ה|kē•hāh|כֵּהָה|kē•hāh|easing",
+        "2||heb-esvri-Nah-t-grhuepe|@Pp|•|לְ|lə|לְ|lə|",
+        "3|h7669|heb-esvri-Nah-t-grhuepo|@ncmscX2ms|hurt|שִׁבְרֶ֔ךָ|šiḇ•re•ḵā|שֶׁבֶר|še•ḇer|breach of",
+        "5||heb-esvri-Nah-t-grhukcy|@vnPfsa|grievous|נַחְלָ֖ה|naḥ•lāh|חלה|ḥlh|being grievous",
+        "6|h4347|heb-esvri-Nah-t-grhukca|@ncfscX2ms|wound|מַכָּתֶ֑ךָ|mak•kā•ṯe•ḵā|מַכָּה|mak•kāh|wound of",
+        "8|h3605|heb-esvri-Nah-t-grhukpa|@ncmsc|All|כֹּ֣ל׀|kōl|כֹּל|kōl|all of",
+        "9||heb-esvri-Nah-t-grhuccy|@vqPmpc|hear|שֹׁמְעֵ֣י|šō•mə•ʿēy|שׁמע|šmʿ|ones hearing of",
+        "10|h8088|heb-esvri-Nah-t-grhucca|@ncmscX2ms|news|שִׁמְעֲךָ֗|šim•ʿă•ḵā|שֵׁמַע|šē•maʿ|report of",
+        "12||heb-esvri-Nah-t-grhucpa|@vqp3cp|clap|תָּ֤קְעוּ|tā•qə•ʿuw|תקע|tqʿ|they clap",
+        "13|h3709|heb-esvri-Nah-t-grhuqcy|@ncfsa|hands|כַף֙|ḵap̄|כַּף|kap̄|hand",
+        "14|h5921|heb-esvri-Nah-t-grhuqca|@PpX2ms|over|עָלֶ֔יךָ|ʿā•ley•ḵā|עַל|ʿal|over",
+        "16|h3588|heb-esvri-Nah-t-grhuqpa|@Pc|For|כִּ֗י|kiy|כִּי|kiy|for",
+        "17|h5922|heb-esvri-Nah-t-grhuocy|@Pp|upon|עַל־|ʿal-|עַל|ʿal|upon",
+        "18|h4310|heb-esvri-Nah-t-grhuoco|@pii|whom|מִ֛י|miy|מִי|miy|whom",
+        "19|h3808|heb-esvri-Nah-t-grhuope|@Pn|not|לֹֽא־|lōʾ-|לֹא|lōʾ|not",
+        "20||heb-esvri-Nah-t-grhuopa|@vqp3fs|come|עָבְרָ֥ה|ʿā•ḇə•rāh|עבר|ʿbr|she has passed",
+        "21|h7462|heb-esvri-Nah-t-grhu1cy|@ncfscX2ms|evil|רָעָתְךָ֖|rā•ʿā•ṯə•ḵā|רָעָה|rā•ʿāh|evil of",
+        "23|h8548|heb-esvri-Nah-t-grhu1py|@Pd|unceasing|תָּמִֽיד׃|tā•miyḏ|תָּמִיד|tā•miyḏ|continually"
+      ]
+    }
+  ]
+}

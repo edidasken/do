@@ -1,0 +1,409 @@
+{
+  "schema": "flockos.jburson.esv.interlinear.v1",
+  "source": "jburson/bible-data ESV export",
+  "sourceFile": "esv-interlinear.json",
+  "chunking": "book-json-by-reference-key",
+  "generatedAt": "2026-06-17T20:50:37.996Z",
+  "chunks": [
+    {
+      "file": "1-chronicles.json",
+      "bytes": 1160335,
+      "verses": 942,
+      "rows": 16838
+    },
+    {
+      "file": "1-corinthians.json",
+      "bytes": 498782,
+      "verses": 437,
+      "rows": 7433
+    },
+    {
+      "file": "1-john.json",
+      "bytes": 139808,
+      "verses": 105,
+      "rows": 2045
+    },
+    {
+      "file": "1-kings.json",
+      "bytes": 1351924,
+      "verses": 816,
+      "rows": 20606
+    },
+    {
+      "file": "1-peter.json",
+      "bytes": 124762,
+      "verses": 105,
+      "rows": 1786
+    },
+    {
+      "file": "1-samuel.json",
+      "bytes": 1387472,
+      "verses": 810,
+      "rows": 21473
+    },
+    {
+      "file": "1-thessalonians.json",
+      "bytes": 105753,
+      "verses": 89,
+      "rows": 1523
+    },
+    {
+      "file": "1-timothy.json",
+      "bytes": 122665,
+      "verses": 113,
+      "rows": 1718
+    },
+    {
+      "file": "2-chronicles.json",
+      "bytes": 1456993,
+      "verses": 822,
+      "rows": 22040
+    },
+    {
+      "file": "2-corinthians.json",
+      "bytes": 326236,
+      "verses": 257,
+      "rows": 4853
+    },
+    {
+      "file": "2-john.json",
+      "bytes": 15677,
+      "verses": 13,
+      "rows": 228
+    },
+    {
+      "file": "2-kings.json",
+      "bytes": 1257716,
+      "verses": 719,
+      "rows": 19234
+    },
+    {
+      "file": "2-peter.json",
+      "bytes": 86833,
+      "verses": 61,
+      "rows": 1222
+    },
+    {
+      "file": "2-samuel.json",
+      "bytes": 1143633,
+      "verses": 695,
+      "rows": 17601
+    },
+    {
+      "file": "2-thessalonians.json",
+      "bytes": 57721,
+      "verses": 47,
+      "rows": 862
+    },
+    {
+      "file": "2-timothy.json",
+      "bytes": 90574,
+      "verses": 83,
+      "rows": 1270
+    },
+    {
+      "file": "3-john.json",
+      "bytes": 14336,
+      "verses": 15,
+      "rows": 205
+    },
+    {
+      "file": "acts.json",
+      "bytes": 1347303,
+      "verses": 1003,
+      "rows": 19162
+    },
+    {
+      "file": "amos.json",
+      "bytes": 218365,
+      "verses": 146,
+      "rows": 3402
+    },
+    {
+      "file": "colossians.json",
+      "bytes": 109281,
+      "verses": 95,
+      "rows": 1588
+    },
+    {
+      "file": "daniel.json",
+      "bytes": 660158,
+      "verses": 357,
+      "rows": 9901
+    },
+    {
+      "file": "deuteronomy.json",
+      "bytes": 1508872,
+      "verses": 959,
+      "rows": 23680
+    },
+    {
+      "file": "ecclesiastes.json",
+      "bytes": 299475,
+      "verses": 222,
+      "rows": 4734
+    },
+    {
+      "file": "ephesians.json",
+      "bytes": 172588,
+      "verses": 155,
+      "rows": 2524
+    },
+    {
+      "file": "esther.json",
+      "bytes": 328585,
+      "verses": 167,
+      "rows": 5038
+    },
+    {
+      "file": "exodus.json",
+      "bytes": 1740420,
+      "verses": 1213,
+      "rows": 26850
+    },
+    {
+      "file": "ezekiel.json",
+      "bytes": 2066040,
+      "verses": 1273,
+      "rows": 32374
+    },
+    {
+      "file": "ezra.json",
+      "bytes": 425618,
+      "verses": 280,
+      "rows": 6309
+    },
+    {
+      "file": "galatians.json",
+      "bytes": 161670,
+      "verses": 149,
+      "rows": 2349
+    },
+    {
+      "file": "genesis.json",
+      "bytes": 2124460,
+      "verses": 1533,
+      "rows": 32838
+    },
+    {
+      "file": "habakkuk.json",
+      "bytes": 65964,
+      "verses": 56,
+      "rows": 1051
+    },
+    {
+      "file": "haggai.json",
+      "bytes": 59391,
+      "verses": 38,
+      "rows": 929
+    },
+    {
+      "file": "hebrews.json",
+      "bytes": 380236,
+      "verses": 303,
+      "rows": 5496
+    },
+    {
+      "file": "hosea.json",
+      "bytes": 265042,
+      "verses": 197,
+      "rows": 4044
+    },
+    {
+      "file": "isaiah.json",
+      "bytes": 1865950,
+      "verses": 1292,
+      "rows": 28726
+    },
+    {
+      "file": "james.json",
+      "bytes": 126865,
+      "verses": 108,
+      "rows": 1805
+    },
+    {
+      "file": "jeremiah.json",
+      "bytes": 2274902,
+      "verses": 1364,
+      "rows": 34933
+    },
+    {
+      "file": "job.json",
+      "bytes": 924567,
+      "verses": 1070,
+      "rows": 14809
+    },
+    {
+      "file": "joel.json",
+      "bytes": 100226,
+      "verses": 73,
+      "rows": 1438
+    },
+    {
+      "file": "john.json",
+      "bytes": 1070659,
+      "verses": 878,
+      "rows": 15580
+    },
+    {
+      "file": "jonah.json",
+      "bytes": 70673,
+      "verses": 48,
+      "rows": 1105
+    },
+    {
+      "file": "joshua.json",
+      "bytes": 1059322,
+      "verses": 658,
+      "rows": 16042
+    },
+    {
+      "file": "jude.json",
+      "bytes": 33813,
+      "verses": 25,
+      "rows": 469
+    },
+    {
+      "file": "judges.json",
+      "bytes": 1047666,
+      "verses": 618,
+      "rows": 16166
+    },
+    {
+      "file": "lamentations.json",
+      "bytes": 175424,
+      "verses": 154,
+      "rows": 2702
+    },
+    {
+      "file": "leviticus.json",
+      "bytes": 1275639,
+      "verses": 859,
+      "rows": 20129
+    },
+    {
+      "file": "luke.json",
+      "bytes": 1312526,
+      "verses": 1149,
+      "rows": 18917
+    },
+    {
+      "file": "malachi.json",
+      "bytes": 86040,
+      "verses": 55,
+      "rows": 1354
+    },
+    {
+      "file": "mark.json",
+      "bytes": 767499,
+      "verses": 673,
+      "rows": 11000
+    },
+    {
+      "file": "matthew.json",
+      "bytes": 1218017,
+      "verses": 1067,
+      "rows": 17495
+    },
+    {
+      "file": "micah.json",
+      "bytes": 152512,
+      "verses": 105,
+      "rows": 2324
+    },
+    {
+      "file": "nahum.json",
+      "bytes": 63305,
+      "verses": 47,
+      "rows": 946
+    },
+    {
+      "file": "nehemiah.json",
+      "bytes": 600085,
+      "verses": 406,
+      "rows": 8943
+    },
+    {
+      "file": "numbers.json",
+      "bytes": 1767314,
+      "verses": 1288,
+      "rows": 26798
+    },
+    {
+      "file": "obadiah.json",
+      "bytes": 28123,
+      "verses": 21,
+      "rows": 446
+    },
+    {
+      "file": "philemon.json",
+      "bytes": 22063,
+      "verses": 25,
+      "rows": 336
+    },
+    {
+      "file": "philippians.json",
+      "bytes": 115438,
+      "verses": 104,
+      "rows": 1688
+    },
+    {
+      "file": "proverbs.json",
+      "bytes": 772409,
+      "verses": 915,
+      "rows": 11866
+    },
+    {
+      "file": "psalms.json",
+      "bytes": 2255198,
+      "verses": 2461,
+      "rows": 34239
+    },
+    {
+      "file": "revelation.json",
+      "bytes": 679508,
+      "verses": 404,
+      "rows": 9968
+    },
+    {
+      "file": "romans.json",
+      "bytes": 508973,
+      "verses": 432,
+      "rows": 7562
+    },
+    {
+      "file": "ruth.json",
+      "bytes": 132547,
+      "verses": 85,
+      "rows": 2073
+    },
+    {
+      "file": "song-of-solomon.json",
+      "bytes": 118877,
+      "verses": 117,
+      "rows": 1840
+    },
+    {
+      "file": "titus.json",
+      "bytes": 52612,
+      "verses": 46,
+      "rows": 733
+    },
+    {
+      "file": "zechariah.json",
+      "bytes": 330241,
+      "verses": 211,
+      "rows": 5152
+    },
+    {
+      "file": "zephaniah.json",
+      "bytes": 77418,
+      "verses": 53,
+      "rows": 1193
+    }
+  ],
+  "totalChunks": 66,
+  "totalBytes": 42361099,
+  "totalVerses": 31086,
+  "totalRows": 641983
+}

@@ -1,0 +1,50 @@
+{
+  "schema": "flockos.source-parts.v1",
+  "originalFile": "bible_original.sql.gz",
+  "originalBytes": 16583247,
+  "originalSha256": "e3fecbcce0a234563e7a8f8fce71cd4f8a4383de23b12421f97315ceada35db2",
+  "chunkSize": 2097152,
+  "chunks": [
+    {
+      "file": "part-0001",
+      "bytes": 2097152,
+      "sha256": "2a9c5a233df2313b00375d09e43decf1ad7cf42d0371e5a444aac22e0be878fb"
+    },
+    {
+      "file": "part-0002",
+      "bytes": 2097152,
+      "sha256": "ff883b733f4140e1628cef706276b11528d5e955907800b177afed1fd45711cb"
+    },
+    {
+      "file": "part-0003",
+      "bytes": 2097152,
+      "sha256": "c000b1b47ae857b856a094222b073727312482b7aae864e3d2928718c29b7325"
+    },
+    {
+      "file": "part-0004",
+      "bytes": 2097152,
+      "sha256": "66efb77f7478c31bd44375756810dfb37eb03588d61503e81e26bc5056edd734"
+    },
+    {
+      "file": "part-0005",
+      "bytes": 2097152,
+      "sha256": "71fc6dd449066babab36e813dc62edae1d1688cc8e7e833afb882e42e1c56062"
+    },
+    {
+      "file": "part-0006",
+      "bytes": 2097152,
+      "sha256": "e835fff8ab2d2942decbfac671692ddc29fe9526d4c3f395e341242b19222435"
+    },
+    {
+      "file": "part-0007",
+      "bytes": 2097152,
+      "sha256": "c57f79134628dfec2884a83a6202d3112aed6f1b763b1d9d0c72e5f5edf9e52f"
+    },
+    {
+      "file": "part-0008",
+      "bytes": 1903183,
+      "sha256": "82257d8bba9d976cc98d44549d5a11919c3e1f051be3b24e04755fe0dc1f38c7"
+    }
+  ],
+  "reassemble": "cat bible_original.sql.gz.parts/part-* > bible_original.sql.gz"
+}

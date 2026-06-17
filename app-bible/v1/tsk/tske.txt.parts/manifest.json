@@ -1,0 +1,60 @@
+{
+  "schema": "flockos.source-parts.v1",
+  "originalFile": "tske.txt",
+  "originalBytes": 20439119,
+  "originalSha256": "8364170c135f7710d04394ab4bebbd7f5c23542459f399145f494b08d6116350",
+  "chunkSize": 2097152,
+  "chunks": [
+    {
+      "file": "part-0001",
+      "bytes": 2097152,
+      "sha256": "0ec353b43671a63c5ff8998d33d40b1aa3ad0790725800df705aa5b9d71ed088"
+    },
+    {
+      "file": "part-0002",
+      "bytes": 2097152,
+      "sha256": "9366f9cdebe88e6d808a31ea044ad9045fd06ca84f30081299008df02bf2a8fc"
+    },
+    {
+      "file": "part-0003",
+      "bytes": 2097152,
+      "sha256": "db2eb902a36813fce6a3378dc062b51fb444009c5fb22878478ab182cc9fa9ac"
+    },
+    {
+      "file": "part-0004",
+      "bytes": 2097152,
+      "sha256": "a43a1330c1262620642769316449b018ccc23029f14d55a91e166feba2ed35ec"
+    },
+    {
+      "file": "part-0005",
+      "bytes": 2097152,
+      "sha256": "51828f1713398e2b7ea5aae116e4983ab12eb1a4217aff0988a3f9096c88c680"
+    },
+    {
+      "file": "part-0006",
+      "bytes": 2097152,
+      "sha256": "c0adb12a8a9de21fdb998e1e7c33728ee75ceb2f2aebe1d693705f32759a6c44"
+    },
+    {
+      "file": "part-0007",
+      "bytes": 2097152,
+      "sha256": "60fb3eb52baa045f076249e2946843a6c5cba0294a0cfeabd5e18217abb7176f"
+    },
+    {
+      "file": "part-0008",
+      "bytes": 2097152,
+      "sha256": "60043b6328086b636639d2f3c32ba8fe50b52af2981a1c3acd7fd2659f033c4c"
+    },
+    {
+      "file": "part-0009",
+      "bytes": 2097152,
+      "sha256": "1b87b4b32a8496470d573aada9cb413e3fb9da68bd9698dbd5a03f5c6cc65c46"
+    },
+    {
+      "file": "part-0010",
+      "bytes": 1564751,
+      "sha256": "61e5145084bf1183608e95d89e42fe1972dadaa08fc5330cdd2640aa38a7616e"
+    }
+  ],
+  "reassemble": "cat tske.txt.parts/part-* > tske.txt"
+}

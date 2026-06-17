@@ -1,0 +1,1408 @@
+{
+  "1:0": [
+    {
+      "o": 25289,
+      "r": "esvi:Habakkuk:1:0",
+      "h": 1,
+      "t": "Habakkuk 1",
+      "p": []
+    }
+  ],
+  "1:1": [
+    {
+      "o": 25290,
+      "r": "esvi:Habakkuk:1:1",
+      "p": [
+        "0||heb-esvri-Hab-t-gw|@Pa|The|הַ|ha|הַ|ha|the",
+        "1|h4854|heb-esvri-Hab-t-ga|@ncmsa|oracle|מַּשָׂא֙|m•ma•śāʾ|מַשָּׂא|maś•śāʾ|oracle",
+        "2|h834|heb-esvri-Hab-t-8r|@Pr|that|אֲשֶׁ֣ר|ʾă•šer|אֲשֶׁר|ʾă•šer|that",
+        "3|h2372|heb-esvri-Hab-t-gr3y|@vqp3ms|saw|חָזָ֔ה|ḥā•zāh|חזה|ḥzh|he saw",
+        "4|h2265|heb-esvri-Hab-t-gr4o|@np|Habakkuk|חֲבַקּ֖וּק|ḥă•ḇaq•quwq|חֲבַקּוּק|ḥă•ḇaq•quwq|Habakkuk",
+        "5||heb-esvri-Hab-t-grhy|@Pa|the|הַ|ha|הַ|ha|the",
+        "6|h5030|heb-esvri-Hab-t-grho|@ncmsa|prophet|נָּבִֽיא׃|n•nā•ḇiyʾ|נָבִיא|nā•ḇiyʾ|prophet"
+      ]
+    },
+    {
+      "o": 25291,
+      "r": "esvi:Habakkuk:1:1",
+      "h": 2,
+      "t": "Habakkuk’s Complaint",
+      "p": []
+    }
+  ],
+  "1:2": [
+    {
+      "o": 25292,
+      "r": "esvi:Habakkuk:1:2",
+      "p": [
+        "0|h5705|heb-esvri-Hab-t-ge3o|@Pp|how long|עַד־|ʿaḏ-|עַד|ʿaḏ|until",
+        "1|h575|heb-esvri-Hab-t-ge4o|@pii|how long|אָ֧נָה|ʾā•nāh|אָן|ʾān|when",
+        "2||heb-esvri-Hab-t-gehy|@np|Lord|יְהוָ֛ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "3||heb-esvri-Hab-t-gcao|@vpp1cs|cry|שִׁוַּ֖עְתִּי|šiw•waʿ•tiy|שׁוע|šwʿ|I shall cry for help",
+        "4||heb-esvri-Hab-t-gc4y|@Pc|and|וְ|wə|וְ|wə|and",
+        "5|h3808|heb-esvri-Hab-t-gc4o|@Pn|not|לֹ֣א|lōʾ|לֹא|lōʾ|not",
+        "6||heb-esvri-Hab-t-gchy|@vqi2ms|hear|תִשְׁמָ֑ע|ṯiš•māʿ|שׁמע|šmʿ|you will hear",
+        "7||heb-esvri-Hab-t-goao|@vqi1cs|cry|אֶזְעַ֥ק|ʾez•ʿaq|זעק|zʿq|I cry",
+        "8||heb-esvri-Hab-t-go4y|@PpX2ms|to|אֵלֶ֛יךָ|ʾē•ley•ḵā|אֶל|ʾel|to",
+        "10|h2555|heb-esvri-Hab-t-gohy|@ncmsa|Violence|חָמָ֖ס|ḥā•mās|חָמָס|ḥā•mās|violence",
+        "11||heb-esvri-Hab-t-gwao|@Pc|and|וְ|wə|וְ|wə|and",
+        "12|h3808|heb-esvri-Hab-t-gw3y|@Pn|not|לֹ֥א|lōʾ|לֹא|lōʾ|not",
+        "13||heb-esvri-Hab-t-gw4o|@vhi2ms|save|תֹושִֽׁיעַ׃|ṯōw•šiyaʿ|ישׁע|yšʿ|you will save"
+      ]
+    }
+  ],
+  "1:3": [
+    {
+      "o": 25293,
+      "r": "esvi:Habakkuk:1:3",
+      "p": [
+        "0|h4100|heb-esvri-Hab-t-gwho|@Pp|Why|לָ֣|lā|לְ|lə|",
+        "1|h4100|heb-esvri-Hab-t-gaay|@pii|Why|מָּה|m•māh|מָה|māh|why",
+        "2||heb-esvri-Hab-t-ga3o|@vhi2msX1cs|see|תַרְאֵ֤נִי|ṯar•ʾē•niy|ראה|rʾh|you make see",
+        "4|h205|heb-esvri-Hab-t-ga5o|@ncmsa|iniquity|אָ֙וֶן֙|ʾā•wen|אָוֶן|ʾā•wen|iniquity",
+        "5||heb-esvri-Hab-t-ghay|@Pc|and|וְ|wə|וְ|wə|and",
+        "6|h5999|heb-esvri-Hab-t-ghao|@ncmsa|wrong|עָמָ֣ל|ʿā•māl|עָמָל|ʿā•māl|trouble",
+        "7||heb-esvri-Hab-t-gh4y|@vhi2ms|look|תַּבִּ֔יט|tab•biyṭ|נבט|nbṭ|you look upon",
+        "8||heb-esvri-Hab-t-gh5o|@Pc|•|וְ|wə|וְ|wə|and",
+        "9|h7701|heb-esvri-Hab-t-ghhy|@ncmsa|Destruction|שֹׁ֥ד|šōḏ|שֹׁד|šōḏ|destruction",
+        "10||heb-esvri-Hab-t-8yao|@Pc|and|וְ|wə|וְ|wə|and",
+        "11|h2555|heb-esvri-Hab-t-8y3y|@ncmsa|violence|חָמָ֖ס|ḥā•mās|חָמָס|ḥā•mās|violence",
+        "12||heb-esvri-Hab-t-8y4o|@Pp|before|לְ|lə|לְ|lə|",
+        "13|h5049|heb-esvri-Hab-t-8y5y|@PpX1cs|before|נֶגְדִּ֑י|neḡ•diy|נֶגֶד|ne•ḡeḏ|before",
+        "15||heb-esvri-Hab-t-8ray|@Pc|•|וַ|wa|וְ|wə|and",
+        "16||heb-esvri-Hab-t-8rao|@vqw3msXa|•|יְהִ֧י|y•hiy|היה|hyh|he is",
+        "17|h7379|heb-esvri-Hab-t-8r4y|@ncmsa|strife|רִ֦יב|riyḇ|רִיב|riyḇ|strife",
+        "18||heb-esvri-Hab-t-8r5o|@Pc|and|וּ|uw|וְ|wə|and",
+        "19||heb-esvri-Hab-t-8rhy|@ncmsa|contention|מָדֹ֖ון|mā•ḏōwn|מָדֹון|mā•ḏōwn|contention",
+        "20||heb-esvri-Hab-t-gradn|@vqi3ms|arise|יִשָּֽׂא׃|yiś•śāʾ|נשׂא|nśʾ|he rises up"
+      ]
+    }
+  ],
+  "1:4": [
+    {
+      "o": 25294,
+      "r": "esvi:Habakkuk:1:4",
+      "p": [
+        "0|h5922|heb-esvri-Hab-t-gradk|@Pp|So|עַל־|ʿal-|עַל|ʿal|upon",
+        "1|h3654|heb-esvri-Hab-t-gradq|@Pd|So|כֵּן֙|kēn|כֵּן|kēn|thus",
+        "2||heb-esvri-Hab-t-grauy|@vqi3fs|paralyzed|תָּפ֣וּג|tā•p̄uwḡ|פוג|pwg|she is paralyzed",
+        "3||heb-esvri-Hab-t-graug|@ncfsa|law|תֹּורָ֔ה|tōw•rāh|תֹּורָה|tōw•rāh|law",
+        "4||heb-esvri-Hab-t-grauc|@Pc|and|וְ|wə|וְ|wə|and",
+        "5|h3808|heb-esvri-Hab-t-grauq|@Pn|never|לֹֽא־|lōʾ-|לֹא|lōʾ|not",
+        "6||heb-esvri-Hab-t-grau1|@vqi3ms|forth|יֵצֵ֥א|yē•ṣēʾ|יצא|yṣʾ|he goes out",
+        "7||heb-esvri-Hab-t-gr3dr|@Pp|never|לָ|lā|לְ|lə|for",
+        "8||heb-esvri-Hab-t-gr3dg|@ncmsa|never|נֶ֖צַח|ne•ṣaḥ|נֵצַח|nē•ṣaḥ|eternity",
+        "9|h4941|heb-esvri-Hab-t-gr3dc|@ncmsa|justice|מִשְׁפָּ֑ט|miš•pāṭ|מִשְׁפָּט|miš•pāṭ|justice",
+        "10|h3588|heb-esvri-Hab-t-gr3d1|@Pc|For|כִּ֤י|kiy|כִּי|kiy|for",
+        "11|h7563|heb-esvri-Hab-t-gr3ur|@amsa|wicked|רָשָׁע֙|rā•šāʿ|רָשָׁע|rā•šāʿ|wicked one",
+        "12|h3803|heb-esvri-Hab-t-gr3uk|@vhPmsa|surround|מַכְתִּ֣יר|maḵ•tiyr|כתר|ktr|surrounding",
+        "13|h854|heb-esvri-Hab-t-gr3uo|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "14||heb-esvri-Hab-t-gr4dy|@Pa|the|הַ|ha|הַ|ha|the",
+        "15|h6662|heb-esvri-Hab-t-gr4dn|@amsa|righteous|צַּדִּ֔יק|ṣ•ṣad•diyq|צַדִּיק|ṣad•diyq|righteous",
+        "16|h5922|heb-esvri-Hab-t-gr4de|@Pp|so|עַל־|ʿal-|עַל|ʿal|upon",
+        "17|h3654|heb-esvri-Hab-t-gr4dc|@Pd|so|כֵּ֛ן|kēn|כֵּן|kēn|thus",
+        "18||heb-esvri-Hab-t-gr4d1|@vqi3ms|forth|יֵצֵ֥א|yē•ṣēʾ|יצא|yṣʾ|he goes out",
+        "19|h4941|heb-esvri-Hab-t-gr4ur|@ncmsa|justice|מִשְׁפָּ֖ט|miš•pāṭ|מִשְׁפָּט|miš•pāṭ|justice",
+        "20||heb-esvri-Hab-t-gr4uk|@vPPmsa|perverted|מְעֻקָּֽל׃|mə•ʿuq•qāl|עקל|ʿql|being perverted"
+      ]
+    },
+    {
+      "o": 25295,
+      "r": "esvi:Habakkuk:1:4",
+      "h": 2,
+      "t": "The Lord’s Answer",
+      "p": []
+    }
+  ],
+  "1:5": [
+    {
+      "o": 25296,
+      "r": "esvi:Habakkuk:1:5",
+      "p": [
+        "0|h7200|heb-esvri-Hab-t-gr4u1|@vqvmp|Look|רְא֤וּ|rə•ʾuw|ראה|rʾh|look",
+        "1||heb-esvri-Hab-t-gr5dr|@Pp|among|בַ|ḇa|בְּ|bə|among",
+        "3||heb-esvri-Hab-t-gr5de|@ncmpa|nations|גֹּויִם֙|g•gōw•yim|גֹּוי|gōwy|nations",
+        "4||heb-esvri-Hab-t-gr5dq|@Pc|and|וְֽ|wə|וְ|wə|and",
+        "5||heb-esvri-Hab-t-gr5do|@vhvmp|see|הַבִּ֔יטוּ|hab•biy•ṭuw|נבט|nbṭ|see",
+        "6||heb-esvri-Hab-t-gr5un|@Pc|•|וְ|wə|וְ|wə|and",
+        "7||heb-esvri-Hab-t-gr5ur|@vtvmp|wonder|הִֽתַּמְּה֖וּ|hit•tam•mə•huw|תמהּ|tmh|wonder",
+        "8||heb-esvri-Hab-t-gr5uk|@vqvmp|astounded|תְּמָ֑הוּ|tə•mā•huw|תמהּ|tmh|be astounded",
+        "9|h3588|heb-esvri-Hab-t-gr5uo|@Pc|For|כִּי־|kiy-|כִּי|kiy|for",
+        "10|h6467|heb-esvri-Hab-t-grhdy|@ncmsa|work|פֹ֙עַל֙|p̄ō•ʿal|פֹּעַל|pō•ʿal|work",
+        "11||heb-esvri-Hab-t-grhdg|@vqPmsa|doing|פֹּעֵ֣ל|pō•ʿēl|פעל|pʿl|doing",
+        "12||heb-esvri-Hab-t-grhdc|@Pp|in|בִּֽ|bi|בְּ|bə|in",
+        "13||heb-esvri-Hab-t-grhdq|@ncmpcX2mp|days|ימֵיכֶ֔ם|y•mēy•ḵem|יֹום|yōwm|days of",
+        "15|h3808|heb-esvri-Hab-t-grhun|@Pn|not|לֹ֥א|lōʾ|לֹא|lōʾ|not",
+        "16||heb-esvri-Hab-t-grhue|@vhi2mp|believe|תַאֲמִ֖ינוּ|ṯa•ʾă•miy•nuw|אמן|ʾmn|you believe",
+        "17|h3588|heb-esvri-Hab-t-grhuq|@Pc|if|כִּ֥י|kiy|כִּי|kiy|if",
+        "18||heb-esvri-Hab-t-geady|@vPi3ms|told|יְסֻפָּֽר׃|yə•sup•pār|ספר|spr|he was told"
+      ]
+    }
+  ],
+  "1:6": [
+    {
+      "o": 25297,
+      "r": "esvi:Habakkuk:1:6",
+      "p": [
+        "0|h3588|heb-esvri-Hab-t-geade|@Pc|For|כִּֽי־|kiy-|כִּי|kiy|for",
+        "1|h2009|heb-esvri-Hab-t-geadc|@PiX1cs|behold|הִנְנִ֤י|hi•nə•niy|הִנֵּה|hin•nēh|behold",
+        "3||heb-esvri-Hab-t-geauy|@vhPmsa|raising|מֵקִים֙|mē•qiym|קום|qwm|raising up",
+        "4|h854|heb-esvri-Hab-t-geaug|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "5||heb-esvri-Hab-t-geauk|@Pa|the|הַ|ha|הַ|ha|the",
+        "6||heb-esvri-Hab-t-geauc|@np|Chaldeans|כַּשְׂדִּ֔ים|k•kaś•diym|כַּשְׂדִּים|kaś•diym|Chaldeans",
+        "7|h1471|heb-esvri-Hab-t-geau1|@Pa|nation|הַ|ha|הַ|ha|the",
+        "8|h1471|heb-esvri-Hab-t-ge3dy|@ncmsa|nation|גֹּ֖וי|g•gōwy|גֹּוי|gōwy|nation",
+        "9||heb-esvri-Hab-t-ge3dg|@Pa|bitter|הַ|ha|הַ|ha|the",
+        "10|h4752|heb-esvri-Hab-t-ge3de|@amsa|bitter|מַּ֣ר|m•mar|מַר|mar|bitter",
+        "11||heb-esvri-Hab-t-ge3dq|@Pc|and|וְ|wə|וְ|wə|and",
+        "12||heb-esvri-Hab-t-ge3do|@Pa|hasty|הַ|ha|הַ|ha|the",
+        "13||heb-esvri-Hab-t-ge3d1|@vnPmsa|hasty|נִּמְהָ֑ר|n•nim•hār|מהר|mhr|being hasty",
+        "14||heb-esvri-Hab-t-ge3ur|@Pa|who|הַֽ|ha|הַ|ha|the",
+        "15||heb-esvri-Hab-t-ge3ug|@vqPmsa|march|הֹולֵךְ֙|hōw•lēḵ|הלך|hlk|walking",
+        "16||heb-esvri-Hab-t-ge3uc|@Pp|through|לְ|lə|לְ|lə|to",
+        "17|h4800|heb-esvri-Hab-t-ge3uq|@ncmpc|breadth|מֶרְחֲבֵי־|mer•ḥă•ḇēy-|מֶרְחָב|mer•ḥāḇ|breadths of",
+        "18|h776|heb-esvri-Hab-t-ge3u1|@ncfsa|earth|אֶ֔רֶץ|ʾe•reṣ|אֶרֶץ|ʾe•reṣ|earth",
+        "19||heb-esvri-Hab-t-ge4dr|@Pp|to|לָ|lā|לְ|lə|to",
+        "20||heb-esvri-Hab-t-ge4dg|@vqc|seize|רֶ֖שֶׁת|re•šeṯ|ירשׁ|yrš|take possession",
+        "21|h4908|heb-esvri-Hab-t-ge4dc|@ncmpa|dwellings|מִשְׁכָּנֹ֥ות|miš•kā•nōwṯ|מִשְׁכָּן|miš•kān|dwelling places",
+        "22|h3808|heb-esvri-Hab-t-ge4d1|@Pn|not|לֹּא־|l•lōʾ-|לֹא|lōʾ|not",
+        "23||heb-esvri-Hab-t-ge4un|@PpX3ms|their|לֹֽו׃|lōw|לְ|lə|to"
+      ]
+    }
+  ],
+  "1:7": [
+    {
+      "o": 25298,
+      "r": "esvi:Habakkuk:1:7",
+      "p": [
+        "0||heb-esvri-Hab-t-ge4uc|@amsa|dreaded|אָיֹ֥ם|ʾā•yōm|אָיֹם|ʾā•yōm|dreaded",
+        "1||heb-esvri-Hab-t-ge4u1|@Pc|and|וְ|wə|וְ|wə|and",
+        "2||heb-esvri-Hab-t-ge5dy|@vnPmsa|fearsome|נֹורָ֖א|nōw•rāʾ|ירא|yrʾ|being feared",
+        "3|h1932|heb-esvri-Hab-t-ge5dg|@pi3ms|They|ה֑וּא|huwʾ|הוּא|huwʾ|he",
+        "4|h4481|heb-esvri-Hab-t-ge5dc|@PpX3ms|from|מִמֶּ֕נּוּ|mim•men•nuw|מִן|min|from",
+        "6|h4941|heb-esvri-Hab-t-ge5uy|@ncmscX3ms|justice|מִשְׁפָּטֹ֥ו|miš•pā•ṭōw|מִשְׁפָּט|miš•pāṭ|justice of",
+        "8||heb-esvri-Hab-t-ge5ue|@Pc|and|וּ|uw|וְ|wə|and",
+        "9|h7613|heb-esvri-Hab-t-ge5uk|@ncfscX3ms|dignity|שְׂאֵתֹ֖ו|śə•ʾē•ṯōw|שְׂאֵת|śə•ʾēṯ|dignity of",
+        "11||heb-esvri-Hab-t-ge5u1|@vqi3ms|forth|יֵצֵֽא׃|yē•ṣēʾ|יצא|yṣʾ|he goes out"
+      ]
+    }
+  ],
+  "1:8": [
+    {
+      "o": 25299,
+      "r": "esvi:Habakkuk:1:8",
+      "p": [
+        "0||heb-esvri-Hab-t-gehdg|@Pc|•|וְ|wə|וְ|wə|and",
+        "1||heb-esvri-Hab-t-gehde|@vqp3cp|swifter|קַלּ֨וּ|qal•luw|קלל|qll|they are swift",
+        "2|h4480|heb-esvri-Hab-t-gehdq|@Pp|than|מִ|mi|מִן|min|more than",
+        "3|h5246|heb-esvri-Hab-t-gehdo|@ncmpa|leopards|נְּמֵרִ֜ים|n•nə•mē•riym|נָמֵר|nā•mēr|leopards",
+        "4|h5483|heb-esvri-Hab-t-gehun|@ncmpcX3ms|horses|סוּסָ֗יו|suw•sāyw|סוּס|suws|horses of",
+        "6||heb-esvri-Hab-t-gehuk|@Pc|•|וְ|wə|וְ|wə|and",
+        "7||heb-esvri-Hab-t-gehuc|@vqp3cp|fierce|חַדּוּ֙|ḥad•duw|חדד|ḥd|they are fierce",
+        "8|h4480|heb-esvri-Hab-t-gehu1|@Pp|than|מִ|mi|מִן|min|more than",
+        "9|h2061|heb-esvri-Hab-t-gcady|@ncmpc|wolves|זְּאֵ֣בֵי|z•zə•ʾē•ḇēy|זְאֵב|zə•ʾēḇ|wolves of",
+        "10|h6153|heb-esvri-Hab-t-gcadg|@ncmsa|evening|עֶ֔רֶב|ʿe•reḇ|עֶרֶב|ʿe•reḇ|evening",
+        "11||heb-esvri-Hab-t-gcadc|@Pc|•|וּ|uw|וְ|wə|and",
+        "12||heb-esvri-Hab-t-gcadq|@vqp3cp|on|פָ֖שׁוּ|p̄ā•šuw|פושׁ|pwš|they press proudly",
+        "13|h6571|heb-esvri-Hab-t-gcauy|@ncmpcX3ms|horsemen|פָּֽרָשָׁ֑יו|pā•rā•šāyw|פָּרָשׁ|pā•rāš|horsemen of",
+        "15||heb-esvri-Hab-t-gcaue|@Pc|•|וּ|uw|וְ|wə|and",
+        "16|h6571|heb-esvri-Hab-t-gcauk|@ncmpcX3ms|horsemen|פָֽרָשָׁיו֙|p̄ā•rā•šāyw|פָּרָשׁ|pā•rāš|horsemen of",
+        "18|h4481|heb-esvri-Hab-t-gcau1|@Pp|from|מֵ|mē|מִן|min|from",
+        "19||heb-esvri-Hab-t-gc3dy|@amsa|afar|רָחֹ֣וק|rā•ḥōwq|רָחֹוק|rā•ḥōwq|afar",
+        "20|h935|heb-esvri-Hab-t-gc3dg|@vqi3mpXa|come|יָבֹ֔אוּ|yā•ḇō•ʾuw|בוא|bwʾ|they come",
+        "21||heb-esvri-Hab-t-gc3dc|@vqi3mp|fly|יָעֻ֕פוּ|yā•ʿu•p̄uw|עוף|ʿwp|they fly",
+        "22||heb-esvri-Hab-t-gc3d1|@Pp|like|כְּ|kə|כְּ|kə|like",
+        "23|h5404|heb-esvri-Hab-t-gc3uy|@ncmsa|eagle|נֶ֖שֶׁר|ne•šer|נֶשֶׁר|ne•šer|eagle",
+        "24||heb-esvri-Hab-t-gc3ug|@vqPmsa|swift|חָ֥שׁ|ḥāš|חושׁ|ḥwš|hastening",
+        "25||heb-esvri-Hab-t-gc3uc|@Pp|to|לֶ|le|לְ|lə|to",
+        "26||heb-esvri-Hab-t-gc3uq|@vqc|devour|אֱכֹֽול׃|ʾĕ•ḵōwl|אכל|ʾkl|devour"
+      ]
+    }
+  ],
+  "1:9": [
+    {
+      "o": 25300,
+      "r": "esvi:Habakkuk:1:9",
+      "p": [
+        "0|h3606|heb-esvri-Hab-t-gc4dn|@ncmscX3ms|all|כֻּלֹּה֙|kul•lōh|כֹּל|kōl|all of",
+        "2||heb-esvri-Hab-t-gc4dk|@Pp|for|לְ|lə|לְ|lə|for",
+        "3|h2555|heb-esvri-Hab-t-gc4dc|@ncmsa|violence|חָמָ֣ס|ḥā•mās|חָמָס|ḥā•mās|violence",
+        "4||heb-esvri-Hab-t-gc4d1|@vqi3msXa|come|יָבֹ֔וא|yā•ḇōwʾ|בוא|bwʾ|he comes",
+        "5||heb-esvri-Hab-t-gc4ur|@ncfsc|all|מְגַמַּ֥ת|mə•ḡam•maṯ|מְגַמָּה|mə•ḡam•māh|horde of",
+        "6||heb-esvri-Hab-t-gc4uk|@ncbpcX3mp|faces|פְּנֵיהֶ֖ם|pə•nēy•hem|פָּנֶה|pā•neh|faces of",
+        "8|h6921|heb-esvri-Hab-t-gc4u1|@ncmsaXd|forward|קָדִ֑ימָה|qā•ḏiy•māh|קָדִים|qā•ḏiym|forward + DIR",
+        "9||heb-esvri-Hab-t-gc5dr|@Pc|•|וַ|wa|וְ|wə|and",
+        "10||heb-esvri-Hab-t-gc5dg|@vqw3ms|gather|יֶּאֱסֹ֥ף|y•ye•ʾĕ•sōp̄|אסף|ʾsp|he gathered",
+        "11||heb-esvri-Hab-t-gc5dc|@Pp|like|כַּ|ka|כְּ|kə|like",
+        "13||heb-esvri-Hab-t-gc5do|@ncmsa|sand|חֹ֖ול|ḥōwl|חֹול|ḥōwl|sand",
+        "14|h7628|heb-esvri-Hab-t-gc5un|@ncmsa|captives|שֶֽׁבִי׃|še•ḇiy|שְׁבִי|šə•ḇiy|captive"
+      ]
+    }
+  ],
+  "1:10": [
+    {
+      "o": 25301,
+      "r": "esvi:Habakkuk:1:10",
+      "p": [
+        "0||heb-esvri-Hab-t-gc5uk|@Pc|•|וְ|wə|וְ|wə|and",
+        "1|h1932|heb-esvri-Hab-t-gc5uc|@pi3ms|•|הוּא֙|huwʾ|הוּא|huwʾ|he",
+        "2||heb-esvri-Hab-t-gc5u1|@Pp|At|בַּ|ba|בְּ|bə|at",
+        "4|h4430|heb-esvri-Hab-t-gchdn|@ncmpa|kings|מְּלָכִ֣ים|m•mə•lā•ḵiym|מֶלֶךְ|me•leḵ|kings",
+        "5||heb-esvri-Hab-t-gchde|@vti3ms|scoff|יִתְקַלָּ֔ס|yiṯ•qal•lās|קלס|qls|he scoffs",
+        "6||heb-esvri-Hab-t-gchdq|@Pc|and|וְ|wə|וְ|wə|and",
+        "7||heb-esvri-Hab-t-gchdo|@vqPmpa|rulers|רֹזְנִ֖ים|rō•zə•niym|רזן|rzn|ones ruling",
+        "8||heb-esvri-Hab-t-gchun|@ncmsa|laugh|מִשְׂחָ֣ק|miś•ḥāq|מִשְׂחָק|miś•ḥāq|laughter",
+        "9||heb-esvri-Hab-t-gchue|@PpX3ms|at|לֹ֑ו|lōw|לְ|lə|to",
+        "11|h1932|heb-esvri-Hab-t-gchuo|@pi3ms|•|ה֚וּא|huwʾ|הוּא|huwʾ|he",
+        "12||heb-esvri-Hab-t-goadn|@Pp|at|לְ|lə|לְ|lə|to",
+        "13|h3606|heb-esvri-Hab-t-goadr|@ncmsc|every|כָל־|ḵol-|כֹּל|kōl|every of",
+        "14|h4013|heb-esvri-Hab-t-goade|@ncmsa|fortress|מִבְצָ֣ר|miḇ•ṣār|מִבְצָר|miḇ•ṣār|fortress",
+        "15||heb-esvri-Hab-t-goadq|@vqi3ms|laugh|יִשְׂחָ֔ק|yiś•ḥāq|שׂחק|śḥq|he laughs",
+        "16||heb-esvri-Hab-t-goauy|@Pc|•|וַ|wa|וְ|wə|and",
+        "17||heb-esvri-Hab-t-goaun|@vqw3ms|pile|יִּצְבֹּ֥ר|y•yiṣ•bōr|צבר|ṣbr|he heaps up",
+        "18|h6083|heb-esvri-Hab-t-goaue|@ncmsa|earth|עָפָ֖ר|ʿā•p̄ār|עָפָר|ʿā•p̄ār|earth",
+        "19||heb-esvri-Hab-t-goauq|@Pc|and|וַֽ|wa|וְ|wə|and",
+        "20||heb-esvri-Hab-t-goauo|@vqw3msX3fs|take|יִּלְכְּדָֽהּ׃|y•yil•kə•ḏāh|לכד|lkd|he takes"
+      ]
+    }
+  ],
+  "1:11": [
+    {
+      "o": 25302,
+      "r": "esvi:Habakkuk:1:11",
+      "p": [
+        "0|h227|heb-esvri-Hab-t-go3dg|@Pd|Then|אָ֣ז|ʾāz|אָז|ʾāz|then",
+        "1||heb-esvri-Hab-t-go3dc|@vqp3ms|sweep|חָלַ֥ף|ḥā•lap̄|חלף|ḥlp|he sweeps by",
+        "2|h7308|heb-esvri-Hab-t-go3d1|@ncfsa|wind|ר֛וּחַ|ruwaḥ|רוּחַ|ruwaḥ|wind",
+        "3||heb-esvri-Hab-t-go3ur|@Pc|and|וַֽ|wa|וְ|wə|and",
+        "4||heb-esvri-Hab-t-go3ug|@vqw3ms|on|יַּעֲבֹ֖ר|y•ya•ʿă•ḇōr|עבר|ʿbr|he passes on",
+        "5||heb-esvri-Hab-t-go3uc|@Pc|•|וְ|wə|וְ|wə|and",
+        "6|h816|heb-esvri-Hab-t-go3uq|@vqp3ms|guilty|אָשֵׁ֑ם|ʾā•šēm|אשׁם|ʾšm|he is guilty",
+        "7|h2098|heb-esvri-Hab-t-go4dy|@Pr|whose|ז֥וּ|zuw|זוּ|zuw|which",
+        "8|h3581|heb-esvri-Hab-t-go4dg|@ncmscX3ms|might|כֹחֹ֖ו|ḵō•ḥōw|כֹּחַ|kōaḥ|might of",
+        "10||heb-esvri-Hab-t-go4dq|@Pp|•|לֵ|lē|לְ|lə|for",
+        "11||heb-esvri-Hab-t-go4do|@ncmscX3ms|god|אלֹהֹֽו׃|(ʾ)•lō•hōw|אֱלֹוהַּ|ʾĕ•lōwah|god of"
+      ]
+    },
+    {
+      "o": 25303,
+      "r": "esvi:Habakkuk:1:11",
+      "h": 2,
+      "t": "Habakkuk’s Second Complaint",
+      "p": []
+    }
+  ],
+  "1:12": [
+    {
+      "o": 25304,
+      "r": "esvi:Habakkuk:1:12",
+      "p": [
+        "0|g3756|heb-esvri-Hab-t-go4ug|@Pg||הֲ|hă|הֲ|hă|?",
+        "1|h3808|heb-esvri-Hab-t-go4ue|@Pn|not|לֹ֧וא|lōwʾ|לֹא|lōʾ|not",
+        "2|h859|heb-esvri-Hab-t-go4uq|@pi2ms|you|אַתָּ֣ה|ʾat•tāh|אַתָּה|ʾat•tāh|you",
+        "3|h4481|heb-esvri-Hab-t-go5dy|@Pp|from|מִ|mi|מִן|min|from",
+        "4|h6924|heb-esvri-Hab-t-go5dn|@ncmsa|everlasting|קֶּ֗דֶם|q•qe•ḏem|קֶדֶם|qe•ḏem|everlasting",
+        "5||heb-esvri-Hab-t-go5de|@np|Lord|יְהוָ֧ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "6|h430|heb-esvri-Hab-t-go5dq|@ncmpcX1cs|God|אֱלֹהַ֛י|ʾĕ•lō•hay|אֱלֹהִים|ʾĕ•lō•hiym|God of",
+        "8||heb-esvri-Hab-t-go5un|@amscX1cs|Holy|קְדֹשִׁ֖י|qə•ḏō•šiy|קָדֹושׁ|qā•ḏōwš|Holy One of",
+        "10|h3808|heb-esvri-Hab-t-go5uk|@Pn|not|לֹ֣א|lōʾ|לֹא|lōʾ|not",
+        "11||heb-esvri-Hab-t-go5uo|@vqi1cp|die|נָמ֑וּת|nā•muwṯ|מות|mwt|we shall die",
+        "12||heb-esvri-Hab-t-gohdn|@np|Lord|יְהוָה֙|yəh•wāh|יהוה|yhwh|Yahweh",
+        "13||heb-esvri-Hab-t-gohde|@Pp|as|לְ|lə|לְ|lə|to",
+        "14|h4941|heb-esvri-Hab-t-gohdk|@ncmsa|judgment|מִשְׁפָּ֣ט|miš•pāṭ|מִשְׁפָּט|miš•pāṭ|judgment",
+        "15||heb-esvri-Hab-t-gohdo|@vqp2msX3ms|ordained|שַׂמְתֹּ֔ו|śam•tōw|שׂים|śym|you have set",
+        "17||heb-esvri-Hab-t-gohur|@Pc|and|וְ|wə|וְ|wə|and",
+        "18|h6697|heb-esvri-Hab-t-gohug|@ncmsa|Rock|צ֖וּר|ṣuwr|צוּר|ṣuwr|Rock",
+        "19||heb-esvri-Hab-t-gohuc|@Pp|for|לְ|lə|לְ|lə|to",
+        "20||heb-esvri-Hab-t-gohuq|@vhc|reproof|הֹוכִ֥יחַ|hōw•ḵiyaḥ|יכח|ykḥ|reprove",
+        "21||heb-esvri-Hab-t-gwady|@vqp2msX3ms|established|יְסַדְתֹּֽו׃|yə•saḏ•tōw|יסד|ysd|you have established"
+      ]
+    }
+  ],
+  "1:13": [
+    {
+      "o": 25305,
+      "r": "esvi:Habakkuk:1:13",
+      "p": [
+        "0||heb-esvri-Hab-t-gwadk|@amsc|purer|טְהֹ֤ור|ṭə•hōwr|טָהֹור|ṭā•hōwr|pure one of",
+        "1|h5869|heb-esvri-Hab-t-gwado|@ncbda|eyes|עֵינַ֙יִם֙|ʿēy•na•yim|עַיִן|ʿa•yin|eyes",
+        "2|h4480|heb-esvri-Hab-t-gwaun|@Pp|than|מֵ|mē|מִן|min|more than",
+        "3||heb-esvri-Hab-t-gwaur|@vqc|see|רְאֹ֣ות|rə•ʾōwṯ|ראה|rʾh|to see",
+        "4|h7451|heb-esvri-Hab-t-gwauk|@amsa|evil|רָ֔ע|rāʿ|רַע|raʿ|evil",
+        "5||heb-esvri-Hab-t-gwauo|@Pc|and|וְ|wə|וְ|wə|and",
+        "6||heb-esvri-Hab-t-gwau1|@vhc|look|הַבִּ֥יט|hab•biyṭ|נבט|nbṭ|to look",
+        "7||heb-esvri-Hab-t-gw3dr|@Pp|at|אֶל־|ʾel-|אֶל|ʾel|at",
+        "8|h5999|heb-esvri-Hab-t-gw3de|@ncmsa|wrong|עָמָ֖ל|ʿā•māl|עָמָל|ʿā•māl|trouble",
+        "9|h3808|heb-esvri-Hab-t-gw3dq|@Pn|cannot|לֹ֣א|lōʾ|לֹא|lōʾ|not",
+        "10||heb-esvri-Hab-t-gw3uy|@vqi2ms|cannot|תוּכָ֑ל|ṯuw•ḵāl|יכל|ykl|you are able",
+        "11||heb-esvri-Hab-t-gw3ug|@Pp|why|לָ֤|lā|לְ|lə|",
+        "12|h4101|heb-esvri-Hab-t-gw3ue|@pii|why|מָּה|m•māh|מָה|māh|why",
+        "13||heb-esvri-Hab-t-gw3uq|@vhi2ms|look|תַבִּיט֙|ṯab•biyṭ|נבט|nbṭ|you look",
+        "14||heb-esvri-Hab-t-gw4dy|@vqPmpa|traitors|בֹּֽוגְדִ֔ים|bōw•ḡə•ḏiym|בגד|bgd|ones being treacherous",
+        "15||heb-esvri-Hab-t-gw4dg|@vhi2ms|silent|תַּחֲרִ֕ישׁ|ta•ḥă•riyš|חרשׁ|ḥrš|you keep silent",
+        "16||heb-esvri-Hab-t-gw4dc|@Pp|when|בְּ|bə|בְּ|bə|when",
+        "17||heb-esvri-Hab-t-gw4dq|@vpc|swallows|בַלַּ֥ע|ḇal•laʿ|בלע|blʿ|to swallow up",
+        "18|h7563|heb-esvri-Hab-t-gw4uy|@amsa|wicked|רָשָׁ֖ע|rā•šāʿ|רָשָׁע|rā•šāʿ|wicked one",
+        "19|h6662|heb-esvri-Hab-t-gw4ug|@amsa|righteous|צַדִּ֥יק|ṣad•diyq|צַדִּיק|ṣad•diyq|righteous one",
+        "20|h4480|heb-esvri-Hab-t-gw4uc|@PpX3ms|than|מִמֶּֽנּוּ׃|mim•men•nuw|מִן|min|more than"
+      ]
+    }
+  ],
+  "1:14": [
+    {
+      "o": 25306,
+      "r": "esvi:Habakkuk:1:14",
+      "p": [
+        "0||heb-esvri-Hab-t-gw5dn|@Pc|•|וַ|wa|וְ|wə|and",
+        "1||heb-esvri-Hab-t-gw5dr|@vqw2ms|make|תַּעֲשֶׂ֥ה|t•ta•ʿă•śeh|עשׂה|ʿśh|you make",
+        "2|h121|heb-esvri-Hab-t-gw5dk|@ncmsa|mankind|אָדָ֖ם|ʾā•ḏām|אָדָם|ʾā•ḏām|mankind",
+        "3||heb-esvri-Hab-t-gw5do|@Pp|like|כִּ|ki|כְּ|kə|like",
+        "4|h1709|heb-esvri-Hab-t-gw5d1|@ncmpc|fish|דְגֵ֣י|ḏ•ḡēy|דָּג|dāḡ|fish of",
+        "5||heb-esvri-Hab-t-gw5ur|@Pa|the|הַ|ha|הַ|ha|the",
+        "6|h3221|heb-esvri-Hab-t-gw5ug|@ncmsa|sea|יָּ֑ם|y•yām|יָם|yām|sea",
+        "7||heb-esvri-Hab-t-gw5uc|@Pp|like|כְּ|kə|כְּ|kə|like",
+        "8|h7431|heb-esvri-Hab-t-gw5uq|@ncmsa|crawling|רֶ֖מֶשׂ|re•meś|רֶמֶשׂ|re•meś|creeping thing",
+        "9|h3808|heb-esvri-Hab-t-gwhdy|@Pn|no|לֹא־|lōʾ-|לֹא|lōʾ|not",
+        "10||heb-esvri-Hab-t-gwhdr|@vqPmsa|ruler|מֹשֵׁ֥ל|mō•šēl|משׁל|mšl|one ruling",
+        "11||heb-esvri-Hab-t-gwhdk|@PpX3ms|have|בֹּֽו׃|bōw|בְּ|bə|among"
+      ]
+    }
+  ],
+  "1:15": [
+    {
+      "o": 25307,
+      "r": "esvi:Habakkuk:1:15",
+      "p": [
+        "0|h3605|heb-esvri-Hab-t-gwhuy|@ncmscX3ms|all|כֻּלֹּה֙|kul•lōh|כֹּל|kōl|all of",
+        "2||heb-esvri-Hab-t-gwhue|@Pp|with|בְּ|bə|בְּ|bə|with",
+        "3||heb-esvri-Hab-t-gwhuk|@ncfsa|hook|חַכָּ֣ה|ḥak•kāh|חַכָּה|ḥak•kāh|fish hook",
+        "4||heb-esvri-Hab-t-gwhuo|@vhp3ms|up|הֵֽעֲלָ֔ה|hē•ʿă•lāh|עלה|ʿlh|he brings up",
+        "5||heb-esvri-Hab-t-gaadn|@vqi3msX3ms|drags|יְגֹרֵ֣הוּ|yə•ḡō•rē•huw|גרר|grr|he drags out",
+        "7||heb-esvri-Hab-t-gaadk|@Pp|with|בְ|ḇə|בְּ|bə|with",
+        "8|h4365|heb-esvri-Hab-t-gaadc|@ncmscX3ms|net|חֶרְמֹ֔ו|ḥer•mōw|חֵרֶם|ḥē•rem|net of",
+        "10||heb-esvri-Hab-t-gaauy|@Pc|•|וְ|wə|וְ|wə|and",
+        "11||heb-esvri-Hab-t-gaaun|@vqi3msX3ms|gathers|יַאַסְפֵ֖הוּ|ya•ʾas•p̄ē•huw|אסף|ʾsp|he gathers",
+        "13||heb-esvri-Hab-t-gaauk|@Pp|in|בְּ|bə|בְּ|bə|in",
+        "14|h4365|heb-esvri-Hab-t-gaauc|@ncfscX3ms|dragnet|מִכְמַרְתֹּ֑ו|miḵ•mar•tōw|מִכְמֶרֶת|miḵ•me•reṯ|fishing net of",
+        "16|h5922|heb-esvri-Hab-t-ga3dy|@Pp|so|עַל־|ʿal-|עַל|ʿal|upon",
+        "17|h3654|heb-esvri-Hab-t-ga3dr|@Pd|so|כֵּ֖ן|kēn|כֵּן|kēn|thus",
+        "18||heb-esvri-Hab-t-ga3dk|@vqi3ms|rejoices|יִשְׂמַ֥ח|yiś•maḥ|שׂמח|śmḥ|he rejoices",
+        "19||heb-esvri-Hab-t-ga3do|@Pc|and|וְ|wə|וְ|wə|and",
+        "20||heb-esvri-Hab-t-ga3d1|@vqi3ms|glad|יָגִֽיל׃|yā•ḡiyl|גיל|gyl|he is glad"
+      ]
+    }
+  ],
+  "1:16": [
+    {
+      "o": 25308,
+      "r": "esvi:Habakkuk:1:16",
+      "p": [
+        "0|h5921|heb-esvri-Hab-t-ga3ug|@Pp|Therefore|עַל־|ʿal-|עַל|ʿal|upon",
+        "1|h5921|heb-esvri-Hab-t-ga3uk|@Pd|Therefore|כֵּן֙|kēn|כֵּן|kēn|thus",
+        "2||heb-esvri-Hab-t-ga3uo|@vpi3ms|sacrifices|יְזַבֵּ֣חַ|yə•zab•bēaḥ|זבח|zbḥ|he sacrifices",
+        "3||heb-esvri-Hab-t-ga4dn|@Pp|to|לְ|lə|לְ|lə|to",
+        "4|h4365|heb-esvri-Hab-t-ga4dr|@ncmscX3ms|net|חֶרְמֹ֔ו|ḥer•mōw|חֵרֶם|ḥē•rem|net of",
+        "6||heb-esvri-Hab-t-ga4dc|@Pc|and|וִֽ|wi|וְ|wə|and",
+        "7||heb-esvri-Hab-t-ga4dq|@vpi3ms|offerings|יקַטֵּ֖ר|y•qaṭ•ṭēr|קטר|qṭr|he made goes up in smoke",
+        "8||heb-esvri-Hab-t-ga4uy|@Pp|to|לְ|lə|לְ|lə|to",
+        "9|h4365|heb-esvri-Hab-t-ga4un|@ncfscX3ms|dragnet|מִכְמַרְתֹּ֑ו|miḵ•mar•tōw|מִכְמֶרֶת|miḵ•me•reṯ|fishing net of",
+        "11|h3588|heb-esvri-Hab-t-ga4uk|@Pc|for|כִּ֤י|kiy|כִּי|kiy|for",
+        "12||heb-esvri-Hab-t-ga4uo|@Pp|by|בָ|ḇā|בְּ|bə|by",
+        "13|h1992|heb-esvri-Hab-t-ga4u1|@pi3mp|them|הֵ֙מָּה֙|hēm•māh|הֵם|hēm|them",
+        "14|h8082|heb-esvri-Hab-t-ga5dr|@amsa|he lives in luxury|שָׁמֵ֣ן|šā•mēn|שָׁמֵן|šā•mēn|fat",
+        "15|h2506|heb-esvri-Hab-t-ga5dk|@ncmscX3ms|he lives in luxury|חֶלְקֹ֔ו|ḥel•qōw|חֵלֶק|ḥē•leq|portion of",
+        "17||heb-esvri-Hab-t-ga5d1|@Pc|and|וּ|uw|וְ|wə|and",
+        "18|h3978|heb-esvri-Hab-t-ga5uy|@ncmscX3ms|food|מַאֲכָלֹ֖ו|ma•ʾă•ḵā•lōw|מַאֲכָל|ma•ʾă•ḵāl|food of",
+        "20|h1277|heb-esvri-Hab-t-ga5ue|@afsa|rich|בְּרִאָֽה׃|bə•ri•ʾāh|בָּרִיא|bā•riyʾ|rich"
+      ]
+    }
+  ],
+  "1:17": [
+    {
+      "o": 25309,
+      "r": "esvi:Habakkuk:1:17",
+      "p": [
+        "0|g1223|heb-esvri-Hab-t-ga5uo|@Pg||הַ֥|ha|הֲ|hă|?",
+        "1|h5921|heb-esvri-Hab-t-ga5u1|@Pp|then|עַל|ʿal|עַל|ʿal|upon",
+        "2|h3654|heb-esvri-Hab-t-gahdr|@Pd|then|כֵּ֖ן|kēn|כֵּן|kēn|thus",
+        "3||heb-esvri-Hab-t-gahdk|@vhi3ms|emptying|יָרִ֣יק|yā•riyq|ריק|ryq|he is to empty",
+        "4|h2764|heb-esvri-Hab-t-gahdo|@ncmscX3ms|net|חֶרְמֹ֑ו|ḥer•mōw|חֵרֶם|ḥē•rem|net of",
+        "6||heb-esvri-Hab-t-gahur|@Pc|and|וְ|wə|וְ|wə|and",
+        "7|h8548|heb-esvri-Hab-t-gahug|@Pd|forever|תָמִ֛יד|ṯā•miyḏ|תָּמִיד|tā•miyḏ|continually",
+        "8||heb-esvri-Hab-t-gahuc|@Pp|killing|לַ|la|לְ|lə|to",
+        "9||heb-esvri-Hab-t-gahuq|@vqc|killing|הֲרֹ֥ג|hă•rōḡ|הרג|hrg|kill",
+        "10|h1471|heb-esvri-Hab-t-ghady|@ncmpa|nations|גֹּויִ֖ם|gōw•yim|גֹּוי|gōwy|nations",
+        "11|h3808|heb-esvri-Hab-t-ghadg|@Pn|mercilessly|לֹ֥א|lōʾ|לֹא|lōʾ|not",
+        "12||heb-esvri-Hab-t-ghadc|@vqi3ms|mercilessly|יַחְמֹֽול׃|yaḥ•mōwl|חמל|ḥml|he has mercy"
+      ]
+    }
+  ],
+  "2:0": [
+    {
+      "o": 25310,
+      "r": "esvi:Habakkuk:2:0",
+      "h": 1,
+      "t": "Habakkuk 2",
+      "p": []
+    }
+  ],
+  "2:1": [
+    {
+      "o": 25311,
+      "r": "esvi:Habakkuk:2:1",
+      "p": [
+        "0|h5922|heb-esvri-Hab-t-ghaue|@Pp|at|עַל־|ʿal-|עַל|ʿal|at",
+        "1|h4931|heb-esvri-Hab-t-ghauc|@ncfscX1cs|watchpost|מִשְׁמַרְתִּ֣י|miš•mar•tiy|מִשְׁמֶרֶת|miš•me•reṯ|watchpost of",
+        "3||heb-esvri-Hab-t-gh3dy|@vqi1cs{1}Ct|stand|אֶעֱמֹ֔דָה|ʾe•ʿĕ•mō•ḏāh|עמד|ʿmd|I will stand",
+        "4||heb-esvri-Hab-t-gh3dg|@Pc|and|וְ|wə|וְ|wə|and",
+        "5||heb-esvri-Hab-t-gh3de|@vti1cs{1}Ct|station|אֶֽתְיַצְּבָ֖ה|ʾeṯ•yaṣ•ṣə•ḇāh|יצב|yṣb|I station myself",
+        "6|h5922|heb-esvri-Hab-t-gh3dq|@Pp|on|עַל־|ʿal-|עַל|ʿal|on",
+        "7||heb-esvri-Hab-t-gh3d1|@ncmsa|tower|מָצֹ֑ור|mā•ṣōwr|מָצֹור|mā•ṣōwr|stronghold",
+        "8||heb-esvri-Hab-t-gh3ur|@Pc|and|וַ|wa|וְ|wə|and",
+        "9||heb-esvri-Hab-t-gh3ug|@vpi1cs{1}Cm|look|אֲצַפֶּ֗ה|ʾă•ṣap•peh|צפה|ṣph|I will look out",
+        "10||heb-esvri-Hab-t-gh3uc|@Pp|to|לִ|li|לְ|lə|to",
+        "11||heb-esvri-Hab-t-gh3uq|@vqc|see|רְאֹות֙|r•ʾōwṯ|ראה|rʾh|see",
+        "12|h4100|heb-esvri-Hab-t-gh4dy|@pii|what|מַה־|mah-|מָה|māh|what",
+        "13||heb-esvri-Hab-t-gh4dr|@vpi3ms|say|יְדַבֶּר־|yə•ḏab•ber-|דבר|dbr|he will speak",
+        "14||heb-esvri-Hab-t-gh4de|@PpX1cs|to|בִּ֔י|biy|בְּ|bə|with",
+        "16||heb-esvri-Hab-t-gh4do|@Pc|and|וּ|uw|וְ|wə|and",
+        "17|h4100|heb-esvri-Hab-t-gh4d1|@pii|what|מָ֥ה|māh|מָה|māh|what",
+        "18||heb-esvri-Hab-t-gh4ur|@vhi1cs|answer|אָשִׁ֖יב|ʾā•šiyḇ|שׁוב|šwb|I will return",
+        "19|h5922|heb-esvri-Hab-t-gh4uk|@Pp|concerning|עַל־|ʿal-|עַל|ʿal|about",
+        "20||heb-esvri-Hab-t-gh4uq|@ncfscX1cs|complaint|תֹּוכַחְתִּֽי׃|tōw•ḵaḥ•tiy|תֹּוכַחַת|tōw•ḵa•ḥaṯ|argument of"
+      ]
+    },
+    {
+      "o": 25312,
+      "r": "esvi:Habakkuk:2:1",
+      "h": 2,
+      "t": "The Righteous Shall Live by His Faith",
+      "p": []
+    }
+  ],
+  "2:2": [
+    {
+      "o": 25313,
+      "r": "esvi:Habakkuk:2:2",
+      "p": [
+        "0||heb-esvri-Hab-t-gh5dr|@Pc|And|וַ|wa|וְ|wə|and",
+        "1|h6030|heb-esvri-Hab-t-gh5dg|@vqw3msX1cs|answered|יַּעֲנֵ֤נִי|y•ya•ʿă•nē•niy|ענה|ʿnh|he answered",
+        "3||heb-esvri-Hab-t-gh5dq|@np|Lord|יְהוָה֙|yəh•wāh|יהוה|yhwh|Yahweh",
+        "4||heb-esvri-Hab-t-gh5uy|@Pc|•|וַ|wa|וְ|wə|and",
+        "5||heb-esvri-Hab-t-gh5un|@vqw3ms|•|יֹּ֔אמֶר|y•yō(ʾ)•mer|אמר|ʾmr|he said",
+        "6|h3789|heb-esvri-Hab-t-gh5ue|@vqvms|Write|כְּתֹ֣וב|kə•ṯōwḇ|כתב|ktb|write",
+        "7||heb-esvri-Hab-t-gh5uq|@ncmsa|vision|חָזֹ֔ון|ḥā•zōwn|חָזֹון|ḥā•zōwn|vision",
+        "8||heb-esvri-Hab-t-ghhdy|@Pc|•|וּ|uw|וְ|wə|and",
+        "9||heb-esvri-Hab-t-ghhdn|@vpvms|plain|בָאֵ֖ר|ḇā•ʾēr|באר|bʾr|explain",
+        "10|h5922|heb-esvri-Hab-t-ghhde|@Pp|on|עַל־|ʿal-|עַל|ʿal|on",
+        "11||heb-esvri-Hab-t-ghhdc|@Pa|tablets|הַ|ha|הַ|ha|the",
+        "12|h3871|heb-esvri-Hab-t-ghhdq|@ncmpa|tablets|לֻּחֹ֑ות|l•lu•ḥōwṯ|לוּחַ|luwaḥ|tablets",
+        "13||heb-esvri-Hab-t-ghhuy|@Pc|so|לְמַ֥עַן|lə•ma•ʿan|לְמַעַן|lə•ma•ʿan|so that",
+        "14||heb-esvri-Hab-t-ghhug|@vqi3ms|run|יָר֖וּץ|yā•ruwṣ|רוץ|rwṣ|he runs",
+        "15||heb-esvri-Hab-t-ghhuc|@vqPmsa|reads|קֹ֥ורֵא|qōw•rēʾ|קרא|qrʾ|one calling out",
+        "16||heb-esvri-Hab-t-ghhu1|@PpX3ms|•|בֹֽו׃|ḇōw|בְּ|bə|in"
+      ]
+    }
+  ],
+  "2:3": [
+    {
+      "o": 25314,
+      "r": "esvi:Habakkuk:2:3",
+      "p": [
+        "0|h3588|heb-esvri-Hab-t-8yade|@Pc|For|כִּ֣י|kiy|כִּי|kiy|for",
+        "1||heb-esvri-Hab-t-8yadq|@Pd|still|עֹ֤וד|ʿōwḏ|עֹוד|ʿōwḏ|still",
+        "2||heb-esvri-Hab-t-8yauy|@ncmsa|vision|חָזֹון֙|ḥā•zōwn|חָזֹון|ḥā•zōwn|vision",
+        "3||heb-esvri-Hab-t-8yaug|@Pp|•|לַ|la|לְ|lə|for",
+        "5||heb-esvri-Hab-t-8yauk|@ncmsa|appointed|מֹּועֵ֔ד|m•mōw•ʿēḏ|מֹועֵד|mōw•ʿēḏ|appointed time",
+        "6||heb-esvri-Hab-t-8yauo|@Pc|•|וְ|wə|וְ|wə|and",
+        "7||heb-esvri-Hab-t-8yau1|@vhi3msXa{1}Jf|hastens|יָפֵ֥חַ|yā•p̄ēaḥ|פוח|pwḥ|he pants",
+        "8||heb-esvri-Hab-t-8y3dr|@Pp|to|לַ|la|לְ|lə|to",
+        "10|h7093|heb-esvri-Hab-t-8y3de|@ncmsa|end|קֵּ֖ץ|q•qēṣ|קֵץ|qēṣ|end",
+        "11||heb-esvri-Hab-t-8y3dq|@Pc|•|וְ|wə|וְ|wə|and",
+        "12|h3808|heb-esvri-Hab-t-8y3do|@Pn|not|לֹ֣א|lōʾ|לֹא|lōʾ|not",
+        "13||heb-esvri-Hab-t-8y3un|@vpi3ms|lie|יְכַזֵּ֑ב|yə•ḵaz•zēḇ|כזב|kzb|he will lie",
+        "14|h518|heb-esvri-Hab-t-8y3ue|@Pc|If|אִם־|ʾim-|אִם|ʾim|if",
+        "15||heb-esvri-Hab-t-8y3uc|@vwi3ms|slow|יִתְמַהְמָהּ֙|yiṯ•mah•māh|מההּ|mhh|he tarries",
+        "16|h2442|heb-esvri-Hab-t-8y3u1|@vpvms|wait|חַכֵּה־|ḥak•kēh-|חכה|ḥkh|wait",
+        "17||heb-esvri-Hab-t-8y4dn|@PpX3ms|for|לֹ֔ו|lōw|לְ|lə|for",
+        "19|h3588|heb-esvri-Hab-t-8y4dk|@Pc|•|כִּֽי־|kiy-|כִּי|kiy|for",
+        "20||heb-esvri-Hab-t-8y4dq|@vqa|surely|בֹ֥א|ḇōʾ|בוא|bwʾ|to come",
+        "21|h935|heb-esvri-Hab-t-8y4uy|@vqi3msXa|come|יָבֹ֖א|yā•ḇōʾ|בוא|bwʾ|he will come",
+        "22|h3808|heb-esvri-Hab-t-8y4ug|@Pn|not|לֹ֥א|lōʾ|לֹא|lōʾ|not",
+        "23||heb-esvri-Hab-t-8y4uc|@vpi3ms|delay|יְאַחֵֽר׃|yə•ʾa•ḥēr|אחר|ʾḥr|he will delay"
+      ]
+    }
+  ],
+  "2:4": [
+    {
+      "o": 25315,
+      "r": "esvi:Habakkuk:2:4",
+      "p": [
+        "0|h2009|heb-esvri-Hab-t-8y5dy|@Pi|Behold|הִנֵּ֣ה|hin•nēh|הִנֵּה|hin•nēh|behold",
+        "1||heb-esvri-Hab-t-8y5dg|@vPp3fs|puffed|עֻפְּלָ֔ה|ʿup•pə•lāh|עפל|ʿpl|proud",
+        "2|h3808|heb-esvri-Hab-t-8y5dc|@Pn|not|לֹא־|lōʾ-|לֹא|lōʾ|not",
+        "3||heb-esvri-Hab-t-8y5do|@vqp3fs|upright|יָשְׁרָ֥ה|yā•šə•rāh|ישׁר|yšr|she is upright",
+        "4|h5315|heb-esvri-Hab-t-8y5un|@ncbscX3ms|soul|נַפְשֹׁ֖ו|nap̄•šōw|נֶפֶשׁ|ne•p̄eš|soul of",
+        "6||heb-esvri-Hab-t-8y5uk|@PpX3ms|within|בֹּ֑ו|bōw|בְּ|bə|in",
+        "8||heb-esvri-Hab-t-8y5u1|@Pc|but|וְ|wə|וְ|wə|but",
+        "9|h6662|heb-esvri-Hab-t-8yhdy|@amsa|righteous|צַדִּ֖יק|ṣad•diyq|צַדִּיק|ṣad•diyq|righteous one",
+        "10||heb-esvri-Hab-t-8yhdg|@Pp|by|בֶּ|be|בְּ|bə|by",
+        "11|h530|heb-esvri-Hab-t-8yhde|@ncfscX3ms|faith|אֱמוּנָתֹ֥ו|ʾĕ•muw•nā•ṯōw|אֱמוּנָה|ʾĕ•muw•nāh|faithfulness of",
+        "13||heb-esvri-Hab-t-8yhdo|@vqi3ms|live|יִחְיֶֽה׃|yiḥ•yeh|חיה|ḥyh|he shall live"
+      ]
+    }
+  ],
+  "2:5": [
+    {
+      "o": 25316,
+      "r": "esvi:Habakkuk:2:5",
+      "p": [
+        "0||heb-esvri-Hab-t-8yhur|@Pc|•|וְ|wə|וְ|wə|and",
+        "1|h639|heb-esvri-Hab-t-8yhug|@Pc|Moreover|אַף֙|ʾap̄|אַף|ʾap̄|also",
+        "2|h3588|heb-esvri-Hab-t-8yhuc|@Pc|Moreover|כִּֽי־|kiy-|כִּי|kiy|that",
+        "3|h3196|heb-esvri-Hab-t-8yhuo|@Pa|wine|הַ|ha|הַ|ha|the",
+        "4|h3196|heb-esvri-Hab-t-8yhu1|@ncmsa|wine|יַּ֣יִן|y•ya•yin|יַיִן|ya•yin|wine",
+        "5||heb-esvri-Hab-t-8radr|@vqPmsa|traitor|בֹּוגֵ֔ד|bōw•ḡēḏ|בגד|bgd|one being treacherous",
+        "6|h1397|heb-esvri-Hab-t-8radk|@ncmsa|man|גֶּ֥בֶר|ge•ḇer|גֶּבֶר|ge•ḇer|man",
+        "7||heb-esvri-Hab-t-8rado|@amsa|arrogant|יָהִ֖יר|yā•hiyr|יָהִיר|yā•hiyr|arrogant",
+        "8||heb-esvri-Hab-t-8raun|@Pc|who|וְ|wə|וְ|wə|and",
+        "9|h3808|heb-esvri-Hab-t-8raur|@Pn|never|לֹ֣א|lōʾ|לֹא|lōʾ|not",
+        "10||heb-esvri-Hab-t-8rauk|@vqi3ms|rest|יִנְוֶ֑ה|yin•weh|נוה|nwh|he is at rest",
+        "11|h834|heb-esvri-Hab-t-8rauo|@Pr|•|אֲשֶׁר֩|ʾă•šer|אֲשֶׁר|ʾă•šer|who",
+        "12||heb-esvri-Hab-t-8r3dn|@vhp3ms|wide|הִרְחִ֨יב|hir•ḥiyḇ|רחב|rḥb|he has made wide",
+        "13||heb-esvri-Hab-t-8r3de|@Pp|as|כִּ|ki|כְּ|kə|as",
+        "14||heb-esvri-Hab-t-8r3dk|@ncbsa|Sheol|שְׁאֹ֜ול|š•ʾōwl|שְׁאֹול|šə•ʾōwl|Sheol",
+        "15|h5315|heb-esvri-Hab-t-8r3do|@ncbscX3ms|greed|נַפְשֹׁ֗ו|nap̄•šōw|נֶפֶשׁ|ne•p̄eš|soul of",
+        "17||heb-esvri-Hab-t-8r3ur|@Pc|•|וְ|wə|וְ|wə|and",
+        "18|h1932|heb-esvri-Hab-t-8r3ug|@pi3ms|he|ה֤וּא|huwʾ|הוּא|huwʾ|he",
+        "19||heb-esvri-Hab-t-8r3uc|@Pp|like|כַ|ḵa|כְּ|kə|like",
+        "21|h4194|heb-esvri-Hab-t-8r3uo|@ncmsa|death|מָּ֙וֶת֙|m•mā•weṯ|מָוֶת|mā•weṯ|death",
+        "22||heb-esvri-Hab-t-8r4dn|@Pc|•|וְ|wə|וְ|wə|and",
+        "23|h3808|heb-esvri-Hab-t-8r4dr|@Pn|never|לֹ֣א|lōʾ|לֹא|lōʾ|not",
+        "24||heb-esvri-Hab-t-8r4dk|@vqi3ms|enough|יִשְׂבָּ֔ע|yiś•bāʿ|שׂבע|śbʿ|he has enough",
+        "25||heb-esvri-Hab-t-8r4do|@Pc|•|וַ|wa|וְ|wə|and",
+        "26||heb-esvri-Hab-t-8r4d1|@vqw3ms|gathers|יֶּאֱסֹ֤ף|y•ye•ʾĕ•sōp̄|אסף|ʾsp|he gathers",
+        "27||heb-esvri-Hab-t-8r4ur|@PpX3ms|for|אֵלָיו֙|ʾē•lāyw|אֶל|ʾel|for",
+        "29|h3606|heb-esvri-Hab-t-8r4uc|@ncmsc|all|כָּל־|kol-|כֹּל|kōl|all of",
+        "30|h1471|heb-esvri-Hab-t-8r4uo|@Pa|nations|הַ|ha|הַ|ha|the",
+        "31|h1471|heb-esvri-Hab-t-8r4u1|@ncmpa|nations|גֹּויִ֔ם|g•gōw•yim|גֹּוי|gōwy|nations",
+        "32||heb-esvri-Hab-t-8r5dr|@Pc|and|וַ|wa|וְ|wə|and",
+        "33||heb-esvri-Hab-t-8r5dg|@vqw3ms|collects|יִּקְבֹּ֥ץ|y•yiq•bōṣ|קבץ|qbṣ|he gathers",
+        "34||heb-esvri-Hab-t-8r5dc|@PpX3ms|as his own|אֵלָ֖יו|ʾē•lāyw|אֶל|ʾel|to",
+        "36|h3606|heb-esvri-Hab-t-8r5uy|@ncmsc|all|כָּל־|kol-|כֹּל|kōl|all of",
+        "37|h5971|heb-esvri-Hab-t-8r5ur|@Pa|peoples|הָ|hā|הַ|ha|the",
+        "38|h5971|heb-esvri-Hab-t-8r5ug|@ncmpa|peoples|עַמִּֽים׃|ʿam•miym|עַם|ʿam|peoples"
+      ]
+    },
+    {
+      "o": 25317,
+      "r": "esvi:Habakkuk:2:5",
+      "h": 2,
+      "t": "Woe to the Chaldeans",
+      "p": []
+    }
+  ],
+  "2:6": [
+    {
+      "o": 25318,
+      "r": "esvi:Habakkuk:2:6",
+      "p": [
+        "0|g3756|heb-esvri-Hab-t-8r5uq|@Pg||הֲ|hă|הֲ|hă|?",
+        "1|h3808|heb-esvri-Hab-t-8r5uo|@Pn|not|לֹוא־|lōwʾ-|לֹא|lōʾ|not",
+        "2|h428|heb-esvri-Hab-t-8rhdy|@dbpa|these|אֵ֣לֶּה|ʾēl•leh|אֵלֶּה|ʾēl•leh|these",
+        "3|h3606|heb-esvri-Hab-t-8rhdg|@ncmscX3mp|all|כֻלָּ֗ם|ḵul•lām|כֹּל|kōl|all of",
+        "5|h5921|heb-esvri-Hab-t-8rhdq|@PpX3ms|against|עָלָיו֙|ʿā•lāyw|עַל|ʿal|against",
+        "7|h4913|heb-esvri-Hab-t-8rhun|@ncmsa|taunt|מָשָׁ֣ל|mā•šāl|מָשָׁל|mā•šāl|taunt",
+        "8|h5375|heb-esvri-Hab-t-8rhue|@vqi3mp|take|יִשָּׂ֔אוּ|yiś•śā•ʾuw|נשׂא|nśʾ|they shall take up",
+        "9||heb-esvri-Hab-t-8rhuq|@Pc|with|וּ|uw|וְ|wə|with",
+        "10||heb-esvri-Hab-t-8rhuo|@ncfsa|scoffing|מְלִיצָ֖ה|mə•liy•ṣāh|מְלִיצָה|mə•liy•ṣāh|aphorism",
+        "11|h2420|heb-esvri-Hab-t-gradyce|@ncfpa|riddles|חִידֹ֣ות|ḥiy•ḏōwṯ|חִידָה|ḥiy•ḏāh|riddles",
+        "12||heb-esvri-Hab-t-gradypy|@PpX3ms|for|לֹ֑ו|lōw|לְ|lə|for",
+        "14||heb-esvri-Hab-t-gradyqy|@Pc|and|וְ|wə|וְ|wə|and",
+        "15||heb-esvri-Hab-t-gradyqe|@vqi3ms|say|יֹאמַ֗ר|yō(ʾ)•mar|אמר|ʾmr|he says",
+        "16|h1945|heb-esvri-Hab-t-gradnco|@Pi|Woe|הֹ֚וי|hōwy|הֹוי|hōwy|woe",
+        "17||heb-esvri-Hab-t-gradnpe|@Pa|him who|הַ|ha|הַ|ha|the",
+        "18||heb-esvri-Hab-t-gradnpo|@vhPmsa|heaps|מַּרְבֶּ֣ה|m•mar•beh|רבה|rbh|one making much",
+        "19|h3808|heb-esvri-Hab-t-gradnqe|@Pn|not|לֹּא־|l•lōʾ-|לֹא|lōʾ|not",
+        "20||heb-esvri-Hab-t-gradrce|@PpX3ms|his|לֹ֔ו|lōw|לְ|lə|to",
+        "22|h5705|heb-esvri-Hab-t-gradrpe|@Pp|for how long|עַד־|ʿaḏ-|עַד|ʿaḏ|until",
+        "23|h4970|heb-esvri-Hab-t-gradrpa|@Pg|for how long|מָתַ֕י|mā•ṯay|מָתַי|mā•ṯay|when",
+        "24||heb-esvri-Hab-t-gradgcy|@Pc|and|וּ|uw|וְ|wə|and",
+        "25||heb-esvri-Hab-t-gradgce|@vhPmsa|loads|מַכְבִּ֥יד|maḵ•biyḏ|כבד|kbd|one making heavy",
+        "26|h5922|heb-esvri-Hab-t-gradgpy|@PpX3ms|•|עָלָ֖יו|ʿā•lāyw|עַל|ʿal|on",
+        "28||heb-esvri-Hab-t-gradgqy|@ncmsa|pledges|עַבְטִֽיט׃|ʿaḇ•ṭiyṭ|עַבְטִיט|ʿaḇ•ṭiyṭ|pledges"
+      ]
+    }
+  ],
+  "2:7": [
+    {
+      "o": 25319,
+      "r": "esvi:Habakkuk:2:7",
+      "p": [
+        "0|g3754|heb-esvri-Hab-t-gradeco|@Pg||הֲ|hă|הֲ|hă|?",
+        "1|h3808|heb-esvri-Hab-t-gradeca|@Pn|not|לֹ֣וא|lōwʾ|לֹא|lōʾ|not",
+        "2|h6621|heb-esvri-Hab-t-gradepo|@ncmsa|suddenly|פֶ֗תַע|p̄e•ṯaʿ|פֶּתַע|pe•ṯaʿ|instant",
+        "3||heb-esvri-Hab-t-gradeqe|@vqi3mp|arise|יָק֙וּמוּ֙|yā•quw•muw|קום|qwm|they will arise",
+        "4||heb-esvri-Hab-t-gradkco|@vqPmpcX2ms|debtors|נֹשְׁכֶ֔יךָ|nō•šə•ḵey•ḵā|נשׁך|nšk|ones being a debtor of",
+        "6||heb-esvri-Hab-t-gradkpo|@Pc|and|וְ|wə|וְ|wə|and",
+        "7||heb-esvri-Hab-t-gradkpa|@vqi3mp|awake|יִקְצ֖וּ|yiq•ṣuw|יקץ|yqṣ|they awake",
+        "8||heb-esvri-Hab-t-gradccy|@vdPmpcX2ms|tremble|מְזַעְזְעֶ֑יךָ|mə•zaʿ•zə•ʿey•ḵā|זעה|zʿh|ones making tremble of",
+        "10||heb-esvri-Hab-t-gradcpy|@Pc|Then|וְ|wə|וְ|wə|then",
+        "11||heb-esvri-Hab-t-gradcpe|@vqp2ms{2}|be|הָיִ֥יתָ|hā•yiy•ṯā|היה|hyh|you will be",
+        "12||heb-esvri-Hab-t-gradcqy|@Pp|•|לִ|li|לְ|lə|to",
+        "13||heb-esvri-Hab-t-gradcqe|@ncfpa|spoil|מְשִׁסֹּ֖ות|m•šis•sōwṯ|מְשִׁסָּה|mə•šis•sāh|spoils",
+        "14||heb-esvri-Hab-t-gradqco|@PpX3mp|for|לָֽמֹו׃|lā•mōw|לָמֹו|lā•mōw|for"
+      ]
+    }
+  ],
+  "2:8": [
+    {
+      "o": 25320,
+      "r": "esvi:Habakkuk:2:8",
+      "p": [
+        "0|h3588|heb-esvri-Hab-t-gradqpa|@Pc|Because|כִּֽי|kiy|כִּי|kiy|because",
+        "1|h859|heb-esvri-Hab-t-gradocy|@pi2ms|you|אַתָּ֤ה|ʾat•tāh|אַתָּה|ʾat•tāh|you",
+        "2||heb-esvri-Hab-t-gradoca|@vqp2ms|plundered|שַׁלֹּ֙ותָ֙|šal•lōw•ṯā|שׁלל|šll|you have plundered",
+        "3|h1471|heb-esvri-Hab-t-gradopo|@ncmpa|nations|גֹּויִ֣ם|gōw•yim|גֹּוי|gōwy|nations",
+        "4|h7227|heb-esvri-Hab-t-gradoqe|@ampa|many|רַבִּ֔ים|rab•biym|רַב|raḇ|many",
+        "5||heb-esvri-Hab-t-grad1co|@vqi3mpX2ms|plunder|יְשָׁלּ֖וּךָ|yə•šol•luw•ḵā|שׁלל|šll|they shall plunder",
+        "7|h3606|heb-esvri-Hab-t-grad1po|@ncmsc|all|כָּל־|kol-|כֹּל|kōl|all of",
+        "8|h3500|heb-esvri-Hab-t-grad1qy|@ncmsc|remnant|יֶ֣תֶר|ye•ṯer|יֶתֶר|ye•ṯer|remnant of",
+        "9|h5972|heb-esvri-Hab-t-grauyce|@ncmpa|peoples|עַמִּ֑ים|ʿam•miym|עַם|ʿam|peoples",
+        "10|h4481|heb-esvri-Hab-t-grauypy|@Pp|for|מִ|mi|מִן|min|from",
+        "11|h1818|heb-esvri-Hab-t-grauype|@ncmpc|blood|דְּמֵ֤י|d•də•mēy|דָּם|dām|blood of",
+        "12|h121|heb-esvri-Hab-t-grauyqy|@ncmsa|man|אָדָם֙|ʾā•ḏām|אָדָם|ʾā•ḏām|man",
+        "13||heb-esvri-Hab-t-graunce|@Pc|and|וַ|wa|וְ|wə|and",
+        "14|h2555|heb-esvri-Hab-t-graunco|@ncmsc|violence|חֲמַס־|ḥă•mas-|חָמָס|ḥā•mās|violence of",
+        "15|h776|heb-esvri-Hab-t-graunpy|@ncfsa|earth|אֶ֔רֶץ|ʾe•reṣ|אֶרֶץ|ʾe•reṣ|earth",
+        "16|h7151|heb-esvri-Hab-t-graunpa|@ncfsa|cities|קִרְיָ֖ה|qir•yāh|קִרְיָה|qir•yāh|city",
+        "17||heb-esvri-Hab-t-graurcy|@Pc|and|וְ|wə|וְ|wə|and",
+        "18|h3606|heb-esvri-Hab-t-graurce|@ncmsc|all|כָל־|ḵol-|כֹּל|kōl|all of",
+        "19||heb-esvri-Hab-t-graurca|@vqPmpc|dwell|יֹ֥שְׁבֵי|yō•šə•ḇēy|ישׁב|yšb|ones dwelling of",
+        "20||heb-esvri-Hab-t-graurpo|@PpX3fs|in|בָֽהּ׃|ḇāh|בְּ|bə|in"
+      ]
+    }
+  ],
+  "2:9": [
+    {
+      "o": 25321,
+      "r": "esvi:Habakkuk:2:9",
+      "p": [
+        "0|h1945|heb-esvri-Hab-t-graugpy|@Pi|Woe|הֹ֗וי|hōwy|הֹוי|hōwy|woe",
+        "1|h1215|heb-esvri-Hab-t-graugpa|@vqPmsa|gain|בֹּצֵ֛עַ|bō•ṣēaʿ|בצע|bṣʿ|one gaining unjustly",
+        "2|h1215|heb-esvri-Hab-t-grauecy|@ncmsa|gain|בֶּ֥צַע|be•ṣaʿ|בֶּצַע|be•ṣaʿ|gain",
+        "3|h7451|heb-esvri-Hab-t-graueca|@amsa|evil|רָ֖ע|rāʿ|רַע|raʿ|evil",
+        "4||heb-esvri-Hab-t-grauepo|@Pp|for|לְ|lə|לְ|lə|for",
+        "5|h1005|heb-esvri-Hab-t-grauepa|@ncmscX3ms|house|בֵיתֹ֑ו|ḇēy•ṯōw|בַּיִת|ba•yiṯ|house of",
+        "7||heb-esvri-Hab-t-graukce|@Pp|to|לָ|lā|לְ|lə|to",
+        "8||heb-esvri-Hab-t-graukco|@vqc|set|שׂ֤וּם|śuwm|שׂים|śym|set",
+        "9||heb-esvri-Hab-t-graukpe|@Pp|on|בַּ|ba|בְּ|bə|on",
+        "11||heb-esvri-Hab-t-graukpa|@ncmsa|high|מָּרֹום֙|m•mā•rōwm|מָרֹום|mā•rōwm|high place",
+        "12|h7064|heb-esvri-Hab-t-grauccy|@ncmscX3ms|nest|קִנֹּ֔ו|qin•nōw|קֵן|qēn|nest of",
+        "14||heb-esvri-Hab-t-graucpy|@Pp|to|לְ|lə|לְ|lə|to",
+        "15||heb-esvri-Hab-t-graucpe|@vnc|safe|הִנָּצֵ֖ל|hin•nā•ṣēl|נצל|nṣl|be safe",
+        "16|h4481|heb-esvri-Hab-t-graucqy|@Pp|from|מִ|mi|מִן|min|from",
+        "17|h3709|heb-esvri-Hab-t-graucqe|@ncfsa|reach|כַּף־|k•kap̄-|כַּף|kap̄|hand of",
+        "18|h7451|heb-esvri-Hab-t-grauqce|@amsa|harm|רָֽע׃|rāʿ|רַע|raʿ|harm"
+      ]
+    }
+  ],
+  "2:10": [
+    {
+      "o": 25322,
+      "r": "esvi:Habakkuk:2:10",
+      "p": [
+        "0||heb-esvri-Hab-t-grauqpe|@vqp2ms|devised|יָעַ֥צְתָּ|yā•ʿaṣ•tā|יעץ|yʿṣ|you have planned",
+        "1|h1322|heb-esvri-Hab-t-grauqqy|@ncfsa|shame|בֹּ֖שֶׁת|bō•šeṯ|בֹּשֶׁת|bō•šeṯ|shame",
+        "2||heb-esvri-Hab-t-grauoce|@Pp|for|לְ|lə|לְ|lə|for",
+        "3|h1005|heb-esvri-Hab-t-grauoco|@ncmscX2ms|house|בֵיתֶ֑ךָ|ḇēy•ṯe•ḵā|בַּיִת|ba•yiṯ|house of",
+        "5||heb-esvri-Hab-t-grauopo|@vqc|cutting|קְצֹות־|qə•ṣōwṯ-|קצה|qṣh|to cut off",
+        "6|h5971|heb-esvri-Hab-t-grauoqy|@ncmpa|peoples|עַמִּ֥ים|ʿam•miym|עַם|ʿam|peoples",
+        "7|h7227|heb-esvri-Hab-t-grau1ce|@ampa|many|רַבִּ֖ים|rab•biym|רַב|raḇ|many",
+        "8||heb-esvri-Hab-t-grau1py|@Pc|•|וְ|wə|וְ|wə|and",
+        "9||heb-esvri-Hab-t-grau1pe|@vqPmsa|forfeited|חֹוטֵ֥א|ḥōw•ṭēʾ|חטא|ḥṭʾ|one forfeiting",
+        "10|h5315|heb-esvri-Hab-t-grau1qy|@ncbscX2ms|life|נַפְשֶֽׁךָ׃|nap̄•še•ḵā|נֶפֶשׁ|ne•p̄eš|life of"
+      ]
+    }
+  ],
+  "2:11": [
+    {
+      "o": 25323,
+      "r": "esvi:Habakkuk:2:11",
+      "p": [
+        "0|h3588|heb-esvri-Hab-t-gr3dyca|@Pc|For|כִּי־|kiy-|כִּי|kiy|for",
+        "1|h69|heb-esvri-Hab-t-gr3dype|@ncfsa|stone|אֶ֖בֶן|ʾe•ḇen|אֶבֶן|ʾe•ḇen|stone",
+        "2|h4481|heb-esvri-Hab-t-gr3dyqy|@Pp|from|מִ|mi|מִן|min|from",
+        "3|h7023|heb-esvri-Hab-t-gr3dyqe|@ncmsa|wall|קִּ֣יר|q•qiyr|קִיר|qiyr|wall",
+        "4||heb-esvri-Hab-t-gr3dnco|@vqi3fs|cry|תִּזְעָ֑ק|tiz•ʿāq|זעק|zʿq|she will cry out",
+        "5||heb-esvri-Hab-t-gr3dnpe|@Pc|and|וְ|wə|וְ|wə|and",
+        "6||heb-esvri-Hab-t-gr3dnpo|@ncmsa|beam|כָפִ֖יס|ḵā•p̄iys|כָּפִיס|kā•p̄iys|beam",
+        "7|h4481|heb-esvri-Hab-t-gr3dnqe|@Pp|from|מֵ|mē|מִן|min|from",
+        "8|h6086|heb-esvri-Hab-t-gr3drcy|@ncmsa|woodwork|עֵ֥ץ|ʿēṣ|עֵץ|ʿēṣ|wood",
+        "9||heb-esvri-Hab-t-gr3drca|@vqi3msX3fsXe|respond|יַעֲנֶֽנָּה׃|ya•ʿă•nen•nāh|ענה|ʿnh|he will answer"
+      ]
+    }
+  ],
+  "2:12": [
+    {
+      "o": 25324,
+      "r": "esvi:Habakkuk:2:12",
+      "p": [
+        "0|h1945|heb-esvri-Hab-t-gr3dgce|@Pi|Woe|הֹ֛וי|hōwy|הֹוי|hōwy|woe",
+        "1||heb-esvri-Hab-t-gr3dgpy|@vqPmsa|builds|בֹּנֶ֥ה|bō•neh|בנה|bnh|building",
+        "2|h5892|heb-esvri-Hab-t-gr3dgpa|@ncfsa|town|עִ֖יר|ʿiyr|עִיר|ʿiyr|town",
+        "3||heb-esvri-Hab-t-gr3decy|@Pp|with|בְּ|bə|בְּ|bə|with",
+        "4|h1818|heb-esvri-Hab-t-gr3dece|@ncmpa|blood|דָמִ֑ים|ḏā•miym|דָּם|dām|blood",
+        "5||heb-esvri-Hab-t-gr3depy|@Pc|and|וְ|wə|וְ|wə|and",
+        "6||heb-esvri-Hab-t-gr3depe|@vep3ms{2}|founds|כֹונֵ֥ן|ḵōw•nēn|כון|kwn|he founds",
+        "7|h7151|heb-esvri-Hab-t-gr3deqy|@ncfsa|city|קִרְיָ֖ה|qir•yāh|קִרְיָה|qir•yāh|city",
+        "8||heb-esvri-Hab-t-gr3dkce|@Pp|on|בְּ|bə|בְּ|bə|on",
+        "9||heb-esvri-Hab-t-gr3dkco|@ncfsa|iniquity|עַוְלָֽה׃|ʿaw•lāh|עַוְלָה|ʿaw•lāh|injustice"
+      ]
+    }
+  ],
+  "2:13": [
+    {
+      "o": 25325,
+      "r": "esvi:Habakkuk:2:13",
+      "p": [
+        "0|g3756|heb-esvri-Hab-t-gr3dkpo|@Pg||הֲ|hă|הֲ|hă|?",
+        "1|h3808|heb-esvri-Hab-t-gr3dkpa|@Pn|not|לֹ֣וא|lōwʾ|לֹא|lōʾ|not",
+        "2|h2009|heb-esvri-Hab-t-gr3dccy|@Pi|Behold|הִנֵּ֔ה|hin•nēh|הִנֵּה|hin•nēh|behold",
+        "3|h4481|heb-esvri-Hab-t-gr3dcca|@Pp|from|מֵ|mē|מִן|min|from",
+        "4|h854|heb-esvri-Hab-t-gr3dcpy|@Pp|from|אֵ֖ת|ʾēṯ|אֵת|ʾēṯ|",
+        "5||heb-esvri-Hab-t-gr3dcpa|@np|Lord|יְהוָ֣ה|yəh•wāh|יהוה|yhwh|Yahweh of",
+        "6|h6635|heb-esvri-Hab-t-gr3dqcy|@ncbpa|hosts|צְבָאֹ֑ות|ṣə•ḇā•ʾōwṯ|צָבָא|ṣā•ḇāʾ|hosts",
+        "7||heb-esvri-Hab-t-gr3dqca|@Pc|that|וְ|wə|וְ|wə|that",
+        "8||heb-esvri-Hab-t-gr3dqpy|@vqi3mp|labor|יִֽיגְע֤וּ|yiy•ḡə•ʿuw|יגע|ygʿ|they labor",
+        "9|h5972|heb-esvri-Hab-t-gr3dqpa|@ncmpa|peoples|עַמִּים֙|ʿam•miym|עַם|ʿam|peoples",
+        "10||heb-esvri-Hab-t-gr3docy|@Pp|for|בְּ|bə|בְּ|bə|on",
+        "11|h1767|heb-esvri-Hab-t-gr3doce|@ncmsc|for|דֵי־|ḏēy-|דַּי|day|enough of",
+        "12|h784|heb-esvri-Hab-t-gr3doca|@ncbsa|fire|אֵ֔שׁ|ʾēš|אֵשׁ|ʾēš|fire",
+        "13||heb-esvri-Hab-t-gr3dopo|@Pc|and|וּ|uw|וְ|wə|and",
+        "14|h3816|heb-esvri-Hab-t-gr3dopa|@ncmpa|nations|לְאֻמִּ֖ים|lə•ʾum•miym|לְאֹם|lə•ʾōm|nations",
+        "15||heb-esvri-Hab-t-gr3d1cy|@Pp|for|בְּ|bə|בְּ|bə|on",
+        "16|h1767|heb-esvri-Hab-t-gr3d1ce|@ncmsc|for|דֵי־|ḏēy-|דַּי|day|enough of",
+        "17|h7385|heb-esvri-Hab-t-gr3d1ca|@ncmsa|nothing|רִ֥יק|riyq|רִיק|riyq|vanity",
+        "18|h3286|heb-esvri-Hab-t-gr3d1po|@vqi3mp|weary|יִעָֽפוּ׃|yi•ʿā•p̄uw|יעף|yʿp|they become weary"
+      ]
+    }
+  ],
+  "2:14": [
+    {
+      "o": 25326,
+      "r": "esvi:Habakkuk:2:14",
+      "p": [
+        "0|h3588|heb-esvri-Hab-t-gr3uycy|@Pc|For|כִּ֚י|kiy|כִּי|kiy|for",
+        "1||heb-esvri-Hab-t-gr3uyca|@vni3fs|filled|תִּמָּלֵ֣א|tim•mā•lēʾ|מלא|mlʾ|she will be filled",
+        "2||heb-esvri-Hab-t-gr3uypo|@Pa|the|הָ|hā|הַ|ha|the",
+        "3|h776|heb-esvri-Hab-t-gr3uypa|@ncfsa|earth|אָ֔רֶץ|ʾā•reṣ|אֶרֶץ|ʾe•reṣ|earth",
+        "4||heb-esvri-Hab-t-gr3uncy|@Pp|with|לָ|lā|לְ|lə|to",
+        "5||heb-esvri-Hab-t-gr3unce|@vqc|knowledge|דַ֖עַת|ḏa•ʿaṯ|ידע|ydʿ|know",
+        "6|h854|heb-esvri-Hab-t-gr3unpy|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "7||heb-esvri-Hab-t-gr3unpo|@ncmsc|glory|כְּבֹ֣וד|kə•ḇōwḏ|כָּבֹוד|kā•ḇōwḏ|glory of",
+        "8||heb-esvri-Hab-t-gr3unqe|@np|Lord|יְהוָ֑ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "9||heb-esvri-Hab-t-gr3urco|@Pp|as|כַּ|ka|כְּ|kə|as",
+        "11|h4325|heb-esvri-Hab-t-gr3urpy|@ncmpa|waters|מַּ֖יִם|m•ma•yim|מַיִם|ma•yim|waters",
+        "12|h3680|heb-esvri-Hab-t-gr3urpa|@vpi3mp|cover|יְכַסּ֥וּ|yə•ḵas•suw|כסה|ksh|they cover",
+        "13|h5922|heb-esvri-Hab-t-gr3ugcy|@Pp|•|עַל־|ʿal-|עַל|ʿal|over",
+        "14|h3221|heb-esvri-Hab-t-gr3ugco|@ncmsa|sea|יָֽם׃|yām|יָם|yām|sea"
+      ]
+    }
+  ],
+  "2:15": [
+    {
+      "o": 25327,
+      "r": "esvi:Habakkuk:2:15",
+      "p": [
+        "0|h1945|heb-esvri-Hab-t-gr3ugqe|@Pi|Woe|הֹ֚וי|hōwy|הֹוי|hōwy|woe",
+        "1|h8248|heb-esvri-Hab-t-gr3ueco|@vhPmsc|drink|מַשְׁקֵ֣ה|maš•qēh|שׁקה|šqh|one making drink of",
+        "2|h7453|heb-esvri-Hab-t-gr3uepe|@ncmscX3ms|neighbors|רֵעֵ֔הוּ|rē•ʿē•huw|רֵעַ|rēaʿ|neighbor of",
+        "4||heb-esvri-Hab-t-gr3ueqe|@vpPmsa|pour|מְסַפֵּ֥חַ|mə•sap•pēaḥ|ספח|spḥ|pouring out",
+        "5|h2534|heb-esvri-Hab-t-gr3ukco|@ncfscX2ms|wrath|חֲמָתְךָ֖|ḥă•mā•ṯə•ḵā|חֵמָה|ḥē•māh|wrath of",
+        "7||heb-esvri-Hab-t-gr3ukpo|@Pc|and|וְ|wə|וְ|wə|and",
+        "8|h639|heb-esvri-Hab-t-gr3ukpa|@Pc|•|אַ֣ף|ʾap̄|אַף|ʾap̄|also",
+        "9||heb-esvri-Hab-t-gr3uccy|@vpa|drunk|שַׁכֵּ֑ר|šak•kēr|שׁכר|škr|to make drunk",
+        "10||heb-esvri-Hab-t-gr3ucca|@Pc|in order to|לְמַ֥עַן|lə•ma•ʿan|לְמַעַן|lə•ma•ʿan|in order",
+        "11||heb-esvri-Hab-t-gr3ucpo|@vhc|gaze|הַבִּ֖יט|hab•biyṭ|נבט|nbṭ|to look",
+        "12|h5922|heb-esvri-Hab-t-gr3ucqe|@Pp|at|עַל־|ʿal-|עַל|ʿal|at",
+        "13||heb-esvri-Hab-t-gr3uqce|@ncmpcX3mp|nakedness|מְעֹורֵיהֶֽם׃|mə•ʿōw•rēy•hem|מָעֹור|mā•ʿōwr|nakedness of"
+      ]
+    }
+  ],
+  "2:16": [
+    {
+      "o": 25328,
+      "r": "esvi:Habakkuk:2:16",
+      "p": [
+        "0||heb-esvri-Hab-t-gr3uqpo|@vqp2ms|fill|שָׂבַ֤עְתָּ|śā•ḇaʿ•tā|שׂבע|śbʿ|you will have your fill",
+        "1||heb-esvri-Hab-t-gr3uqqe|@ncmsa|shame|קָלֹון֙|qā•lōwn|קָלֹון|qā•lōwn|shame",
+        "2|h4481|heb-esvri-Hab-t-gr3uoco|@Pp|instead of|מִ|mi|מִן|min|away from",
+        "3||heb-esvri-Hab-t-gr3uoca|@ncmsa|glory|כָּבֹ֔וד|k•kā•ḇōwḏ|כָּבֹוד|kā•ḇōwḏ|glory",
+        "4||heb-esvri-Hab-t-gr3uopo|@vqvms|Drink|שְׁתֵ֥ה|šə•ṯēh|שׁתה|šth|drink",
+        "5|h1571|heb-esvri-Hab-t-gr3uoqe|@Pc|•|גַם־|ḡam-|גַּם|gam|also",
+        "6|h859|heb-esvri-Hab-t-gr3u1ce|@pi2ms|yourself|אַ֖תָּה|ʾat•tāh|אַתָּה|ʾat•tāh|you",
+        "7||heb-esvri-Hab-t-gr3u1py|@Pc|and|וְ|wə|וְ|wə|and",
+        "8||heb-esvri-Hab-t-gr3u1pe|@vnvms|uncircumcision|הֵֽעָרֵ֑ל|hē•ʿā•rēl|ערל|ʿrl|expose your uncircumcision",
+        "9|h5437|heb-esvri-Hab-t-gr3u1qy|@vqi3fs|around|תִּסֹּ֣וב|tis•sōwḇ|סבב|sbb|she shall go around",
+        "10|h5922|heb-esvri-Hab-t-gr4dyce|@PpX2ms|to|עָלֶ֗יךָ|ʿā•ley•ḵā|עַל|ʿal|to",
+        "12||heb-esvri-Hab-t-gr4dype|@ncfsc|cup|כֹּ֚וס|kōws|כֹּוס|kōws|cup of",
+        "13|h3225|heb-esvri-Hab-t-gr4dyqy|@ncfsc|right|יְמִ֣ין|yə•miyn|יָמִין|yā•miyn|right hand of",
+        "14||heb-esvri-Hab-t-gr4dnce|@np|Lord's|יְהוָ֔ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "15||heb-esvri-Hab-t-gr4dnpy|@Pc|and|וְ|wə|וְ|wə|and",
+        "16||heb-esvri-Hab-t-gr4dnpe|@ncmsa|shame|קִיקָלֹ֖ון|qiy•qā•lōwn|קִיקָלֹון|qiy•qā•lōwn|disgrace",
+        "17|h5922|heb-esvri-Hab-t-gr4dnqy|@Pp|upon|עַל־|ʿal-|עַל|ʿal|upon",
+        "18||heb-esvri-Hab-t-gr4drcy|@ncmscX2ms|glory|כְּבֹודֶֽךָ׃|kə•ḇōw•ḏe•ḵā|כָּבֹוד|kā•ḇōwḏ|glory of"
+      ]
+    }
+  ],
+  "2:17": [
+    {
+      "o": 25329,
+      "r": "esvi:Habakkuk:2:17",
+      "p": [
+        "0|h3588|heb-esvri-Hab-t-gr4drpe|@Pc|•|כִּ֣י|kiy|כִּי|kiy|for",
+        "1|h2555|heb-esvri-Hab-t-gr4drqy|@ncmsc|violence|חֲמַ֤ס|ḥă•mas|חָמָס|ḥā•mās|violence of",
+        "2||heb-esvri-Hab-t-gr4dgce|@np|Lebanon|לְבָנֹון֙|lə•ḇā•nōwn|לְבָנֹון|lə•ḇā•nōwn|Lebanon",
+        "3||heb-esvri-Hab-t-gr4dgpy|@vpi3msX2msXe|overwhelm|יְכַסֶּ֔ךָּ|yə•ḵas•sek•kā|כסה|ksh|he will cover",
+        "5||heb-esvri-Hab-t-gr4dgqy|@Pc|as|וְ|wə|וְ|wə|and",
+        "6|h7701|heb-esvri-Hab-t-gr4dgqe|@ncmsc|destruction|שֹׁ֥ד|šōḏ|שֹׁד|šōḏ|destruction of",
+        "7|h929|heb-esvri-Hab-t-gr4deco|@ncfpa|beasts|בְּהֵמֹ֖ות|bə•hē•mōwṯ|בְּהֵמָה|bə•hē•māh|beasts",
+        "8||heb-esvri-Hab-t-gr4depe|@vhi3msX3fp|terrified|יְחִיתַ֑ן|yə•ḥiy•ṯan|חתת|ḥt|he terrified",
+        "10|h4481|heb-esvri-Hab-t-gr4deqe|@Pp|for|מִ|mi|מִן|min|from",
+        "11|h1818|heb-esvri-Hab-t-gr4dkcy|@ncmpc|blood|דְּמֵ֤י|d•də•mēy|דָּם|dām|blood of",
+        "12|h121|heb-esvri-Hab-t-gr4dkca|@ncmsa|man|אָדָם֙|ʾā•ḏām|אָדָם|ʾā•ḏām|man",
+        "13||heb-esvri-Hab-t-gr4dkpo|@Pc|and|וַ|wa|וְ|wə|and",
+        "14|h2555|heb-esvri-Hab-t-gr4dkpa|@ncmsc|violence|חֲמַס־|ḥă•mas-|חָמָס|ḥā•mās|violence of",
+        "15|h776|heb-esvri-Hab-t-gr4dkqe|@ncfsa|earth|אֶ֔רֶץ|ʾe•reṣ|אֶרֶץ|ʾe•reṣ|earth",
+        "16|h7151|heb-esvri-Hab-t-gr4dcco|@ncfsa|cities|קִרְיָ֖ה|qir•yāh|קִרְיָה|qir•yāh|city",
+        "17||heb-esvri-Hab-t-gr4dcpe|@Pc|and|וְ|wə|וְ|wə|and",
+        "18|h3606|heb-esvri-Hab-t-gr4dcpo|@ncmsc|all|כָל־|ḵol-|כֹּל|kōl|all of",
+        "19||heb-esvri-Hab-t-gr4dcqy|@vqPmpc|dwell|יֹ֥שְׁבֵי|yō•šə•ḇēy|ישׁב|yšb|ones dwelling of",
+        "20||heb-esvri-Hab-t-gr4dqce|@PpX3fs|in|בָֽהּ׃|ḇāh|בְּ|bə|in"
+      ]
+    }
+  ],
+  "2:18": [
+    {
+      "o": 25330,
+      "r": "esvi:Habakkuk:2:18",
+      "p": [
+        "0|h4100|heb-esvri-Hab-t-gr4dqqe|@pii|What|מָֽה־|māh-|מָה|māh|what",
+        "1|h3276|heb-esvri-Hab-t-gr4doce|@vhp3ms|profit|הֹועִ֣יל|hōw•ʿiyl|יעל|yʿl|he profits",
+        "2|h6459|heb-esvri-Hab-t-gr4dopy|@ncmsa|idol|פֶּ֗סֶל|pe•sel|פֶּסֶל|pe•sel|idol",
+        "3|h3588|heb-esvri-Hab-t-gr4dopa|@Pc|when|כִּ֤י|kiy|כִּי|kiy|when",
+        "4||heb-esvri-Hab-t-gr4d1cy|@vqp3msX3ms|shaped|פְסָלֹו֙|p̄ə•sā•lōw|פסל|psl|he carved",
+        "6||heb-esvri-Hab-t-gr4d1py|@vqPmscX3ms|maker|יֹֽצְרֹ֔ו|yō•ṣə•rōw|יצר|yṣr|one forming of",
+        "8|h4541|heb-esvri-Hab-t-gr4d1qy|@ncfsa|metal|מַסֵּכָ֖ה|mas•sē•ḵāh|מַסֵּכָה|mas•sē•ḵāh|cast image",
+        "9||heb-esvri-Hab-t-gr4uyce|@Pc|•|וּ|uw|וְ|wə|and",
+        "10||heb-esvri-Hab-t-gr4uyco|@vhPmsa|teacher|מֹ֣ורֶה|mōw•reh|ירה|yrh|one teaching",
+        "11|h8267|heb-esvri-Hab-t-gr4uype|@ncmsa|lies|שָּׁ֑קֶר|š•šā•qer|שֶׁקֶר|še•qer|lie",
+        "12|h3588|heb-esvri-Hab-t-gr4uyqy|@Pc|For|כִּ֣י|kiy|כִּי|kiy|for",
+        "13|h982|heb-esvri-Hab-t-gr4unce|@vqp3ms|trusts|בָטַ֞ח|ḇā•ṭaḥ|בטח|bṭḥ|he trusts",
+        "14||heb-esvri-Hab-t-gr4unpy|@vqPmsa|maker|יֹצֵ֤ר|yō•ṣēr|יצר|yṣr|one forming",
+        "15|h3337|heb-esvri-Hab-t-gr4unpa|@ncmscX3ms|creation|יִצְרֹו֙|yiṣ•rōw|יֵצֶר|yē•ṣer|what is formed of",
+        "17|h5922|heb-esvri-Hab-t-gr4urce|@PpX3ms|in|עָלָ֔יו|ʿā•lāyw|עַל|ʿal|on",
+        "19|h3588|heb-esvri-Hab-t-gr4urpe|@Pp|when|לַ|la|לְ|lə|to",
+        "20||heb-esvri-Hab-t-gr4urpo|@vqc|makes|עֲשֹׂ֖ות|ʿă•śōwṯ|עשׂה|ʿśh|make",
+        "21|h457|heb-esvri-Hab-t-gr4urqe|@ncmpa|idols|אֱלִילִ֥ים|ʾĕ•liy•liym|אֱלִיל|ʾĕ•liyl|idols",
+        "22|h483|heb-esvri-Hab-t-gr4ugco|@ampa|speechless|אִלְּמִֽים׃|ʾil•lə•miym|אִלֵּם|ʾil•lēm|mute"
+      ]
+    }
+  ],
+  "2:19": [
+    {
+      "o": 25331,
+      "r": "esvi:Habakkuk:2:19",
+      "p": [
+        "0|h1945|heb-esvri-Hab-t-gr4ugqe|@Pi|Woe|הֹ֣וי|hōwy|הֹוי|hōwy|woe",
+        "1||heb-esvri-Hab-t-gr4ueco|@vqPmsa|says|אֹמֵ֤ר|ʾō•mēr|אמר|ʾmr|saying",
+        "2||heb-esvri-Hab-t-gr4uepe|@Pp|to|לָ|lā|לְ|lə|to",
+        "3|h6086|heb-esvri-Hab-t-gr4uepo|@ncmsa|wooden|עֵץ֙|ʿēṣ|עֵץ|ʿēṣ|wooden thing",
+        "4|h6974|heb-esvri-Hab-t-gr4ueqe|@vhvmsXh|Awake|הָקִ֔יצָה|hā•qiy•ṣāh|קיץ|qyṣ|awake",
+        "5|h5782|heb-esvri-Hab-t-gr4ukco|@vqvfs|Arise|ע֖וּרִי|ʿuw•riy|עור|ʿwr|be awake",
+        "6||heb-esvri-Hab-t-gr4ukpe|@Pp|to|לְ|lə|לְ|lə|to",
+        "7|h68|heb-esvri-Hab-t-gr4ukpo|@ncfsc|stone|אֶ֣בֶן|ʾe•ḇen|אֶבֶן|ʾe•ḇen|stone of",
+        "8||heb-esvri-Hab-t-gr4ukqe|@ncmsa|silent|דּוּמָ֑ם|duw•mām|דּוּמָם|duw•mām|silence",
+        "9|h1932|heb-esvri-Hab-t-gr4ucco|@pi3ms|this|ה֣וּא|huwʾ|הוּא|huwʾ|he",
+        "10||heb-esvri-Hab-t-gr4ucpe|@vhi3ms|teach|יֹורֶ֔ה|yōw•reh|ירה|yrh|he teaches",
+        "11|h2009|heb-esvri-Hab-t-gr4ucqy|@Pi|Behold|הִנֵּה־|hin•nēh-|הִנֵּה|hin•nēh|behold",
+        "12|h1932|heb-esvri-Hab-t-gr4uqcy|@pi3ms|it|ה֗וּא|huwʾ|הוּא|huwʾ|he",
+        "13||heb-esvri-Hab-t-gr4uqca|@vqsmsa|overlaid|תָּפוּשׂ֙|tā•p̄uwś|תפשׂ|tpś|being covered",
+        "14|h2091|heb-esvri-Hab-t-gr4uqpo|@ncmsa|gold|זָהָ֣ב|zā•hāḇ|זָהָב|zā•hāḇ|gold",
+        "15||heb-esvri-Hab-t-gr4uqqe|@Pc|and|וָ|wā|וְ|wə|and",
+        "16|h3701|heb-esvri-Hab-t-gr4uocy|@ncmsa|silver|כֶ֔סֶף|ḵe•sep̄|כֶּסֶף|ke•sep̄|silver",
+        "17||heb-esvri-Hab-t-gr4uoca|@Pc|and|וְ|wə|וְ|wə|and",
+        "18|h3606|heb-esvri-Hab-t-gr4uopy|@ncmsc|all|כָל־|ḵol-|כֹּל|kōl|any of",
+        "19|h7307|heb-esvri-Hab-t-gr4uopo|@ncfsa|breath|ר֖וּחַ|ruwaḥ|רוּחַ|ruwaḥ|breath",
+        "20|h370|heb-esvri-Hab-t-gr4uoqe|@Pd|no|אֵ֥ין|ʾēyn|אַיִן|ʾa•yin|there is not",
+        "21||heb-esvri-Hab-t-gr4u1co|@Pp|in|בְּ|bə|בְּ|bə|in",
+        "22|h7130|heb-esvri-Hab-t-gr4u1ca|@ncmscX3ms|in|קִרְבֹּֽו׃|qir•bōw|קֶרֶב|qe•reḇ|midst of"
+      ]
+    }
+  ],
+  "2:20": [
+    {
+      "o": 25332,
+      "r": "esvi:Habakkuk:2:20",
+      "p": [
+        "0||heb-esvri-Hab-t-gr4u1qy|@Pc|But|וַֽ|wa|וְ|wə|but",
+        "1||heb-esvri-Hab-t-gr4u1qe|@np|Lord|יהוָ֖ה|yh•wāh|יהוה|yhwh|Yahweh",
+        "2||heb-esvri-Hab-t-gr5dyco|@Pp|in|בְּ|bə|בְּ|bə|in",
+        "3|h1964|heb-esvri-Hab-t-gr5dyca|@ncmsc|temple|הֵיכַ֣ל|hēy•ḵal|הֵיכָל|hēy•ḵāl|temple of",
+        "4|h6944|heb-esvri-Hab-t-gr5dypo|@ncmscX3ms|holy|קָדְשֹׁ֑ו|qoḏ•šōw|קֹדֶשׁ|qō•ḏeš|holiness of",
+        "6||heb-esvri-Hab-t-gr5dncy|@Pi|silence|הַ֥ס|has|הַס|has|silence",
+        "7|h6440|heb-esvri-Hab-t-gr5dnca|@Pp|before|מִ|mi|מִן|min|from",
+        "8|h6440|heb-esvri-Hab-t-gr5dnpy|@ncbpcX3ms|before|פָּנָ֖יו|p•pā•nāyw|פָּנֶה|pā•neh|before",
+        "10|h3606|heb-esvri-Hab-t-gr5dnqy|@ncmsc|all|כָּל־|kol-|כֹּל|kōl|all of",
+        "11||heb-esvri-Hab-t-gr5drcy|@Pa|the|הָ|hā|הַ|ha|the",
+        "12|h776|heb-esvri-Hab-t-gr5drce|@ncfsa|earth|אָֽרֶץ׃|ʾā•reṣ|אֶרֶץ|ʾe•reṣ|earth"
+      ]
+    }
+  ],
+  "3:0": [
+    {
+      "o": 25333,
+      "r": "esvi:Habakkuk:3:0",
+      "h": 1,
+      "t": "Habakkuk 3",
+      "p": []
+    },
+    {
+      "o": 25334,
+      "r": "esvi:Habakkuk:3:0",
+      "h": 2,
+      "t": "Habakkuk’s Prayer",
+      "p": []
+    }
+  ],
+  "3:1": [
+    {
+      "o": 25335,
+      "r": "esvi:Habakkuk:3:1",
+      "p": [
+        "0|h8605|heb-esvri-Hab-t-gr5drqe|@ncfsa|prayer|תְּפִלָּ֖ה|tə•p̄il•lāh|תְּפִלָּה|tə•p̄il•lāh|prayer",
+        "1||heb-esvri-Hab-t-gr5dgco|@Pp|of|לַ|la|לְ|lə|to",
+        "2|h2265|heb-esvri-Hab-t-gr5dgca|@np|Habakkuk|חֲבַקּ֣וּק|ḥă•ḇaq•quwq|חֲבַקּוּק|ḥă•ḇaq•quwq|Habakkuk",
+        "3||heb-esvri-Hab-t-gr5dgpo|@Pa|the|הַ|ha|הַ|ha|the",
+        "4|h5030|heb-esvri-Hab-t-gr5dgpa|@ncmsa|prophet|נָּבִ֑יא|n•nā•ḇiyʾ|נָבִיא|nā•ḇiyʾ|prophet",
+        "5|h5922|heb-esvri-Hab-t-gr5decy|@Pp|according to|עַ֖ל|ʿal|עַל|ʿal|according to",
+        "6||heb-esvri-Hab-t-gr5deca|@ncmpa|Shigionoth|שִׁגְיֹנֹֽות׃|šiḡ•yō•nōwṯ|שִׁגָּיֹון|šig•gā•yōwn|Shigionoth"
+      ]
+    }
+  ],
+  "3:2": [
+    {
+      "o": 25336,
+      "r": "esvi:Habakkuk:3:2",
+      "p": [
+        "0||heb-esvri-Hab-t-gr5depa|@np|Lord|יְהוָ֗ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "1||heb-esvri-Hab-t-gr5dkcy|@vqp1cs|heard|שָׁמַ֣עְתִּי|šā•maʿ•tiy|שׁמע|šmʿ|I have heard",
+        "2|h8088|heb-esvri-Hab-t-gr5dkca|@ncmscX2ms|report|שִׁמְעֲךָ֮|šim•ʿă•ḵā|שֵׁמַע|šē•maʿ|report of",
+        "4||heb-esvri-Hab-t-gr5dkpa|@vqp1cs|fear|יָרֵאתִי֒|yā•rē(ʾ)•ṯiy|ירא|yrʾ|I fear",
+        "5||heb-esvri-Hab-t-gr5dccy|@np|Lord|יְהוָ֗ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "6|h6467|heb-esvri-Hab-t-gr5dcca|@ncmscX2ms|work|פָּֽעָלְךָ֙|po•ʿā•lə•ḵā|פֹּעַל|pō•ʿal|work of",
+        "8||heb-esvri-Hab-t-gr5dcpa|@Pp|In|בְּ|bə|בְּ|bə|in",
+        "9|h7130|heb-esvri-Hab-t-gr5dcqy|@ncmsc|midst|קֶ֤רֶב|qe•reḇ|קֶרֶב|qe•reḇ|midst of",
+        "10|h8138|heb-esvri-Hab-t-gr5dqce|@ncfpa|years|שָׁנִים֙|šā•niym|שָׁנָה|šā•nāh|years",
+        "11|h2421|heb-esvri-Hab-t-gr5dqpy|@vpvmsX3ms|revive|חַיֵּ֔יהוּ|ḥay•yēy•huw|חיה|ḥyh|cause to live",
+        "13||heb-esvri-Hab-t-gr5dqqy|@Pp|in|בְּ|bə|בְּ|bə|in",
+        "14|h7130|heb-esvri-Hab-t-gr5dqqe|@ncmsc|midst|קֶ֥רֶב|qe•reḇ|קֶרֶב|qe•reḇ|midst of",
+        "15|h8138|heb-esvri-Hab-t-gr5doco|@ncfpa|years|שָׁנִ֖ים|šā•niym|שָׁנָה|šā•nāh|years",
+        "16||heb-esvri-Hab-t-gr5dope|@vhi2ms{1}Jm|known|תֹּודִ֑יעַ|tōw•ḏiyaʿ|ידע|ydʿ|you are to make known",
+        "17||heb-esvri-Hab-t-gr5doqy|@Pp|in|בְּ|bə|בְּ|bə|in",
+        "18|h7267|heb-esvri-Hab-t-gr5doqe|@ncmsa|wrath|רֹ֖גֶז|rō•ḡez|רֹגֶז|rō•ḡez|wrath",
+        "19|h7355|heb-esvri-Hab-t-gr5d1co|@vpa|mercy|רַחֵ֥ם|ra•ḥēm|רחם|rḥm|to have mercy",
+        "20|h2142|heb-esvri-Hab-t-gr5d1pe|@vqi2ms{1}Jm|remember|תִּזְכֹּֽור׃|tiz•kōwr|זכר|zkr|you are to remember"
+      ]
+    }
+  ],
+  "3:3": [
+    {
+      "o": 25337,
+      "r": "esvi:Habakkuk:3:3",
+      "p": [
+        "0|h433|heb-esvri-Hab-t-gr5d1qe|@ncmsa|God|אֱלֹ֙והַ֙|ʾĕ•lōw•ha|אֱלֹוהַּ|ʾĕ•lōwah|God",
+        "1|h4481|heb-esvri-Hab-t-gr5uyco|@Pp|from|מִ|mi|מִן|min|from",
+        "2|h8487|heb-esvri-Hab-t-gr5uyca|@np|Teman|תֵּימָ֣ן|t•tēy•mān|תֵּימָן|tēy•mān|Teman",
+        "3|h935|heb-esvri-Hab-t-gr5uypo|@vqi3msXa|came|יָבֹ֔וא|yā•ḇōwʾ|בוא|bwʾ|he came",
+        "4||heb-esvri-Hab-t-gr5uyqe|@Pc|and|וְ|wə|וְ|wə|and",
+        "5||heb-esvri-Hab-t-gr5uncy|@amsa|Holy|קָדֹ֥ושׁ|qā•ḏōwš|קָדֹושׁ|qā•ḏōwš|Holy One",
+        "6|h4481|heb-esvri-Hab-t-gr5unca|@Pp|from|מֵֽ|mē|מִן|min|from",
+        "7|h2022|heb-esvri-Hab-t-gr5unpy|@ncmsc|Mount|הַר־|har-|הַר|har|Mountain of",
+        "8|h6290|heb-esvri-Hab-t-gr5unpo|@np|Paran|פָּארָ֖ן|pā(ʾ)•rān|פָּארָן|pā(ʾ)•rān|Paran",
+        "9|h5542|heb-esvri-Hab-t-gr5unqe|@Pi|Selah|סֶ֑לָה|se•lāh|סֶלָה|se•lāh|selah",
+        "10|h3680|heb-esvri-Hab-t-gr5urco|@vpp3ms|covered|כִּסָּ֤ה|kis•sāh|כסה|ksh|he covered",
+        "11|h8064|heb-esvri-Hab-t-gr5urpe|@ncmpa|heavens|שָׁמַ֙יִם֙|šā•ma•yim|שָׁמַיִם|šā•ma•yim|heavens",
+        "12||heb-esvri-Hab-t-gr5urqy|@ncmscX3ms|splendor|הֹודֹ֔ו|hōw•ḏōw|הֹוד|hōwḏ|splendor of",
+        "14||heb-esvri-Hab-t-gr5ugco|@Pc|and|וּ|uw|וְ|wə|and",
+        "15|h8416|heb-esvri-Hab-t-gr5ugca|@ncfscX3ms|praise|תְהִלָּתֹ֖ו|ṯə•hil•lā•ṯōw|תְּהִלָּה|tə•hil•lāh|praise of",
+        "17||heb-esvri-Hab-t-gr5ugpa|@vqp3fs|full|מָלְאָ֥ה|mā•lə•ʾāh|מלא|mlʾ|she was full",
+        "18||heb-esvri-Hab-t-gr5uecy|@Pa|the|הָ|hā|הַ|ha|the",
+        "19|h776|heb-esvri-Hab-t-gr5uece|@ncfsa|earth|אָֽרֶץ׃|ʾā•reṣ|אֶרֶץ|ʾe•reṣ|earth"
+      ]
+    }
+  ],
+  "3:4": [
+    {
+      "o": 25338,
+      "r": "esvi:Habakkuk:3:4",
+      "p": [
+        "0||heb-esvri-Hab-t-gr5uepe|@Pc|•|וְ|wə|וְ|wə|and",
+        "1|h5052|heb-esvri-Hab-t-gr5uepo|@ncfsa|brightness|נֹ֙גַהּ֙|nō•ḡah|נֹגַהּ|nō•ḡah|brightness",
+        "2||heb-esvri-Hab-t-gr5ueqe|@Pp|like|כָּ|kā|כְּ|kə|like",
+        "4||heb-esvri-Hab-t-gr5ukce|@ncmsa|light|אֹ֣ור|ʾōwr|אֹור|ʾōwr|light",
+        "5||heb-esvri-Hab-t-gr5ukpy|@vqi3fs|was|תִּֽהְיֶ֔ה|tih•yeh|היה|hyh|she was",
+        "6|h7162|heb-esvri-Hab-t-gr5ukpa|@ncfda|rays|קַרְנַ֥יִם|qar•na•yim|קֶרֶן|qe•ren|two horns",
+        "7|h4481|heb-esvri-Hab-t-gr5uccy|@Pp|from|מִ|mi|מִן|min|from",
+        "8|h3027|heb-esvri-Hab-t-gr5ucce|@ncfscX3ms|hand|יָּדֹ֖ו|y•yā•ḏōw|יָד|yāḏ|hand of",
+        "10||heb-esvri-Hab-t-gr5ucpe|@PpX3ms|•|לֹ֑ו|lōw|לְ|lə|to",
+        "12||heb-esvri-Hab-t-gr5ucqe|@Pc|and|וְ|wə|וְ|wə|and",
+        "13|h8033|heb-esvri-Hab-t-gr5uqcy|@Pd|there|שָׁ֖ם|šām|שָׁם|šām|there",
+        "14||heb-esvri-Hab-t-gr5uqca|@ncmsc|veiled|חֶבְיֹ֥ון|ḥeḇ•yōwn|חִבָּיֹון|hib•bā•yōwn|veil of",
+        "15|h5797|heb-esvri-Hab-t-gr5uqpo|@ncmscX3ms|power|עֻזֹּֽה׃|ʿuz•zōh|עֹז|ʿōz|power of"
+      ]
+    }
+  ],
+  "3:5": [
+    {
+      "o": 25339,
+      "r": "esvi:Habakkuk:3:5",
+      "p": [
+        "0|h6440|heb-esvri-Hab-t-gr5uoce|@Pp|Before|לְ|lə|לְ|lə|",
+        "1|h6440|heb-esvri-Hab-t-gr5uoco|@ncbpcX3ms|Before|פָנָ֖יו|p̄ā•nāyw|פָּנֶה|pā•neh|before",
+        "3||heb-esvri-Hab-t-gr5uopo|@vqi3msXa|went|יֵ֣לֶךְ|yē•leḵ|הלך|hlk|he went",
+        "4|h1698|heb-esvri-Hab-t-gr5uoqe|@ncmsa|pestilence|דָּ֑בֶר|dā•ḇer|דֶּבֶר|de•ḇer|plague",
+        "5||heb-esvri-Hab-t-gr5u1co|@Pc|and|וְ|wə|וְ|wə|and",
+        "6||heb-esvri-Hab-t-gr5u1ca|@vqi3ms|followed|יֵצֵ֥א|yē•ṣēʾ|יצא|yṣʾ|he went out",
+        "7||heb-esvri-Hab-t-gr5u1po|@ncmsa|plague|רֶ֖שֶׁף|re•šep̄|רֶשֶׁף|re•šep̄|plague",
+        "8||heb-esvri-Hab-t-gr5u1qe|@Pp|at|לְ|lə|לְ|lə|to",
+        "9|h7272|heb-esvri-Hab-t-grhdycy|@ncfdcX3ms|heels|רַגְלָֽיו׃|raḡ•lāyw|רֶגֶל|re•ḡel|feet of"
+      ]
+    }
+  ],
+  "3:6": [
+    {
+      "o": 25340,
+      "r": "esvi:Habakkuk:3:6",
+      "p": [
+        "0||heb-esvri-Hab-t-grhdype|@vqp3ms|stood|עָמַ֣ד׀|ʿā•maḏ|עמד|ʿmd|he stood",
+        "1||heb-esvri-Hab-t-grhdyqy|@Pc|and|וַ|wa|וְ|wə|and",
+        "2||heb-esvri-Hab-t-grhdyqe|@vew3ms|measured|יְמֹ֣דֶד|y•mō•ḏeḏ|מוד|mwd|he measured",
+        "3|h776|heb-esvri-Hab-t-grhdnco|@ncfsa|earth|אֶ֗רֶץ|ʾe•reṣ|אֶרֶץ|ʾe•reṣ|earth",
+        "4||heb-esvri-Hab-t-grhdnpe|@vqp3ms|looked|רָאָה֙|rā•ʾāh|ראה|rʾh|he looked",
+        "5||heb-esvri-Hab-t-grhdnqy|@Pc|and|וַ|wa|וְ|wə|and",
+        "6||heb-esvri-Hab-t-grhdnqe|@vhw3msXa|•|יַּתֵּ֣ר|y•yat•tēr|נתר|ntr|he made leap",
+        "7||heb-esvri-Hab-t-grhdrco|@ncmpa|nations|גֹּויִ֔ם|gōw•yim|גֹּוי|gōwy|nations",
+        "8||heb-esvri-Hab-t-grhdrpe|@Pc|then|וַ|wa|וְ|wə|then",
+        "9||heb-esvri-Hab-t-grhdrpo|@vyw3mp|scattered|יִּתְפֹּֽצְצוּ֙|y•yiṯ•pō•ṣə•ṣuw|פצץ|pṣṣ|they were shattered",
+        "10|h2042|heb-esvri-Hab-t-grhdrqe|@ncmpc|mountains|הַרְרֵי־|har•rēy-|הַר|har|mountains of",
+        "11|h5705|heb-esvri-Hab-t-grhdgce|@ncmsa|eternal|עַ֔ד|ʿaḏ|עַד|ʿaḏ|eternity",
+        "12||heb-esvri-Hab-t-grhdgpy|@vqp3cp|sank|שַׁח֖וּ|ša•ḥuw|שׁחח|šḥḥ|they sank low",
+        "13|h1389|heb-esvri-Hab-t-grhdgpa|@ncfpc|hills|גִּבְעֹ֣ות|giḇ•ʿōwṯ|גִּבְעָה|giḇ•ʿāh|hills of",
+        "14||heb-esvri-Hab-t-grhdecy|@ncmsa|everlasting|עֹולָ֑ם|ʿōw•lām|עֹולָם|ʿōw•lām|everlasting",
+        "15||heb-esvri-Hab-t-grhdeca|@ncfpc|ways|הֲלִיכֹ֥ות|hă•liy•ḵōwṯ|הֲלִיכָה|hă•liy•ḵāh|ways of",
+        "16||heb-esvri-Hab-t-grhdepo|@ncmsa|everlasting|עֹולָ֖ם|ʿōw•lām|עֹולָם|ʿōw•lām|everlasting",
+        "17||heb-esvri-Hab-t-grhdeqe|@PpX3ms|His|לֹֽו׃|lōw|לְ|lə|to"
+      ]
+    }
+  ],
+  "3:7": [
+    {
+      "o": 25341,
+      "r": "esvi:Habakkuk:3:7",
+      "p": [
+        "0|h8480|heb-esvri-Hab-t-grhdkpy|@Pp|in|תַּ֣חַת|ta•ḥaṯ|תַּחַת|ta•ḥaṯ|under",
+        "1|h205|heb-esvri-Hab-t-grhdkpa|@ncmsa|affliction|אָ֔וֶן|ʾā•wen|אָוֶן|ʾā•wen|affliction",
+        "2||heb-esvri-Hab-t-grhdccy|@vqp1cs|saw|רָאִ֖יתִי|rā•ʾiy•ṯiy|ראה|rʾh|I saw",
+        "3|h169|heb-esvri-Hab-t-grhdcca|@ncmpc|tents|אָהֳלֵ֣י|ʾo•hŏ•lēy|אֹהֶל|ʾō•hel|tents of",
+        "4||heb-esvri-Hab-t-grhdcpo|@np|Cushan|כוּשָׁ֑ן|ḵuw•šān|כּוּשָׁן|kuw•šān|Cushan",
+        "5||heb-esvri-Hab-t-grhdcqe|@vqi3mpXn|tremble|יִרְגְּז֕וּן|yir•gə•zuwn|רגז|rgz|they trembled",
+        "6|h3407|heb-esvri-Hab-t-grhdqco|@ncfpc|curtains|יְרִיעֹ֖ות|yə•riy•ʿōwṯ|יְרִיעָה|yə•riy•ʿāh|curtains of",
+        "7|h776|heb-esvri-Hab-t-grhdqpe|@ncfsc|land|אֶ֥רֶץ|ʾe•reṣ|אֶרֶץ|ʾe•reṣ|land of",
+        "8|h4080|heb-esvri-Hab-t-grhdqqy|@np|Midian|מִדְיָֽן׃|miḏ•yān|מִדְיָן|miḏ•yān|Midian"
+      ]
+    }
+  ],
+  "3:8": [
+    {
+      "o": 25342,
+      "r": "esvi:Habakkuk:3:8",
+      "p": [
+        "0|g3361|heb-esvri-Hab-t-grhdope|@Pg||הֲ|hă|הֲ|hă|?",
+        "1||heb-esvri-Hab-t-grhdopo|@Pp|against|בִ|ḇi|בְּ|bə|against",
+        "2|h5104|heb-esvri-Hab-t-grhdopa|@ncmpa|rivers|נְהָרִים֙|n•hā•riym|נָהָר|nā•hār|rivers",
+        "3||heb-esvri-Hab-t-grhd1cy|@vqp3ms|wrath|חָרָ֣ה|ḥā•rāh|חרה|ḥrh|he was hot",
+        "4||heb-esvri-Hab-t-grhd1ca|@np|Lord|יְהוָ֔ה|yəh•wāh|יהוה|yhwh|Yahweh",
+        "5|g3361|heb-esvri-Hab-t-grhd1po|@Pc||אִ֤ם|ʾim|אִם|ʾim|if",
+        "6||heb-esvri-Hab-t-grhd1qe|@Pp|against|בַּ|ba|בְּ|bə|against",
+        "8|h5104|heb-esvri-Hab-t-grhuyce|@ncmpa|rivers|נְּהָרִים֙|n•nə•hā•riym|נָהָר|nā•hār|rivers",
+        "9|h639|heb-esvri-Hab-t-grhuypy|@ncmscX2ms|anger|אַפֶּ֔ךָ|ʾap•pe•ḵā|אַף|ʾap̄|nose of",
+        "11|h518|heb-esvri-Hab-t-grhuyqy|@Pc|or|אִם־|ʾim-|אִם|ʾim|if",
+        "12||heb-esvri-Hab-t-grhuncy|@Pp|against|בַּ|ba|בְּ|bə|against",
+        "14|h3221|heb-esvri-Hab-t-grhunco|@ncmsa|sea|יָּ֖ם|y•yām|יָם|yām|sea",
+        "15|h5678|heb-esvri-Hab-t-grhunpe|@ncfscX2ms|indignation|עֶבְרָתֶ֑ךָ|ʿeḇ•rā•ṯe•ḵā|עֶבְרָה|ʿeḇ•rāh|indignation of",
+        "17|h3588|heb-esvri-Hab-t-grhunqe|@Pc|when|כִּ֤י|kiy|כִּי|kiy|when",
+        "18||heb-esvri-Hab-t-grhurco|@vqi2ms|rode|תִרְכַּב֙|ṯir•kaḇ|רכב|rkb|you rode",
+        "19|h5922|heb-esvri-Hab-t-grhurpe|@Pp|on|עַל־|ʿal-|עַל|ʿal|on",
+        "20|h5483|heb-esvri-Hab-t-grhurpa|@ncmpcX2ms|horses|סוּסֶ֔יךָ|suw•sey•ḵā|סוּס|suws|horses of",
+        "22|h4818|heb-esvri-Hab-t-grhugce|@ncfpcX2ms|chariot|מַרְכְּבֹתֶ֖יךָ|mar•kə•ḇō•ṯey•ḵā|מֶרְכָּבָה|mer•kā•ḇāh|chariots of",
+        "24|h3444|heb-esvri-Hab-t-grhugpe|@ncfsa|salvation|יְשׁוּעָֽה׃|yə•šuw•ʿāh|יְשׁוּעָה|yə•šuw•ʿāh|salvation"
+      ]
+    }
+  ],
+  "3:9": [
+    {
+      "o": 25343,
+      "r": "esvi:Habakkuk:3:9",
+      "p": [
+        "0|h6181|heb-esvri-Hab-t-grhugqe|@ncfsa|•|עֶרְיָ֤ה|ʿer•yāh|עֶרְיָה|ʿer•yāh|nakedness",
+        "1||heb-esvri-Hab-t-grhueco|@vni3fs|stripped|תֵעֹור֙|ṯē•ʿōwr|עור|ʿwr|she was laid bare",
+        "2|h7198|heb-esvri-Hab-t-grhuepe|@ncfscX2ms|bow|קַשְׁתֶּ֔ךָ|qaš•te•ḵā|קֶשֶׁת|qe•šeṯ|bow of",
+        "4|h7621|heb-esvri-Hab-t-grhueqe|@ncfpa|calling|שְׁבֻעֹ֥ות|šə•ḇu•ʿōwṯ|שְׁבוּעָה|šə•ḇuw•ʿāh|curses",
+        "5|h4294|heb-esvri-Hab-t-grhukco|@ncmpa|arrows|מַטֹּ֖ות|maṭ•ṭōwṯ|מַטֶּה|maṭ•ṭeh|rods",
+        "6|h562|heb-esvri-Hab-t-grhukpe|@ncmsa|calling|אֹ֣מֶר|ʾō•mer|אֹמֶר|ʾō•mer|what is spoken",
+        "7|h5542|heb-esvri-Hab-t-grhukqy|@Pi|Selah|סֶ֑לָה|se•lāh|סֶלָה|se•lāh|selah",
+        "8|h5104|heb-esvri-Hab-t-grhucce|@ncmpa|rivers|נְהָרֹ֖ות|nə•hā•rōwṯ|נָהָר|nā•hār|rivers",
+        "9||heb-esvri-Hab-t-grhucpy|@vpi2ms|split|תְּבַקַּע־|tə•ḇaq•qaʿ-|בקע|bqʿ|you split",
+        "10|h776|heb-esvri-Hab-t-grhucpo|@ncfsa|earth|אָֽרֶץ׃|ʾā•reṣ|אֶרֶץ|ʾe•reṣ|earth"
+      ]
+    }
+  ],
+  "3:10": [
+    {
+      "o": 25344,
+      "r": "esvi:Habakkuk:3:10",
+      "p": [
+        "0|h7200|heb-esvri-Hab-t-grhuqcy|@vqp3cpX2ms|saw|רָא֤וּךָ|rā•ʾuw•ḵā|ראה|rʾh|they saw",
+        "2||heb-esvri-Hab-t-grhuqpy|@vqi3mp|writhed|יָחִ֙ילוּ֙|yā•ḥiy•luw|חיל|ḥyl|they writhed",
+        "3|h2022|heb-esvri-Hab-t-grhuqpa|@ncmpa|mountains|הָרִ֔ים|hā•riym|הַר|har|mountains",
+        "4||heb-esvri-Hab-t-grhuocy|@ncmsc|raging|זֶ֥רֶם|ze•rem|זֶרֶם|ze•rem|storm of",
+        "5|h4325|heb-esvri-Hab-t-grhuoca|@ncmpa|waters|מַ֖יִם|ma•yim|מַיִם|ma•yim|waters",
+        "6||heb-esvri-Hab-t-grhuopo|@vqp3ms|on|עָבָ֑ר|ʿā•ḇār|עבר|ʿbr|he has passed on",
+        "7||heb-esvri-Hab-t-grhuoqe|@vqp3ms|gave|נָתַ֤ן|nā•ṯan|נתן|ntn|he gave",
+        "8||heb-esvri-Hab-t-grhu1co|@ncbsa|deep|תְּהֹום֙|tə•hōwm|תְּהֹום|tə•hōwm|the deep",
+        "9||heb-esvri-Hab-t-grhu1pe|@ncmscX3ms|voice|קֹולֹ֔ו|qōw•lōw|קֹול|qōwl|voice of",
+        "11|h7315|heb-esvri-Hab-t-grhu1qe|@ncmsa|high|רֹ֖ום|rōwm|רֹום|rōwm|high of",
+        "12|h3027|heb-esvri-Hab-t-geadyco|@ncfdcX3ms|hands|יָדֵ֥יהוּ|yā•ḏēy•huw|יָד|yāḏ|hands of",
+        "14||heb-esvri-Hab-t-geadypo|@vqp3ms|lifted|נָשָֽׂא׃|nā•śāʾ|נשׂא|nśʾ|he lifted up"
+      ]
+    }
+  ],
+  "3:11": [
+    {
+      "o": 25345,
+      "r": "esvi:Habakkuk:3:11",
+      "p": [
+        "0|h8121|heb-esvri-Hab-t-geadncy|@ncbsa|sun|שֶׁ֥מֶשׁ|še•meš|שֶׁמֶשׁ|še•meš|sun",
+        "1|h3394|heb-esvri-Hab-t-geadnca|@ncmsa|moon|יָרֵ֖חַ|yā•rēaḥ|יָרֵחַ|yā•rēaḥ|moon",
+        "2|h5975|heb-esvri-Hab-t-geadnpo|@vqp3ms|stood|עָ֣מַד|ʿā•maḏ|עמד|ʿmd|he stood",
+        "3|h2083|heb-esvri-Hab-t-geadnqe|@ncmsaXd|place|זְבֻ֑לָה|zə•ḇu•lāh|זְבֻל|zə•ḇul|place + DIR",
+        "4||heb-esvri-Hab-t-geadrco|@Pp|at|לְ|lə|לְ|lə|to",
+        "5||heb-esvri-Hab-t-geadrca|@ncmsa|light|אֹ֤ור|ʾōwr|אֹור|ʾōwr|light of",
+        "6|h2671|heb-esvri-Hab-t-geadrpo|@ncmpcX2ms|arrows|חִצֶּ֙יךָ֙|ḥiṣ•ṣey•ḵā|חֵץ|ḥēṣ|arrows of",
+        "8||heb-esvri-Hab-t-geadgcy|@vpi3mp|sped|יְהַלֵּ֔כוּ|yə•hal•lē•ḵuw|הלך|hlk|they went",
+        "9||heb-esvri-Hab-t-geadgca|@Pp|at|לְ|lə|לְ|lə|to",
+        "10|h5052|heb-esvri-Hab-t-geadgpy|@ncfsa|flash|נֹ֖גַהּ|nō•ḡah|נֹגַהּ|nō•ḡah|brightness",
+        "11|h1301|heb-esvri-Hab-t-geadgpa|@ncmsc|glittering|בְּרַ֥ק|bə•raq|בָּרָק|bā•rāq|lightning of",
+        "12|h2595|heb-esvri-Hab-t-geadecy|@ncfscX2ms|spear|חֲנִיתֶֽךָ׃|ḥă•niy•ṯe•ḵā|חֲנִית|ḥă•niyṯ|spear of"
+      ]
+    }
+  ],
+  "3:12": [
+    {
+      "o": 25346,
+      "r": "esvi:Habakkuk:3:12",
+      "p": [
+        "0||heb-esvri-Hab-t-geadepe|@Pp|in|בְּ|bə|בְּ|bə|in",
+        "1||heb-esvri-Hab-t-geadepo|@ncmsa|fury|זַ֖עַם|za•ʿam|זַעַם|za•ʿam|fury",
+        "2||heb-esvri-Hab-t-geadeqe|@vqi2ms|marched|תִּצְעַד־|tiṣ•ʿaḏ-|צעד|ṣʿd|you marched",
+        "3|h776|heb-esvri-Hab-t-geadkce|@ncfsa|earth|אָ֑רֶץ|ʾā•reṣ|אֶרֶץ|ʾe•reṣ|earth",
+        "4||heb-esvri-Hab-t-geadkpy|@Pp|in|בְּ|bə|בְּ|bə|in",
+        "5|h639|heb-esvri-Hab-t-geadkpe|@ncmsa|anger|אַ֖ף|ʾap̄|אַף|ʾap̄|nose",
+        "6||heb-esvri-Hab-t-geadkqy|@vqi2ms|threshed|תָּד֥וּשׁ|tā•ḏuwš|דושׁ|dwš|you threshed",
+        "7||heb-esvri-Hab-t-geadcce|@ncmpa|nations|גֹּויִֽם׃|gōw•yim|גֹּוי|gōwy|nations"
+      ]
+    }
+  ],
+  "3:13": [
+    {
+      "o": 25347,
+      "r": "esvi:Habakkuk:3:13",
+      "p": [
+        "0||heb-esvri-Hab-t-geadcpe|@vqp2ms|out|יָצָ֙אתָ֙|yā•ṣā(ʾ)•ṯā|יצא|yṣʾ|you went out",
+        "1||heb-esvri-Hab-t-geadcqy|@Pp|for|לְ|lə|לְ|lə|for",
+        "2||heb-esvri-Hab-t-geadcqe|@ncmsc|salvation|יֵ֣שַׁע|yē•šaʿ|יֵשַׁע|yē•šaʿ|salvation of",
+        "3|h5972|heb-esvri-Hab-t-geadqco|@ncmscX2ms|people|עַמֶּ֔ךָ|ʿam•me•ḵā|עַם|ʿam|people of",
+        "5||heb-esvri-Hab-t-geadqpo|@Pp|for|לְ|lə|לְ|lə|for",
+        "6||heb-esvri-Hab-t-geadqpa|@ncmsa|salvation|יֵ֖שַׁע|yē•šaʿ|יֵשַׁע|yē•šaʿ|salvation",
+        "7|h854|heb-esvri-Hab-t-geadocy|@Po|•|אֶת־|ʾeṯ-|אֵת|ʾēṯ|",
+        "8|h4899|heb-esvri-Hab-t-geadoco|@amscX2ms|anointed|מְשִׁיחֶ֑ךָ|mə•šiy•ḥe•ḵā|מָשִׁיחַ|mā•šiyaḥ|anointed of",
+        "10||heb-esvri-Hab-t-geadopo|@vqp2ms|crushed|מָחַ֤צְתָּ|mā•ḥaṣ•tā|מחץ|mḥṣ|you crushed",
+        "11|h7219|heb-esvri-Hab-t-geadoqe|@ncmsa|head|רֹּאשׁ֙|r•rō(ʾ)š|רֹאשׁ|rō(ʾ)š|head",
+        "12|h4481|heb-esvri-Hab-t-gead1co|@Pp|of|מִ|mi|מִן|min|from",
+        "13|h1005|heb-esvri-Hab-t-gead1ca|@ncmsc|house|בֵּ֣ית|b•bēyṯ|בַּיִת|ba•yiṯ|house of",
+        "14|h7563|heb-esvri-Hab-t-gead1po|@amsa|wicked|רָשָׁ֔ע|rā•šāʿ|רָשָׁע|rā•šāʿ|wicked one",
+        "15||heb-esvri-Hab-t-gead1qe|@vpa|bare|עָרֹ֛ות|ʿā•rōwṯ|ערה|ʿrh|to lay bare",
+        "16||heb-esvri-Hab-t-geauyco|@ncmsa|•|יְסֹ֥וד|yə•sōwḏ|יְסֹוד|yə•sōwḏ|foundation",
+        "17|h5705|heb-esvri-Hab-t-geauype|@Pp|to|עַד־|ʿaḏ-|עַד|ʿaḏ|to",
+        "18|h6677|heb-esvri-Hab-t-geauypa|@ncmsa|neck|צַוָּ֖אר|ṣaw•wā(ʾ)r|צַוָּאר|ṣaw•wā(ʾ)r|neck",
+        "19|h5542|heb-esvri-Hab-t-geauncy|@Pi|Selah|סֶֽלָה׃|se•lāh|סֶלָה|se•lāh|selah"
+      ]
+    }
+  ],
+  "3:14": [
+    {
+      "o": 25348,
+      "r": "esvi:Habakkuk:3:14",
+      "p": [
+        "0||heb-esvri-Hab-t-geaunpa|@vqp2ms|pierced|נָקַ֤בְתָּ|nā•qaḇ•tā|נקב|nqb|you pierced",
+        "1||heb-esvri-Hab-t-geaurcy|@Pp|with|בְ|ḇə|בְּ|bə|with",
+        "2|h4294|heb-esvri-Hab-t-geaurce|@ncmpcX3ms|arrows|מַטָּיו֙|maṭ•ṭāyw|מַטֶּה|maṭ•ṭeh|rods of",
+        "4|h7219|heb-esvri-Hab-t-geaurpe|@ncmsc|heads|רֹ֣אשׁ|rō(ʾ)š|רֹאשׁ|rō(ʾ)š|head of",
+        "5||heb-esvri-Hab-t-geaurqy|@ncmscX3ms|•|פְּרָזֹו|pə•rā•zōw|פָּרָז|pā•rāz|",
+        "7||heb-esvri-Hab-t-geaugco|@ncmpcX3ms|warriors|פְּרָזָ֔יו|pə•rā•zāyw|פָּרָז|pā•rāz|warriors of",
+        "9||heb-esvri-Hab-t-geaugpo|@vqi3mp|whirlwind|יִסְעֲר֖וּ|yis•ʿă•ruw|סער|sʿr|they were tempestuous",
+        "10||heb-esvri-Hab-t-geaugqe|@Pp|to|לַ|la|לְ|lə|to",
+        "11||heb-esvri-Hab-t-geauecy|@vhcX1cs|scatter|הֲפִיצֵ֑נִי|hă•p̄iy•ṣē•niy|פוץ|pwṣ|scatter",
+        "13||heb-esvri-Hab-t-geauepy|@ncfscX3mp|rejoicing|עֲלִ֣יצֻתָ֔ם|ʿă•liy•ṣu•ṯām|עֲלִיצוּת|ʿă•liy•ṣuwṯ|rejoicing of",
+        "15||heb-esvri-Hab-t-geaueqy|@Pp|as if|כְּמֹו־|kə•mōw-|כְּמֹו|kə•mōw|as",
+        "16||heb-esvri-Hab-t-geaukcy|@Pp|to|לֶ|le|לְ|lə|to",
+        "17||heb-esvri-Hab-t-geaukce|@vqc|devour|אֱכֹ֥ל|ʾĕ•ḵōl|אכל|ʾkl|devour",
+        "18|h6041|heb-esvri-Hab-t-geaukpy|@amsa|poor|עָנִ֖י|ʿā•niy|עָנִי|ʿā•niy|poor one",
+        "19||heb-esvri-Hab-t-geaukpa|@Pp|in|בַּ|ba|בְּ|bə|in",
+        "21|h4565|heb-esvri-Hab-t-geaukqe|@ncmsa|secret|מִּסְתָּֽר׃|m•mis•tār|מִסְתָּר|mis•tār|secret"
+      ]
+    }
+  ],
+  "3:15": [
+    {
+      "o": 25349,
+      "r": "esvi:Habakkuk:3:15",
+      "p": [
+        "0||heb-esvri-Hab-t-geaucca|@vqp2ms|trampled|דָּרַ֥כְתָּ|dā•raḵ•tā|דרך|drk|you trampled",
+        "1||heb-esvri-Hab-t-geaucpo|@Pp|•|בַ|ḇa|בְּ|bə|in",
+        "3|h3221|heb-esvri-Hab-t-geaucqy|@ncmsa|sea|יָּ֖ם|y•yām|יָם|yām|sea",
+        "4|h5483|heb-esvri-Hab-t-geauqce|@ncmpcX2ms|horses|סוּסֶ֑יךָ|suw•sey•ḵā|סוּס|suws|horses of",
+        "6|h2563|heb-esvri-Hab-t-geauqpe|@ncmsc|surging|חֹ֖מֶר|ḥō•mer|חֹמֶר|ḥō•mer|surging of",
+        "7|h4325|heb-esvri-Hab-t-geauqqy|@ncmpa|waters|מַ֥יִם|ma•yim|מַיִם|ma•yim|waters",
+        "8|h7229|heb-esvri-Hab-t-geauoce|@ampa|mighty|רַבִּֽים׃|rab•biym|רַב|raḇ|great"
+      ]
+    }
+  ],
+  "3:16": [
+    {
+      "o": 25350,
+      "r": "esvi:Habakkuk:3:16",
+      "p": [
+        "0||heb-esvri-Hab-t-geauope|@vqp1cs|hear|שָׁמַ֣עְתִּי׀|šā•maʿ•tiy|שׁמע|šmʿ|I hear",
+        "1||heb-esvri-Hab-t-geauoqy|@Pc|and|וַ|wa|וְ|wə|and",
+        "2||heb-esvri-Hab-t-geauoqe|@vqw3fs|trembles|תִּרְגַּ֣ז|t•tir•gaz|רגז|rgz|she trembles",
+        "3|h990|heb-esvri-Hab-t-geau1co|@ncfscX1cs|body|בִּטְנִ֗י|biṭ•niy|בֶּטֶן|be•ṭen|stomach of",
+        "5||heb-esvri-Hab-t-geau1po|@Pp|at|לְ|lə|לְ|lə|to",
+        "6||heb-esvri-Hab-t-geau1pa|@ncmsa|sound|קֹול֙|qōwl|קֹול|qōwl|sound",
+        "7||heb-esvri-Hab-t-ge3dycy|@vqp3cp|quiver|צָלֲל֣וּ|ṣā•lă•luw|צלל|ṣll|they quiver",
+        "8|h8193|heb-esvri-Hab-t-ge3dyca|@ncfdcX1cs|lips|שְׂפָתַ֔י|śə•p̄ā•ṯay|שָׂפָה|śā•p̄āh|lips of",
+        "10|h935|heb-esvri-Hab-t-ge3dypa|@vqi3msXa|enters|יָבֹ֥וא|yā•ḇōwʾ|בוא|bwʾ|he enters",
+        "11|h7538|heb-esvri-Hab-t-ge3dncy|@ncmsa|rottenness|רָקָ֛ב|rā•qāḇ|רָקָב|rā•qāḇ|rottenness",
+        "12||heb-esvri-Hab-t-ge3dnca|@Pp|into|בַּ|ba|בְּ|bə|in",
+        "13|h6107|heb-esvri-Hab-t-ge3dnpy|@ncfpcX1cs|bones|עֲצָמַ֖י|ʿă•ṣā•may|עֶצֶם|ʿe•ṣem|bones of",
+        "15||heb-esvri-Hab-t-ge3dnqy|@Pc|•|וְ|wə|וְ|wə|and",
+        "16|h8480|heb-esvri-Hab-t-ge3dnqe|@PpX1cs|beneath|תַחְתַּ֣י|ṯaḥ•tay|תַּחַת|ta•ḥaṯ|under",
+        "18||heb-esvri-Hab-t-ge3drca|@vqi1cs|tremble|אֶרְגָּ֑ז|ʾer•gāz|רגז|rgz|I tremble",
+        "19|h834|heb-esvri-Hab-t-ge3drpo|@Pr|•|אֲשֶׁ֤ר|ʾă•šer|אֲשֶׁר|ʾă•šer|when",
+        "20||heb-esvri-Hab-t-ge3drqe|@vqi1cs|wait|אָנ֙וּחַ֙|ʾā•nuwaḥ|נוח|nwḥ|I will wait quietly",
+        "21||heb-esvri-Hab-t-ge3dgco|@Pp|for|לְ|lə|לְ|lə|for",
+        "22||heb-esvri-Hab-t-ge3dgca|@ncmsc|day|יֹ֣ום|yōwm|יֹום|yōwm|day of",
+        "23|h6869|heb-esvri-Hab-t-ge3dgpo|@ncfsa|trouble|צָרָ֔ה|ṣā•rāh|צָרָה|ṣā•rāh|trouble",
+        "24||heb-esvri-Hab-t-ge3dgqe|@Pp|to|לַ|la|לְ|lə|to",
+        "25||heb-esvri-Hab-t-ge3decy|@vqc|come|עֲלֹ֖ות|ʿă•lōwṯ|עלה|ʿlh|come up",
+        "26||heb-esvri-Hab-t-ge3deca|@Pp|upon|לְ|lə|לְ|lə|to",
+        "27|h5972|heb-esvri-Hab-t-ge3depy|@ncmsa|people|עַ֥ם|ʿam|עַם|ʿam|people",
+        "28||heb-esvri-Hab-t-ge3depa|@vqi3msX1cpXe|invade|יְגוּדֶֽנּוּ׃|yə•ḡuw•ḏen•nuw|גוד|gwd|he invades"
+      ]
+    },
+    {
+      "o": 25351,
+      "r": "esvi:Habakkuk:3:16",
+      "h": 2,
+      "t": "Habakkuk Rejoices in the Lord",
+      "p": []
+    }
+  ],
+  "3:17": [
+    {
+      "o": 25352,
+      "r": "esvi:Habakkuk:3:17",
+      "p": [
+        "0|h3588|heb-esvri-Hab-t-ge3dkco|@Pc|Though|כִּֽי־|kiy-|כִּי|kiy|though",
+        "1||heb-esvri-Hab-t-ge3dkpy|@ncfsa|fig|תְאֵנָ֣ה|ṯə•ʾē•nāh|תְּאֵנָה|tə•ʾē•nāh|fig",
+        "2|h3808|heb-esvri-Hab-t-ge3dkpa|@Pn|not|לֹֽא־|lōʾ-|לֹא|lōʾ|not",
+        "3||heb-esvri-Hab-t-ge3dkqe|@vqi3fs|blossom|תִפְרָ֗ח|ṯip̄•rāḥ|פרח|prḥ|she blossoms",
+        "4||heb-esvri-Hab-t-ge3dcco|@Pc|nor|וְ|wə|וְ|wə|and",
+        "5|h370|heb-esvri-Hab-t-ge3dcca|@Pd|nor|אֵ֤ין|ʾēyn|אַיִן|ʾa•yin|there is not",
+        "6|h2981|heb-esvri-Hab-t-ge3dcpo|@ncmsa|fruit|יְבוּל֙|yə•ḇuwl|יְבוּל|yə•ḇuwl|fruit",
+        "7||heb-esvri-Hab-t-ge3dcqe|@Pp|on|בַּ|ba|בְּ|bə|on",
+        "9|h1612|heb-esvri-Hab-t-ge3dqce|@ncbpa|vines|גְּפָנִ֔ים|g•gə•p̄ā•niym|גֶּפֶן|ge•p̄en|vines",
+        "10||heb-esvri-Hab-t-ge3dqpy|@vpp3ms|fail|כִּחֵשׁ֙|ki•ḥēš|כחשׁ|kḥš|he fails",
+        "11|h6213|heb-esvri-Hab-t-ge3dqpa|@ncmsc|produce|מַעֲשֵׂה־|ma•ʿă•śēh-|מַעֲשֶׂה|ma•ʿă•śeh|produce of",
+        "12|h2132|heb-esvri-Hab-t-ge3dqqe|@ncmsa|olive|זַ֔יִת|za•yiṯ|זַיִת|za•yiṯ|olive",
+        "13||heb-esvri-Hab-t-ge3doco|@Pc|and|וּ|uw|וְ|wə|and",
+        "14||heb-esvri-Hab-t-ge3doca|@ncfpa|fields|שְׁדֵמֹ֖ות|šə•ḏē•mōwṯ|שְׁדֵמָה|šə•ḏē•māh|fields",
+        "15|h3808|heb-esvri-Hab-t-ge3dopo|@Pn|no|לֹא־|lōʾ-|לֹא|lōʾ|not",
+        "16||heb-esvri-Hab-t-ge3doqy|@vqp3ms|yield|עָ֣שָׂה|ʿā•śāh|עשׂה|ʿśh|he has done",
+        "17|h400|heb-esvri-Hab-t-ge3d1ce|@ncmsa|food|אֹ֑כֶל|ʾō•ḵel|אֹכֶל|ʾō•ḵel|food",
+        "18||heb-esvri-Hab-t-ge3d1py|@vqp3ms|cut|גָּזַ֤ר|gā•zar|גזר|gzr|he cuts off",
+        "19|h4481|heb-esvri-Hab-t-ge3d1pa|@Pp|from|מִ|mi|מִן|min|from",
+        "20||heb-esvri-Hab-t-ge3d1qy|@ncfsa|fold|מִּכְלָה֙|m•miḵ•lāh|מִכְלָא|miḵ•lāʾ|fold",
+        "21|h6629|heb-esvri-Hab-t-ge3uyce|@ncbsa|flock|צֹ֔אן|ṣō(ʾ)n|צֹאן|ṣō(ʾ)n|flock",
+        "22||heb-esvri-Hab-t-ge3uypy|@Pc|and|וְ|wə|וְ|wə|and",
+        "23|h3808|heb-esvri-Hab-t-ge3uype|@Pd|no|אֵ֥ין|ʾēyn|אַיִן|ʾa•yin|there is not",
+        "24|h1241|heb-esvri-Hab-t-ge3uyqy|@ncmsa|herd|בָּקָ֖ר|bā•qār|בָּקָר|bā•qār|herd",
+        "25||heb-esvri-Hab-t-ge3unce|@Pp|in|בָּ|bā|בְּ|bə|in",
+        "27||heb-esvri-Hab-t-ge3unca|@ncmpa|stalls|רְפָתִֽים׃|rə•p̄ā•ṯiym|רֶפֶת|re•p̄eṯ|stalls"
+      ]
+    }
+  ],
+  "3:18": [
+    {
+      "o": 25353,
+      "r": "esvi:Habakkuk:3:18",
+      "p": [
+        "0||heb-esvri-Hab-t-ge3unpa|@Pc|yet|וַ|wa|וְ|wə|yet",
+        "1|h589|heb-esvri-Hab-t-ge3unqy|@pi1cs|I|אֲנִ֖י|ʾă•niy|אֲנִי|ʾă•niy|I",
+        "2||heb-esvri-Hab-t-ge3urce|@Pp|in|בַּ|ba|בְּ|bə|in",
+        "3||heb-esvri-Hab-t-ge3urco|@np|Lord|יהוָ֣ה|yh•wāh|יהוה|yhwh|Yahweh",
+        "4||heb-esvri-Hab-t-ge3urpe|@vqi1cs{1}Ct|rejoice|אֶעְלֹ֑וזָה|ʾeʿ•lōw•zāh|עלז|ʿlz|I will exult",
+        "5||heb-esvri-Hab-t-ge3urqy|@vqi1cs{1}Ct|joy|אָגִ֖ילָה|ʾā•ḡiy•lāh|גיל|gyl|I will rejoice",
+        "6||heb-esvri-Hab-t-ge3ugce|@Pp|in|בֵּ|bē|בְּ|bə|in",
+        "7|h430|heb-esvri-Hab-t-ge3ugco|@ncmpc|God|אלֹהֵ֥י|(ʾ)•lō•hēy|אֱלֹהִים|ʾĕ•lō•hiym|God of",
+        "8||heb-esvri-Hab-t-ge3ugpe|@ncmscX1cs|salvation|יִשְׁעִֽי׃|yiš•ʿiy|יֵשַׁע|yē•šaʿ|salvation of"
+      ]
+    }
+  ],
+  "3:19": [
+    {
+      "o": 25354,
+      "r": "esvi:Habakkuk:3:19",
+      "p": [
+        "0|h136|heb-esvri-Hab-t-ge3uecy|@np|God|יְהוִ֤הּ|yəh•wih|יהוה|yhwh|Yahweh",
+        "1||heb-esvri-Hab-t-ge3ueca|@ncmpcX1cs|Lord|אֲדֹנָי֙|ʾă•ḏō•nāy|אָדֹון|ʾā•ḏōwn|Lord",
+        "3|h2429|heb-esvri-Hab-t-ge3uepa|@ncmscX1cs|strength|חֵילִ֔י|ḥēy•liy|חַיִל|ḥa•yil|strength of",
+        "5||heb-esvri-Hab-t-ge3ukce|@Pc|•|וַ|wa|וְ|wə|and",
+        "6||heb-esvri-Hab-t-ge3ukco|@vqw3msXa|makes|יָּ֤שֶׂם|y•yā•śem|שׂים|śym|he sets",
+        "7|h7272|heb-esvri-Hab-t-ge3ukpe|@ncfdcX1cs|feet|רַגְלַי֙|raḡ•lay|רֶגֶל|re•ḡel|feet of",
+        "9||heb-esvri-Hab-t-ge3ukqe|@Pp|like|כָּֽ|kā|כְּ|kə|like",
+        "11||heb-esvri-Hab-t-ge3ucce|@ncfpa|deer's|אַיָּלֹ֔ות|ʾay•yā•lōwṯ|אַיָּלָה|ʾay•yā•lāh|deer",
+        "12||heb-esvri-Hab-t-ge3ucpy|@Pc|•|וְ|wə|וְ|wə|and",
+        "13|h5922|heb-esvri-Hab-t-ge3ucpe|@Pp|on|עַ֥ל|ʿal|עַל|ʿal|on",
+        "14|h1117|heb-esvri-Hab-t-ge3ucqy|@ncfpcX1cs|high places|בָּמֹותַ֖י|bā•mōw•ṯay|בָּמָה|bā•māh|high places of",
+        "16||heb-esvri-Hab-t-ge3uqco|@vhi3msX1cs|tread|יַדְרִכֵ֑נִי|yaḏ•ri•ḵē•niy|דרך|drk|he makes walk",
+        "18||heb-esvri-Hab-t-ge3uqpo|@Pp|To|לַ|la|לְ|lə|to",
+        "20||heb-esvri-Hab-t-ge3uqqy|@vpPmsa|choirmaster|מְנַצֵּ֖חַ|m•naṣ•ṣēaḥ|נצח|nṣḥ|one directing",
+        "21||heb-esvri-Hab-t-ge3uoce|@Pp|with|בִּ|bi|בְּ|bə|with",
+        "22||heb-esvri-Hab-t-ge3uoco|@ncfpa!|stringed instruments|נְגִינֹותָֽי׃|n•ḡiy•nōw•ṯāy|נְגִינָה|nə•ḡiy•nāh|stringed instruments of + me"
+      ]
+    }
+  ]
+}

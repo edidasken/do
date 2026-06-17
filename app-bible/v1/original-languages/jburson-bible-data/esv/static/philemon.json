@@ -1,0 +1,572 @@
+{
+  "1:0": [
+    {
+      "o": 33516,
+      "r": "esvi:Philemon:1:0",
+      "h": 1,
+      "t": "Philemon 1",
+      "p": []
+    },
+    {
+      "o": 33517,
+      "r": "esvi:Philemon:1:0",
+      "h": 2,
+      "t": "Greeting",
+      "p": []
+    }
+  ],
+  "1:1": [
+    {
+      "o": 33518,
+      "r": "esvi:Philemon:1:1",
+      "p": [
+        "0|g3972|esv-thgnt-Pm-revint-slice-hex|N- ----NSM-|Paul|Παῦλος|Paulos|Παῦλος|Paulos|",
+        "1|g1198|esv-thgnt-Pm-revint-slice-hjp|N- ----NSM-|prisoner|δέσμιος|desmios|δέσμιος|desmios|",
+        "2|g5547|esv-thgnt-Pm-revint-slice-hmy|N- ----GSM-|Christ|χριστοῦ|christou|Χριστός|Christos|",
+        "3|g2424|esv-thgnt-Pm-revint-slice-hny|N- ----GSM-|Jesus|Ἰησοῦ|Iēsou|Ἰησοῦς|Iēsous|",
+        "4|g2532|esv-thgnt-Pm-revint-slice-hod|C- --------|and|καὶ|kai|καί|kai|",
+        "5|g5095|esv-thgnt-Pm-revint-slice-hpn|N- ----NSM-|Timothy|Τιμόθεος|Timotheos|Τιμόθεος|Timotheos|",
+        "6|g3588|esv-thgnt-Pm-revint-slice-hr5|RA ----NSM-|brother|ὁ|ho|ὁ|ho|",
+        "7|g80|esv-thgnt-Pm-revint-slice-hr5|N- ----NSM-|brother|ἀδελφὸς|adelphos|ἀδελφός|adelphos|",
+        "8|g5371|esv-thgnt-Pm-revint-slice-hxd|N- ----DSM-|Philemon|Φιλήμονι|Philēmoni|Φιλήμων|Philēmōn|",
+        "9|g3588|esv-thgnt-Pm-revint-slice-hzq|RA ----DSM-|beloved|τῷ|tō|ὁ|ho|",
+        "10|g27|esv-thgnt-Pm-revint-slice-hzq|A- ----DSM-|beloved|ἀγαπητῷ|agapētō|ἀγαπητός|agapētos|",
+        "11|g2532|esv-thgnt-Pm-revint-slice-h38|C- --------|•|καὶ|kai|καί|kai|",
+        "12|g4904|esv-thgnt-Pm-revint-slice-h4q|A- ----DSM-|fellow worker|συνεργῷ|synergō|συνεργός|synergos|",
+        "13|g1473|esv-thgnt-Pm-revint-slice-hy4|RP ----GP--|our|ἡμῶν|hēmōn|ἐγώ|egō|"
+      ]
+    }
+  ],
+  "1:2": [
+    {
+      "o": 33519,
+      "r": "esvi:Philemon:1:2",
+      "p": [
+        "0|g2532|esv-thgnt-Pm-revint-slice-h5x|C- --------|and|καὶ|kai|καί|kai|",
+        "1|g682|esv-thgnt-Pm-revint-slice-h6z|N- ----DSF-|Apphia|Ἀπφίᾳ|Apphia|Ἀπφία|Apphia|",
+        "2|g3588|esv-thgnt-Pm-revint-slice-h85|RA ----DSF-|sister|τῇ|tē|ὁ|ho|",
+        "3|g79|esv-thgnt-Pm-revint-slice-h85|N- ----DSF-|sister|ἀδελφῇ|adelphē|ἀδελφή|adelphē|",
+        "4|g2532|esv-thgnt-Pm-revint-slice-h9q|C- --------|and|καὶ|kai|καί|kai|",
+        "5|g751|esv-thgnt-Pm-revint-slice-hd49|N- ----DSM-|Archippus|Ἀρχίππῳ|Archippō|Ἄρχιππος|Archippos|",
+        "6|g3588|esv-thgnt-Pm-revint-slice-hgg7|RA ----DSM-|fellow soldier|τῷ|tō|ὁ|ho|",
+        "7|g4961|esv-thgnt-Pm-revint-slice-hgg7|N- ----DSM-|fellow soldier|συνστρατιώτῃ|synstratiōtē|συνστρατιώτης|synstratiōtēs|",
+        "8|g1473|esv-thgnt-Pm-revint-slice-hexx|RP ----GP--|our|ἡμῶν|hēmōn|ἐγώ|egō|",
+        "9|g2532|esv-thgnt-Pm-revint-slice-hjyp|C- --------|and|καὶ|kai|καί|kai|",
+        "10|g3588|esv-thgnt-Pm-revint-slice-hkgm|RA ----DSF-|the|τῇ|tē|ὁ|ho|",
+        "11|g2596|esv-thgnt-Pm-revint-slice-hndy|P- --------|in|κατ᾽|kat’|κατά|kata|",
+        "12|g3624|esv-thgnt-Pm-revint-slice-hp4n|N- ----ASM-|house|οἶκόν|oikon|οἶκος|oikos|",
+        "13|g4771|esv-thgnt-Pm-revint-slice-ho7d|RP ----GS--|your|σου|sou|σύ|sy|",
+        "14|g1577|esv-thgnt-Pm-revint-slice-hm4y|N- ----DSF-|church|ἐκκλησίᾳ·|ekklēsia|ἐκκλησία|ekklēsia|"
+      ]
+    }
+  ],
+  "1:3": [
+    {
+      "o": 33520,
+      "r": "esvi:Philemon:1:3",
+      "p": [
+        "0|g5485|esv-thgnt-Pm-revint-slice-hqp7|N- ----NSF-|Grace|χάρις|charis|χάρις|charis|",
+        "1|g4771|esv-thgnt-Pm-revint-slice-hwg3|RP ----DP--|you|ὑμῖν|hymin|σύ|sy|",
+        "2|g2532|esv-thgnt-Pm-revint-slice-hxkd|C- --------|and|καὶ|kai|καί|kai|",
+        "3|g1515|esv-thgnt-Pm-revint-slice-hym4|N- ----NSF-|peace|εἰρήνη|eirēnē|εἰρήνη|eirēnē|",
+        "4|g575|esv-thgnt-Pm-revint-slice-hzwq|P- --------|from|ἀπὸ|apo|ἀπό|apo|",
+        "5|g2316|esv-thgnt-Pm-revint-slice-h3k8|N- ----GSM-|God|θεοῦ|theou|θεός|theos|",
+        "6|g3962|esv-thgnt-Pm-revint-slice-h5gx|N- ----GSM-|Father|πατρὸς|patros|πατήρ|patēr|",
+        "7|g1473|esv-thgnt-Pm-revint-slice-h4mq|RP ----GP--|our|ἡμῶν|hēmōn|ἐγώ|egō|",
+        "8|g2532|esv-thgnt-Pm-revint-slice-h6oz|C- --------|and|καὶ|kai|καί|kai|",
+        "9|g2962|esv-thgnt-Pm-revint-slice-h8k5|N- ----GSM-|Lord|κυρίου|kyriou|κύριος|kyrios|",
+        "10|g2424|esv-thgnt-Pm-revint-slice-h9mq|N- ----GSM-|Jesus|Ἰησοῦ|Iēsou|Ἰησοῦς|Iēsous|",
+        "11|g5547|esv-thgnt-Pm-revint-slice-hd79|N- ----GSM-|Christ|χριστοῦ.|christou|Χριστός|Christos|"
+      ]
+    },
+    {
+      "o": 33521,
+      "r": "esvi:Philemon:1:3",
+      "h": 2,
+      "t": "Philemon’s Love and Faith",
+      "p": []
+    }
+  ],
+  "1:4": [
+    {
+      "o": 33522,
+      "r": "esvi:Philemon:1:4",
+      "p": [
+        "0|g2168|esv-thgnt-Pm-revint-slice-hg77|V- 1PAI-S--|thank|Εὐχαριστῶ|Eucharistō|εὐχαριστέω|eucharisteō|",
+        "1|g3588|esv-thgnt-Pm-revint-slice-hk4m|RA ----DSM-|God|τῷ|tō|ὁ|ho|",
+        "2|g2316|esv-thgnt-Pm-revint-slice-hk4m|N- ----DSM-|God|θεῷ|theō|θεός|theos|",
+        "3|g1473|esv-thgnt-Pm-revint-slice-hjep|RP ----GS--|my|μου|mou|ἐγώ|egō|",
+        "4|g3842|esv-thgnt-Pm-revint-slice-hm9y|D- --------|always|πάντοτε|pantote|πάντοτε|pantote|",
+        "5|g3417|esv-thgnt-Pm-revint-slice-hpon|N- ----ASF-|remember|μνείαν|mneian|μνεία|mneia|",
+        "6|g4771|esv-thgnt-Pm-revint-slice-hqy7|RP ----GS--|you|σου|sou|σύ|sy|",
+        "7|g4160|esv-thgnt-Pm-revint-slice-hpon|V- -PMPNSM-|remember|ποιούμενος|poioumenos|ποιέω|poieō|",
+        "8|g1909|esv-thgnt-Pm-revint-slice-hry5|P- --------|in|ἐπὶ|epi|ἐπί|epi|",
+        "9|g3588|esv-thgnt-Pm-revint-slice-hx9d|RA ----GPF-|prayers|τῶν|tōn|ὁ|ho|",
+        "10|g4335|esv-thgnt-Pm-revint-slice-hx9d|N- ----GPF-|prayers|προσευχῶν|proseuchōn|προσευχή|proseuchē|",
+        "11|g1473|esv-thgnt-Pm-revint-slice-hwp3|RP ----GS--|my|μου,|mou|ἐγώ|egō|"
+      ]
+    }
+  ],
+  "1:5": [
+    {
+      "o": 33523,
+      "r": "esvi:Philemon:1:5",
+      "p": [
+        "0|g191|esv-thgnt-Pm-revint-slice-h3d8|V- -PAPNSM-|hear|ἀκούων|akouōn|ἀκούω|akouō|",
+        "1|g4771|esv-thgnt-Pm-revint-slice-h5dx|RP ----GS--|your|σου|sou|σύ|sy|",
+        "2|g3588|esv-thgnt-Pm-revint-slice-h6ez|RA ----ASF-|love|τὴν|tēn|ὁ|ho|",
+        "3|g26|esv-thgnt-Pm-revint-slice-h6ez|N- ----ASF-|love|ἀγάπην|agapēn|ἀγάπη|agapē|",
+        "4|g2532|esv-thgnt-Pm-revint-slice-h7k5|C- --------|and|καὶ|kai|καί|kai|",
+        "5|g3588|esv-thgnt-Pm-revint-slice-h98q|RA ----ASF-|the|τὴν|tēn|ὁ|ho|",
+        "6|g4102|esv-thgnt-Pm-revint-slice-hdx9|N- ----ASF-|faith|πίστιν|pistin|πίστις|pistis|",
+        "7|g3739|esv-thgnt-Pm-revint-slice-he7x|RR ----ASF-|that|ἣν|hēn|ὅς|hos|",
+        "8|g2192|esv-thgnt-Pm-revint-slice-hjpp|V- 2PAI-S--|have|ἔχεις|echeis|ἔχω|echō|",
+        "9|g4314|esv-thgnt-Pm-revint-slice-hkrm|P- --------|toward|πρὸς|pros|πρός|pros|",
+        "10|g3588|esv-thgnt-Pm-revint-slice-hmoy|RA ----ASM-|the|τὸν|ton|ὁ|ho|",
+        "11|g2962|esv-thgnt-Pm-revint-slice-hnmy|N- ----ASM-|Lord|κύριον|kyrion|κύριος|kyrios|",
+        "12|g2424|esv-thgnt-Pm-revint-slice-hoqd|N- ----ASM-|Jesus|Ἰησοῦν|Iēsoun|Ἰησοῦς|Iēsous|",
+        "13|g2532|esv-thgnt-Pm-revint-slice-hp9n|C- --------|and|καὶ|kai|καί|kai|",
+        "14|g1519|esv-thgnt-Pm-revint-slice-hqx7|P- --------|for|εἰς|eis|εἰς|eis|",
+        "15|g3956|esv-thgnt-Pm-revint-slice-hrk5|A- ----APM-|all|πάντας|pantas|πᾶς|pas|",
+        "16|g3588|esv-thgnt-Pm-revint-slice-hwq3|RA ----APM-|the|τοὺς|tous|ὁ|ho|",
+        "17|g40|esv-thgnt-Pm-revint-slice-hx4d|A- ----APM-|saints|ἁγίους,|hagious|ἅγιος|hagios|"
+      ]
+    }
+  ],
+  "1:6": [
+    {
+      "o": 33524,
+      "r": "esvi:Philemon:1:6",
+      "p": [
+        "0|g3704|esv-thgnt-Pm-revint-slice-h4oq|C- --------|that|ὅπως|hopōs|ὅπως|hopōs|",
+        "1|g3588|esv-thgnt-Pm-revint-slice-h5ox|RA ----NSF-|the|ἡ|hē|ὁ|ho|",
+        "2|g2842|esv-thgnt-Pm-revint-slice-h6pz|N- ----NSF-|sharing|κοινωνία|koinōnia|κοινωνία|koinōnia|",
+        "3|g3588|esv-thgnt-Pm-revint-slice-h9nq|RA ----GSF-|faith|τῆς|tēs|ὁ|ho|",
+        "4|g4102|esv-thgnt-Pm-revint-slice-h9nq|N- ----GSF-|faith|πίστεώς|pisteōs|πίστις|pistis|",
+        "5|g4771|esv-thgnt-Pm-revint-slice-h8w5|RP ----GS--|your|σου|sou|σύ|sy|",
+        "6|g1756|esv-thgnt-Pm-revint-slice-hgy7|A- ----NSF-|effective|ἐνεργὴς|energēs|ἐνεργής|energēs|",
+        "7|g1096|esv-thgnt-Pm-revint-slice-he9x|V- 3AMS-S--|become|γένηται|genētai|γίνομαι|ginomai|",
+        "8|g1722|esv-thgnt-Pm-revint-slice-hjmp|P- --------|for|ἐν|en|ἐν|en|",
+        "9|g1922|esv-thgnt-Pm-revint-slice-hkmm|N- ----DSF-|the full knowledge|ἐπιγνώσει|epignōsei|ἐπίγνωσις|epignōsis|",
+        "10|g3956|esv-thgnt-Pm-revint-slice-hnxy|A- ----GSN-|every|παντὸς|pantos|πᾶς|pas|",
+        "11|g18|esv-thgnt-Pm-revint-slice-hozd|A- ----GSN-|good|ἀγαθοῦ|agathou|ἀγαθός|agathos|",
+        "12|g3588|esv-thgnt-Pm-revint-slice-hqq7|RA ----GSN-|that|τοῦ|tou|ὁ|ho|",
+        "13|g1722|esv-thgnt-Pm-revint-slice-hwj3|P- --------|in|ἐν|en|ἐν|en|",
+        "14|g1473|esv-thgnt-Pm-revint-slice-hdyk|RP ----DP--|us|ἡμῖν|hēmin|ἐγώ|egō|",
+        "15|g1519|esv-thgnt-Pm-revint-slice-he9e|P- --------|for the sake of|εἰς|eis|εἰς|eis|",
+        "16|g5547|esv-thgnt-Pm-revint-slice-hgy3|N- ----ASM-|Christ|χριστόν.|christon|Χριστός|Christos|"
+      ]
+    }
+  ],
+  "1:7": [
+    {
+      "o": 33525,
+      "r": "esvi:Philemon:1:7",
+      "p": [
+        "0|g5479|esv-thgnt-Pm-revint-slice-hnx4|N- ----ASF-|joy|χαρὰν|charan|χαρά|chara|",
+        "1|g1063|esv-thgnt-Pm-revint-slice-hjm8|C- --------|For|γὰρ|gar|γάρ|gar|",
+        "2|g4183|esv-thgnt-Pm-revint-slice-hmxd|A- ----ASF-|much|πολλὴν|pollēn|πολύς|polys|",
+        "3|g2192|esv-thgnt-Pm-revint-slice-hkmd|V- 1AAI-S--|I have derived|ἔσχον|eschon|ἔχω|echō|",
+        "4|g2532|esv-thgnt-Pm-revint-slice-hoz4|C- --------|and|καὶ|kai|καί|kai|",
+        "5|g3874|esv-thgnt-Pm-revint-slice-hpwy|N- ----ASF-|comfort|παράκλησιν|paraklēsin|παράκλησις|paraklēsis|",
+        "6|g1909|esv-thgnt-Pm-revint-slice-hqq4|P- --------|from|ἐπὶ|epi|ἐπί|epi|",
+        "7|g3588|esv-thgnt-Pm-revint-slice-hw5g|RA ----DSF-|love|τῇ|tē|ὁ|ho|",
+        "8|g26|esv-thgnt-Pm-revint-slice-hw5g|N- ----DSF-|love|ἀγάπῃ|agapē|ἀγάπη|agapē|",
+        "9|g4771|esv-thgnt-Pm-revint-slice-hrp4|RP ----GS--|your|σου,|sou|σύ|sy|",
+        "10|g3754|esv-thgnt-Pm-revint-slice-hz6x|C- --------|because|ὅτι|hoti|ὅτι|hoti|",
+        "11|g3588|esv-thgnt-Pm-revint-slice-h3nn|RA ----NPN-|the|τὰ|ta|ὁ|ho|",
+        "12|g4698|esv-thgnt-Pm-revint-slice-h4n7|N- ----NPN-|hearts|σπλάγχνα|splanchna|σπλάγχνον|splanchnon|",
+        "13|g3588|esv-thgnt-Pm-revint-slice-h68k|RA ----GPM-|the|τῶν|tōn|ὁ|ho|",
+        "14|g40|esv-thgnt-Pm-revint-slice-h76r|A- ----GPM-|saints|ἁγίων|hagiōn|ἅγιος|hagios|",
+        "15|g373|esv-thgnt-Pm-revint-slice-hdrk|V- 3XPI-S--|refreshed|ἀναπέπαυται|anapepautai|ἀναπαύω|anapauō|",
+        "16|g1223|esv-thgnt-Pm-revint-slice-he4e|P- --------|through|διὰ|dia|διά|dia|",
+        "17|g4771|esv-thgnt-Pm-revint-slice-hgr3|RP ----GS--|you|σοῦ,|sou|σύ|sy|",
+        "18|g80|esv-thgnt-Pm-revint-slice-hyrn|N- ----VSM-|brother|ἀδελφέ.|adelphe|ἀδελφός|adelphos|"
+      ]
+    },
+    {
+      "o": 33526,
+      "r": "esvi:Philemon:1:7",
+      "h": 2,
+      "t": "Paul’s Plea for Onesimus",
+      "p": []
+    }
+  ],
+  "1:8": [
+    {
+      "o": 33527,
+      "r": "esvi:Philemon:1:8",
+      "p": [
+        "0|g1352|esv-thgnt-Pm-revint-slice-hj68|C- --------|Accordingly|Διὸ|Dio|διό|dio|",
+        "1|g4183|esv-thgnt-Pm-revint-slice-hppy|A- ----ASF-|enough|πολλὴν|pollēn|πολύς|polys|",
+        "2|g1722|esv-thgnt-Pm-revint-slice-hq94|P- --------|in|ἐν|en|ἐν|en|",
+        "3|g5547|esv-thgnt-Pm-revint-slice-hrr4|N- ----DSM-|Christ|χριστῷ|christō|Χριστός|Christos|",
+        "4|g3954|esv-thgnt-Pm-revint-slice-hon4|N- ----ASF-|bold|παρρησίαν|parrēsian|παρρησία|parrēsia|",
+        "5|g2192|esv-thgnt-Pm-revint-slice-hnq4|V- -PAPNSM-|am|ἔχων|echōn|ἔχω|echō|",
+        "6|g2004|esv-thgnt-Pm-revint-slice-hxm9|V- -PAN----|command|ἐπιτάσσειν|epitassein|ἐπιτάσσω|epitassō|",
+        "7|g4771|esv-thgnt-Pm-revint-slice-hy6n|RP ----DS--|you|σοι|soi|σύ|sy|",
+        "8|g3588|esv-thgnt-Pm-revint-slice-h477|RA ----ASN-|what|τὸ|to|ὁ|ho|",
+        "9|g433|esv-thgnt-Pm-revint-slice-h6qk|V- -PAPASN-|required|ἀνῆκον|anēkon|ἀνήκω|anēkō|"
+      ]
+    }
+  ],
+  "1:9": [
+    {
+      "o": 33528,
+      "r": "esvi:Philemon:1:9",
+      "p": [
+        "0|g1223|esv-thgnt-Pm-revint-slice-hdok|P- --------|sake|διὰ|dia|διά|dia|",
+        "1|g3588|esv-thgnt-Pm-revint-slice-h9wx|RA ----ASF-|love's|τὴν|tēn|ὁ|ho|",
+        "2|g26|esv-thgnt-Pm-revint-slice-h9wx|N- ----ASF-|love's|ἀγάπην|agapēn|ἀγάπη|agapē|",
+        "3|g3123|esv-thgnt-Pm-revint-slice-hg63|D- -------C|prefer|μᾶλλον|mallon|μᾶλλον|mallon|",
+        "4|g3870|esv-thgnt-Pm-revint-slice-hkqd|V- 1PAI-S--|appeal|παρακαλῶ,|parakalō|παρακαλέω|parakaleō|",
+        "5|g5108|esv-thgnt-Pm-revint-slice-hm7d|RD ----NSM-|•|τοιοῦτος|toioutos|τοιοῦτος|toioutos|",
+        "6|g1510|esv-thgnt-Pm-revint-slice-hqw4|V- -PAPNSM-|•|ὢν|ōn|εἰμί|eimi|",
+        "7|g5613|esv-thgnt-Pm-revint-slice-hrj4|C- --------|•|ὡς|hōs|ὡς|hōs|",
+        "8|g3972|esv-thgnt-Pm-revint-slice-hweg|N- ----NSM-|Paul|Παῦλος|Paulos|Παῦλος|Paulos|",
+        "9|g4246|esv-thgnt-Pm-revint-slice-hyjn|N- ----NSM-|old|πρεσβύτης|presbytēs|πρεσβύτης|presbytēs|",
+        "10|g3570|esv-thgnt-Pm-revint-slice-h457|D- --------|now|νυνὶ|nyni|νυνί|nyni|",
+        "11|g1161|esv-thgnt-Pm-revint-slice-h39n|X- --------|and|δὲ|de|δέ|de|",
+        "12|g2532|esv-thgnt-Pm-revint-slice-h7dr|D- --------|also|καὶ|kai|καί|kai|",
+        "13|g1198|esv-thgnt-Pm-revint-slice-h66k|N- ----NSM-|prisoner|δέσμιος|desmios|δέσμιος|desmios|",
+        "14|g5547|esv-thgnt-Pm-revint-slice-h9gx|N- ----GSM-|Christ|χριστοῦ|christou|Χριστός|Christos|",
+        "15|g2424|esv-thgnt-Pm-revint-slice-hdjk|N- ----GSM-|Jesus|Ἰησοῦ·|Iēsou|Ἰησοῦς|Iēsous|"
+      ]
+    }
+  ],
+  "1:10": [
+    {
+      "o": 33529,
+      "r": "esvi:Philemon:1:10",
+      "p": [
+        "0|g3870|esv-thgnt-Pm-revint-slice-hgn3|V- 1PAI-S--|appeal|παρακαλῶ|parakalō|παρακαλέω|parakaleō|",
+        "1|g4771|esv-thgnt-Pm-revint-slice-hkjd|RP ----AS--|you|σε|se|σύ|sy|",
+        "2|g4012|esv-thgnt-Pm-revint-slice-hmmd|P- --------|for|περὶ|peri|περί|peri|",
+        "3|g3588|esv-thgnt-Pm-revint-slice-hod4|RA ----GSN-|child|τοῦ|tou|ὁ|ho|",
+        "4|g1699|esv-thgnt-Pm-revint-slice-hnn4|A- ----GSN-|my|ἐμοῦ|emou|ἐμός|emos|",
+        "5|g5043|esv-thgnt-Pm-revint-slice-hod4|N- ----GSN-|child|τέκνου|teknou|τέκνον|teknon|",
+        "6|g3739|esv-thgnt-Pm-revint-slice-hqg4|RR ----ASM-|whose|ὃν|hon|ὅς|hos|",
+        "7|g1080|esv-thgnt-Pm-revint-slice-hrw4|V- 1AAI-S--|father|ἐγέννησα|egennēsa|γεννάω|gennaō|",
+        "8|g1722|esv-thgnt-Pm-revint-slice-hy9n|P- --------|in|ἐν|en|ἐν|en|",
+        "9|g3588|esv-thgnt-Pm-revint-slice-h3en|RA ----DPM-|imprisonment|τοῖς|tois|ὁ|ho|",
+        "10|g1199|esv-thgnt-Pm-revint-slice-h3en|N- ----DPM-|imprisonment|δεσμοῖς,|desmois|δεσμός|desmos|",
+        "11|g3682|esv-thgnt-Pm-revint-slice-hpey|N- ----ASM-|Onesimus|Ὀνήσιμον,|Onēsimon|Ὀνήσιμος|Onēsimos|"
+      ]
+    }
+  ],
+  "1:11": [
+    {
+      "o": 33530,
+      "r": "esvi:Philemon:1:11",
+      "p": [
+        "0|g3588|esv-thgnt-Pm-revint-slice-h79r|RA ----ASM-|useless|τόν|ton|ὁ|ho|",
+        "1|g4218|esv-thgnt-Pm-revint-slice-h4g7|X- --------|Formerly|ποτέ|pote|ποτέ|pote|",
+        "2|g4771|esv-thgnt-Pm-revint-slice-h9ox|RP ----DS--|you|σοι|soi|σύ|sy|",
+        "3|g890|esv-thgnt-Pm-revint-slice-h79r|A- ----ASM-|useless|ἄχρηστον|achrēston|ἄχρηστος|achrēstos|",
+        "4|g3570|esv-thgnt-Pm-revint-slice-heje|D- --------|now|νυνὶ|nyni|νυνί|nyni|",
+        "5|g1161|esv-thgnt-Pm-revint-slice-hdgk|X- --------|but|δὲ|de|δέ|de|",
+        "6|g4771|esv-thgnt-Pm-revint-slice-hom4|RP ----DS--|you|σοὶ|soi|σύ|sy|",
+        "7|g2532|esv-thgnt-Pm-revint-slice-hpny|C- --------|and|καὶ|kai|καί|kai|",
+        "8|g1473|esv-thgnt-Pm-revint-slice-hr94|RP ----DS--|me|ἐμοὶ|emoi|ἐγώ|egō|",
+        "9|g2173|esv-thgnt-Pm-revint-slice-hmjd|A- ----ASM-|useful|εὔχρηστον,|euchrēston|εὔχρηστος|euchrēstos|"
+      ]
+    }
+  ],
+  "1:12": [
+    {
+      "o": 33531,
+      "r": "esvi:Philemon:1:12",
+      "p": [
+        "0|g3739|esv-thgnt-Pm-revint-slice-hw6g|RR ----ASM-|•|ὃν|hon|ὅς|hos|",
+        "1|g375|esv-thgnt-Pm-revint-slice-hd67|V- 1AAI-S--|I am sending|ἀνέπεμψά|anepempsa|ἀναπέμπω|anapempō|",
+        "2|g4771|esv-thgnt-Pm-revint-slice-hk7q|RP ----DS--|you|σοι,|soi|σύ|sy|",
+        "3|g846|esv-thgnt-Pm-revint-slice-he67|RP ----ASM-|him|αὐτόν,|auton|αὐτός|autos|",
+        "4|g5123|esv-thgnt-Pm-revint-slice-hnzk|C- --------|•|τουτέστιν|toutestin|τουτέστιν|toutestin|",
+        "5|g3588|esv-thgnt-Pm-revint-slice-hq7r|RA ----APN-|heart|τὰ|ta|ὁ|ho|",
+        "6|g1699|esv-thgnt-Pm-revint-slice-hoyy|A- ----APN-|my|ἐμὰ|ema|ἐμός|emos|",
+        "7|g4698|esv-thgnt-Pm-revint-slice-hq7r|N- ----APN-|heart|σπλάγχνα.|splanchna|σπλάγχνον|splanchnon|"
+      ]
+    }
+  ],
+  "1:13": [
+    {
+      "o": 33532,
+      "r": "esvi:Philemon:1:13",
+      "p": [
+        "0|g3739|esv-thgnt-Pm-revint-slice-hze3|RR ----ASM-|him|ὃν|hon|ὅς|hos|",
+        "1|g1473|esv-thgnt-Pm-revint-slice-hr9n|RP ----NS--|I|ἐγὼ|egō|ἐγώ|egō|",
+        "2|g1014|esv-thgnt-Pm-revint-slice-hw6z|V- 1IMI-S--|would have been glad|ἐβουλόμην|eboulomēn|βούλομαι|boulomai|",
+        "3|g4314|esv-thgnt-Pm-revint-slice-h35r|P- --------|with|πρὸς|pros|πρός|pros|",
+        "4|g1683|esv-thgnt-Pm-revint-slice-h4rx|RP ----ASM-|me|ἐμαυτὸν|emauton|ἐμαυτοῦ|emautou|",
+        "5|g2722|esv-thgnt-Pm-revint-slice-hyd7|V- -PAN----|keep|κατέχειν,|katechein|κατέχω|katechō|",
+        "6|g2443|esv-thgnt-Pm-revint-slice-h573|C- --------|in order that|ἵνα|hina|ἵνα|hina|",
+        "7|g5228|esv-thgnt-Pm-revint-slice-hgzy|P- --------|behalf|ὑπὲρ|hyper|ὑπέρ|hyper|",
+        "8|g4771|esv-thgnt-Pm-revint-slice-hez7|RP ----GS--|your|σοῦ|sou|σύ|sy|",
+        "9|g1473|esv-thgnt-Pm-revint-slice-h9pm|RP ----DS--|me|μοι|moi|ἐγώ|egō|",
+        "10|g1247|esv-thgnt-Pm-revint-slice-h89m|V- 3PAS-S--|serve|διακονῇ|diakonē|διακονέω|diakoneō|",
+        "11|g1722|esv-thgnt-Pm-revint-slice-hj56|P- --------|during|ἐν|en|ἐν|en|",
+        "12|g3588|esv-thgnt-Pm-revint-slice-hm5m|RA ----DPM-|imprisonment|τοῖς|tois|ὁ|ho|",
+        "13|g1199|esv-thgnt-Pm-revint-slice-hm5m|N- ----DPM-|imprisonment|δεσμοῖς|desmois|δεσμός|desmos|",
+        "14|g3588|esv-thgnt-Pm-revint-slice-ho6y|RA ----GSN-|the|τοῦ|tou|ὁ|ho|",
+        "15|g2098|esv-thgnt-Pm-revint-slice-hp77|N- ----GSN-|gospel|εὐαγγελίου·|euangeliou|εὐαγγέλιον|euangelion|"
+      ]
+    }
+  ],
+  "1:14": [
+    {
+      "o": 33533,
+      "r": "esvi:Philemon:1:14",
+      "p": [
+        "0|g5565|esv-thgnt-Pm-revint-slice-h3gr|P- --------|without|χωρὶς|chōris|χωρίς|chōris|",
+        "1|g1161|esv-thgnt-Pm-revint-slice-hq5r|X- --------|but|δὲ|de|δέ|de|",
+        "2|g3588|esv-thgnt-Pm-revint-slice-h5k3|RA ----GSF-|consent|τῆς|tēs|ὁ|ho|",
+        "3|g4674|esv-thgnt-Pm-revint-slice-h4jx|A- ----GSF-|your|σῆς|sēs|σός|sos|",
+        "4|g1106|esv-thgnt-Pm-revint-slice-h5k3|N- ----GSF-|consent|γνώμης|gnōmēs|γνώμη|gnōmē|",
+        "5|g3762|esv-thgnt-Pm-revint-slice-hz83|A- ----ASN-|nothing|οὐδὲν|ouden|οὐδείς|oudeis|",
+        "6|g2309|esv-thgnt-Pm-revint-slice-hw8z|V- 1AAI-S--|preferred|ἠθέλησα|ēthelēsa|θέλω|thelō|",
+        "7|g4160|esv-thgnt-Pm-revint-slice-hy87|V- -AAN----|do|ποιῆσαι,|poiēsai|ποιέω|poieō|",
+        "8|g2443|esv-thgnt-Pm-revint-slice-h6m3|C- --------|in order that|ἵνα|hina|ἵνα|hina|",
+        "9|g3361|esv-thgnt-Pm-revint-slice-he57|D- --------|not|μὴ|mē|μή|mē|",
+        "10|g5613|esv-thgnt-Pm-revint-slice-h7nm|C- --------|•|ὡς|hōs|ὡς|hōs|",
+        "11|g2596|esv-thgnt-Pm-revint-slice-hjj6|P- --------|by|κατὰ|kata|κατά|kata|",
+        "12|g318|esv-thgnt-Pm-revint-slice-hk9q|N- ----ASF-|compulsion|ἀνάγκην|anankēn|ἀνάγκη|anankē|",
+        "13|g3588|esv-thgnt-Pm-revint-slice-h9xm|RA ----NSN-|goodness|τὸ|to|ὁ|ho|",
+        "14|g18|esv-thgnt-Pm-revint-slice-h9xm|A- ----NSN-|goodness|ἀγαθόν|agathon|ἀγαθός|agathos|",
+        "15|g4771|esv-thgnt-Pm-revint-slice-h8xm|RP ----GS--|your|σου|sou|σύ|sy|",
+        "16|g1510|esv-thgnt-Pm-revint-slice-hgdy|V- 3PAS-S--|be|ᾖ|ē|εἰμί|eimi|",
+        "17|g235|esv-thgnt-Pm-revint-slice-hmnm|C- --------|but|ἀλλὰ|alla|ἀλλά|alla|",
+        "18|g2596|esv-thgnt-Pm-revint-slice-hnok|P- --------|of your own accord|κατὰ|kata|κατά|kata|",
+        "19|g1595|esv-thgnt-Pm-revint-slice-hnok|A- ----ASN-|of your own accord|ἑκούσιον.|hekousion|ἑκούσιος|hekousios|"
+      ]
+    }
+  ],
+  "1:15": [
+    {
+      "o": 33534,
+      "r": "esvi:Philemon:1:15",
+      "p": [
+        "0|g5029|esv-thgnt-Pm-revint-slice-hqrr|D- --------|perhaps|τάχα|tacha|τάχα|tacha|",
+        "1|g1063|esv-thgnt-Pm-revint-slice-hopy|C- --------|For|γὰρ|gar|γάρ|gar|",
+        "2|g1223|esv-thgnt-Pm-revint-slice-hr8n|P- --------|is why|διὰ|dia|διά|dia|",
+        "3|g3778|esv-thgnt-Pm-revint-slice-hr8n|RD ----ASN-|is why|τοῦτο|touto|οὗτος|houtos|",
+        "4|g5563|esv-thgnt-Pm-revint-slice-hy37|V- 3API-S--|parted|ἐχωρίσθη|echōristhē|χωρίζω|chōrizō|",
+        "5|g4314|esv-thgnt-Pm-revint-slice-h46x|P- --------|for|πρὸς|pros|πρός|pros|",
+        "6|g5610|esv-thgnt-Pm-revint-slice-h6x3|N- ----ASF-|while|ὥραν,|hōran|ὥρα|hōra|",
+        "7|g2443|esv-thgnt-Pm-revint-slice-h77m|C- --------|that|ἵνα|hina|ἵνα|hina|",
+        "8|g166|esv-thgnt-Pm-revint-slice-hem7|A- ----ASM-|forever|αἰώνιον|aiōnion|αἰώνιος|aiōnios|",
+        "9|g846|esv-thgnt-Pm-revint-slice-h9ym|RP ----ASM-|him|αὐτὸν|auton|αὐτός|autos|",
+        "10|g568|esv-thgnt-Pm-revint-slice-h8zm|V- 2AAS-S--|you might have|ἀπέχῃς·|apechēs|ἀπέχω|apechō|"
+      ]
+    }
+  ],
+  "1:16": [
+    {
+      "o": 33535,
+      "r": "esvi:Philemon:1:16",
+      "p": [
+        "0|g3765|esv-thgnt-Pm-revint-slice-hgoy|D- --------|no longer|οὐκέτι|ouketi|οὐκέτι|ouketi|",
+        "1|g5613|esv-thgnt-Pm-revint-slice-hjr6|C- --------|as|ὡς|hōs|ὡς|hōs|",
+        "2|g1401|esv-thgnt-Pm-revint-slice-hmem|N- ----ASM-|bondservant|δοῦλον|doulon|δοῦλος|doulos|",
+        "3|g235|esv-thgnt-Pm-revint-slice-hngk|C- --------|but|ἀλλ᾽|all’|ἀλλά|alla|",
+        "4|g5228|esv-thgnt-Pm-revint-slice-hojy|P- --------|more than|ὑπὲρ|hyper|ὑπέρ|hyper|",
+        "5|g1401|esv-thgnt-Pm-revint-slice-hqmr|N- ----ASM-|bondservant|δοῦλον,|doulon|δοῦλος|doulos|",
+        "6|g80|esv-thgnt-Pm-revint-slice-hye7|N- ----ASM-|brother|ἀδελφὸν|adelphon|ἀδελφός|adelphos|",
+        "7|g27|esv-thgnt-Pm-revint-slice-hxdo|A- ----ASM-|beloved|ἀγαπητόν,|agapēton|ἀγαπητός|agapētos|",
+        "8|g3122|esv-thgnt-Pm-revint-slice-hzg3|D- --------|especially|μάλιστα|malista|μάλιστα|malista|",
+        "9|g1473|esv-thgnt-Pm-revint-slice-h43x|RP ----DS--|me|ἐμοί,|emoi|ἐγώ|egō|",
+        "10|g4214|esv-thgnt-Pm-revint-slice-h653|RI ----DSN-|how much|πόσῳ|posō|πόσος|posos|",
+        "11|g1161|esv-thgnt-Pm-revint-slice-h563|X- --------|but|δὲ|de|δέ|de|",
+        "12|g3123|esv-thgnt-Pm-revint-slice-h7ym|D- -------C|more|μᾶλλόν|mallon|μᾶλλον|mallon|",
+        "13|g4771|esv-thgnt-Pm-revint-slice-h99m|RP ----DS--|you|σοι|soi|σύ|sy|",
+        "14|g2532|esv-thgnt-Pm-revint-slice-hdd7|C- --------|both|καὶ|kai|καί|kai|",
+        "15|g1722|esv-thgnt-Pm-revint-slice-hee7|P- --------|in|ἐν|en|ἐν|en|",
+        "16|g4561|esv-thgnt-Pm-revint-slice-hjn6|N- ----DSF-|flesh|σαρκὶ|sarki|σάρξ|sarx|",
+        "17|g2532|esv-thgnt-Pm-revint-slice-hkoq|C- --------|and|καὶ|kai|καί|kai|",
+        "18|g1722|esv-thgnt-Pm-revint-slice-hmqm|P- --------|in|ἐν|en|ἐν|en|",
+        "19|g2962|esv-thgnt-Pm-revint-slice-howy|N- ----DSM-|Lord|κυρίῳ;|kyriō|κύριος|kyrios|"
+      ]
+    }
+  ],
+  "1:17": [
+    {
+      "o": 33536,
+      "r": "esvi:Philemon:1:17",
+      "p": [
+        "0|g1487|esv-thgnt-Pm-revint-slice-hq3r|X- --------|if|εἰ|ei|εἰ|ei|",
+        "1|g3767|esv-thgnt-Pm-revint-slice-hpx7|C- --------|So|οὖν|oun|οὖν|oun|",
+        "2|g1473|esv-thgnt-Pm-revint-slice-hwzz|RP ----AS--|me|με|me|ἐγώ|egō|",
+        "3|g2192|esv-thgnt-Pm-revint-slice-hrzn|V- 2PAI-S--|you consider|ἔχεις|echeis|ἔχω|echō|",
+        "4|g2844|esv-thgnt-Pm-revint-slice-hee8|N- ----ASM-|partner|κοινωνόν,|koinōnon|κοινωνός|koinōnos|",
+        "5|g4355|esv-thgnt-Pm-revint-slice-hgjx|V- 2AMD-S--|receive|προσλαβοῦ|proslabou|προσλαμβάνομαι|proslambanomai|",
+        "6|g846|esv-thgnt-Pm-revint-slice-hjnz|RP ----ASM-|him|αὐτὸν|auton|αὐτός|autos|",
+        "7|g5613|esv-thgnt-Pm-revint-slice-hkoy|C- --------|as|ὡς|hōs|ὡς|hōs|",
+        "8|g1473|esv-thgnt-Pm-revint-slice-hp3g|RP ----AS--|me|ἐμέ.|eme|ἐγώ|egō|"
+      ]
+    }
+  ],
+  "1:18": [
+    {
+      "o": 33537,
+      "r": "esvi:Philemon:1:18",
+      "p": [
+        "0|g1487|esv-thgnt-Pm-revint-slice-hqdp|X- --------|If|εἰ|ei|εἰ|ei|",
+        "1|g1161|esv-thgnt-Pm-revint-slice-hrey|X- --------|•|δέ|de|δέ|de|",
+        "2|g5100|esv-thgnt-Pm-revint-slice-h349|RI ----ASN-|at all|τι|ti|τις|tis|",
+        "3|g91|esv-thgnt-Pm-revint-slice-hypr|V- 3AAI-S--|wronged|ἠδίκησέν|ēdikēsen|ἀδικέω|adikeō|",
+        "4|g4771|esv-thgnt-Pm-revint-slice-hzq5|RP ----AS--|you|σε|se|σύ|sy|",
+        "5|g2228|esv-thgnt-Pm-revint-slice-h44g|C- --------|or|ἢ|ē|ἤ|ē|",
+        "6|g3784|esv-thgnt-Pm-revint-slice-h547|V- 3PAI-S--|owes|ὀφείλει,|opheilei|ὀφείλω|opheilō|",
+        "7|g3778|esv-thgnt-Pm-revint-slice-h979|RD ----ASN-|that|τοῦτο|touto|οὗτος|houtos|",
+        "8|g1473|esv-thgnt-Pm-revint-slice-hd33|RP ----DS--|to my account|ἐμοὶ|emoi|ἐγώ|egō|",
+        "9|g1677|esv-thgnt-Pm-revint-slice-hd33|V- 2PAD-S--|to my account|ἐλλόγα.|elloga|ἐλλογέω|ellogeō|"
+      ]
+    }
+  ],
+  "1:19": [
+    {
+      "o": 33538,
+      "r": "esvi:Philemon:1:19",
+      "p": [
+        "0|g1473|esv-thgnt-Pm-revint-slice-he38|RP ----NS--|I|Ἐγὼ|Egō|ἐγώ|egō|",
+        "1|g3972|esv-thgnt-Pm-revint-slice-hg3x|N- ----NSM-|Paul|Παῦλος|Paulos|Παῦλος|Paulos|",
+        "2|g1125|esv-thgnt-Pm-revint-slice-hj4z|V- 1AAI-S--|write|ἔγραψα|egrapsa|γράφω|graphō|",
+        "3|g3588|esv-thgnt-Pm-revint-slice-hp8g|RA ----DSF-|hand|τῇ|tē|ὁ|ho|",
+        "4|g1699|esv-thgnt-Pm-revint-slice-hn7w|A- ----DSF-|my|ἐμῇ|emē|ἐμός|emos|",
+        "5|g5495|esv-thgnt-Pm-revint-slice-hp8g|N- ----DSF-|hand|χειρί,|cheiri|χείρ|cheir|",
+        "6|g1473|esv-thgnt-Pm-revint-slice-hq8p|RP ----NS--|I|ἐγὼ|egō|ἐγώ|egō|",
+        "7|g661|esv-thgnt-Pm-revint-slice-hw7q|V- 1FAI-S--|repay|ἀποτίσω·|apotisō|ἀποτίνω|apotinō|",
+        "8|g2443|esv-thgnt-Pm-revint-slice-hy7r|C- --------|to|ἵνα|hina|ἵνα|hina|",
+        "9|g3361|esv-thgnt-Pm-revint-slice-h389|D- --------|nothing|μὴ|mē|μή|mē|",
+        "10|g3004|esv-thgnt-Pm-revint-slice-hz75|V- 1PAS-S--|say|λέγω|legō|λέγω|legō|",
+        "11|g4771|esv-thgnt-Pm-revint-slice-h49g|RP ----DS--|•|σοι|soi|σύ|sy|",
+        "12|g3754|esv-thgnt-Pm-revint-slice-h587|C- --------|of|ὅτι|hoti|ὅτι|hoti|",
+        "13|g2532|esv-thgnt-Pm-revint-slice-h9j9|D- --------|even|καὶ|kai|καί|kai|",
+        "14|g4572|esv-thgnt-Pm-revint-slice-hd83|RP ----ASM-|your own self|σεαυτόν|seauton|σεαυτοῦ|seautou|",
+        "15|g1473|esv-thgnt-Pm-revint-slice-h8gz|RP ----DS--|me|μοι|moi|ἐγώ|egō|",
+        "16|g4359|esv-thgnt-Pm-revint-slice-h7e7|V- 2PAI-S--|owing|προσοφείλεις.|prosopheileis|προσοφείλω|prosopheilō|"
+      ]
+    }
+  ],
+  "1:20": [
+    {
+      "o": 33539,
+      "r": "esvi:Philemon:1:20",
+      "p": [
+        "0|g3483|esv-thgnt-Pm-revint-slice-he88|X- --------|Yes|ναί,|nai|ναί|nai|",
+        "1|g80|esv-thgnt-Pm-revint-slice-hg8x|N- ----VSM-|brother|ἀδελφέ,|adelphe|ἀδελφός|adelphos|",
+        "2|g1473|esv-thgnt-Pm-revint-slice-hj8z|RP ----NS--|I|ἐγώ|egō|ἐγώ|egō|",
+        "3|g4771|esv-thgnt-Pm-revint-slice-hpmg|RP ----GS--|you|σου|sou|σύ|sy|",
+        "4|g3685|esv-thgnt-Pm-revint-slice-hn8w|V- 1AMO-S--|benefit|ὀναίμην|onaimēn|ὀνίνημι|oninēmi|",
+        "5|g1722|esv-thgnt-Pm-revint-slice-hqnp|P- --------|in|ἐν|en|ἐν|en|",
+        "6|g2962|esv-thgnt-Pm-revint-slice-hwxq|N- ----DSM-|Lord|κυρίῳ·|kyriō|κύριος|kyrios|",
+        "7|g373|esv-thgnt-Pm-revint-slice-hxyx|V- 2AAD-S--|Refresh|ἀνάπαυσόν|anapauson|ἀναπαύω|anapauō|",
+        "8|g1473|esv-thgnt-Pm-revint-slice-hyzr|RP ----GS--|my|μου|mou|ἐγώ|egō|",
+        "9|g3588|esv-thgnt-Pm-revint-slice-hz35|RA ----APN-|heart|τὰ|ta|ὁ|ho|",
+        "10|g4698|esv-thgnt-Pm-revint-slice-hz35|N- ----APN-|heart|σπλάγχνα|splanchna|σπλάγχνον|splanchnon|",
+        "11|g1722|esv-thgnt-Pm-revint-slice-h3p9|P- --------|in|ἐν|en|ἐν|en|",
+        "12|g5547|esv-thgnt-Pm-revint-slice-h4qg|N- ----DSM-|Christ|χριστῷ.|christō|Χριστός|Christos|"
+      ]
+    }
+  ],
+  "1:21": [
+    {
+      "o": 33540,
+      "r": "esvi:Philemon:1:21",
+      "p": [
+        "0|g3982|esv-thgnt-Pm-revint-slice-h5r7|V- -XAPNSM-|Confident|Πεποιθὼς|Pepoithōs|πείθω|peithō|",
+        "1|g3588|esv-thgnt-Pm-revint-slice-h8yz|RA ----DSF-|obedience|τῇ|tē|ὁ|ho|",
+        "2|g5218|esv-thgnt-Pm-revint-slice-h8yz|N- ----DSF-|obedience|ὑπακοῇ|hypakoē|ὑπακοή|hypakoē|",
+        "3|g4771|esv-thgnt-Pm-revint-slice-h7x7|RP ----GS--|your|σου|sou|σύ|sy|",
+        "4|g1125|esv-thgnt-Pm-revint-slice-hdq3|V- 1AAI-S--|write|ἔγραψά|egrapsa|γράφω|graphō|",
+        "5|g4771|esv-thgnt-Pm-revint-slice-hgxx|RP ----DS--|you|σοι|soi|σύ|sy|",
+        "6|g1492|esv-thgnt-Pm-revint-slice-hj3z|V- -XAPNSM-|knowing|εἰδὼς|eidōs|οἶδα|oida|",
+        "7|g3754|esv-thgnt-Pm-revint-slice-hkdy|C- --------|that|ὅτι|hoti|ὅτι|hoti|",
+        "8|g2532|esv-thgnt-Pm-revint-slice-hpjg|D- --------|even|καὶ|kai|καί|kai|",
+        "9|g5228|esv-thgnt-Pm-revint-slice-hqkp|P- --------|more than|ὑπὲρ|hyper|ὑπέρ|hyper|",
+        "10|g3739|esv-thgnt-Pm-revint-slice-hrmy|RR ----APN-|•|ἃ|ha|ὅς|hos|",
+        "11|g3004|esv-thgnt-Pm-revint-slice-hxwx|V- 1PAI-S--|say|λέγω|legō|λέγω|legō|",
+        "12|g4160|esv-thgnt-Pm-revint-slice-hokx|V- 2FAI-S--|do|ποιήσεις.|poiēseis|ποιέω|poieō|"
+      ]
+    }
+  ],
+  "1:22": [
+    {
+      "o": 33541,
+      "r": "esvi:Philemon:1:22",
+      "p": [
+        "0|g260|esv-thgnt-Pm-revint-slice-hyxr|D- --------|At the same time|ἅμα|hama|ἅμα|hama|",
+        "1|g1161|esv-thgnt-Pm-revint-slice-hyxr|X- --------|At the same time|δὲ|de|δέ|de|",
+        "2|g2532|esv-thgnt-Pm-revint-slice-hyxr|D- --------|At the same time|καὶ|kai|καί|kai|",
+        "3|g2090|esv-thgnt-Pm-revint-slice-hz95|V- 2PAD-S--|prepare|ἑτοίμαζέ|hetoimaze|ἑτοιμάζω|hetoimazō|",
+        "4|g1473|esv-thgnt-Pm-revint-slice-h5x7|RP ----DS--|me|μοι|moi|ἐγώ|egō|",
+        "5|g3578|esv-thgnt-Pm-revint-slice-h3r9|N- ----ASF-|a guest room|ξενίαν·|xenian|ξενία|xenia|",
+        "6|g1679|esv-thgnt-Pm-revint-slice-h949|V- 1PAI-S--|hoping|ἐλπίζω|elpizō|ἐλπίζω|elpizō|",
+        "7|g1063|esv-thgnt-Pm-revint-slice-h6ym|C- --------|for|γὰρ|gar|γάρ|gar|",
+        "8|g3754|esv-thgnt-Pm-revint-slice-hdp3|C- --------|that|ὅτι|hoti|ὅτι|hoti|",
+        "9|g1223|esv-thgnt-Pm-revint-slice-heq8|P- --------|through|διὰ|dia|διά|dia|",
+        "10|g3588|esv-thgnt-Pm-revint-slice-hjzz|RA ----GPF-|prayers|τῶν|tōn|ὁ|ho|",
+        "11|g4335|esv-thgnt-Pm-revint-slice-hjzz|N- ----GPF-|prayers|προσευχῶν|proseuchōn|προσευχή|proseuchē|",
+        "12|g4771|esv-thgnt-Pm-revint-slice-hgwx|RP ----GP--|your|ὑμῶν|hymōn|σύ|sy|",
+        "13|g5483|esv-thgnt-Pm-revint-slice-hogx|V- 1FPI-S--|graciously|χαρισθήσομαι|charisthēsomai|χαρίζομαι|charizomai|",
+        "14|g4771|esv-thgnt-Pm-revint-slice-hrgy|RP ----DP--|you|ὑμῖν.|hymin|σύ|sy|"
+      ]
+    },
+    {
+      "o": 33542,
+      "r": "esvi:Philemon:1:22",
+      "h": 2,
+      "t": "Final Greetings",
+      "p": []
+    }
+  ],
+  "1:23": [
+    {
+      "o": 33543,
+      "r": "esvi:Philemon:1:23",
+      "p": [
+        "0|g782|esv-thgnt-Pm-revint-slice-hn45|V- 3PMI-S--|greetings|Ἀσπάζεταί|Aspazetai|ἀσπάζομαι|aspazomai|",
+        "1|g4771|esv-thgnt-Pm-revint-slice-hpdk|RP ----AS--|you|σε|se|σύ|sy|",
+        "2|g1889|esv-thgnt-Pm-revint-slice-hw9q|N- ----NSM-|Epaphras|Ἐπαφρᾶς|Epaphras|Ἐπαφρᾶς|Epaphras|",
+        "3|g3588|esv-thgnt-Pm-revint-slice-heo4|RA ----NSM-|fellow prisoner|ὁ|ho|ὁ|ho|",
+        "4|g4869|esv-thgnt-Pm-revint-slice-heo4|N- ----NSM-|fellow prisoner|συναιχμάλωτός|synaichmalōtos|συναιχμάλωτος|synaichmalōtos|",
+        "5|g1473|esv-thgnt-Pm-revint-slice-hdny|RP ----GS--|my|μου|mou|ἐγώ|egō|",
+        "6|g1722|esv-thgnt-Pm-revint-slice-hgq6|P- --------|in|ἐν|en|ἐν|en|",
+        "7|g5547|esv-thgnt-Pm-revint-slice-hjx9|N- ----DSM-|Christ|χριστῷ|christō|Χριστός|Christos|",
+        "8|g2424|esv-thgnt-Pm-revint-slice-hkye|N- ----DSM-|Jesus|Ἰησοῦ,|Iēsou|Ἰησοῦς|Iēsous|"
+      ]
+    }
+  ],
+  "1:24": [
+    {
+      "o": 33544,
+      "r": "esvi:Philemon:1:24",
+      "p": [
+        "0|g3138|esv-thgnt-Pm-revint-slice-hxpy|N- ----NSM-|Mark|Μάρκος,|Markos|Μάρκος|Markos|",
+        "1|g708|esv-thgnt-Pm-revint-slice-hyqx|N- ----NSM-|Aristarchus|Ἀρίσταρχος,|Aristarchos|Ἀρίσταρχος|Aristarchos|",
+        "2|g1214|esv-thgnt-Pm-revint-slice-hzrr|N- ----NSM-|Demas|Δημᾶς,|Dēmas|Δημᾶς|Dēmas|",
+        "3|g3065|esv-thgnt-Pm-revint-slice-h4xy|N- ----NSM-|Luke|Λουκᾶς,|Loukas|Λουκᾶς|Loukas|",
+        "4|g3588|esv-thgnt-Pm-revint-slice-h649|RA ----NPM-|fellow workers|οἱ|hoi|ὁ|ho|",
+        "5|g4904|esv-thgnt-Pm-revint-slice-h649|A- ----NPM-|fellow workers|συνεργοί|synergoi|συνεργός|synergos|",
+        "6|g1473|esv-thgnt-Pm-revint-slice-h5ye|RP ----GS--|my|μου.|mou|ἐγώ|egō|"
+      ]
+    }
+  ],
+  "1:25": [
+    {
+      "o": 33545,
+      "r": "esvi:Philemon:1:25",
+      "p": [
+        "0|g3588|esv-thgnt-Pm-revint-slice-h75g|RA ----NSF-|The|ἡ|hē|ὁ|ho|",
+        "1|g5485|esv-thgnt-Pm-revint-slice-h86j|N- ----NSF-|grace|χάρις|charis|χάρις|charis|",
+        "2|g3588|esv-thgnt-Pm-revint-slice-hdmy|RA ----GSM-|the|τοῦ|tou|ὁ|ho|",
+        "3|g2962|esv-thgnt-Pm-revint-slice-hen4|N- ----GSM-|Lord|κυρίου|kyriou|κύριος|kyrios|",
+        "4|g2424|esv-thgnt-Pm-revint-slice-hgp6|N- ----GSM-|Jesus|Ἰησοῦ|Iēsou|Ἰησοῦς|Iēsous|",
+        "5|g5547|esv-thgnt-Pm-revint-slice-hjw9|N- ----GSM-|Christ|χριστοῦ|christou|Χριστός|Christos|",
+        "6|g3326|esv-thgnt-Pm-revint-slice-hmzw|P- --------|with|μετὰ|meta|μετά|meta|",
+        "7|g3588|esv-thgnt-Pm-revint-slice-ho4p|RA ----GSN-|spirit|τοῦ|tou|ὁ|ho|",
+        "8|g4151|esv-thgnt-Pm-revint-slice-ho4p|N- ----GSN-|spirit|πνεύματος|pneumatos|πνεῦμα|pneuma|",
+        "9|g4771|esv-thgnt-Pm-revint-slice-hn35|RP ----GP--|your|ὑμῶν.|hymōn|σύ|sy|"
+      ]
+    }
+  ]
+}

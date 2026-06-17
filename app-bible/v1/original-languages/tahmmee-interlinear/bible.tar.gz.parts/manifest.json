@@ -1,0 +1,25 @@
+{
+  "schema": "flockos.source-parts.v1",
+  "originalFile": "bible.tar.gz",
+  "originalBytes": 5559733,
+  "originalSha256": "4148eecd6971f649d4c2e88ee2b6943ae3119e26b6d05fee1fe1ef0907a46af9",
+  "chunkSize": 2097152,
+  "chunks": [
+    {
+      "file": "part-0001",
+      "bytes": 2097152,
+      "sha256": "448b382a68efa3b0cbb6c2523f8a87425f54428f94d1d8176ca84b3ff1d5a1cf"
+    },
+    {
+      "file": "part-0002",
+      "bytes": 2097152,
+      "sha256": "d2e5f5f06f2f590adfd8b991baccfb0aaec30658cfa1a122fd2242ca96acf57e"
+    },
+    {
+      "file": "part-0003",
+      "bytes": 1365429,
+      "sha256": "e00d76d346a0b13be8249f014d975418ad7f7f3b22b055d940c33bc6d259b1fd"
+    }
+  ],
+  "reassemble": "cat bible.tar.gz.parts/part-* > bible.tar.gz"
+}
